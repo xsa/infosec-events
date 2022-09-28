@@ -4,24 +4,24 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 ## Upcoming
 
-| Event Name | Date(s) | Location | Website | Twitter | Free
-| ---------- | ------- | -------- | ------- | ------- | :--------:
-| DEF CON 31 | Aug 10-13, 2023 | Las Vegas, US | https://defcon.org/ | [@defcon](https://twitter.com/defcon) | N
-| Black Hat Asia | May 9-12, 2023 | Singapore | https://www.blackhat.com | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| Global Cyber Conference #GCC23 | Sep 14-15, 2023 | Zurich, Switzerland | https://swisscyberinstitute.com/conference/ | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
-| Black Hat Europe | Dec 5-8, 2022 | London, UK | https://www.blackhat.com/eu-22/ | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| Black Hat MEA | Nov 15-17, 2022 | Riyadh, Saudi Arabia | https://blackhatmea.com/ | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| Black Alps | Nov 15-16, 2022 | Yverdon, Switzerland | https://blackalps.ch | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
-| Zero-Day Conference | Oct 20, 2022 | Geneva, Switzerland | https://zero-day.ch | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
+| Event Name | Date(s) | Location | Twitter | Free
+| ---------- | ------- | -------- | ------- | :--------:
+| [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas, US | [@defcon](https://twitter.com/defcon) | N
+| [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [Global Cyber Conference #GCC23](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich, Switzerland | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
+| [Black Hat Europe](https://www.blackhat.com/eu-22/ ) | Dec 5-8, 2022 | London, UK | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [Black Hat MEA](https://blackhatmea.com/) | Nov 15-17, 2022 | Riyadh, Saudi Arabia | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon, Switzerland | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
+| [Zero-Day Conference](https://zero-day.ch) | Oct 20, 2022 | Geneva, Switzerland | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 
 ## Past
 
-| Event Name | Date(s) | Location | Website | Twitter | Free
-| ---------- | ------- | -------- | ------- | ------- | :--------:
-| BruCon | Sep 29-30, 2022 | Mechelen, Belgium | https://www.brucon.org/2022/ | [@BruCon](https://twitter.com/BruCon) | N
-| International Cyber Expo | Sep 27-28, 2022 | London, UK | https://www.internationalcyberexpo.com | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration. Fee on-site.
-| Texas Cyber Summit | Sep 22-24, 2022 | Austin (TX), US | https://texascyber.com/ | [@TexasCyber](https://twitter.com/texascyber) | N
-| Global Cyber Conference #GCC22 | Sep 22-23, 2022| Zurich, Switzerland | https://swisscyberinstitute.com/conference/ | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
-| BSides Zurich | Sep 17, 2022 | Zurich, Switzerland | https://bsideszh.ch/ | [@BSidesZurich](https://twitter.com/BsidesZurich) | CHF 10
-| DEF CON 30 | Aug 11-14, 2022 | Las Vegas, US | https://defcon.org/ | [@defcon](https://twitter.com/defcon) | N
-| Black Hat USA | Aug 6-11, 2022 | Last Vegas, US | https://www.blackhat.com/us-22/ | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| Event Name | Date(s) | Location | Twitter | Free
+| ---------- | ------- | -------- | ------- | :--------:
+| [BruCon](https://www.brucon.org/2022/ ) | Sep 29-30, 2022 | Mechelen, Belgium | [@BruCon](https://twitter.com/BruCon) | N
+| [International Cyber Expo](https://www.internationalcyberexpo.com) | Sep 27-28, 2022 | London, UK | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration. Fee on-site.
+| [Texas Cyber Summit](https://texascyber.com/) | Sep 22-24, 2022 | Austin (TX), US | [@TexasCyber](https://twitter.com/texascyber) | N
+| [Global Cyber Conference #GCC22](https://swisscyberinstitute.com/conference/) | Sep 22-23, 2022| Zurich, Switzerland | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
+| [BSides Zurich](https://bsideszh.ch/) | Sep 17, 2022 | Zurich, Switzerland | [@BSidesZurich](https://twitter.com/BsidesZurich) | CHF 10
+| [DEF CON 30](https://defcon.org/) | Aug 11-14, 2022 | Las Vegas, US | [@defcon](https://twitter.com/defcon) | N
+| [Black Hat USA](https://www.blackhat.com/us-22/) | Aug 6-11, 2022 | Last Vegas, US | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
