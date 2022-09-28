@@ -19,7 +19,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [BruCon](https://www.brucon.org/2022/ ) | Sep 29-30, 2022 | Mechelen, Belgium | [@BruCon](https://twitter.com/BruCon) | N
-| [International Cyber Expo](https://www.internationalcyberexpo.com) | Sep 27-28, 2022 | London, UK | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration. Fee on-site.
+| [International Cyber Expo](https://www.internationalcyberexpo.com) | Sep 27-28, 2022 | London, UK | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration.<br/>Fee on-site.
 | [Texas Cyber Summit](https://texascyber.com/) | Sep 22-24, 2022 | Austin (TX), US | [@TexasCyber](https://twitter.com/texascyber) | N
 | [Global Cyber Conference #GCC22](https://swisscyberinstitute.com/conference/) | Sep 22-23, 2022| Zurich, Switzerland | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [BSides Zurich](https://bsideszh.ch/) | Sep 17, 2022 | Zurich, Switzerland | [@BSidesZurich](https://twitter.com/BsidesZurich) | CHF 10
