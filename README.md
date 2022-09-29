@@ -54,4 +54,5 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Prishtina](https://www.bsidesprishtina.org/) | Apr 30, 2022 | Prishtina :kosovo: | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 27-29, 2022 | Nantes :fr: | [@botconf](http://www.twitter.com/Botconf) | N
 | [BSides Dublin](https://www.bsidesdub.ie/) | Mar 19, 2022 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
+| [RootedCON](https://www.rootedcon.com/) | Mar 10-12, 2022 | Madrid :es: | [@rootedcon](https://twitter.com/rootedcon) | N
 | [Offensive Security Conference](https://www.offensivecon.org/) | Feb 4-5, 2022 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
