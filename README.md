@@ -40,6 +40,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin, Ireland | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg)
 | [Area41](https://area41.io/) | Jun 16-17, 2022 | Zurich, Switzerland |  [@a41con](https://twitter.com/a41con) | N
 | [BSides Munich](https://2022.bsidesmunich.org/) | May 16, 2022 | Munich, Germany | [@BSidesMunich](https://twitter.com/bsidesmunich) | Y
+| [BSides Seattle](https://www.bsidesseattle.com/) | May 14, 2022 | Seattle (WA), US | [@BSidesSeattle](https://twitter.com/bsidesseattle) | N
 | [Wild West Hackin' Fest: Way West](https://wildwesthackinfest.com/way-west/) | May 4-6, 2022 | San Diego (CA), US | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
 | [BSides Prishtina](https://www.bsidesprishtina.org/) | Apr 30, 2022 | Prishtina, Kosovo | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 27-29, 2022 | Nantes, France | [@botconf](http://www.twitter.com/Botconf) | N
