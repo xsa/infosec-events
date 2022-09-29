@@ -37,7 +37,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [DEF CON 30](https://defcon.org/) | Aug 11-14, 2022 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [BSides Las Vegas](https://bsideslv.org/) | Aug 9-10, 2022 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [Black Hat USA](https://www.blackhat.com/us-22/) | Aug 6-11, 2022 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg)
+| [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | N
 | [Area41](https://area41.io/) | Jun 16-17, 2022 | Zurich :switzerland: |  [@a41con](https://twitter.com/a41con) | N
 | [BSides Munich](https://2022.bsidesmunich.org/) | May 16, 2022 | Munich :de: | [@BSidesMunich](https://twitter.com/bsidesmunich) | Y
 | [BSides Seattle](https://www.bsidesseattle.com/) | May 14, 2022 | Seattle (WA) :us: | [@BSidesSeattle](https://twitter.com/bsidesseattle) | N
