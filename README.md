@@ -38,6 +38,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Singapore](https://bsidessg.org/) | Sep 22-23, 2022 | Virtual :computer: | [@BSidesSG](https://twitter.com/BSidesSG) | Y
 | [BSides Tallinn](https://tallinn.bsides.ee/) | Sep 22, 2022 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N<br/>(Student Get-In-Free Program)
 | [BSides Zurich](https://bsideszh.ch/) | Sep 17, 2022 | Zurich :switzerland: | [@BSidesZurich](https://twitter.com/BsidesZurich) | CHF 10
+| [BSides Nairobi](https://bsidesnairobi.ke/) | Sep 16-17, 2022 | Nairobi :kenya: | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
 | [BSides Melbourne](https://www.bsidesmelbourne.com) | Sep 9-11, 2022 | Melbourne :australia: | [@BSidesMelbourne](https://twitter.com/bsidesmelbourne) | N
 | [DEF CON 30](https://defcon.org/) | Aug 11-14, 2022 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [BSides Las Vegas](https://bsideslv.org/) | Aug 9-10, 2022 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
@@ -45,6 +46,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Dundee](https://www.bsidesdundee.org.uk/) | Aug 6, 2022 | Dundee :scotland: | [@DundeeSides](https://twitter.com/DundeeSides) | N
 | [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | N
 | [Area41](https://area41.io/) | Jun 16-17, 2022 | Zurich :switzerland: |  [@a41con](https://twitter.com/a41con) | N
+| [BSides Cayman Islands](https://bsides.ky) | May 26, 2022 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
 | [BSides Munich](https://2022.bsidesmunich.org/) | May 16, 2022 | Munich :de: | [@BSidesMunich](https://twitter.com/bsidesmunich) | Y
 | [BSides Seattle](https://www.bsidesseattle.com/) | May 14, 2022 | Seattle (WA) :us: | [@BSidesSeattle](https://twitter.com/bsidesseattle) | N
 | [Wild West Hackin' Fest: Way West](https://wildwesthackinfest.com/way-west/) | May 4-6, 2022 | San Diego (CA) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
