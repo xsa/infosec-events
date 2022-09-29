@@ -7,6 +7,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV), US | [@defcon](https://twitter.com/defcon) | N
+| [BSides Dublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin, Ireland | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Global Cyber Conference #GCC23](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich, Switzerland | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg, France | [@botconf](http://www.twitter.com/Botconf) | N
@@ -24,8 +25,13 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [International Cyber Expo](https://www.internationalcyberexpo.com) | Sep 27-28, 2022 | London, UK | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration.<br/>Fee on-site.
 | [Texas Cyber Summit](https://texascyber.com/) | Sep 22-24, 2022 | Austin (TX), US | [@TexasCyber](https://twitter.com/texascyber) | N
 | [Global Cyber Conference #GCC22](https://swisscyberinstitute.com/conference/) | Sep 22-23, 2022| Zurich, Switzerland | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
+| [BSides Singapore](https://bsidessg.org/) | Sep 22-23, 2022 | Virtual | [@BSidesSG](https://twitter.com/BSidesSG) | Y
 | [BSides Tallinn](https://tallinn.bsides.ee/) | Sep 22, 2022 | Tallinn, Estonia | [@bsidestll](https://twitter.com/bsidestll) | N<br/>(Student Get-In-Free Program though)
 | [BSides Zurich](https://bsideszh.ch/) | Sep 17, 2022 | Zurich, Switzerland | [@BSidesZurich](https://twitter.com/BsidesZurich) | CHF 10
 | [DEF CON 30](https://defcon.org/) | Aug 11-14, 2022 | Las Vegas (NV), US | [@defcon](https://twitter.com/defcon) | N
 | [Black Hat USA](https://www.blackhat.com/us-22/) | Aug 6-11, 2022 | Last Vegas (NV), US | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [BSides Munich](https://2022.bsidesmunich.org/) | May 16, 2022 | Munich, Germany | [@BSidesMunich](https://twitter.com/bsidesmunich) | Y
+| [BSides Prishtina](https://www.bsidesprishtina.org/) | Apr 30, 2022 | Prishtina, Kosovo | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 27-29, 2022 | Nantes, France | [@botconf](http://www.twitter.com/Botconf) | N
+| [BSides Dublin](https://www.bsidesdub.ie/) | Mar 19, 2022 | Dublin, Ireland | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
+| [Offensive Security Conference](https://www.offensivecon.org/) | Feb 4-5, 2022 | Berlin, Germany | [@offensive_con](https://twitter.com/offensive_con) | N
