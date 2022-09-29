@@ -15,12 +15,15 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [ShmooCon](https://shmoocon.org/) | Jan 20-22, 2023 | Washington (DC) :us: | [@ShmooCon](https://twitter.com/shmoocon/) | N
 | [BSides London](https://www.securitybsides.org.uk/) | Dec 10, 2022 | London :uk: | [@BSidesLondon](https://twitter.com/BSidesLondon) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-22/ ) | Dec 5-8, 2022 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [BSides Cape Town](https://bsidescapetown.co.za/) | Dec 3, 2022 | Cape Town :south_africa: | [@BSidesCapeTown](https://twitter.com/BSidesCapeTown) | N
 | [BSides Austin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
 | [Black Hat MEA](https://blackhatmea.com/) | Nov 15-17, 2022 | Riyadh :saudi_arabia:| [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
+| [BSides Varanasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 4-5, 2022 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 25, 2022 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
+| [BSides Calgary](https://www.bsidescalgary.org) | Oct 20-21, 2022 | Calgary :canada:<br/>Virtual :computer: | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 20, 2022 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 12-14, 2022 | Deadwood (SD) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
 
@@ -35,9 +38,11 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Singapore](https://bsidessg.org/) | Sep 22-23, 2022 | Virtual :computer: | [@BSidesSG](https://twitter.com/BSidesSG) | Y
 | [BSides Tallinn](https://tallinn.bsides.ee/) | Sep 22, 2022 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N<br/>(Student Get-In-Free Program)
 | [BSides Zurich](https://bsideszh.ch/) | Sep 17, 2022 | Zurich :switzerland: | [@BSidesZurich](https://twitter.com/BsidesZurich) | CHF 10
+| [BSides Melbourne](https://www.bsidesmelbourne.com) | Sep 9-11, 2022 | Melbourne :australia: | [@BSidesMelbourne](https://twitter.com/bsidesmelbourne) | N
 | [DEF CON 30](https://defcon.org/) | Aug 11-14, 2022 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [BSides Las Vegas](https://bsideslv.org/) | Aug 9-10, 2022 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [Black Hat USA](https://www.blackhat.com/us-22/) | Aug 6-11, 2022 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [BSides Dundee](https://www.bsidesdundee.org.uk/) | Aug 6, 2022 | Dundee :scotland: | [@DundeeSides](https://twitter.com/DundeeSides) | N
 | [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | N
 | [Area41](https://area41.io/) | Jun 16-17, 2022 | Zurich :switzerland: |  [@a41con](https://twitter.com/a41con) | N
 | [BSides Munich](https://2022.bsidesmunich.org/) | May 16, 2022 | Munich :de: | [@BSidesMunich](https://twitter.com/bsidesmunich) | Y
