@@ -30,6 +30,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
 | [BSidesVaranasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 4-5, 2022 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
+| [BSidesOttawa](https://bsidesottawa.ca/) | Oct 28-29, 2022 | Ottawa :canada: | [@BSidesOttawa](https://twitter.com/BSidesOttawa) | Y
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 25, 2022 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [BSidesCalgary](https://www.bsidescalgary.org) | Oct 20-21, 2022 | Calgary :canada:<br/>Virtual :computer: | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 20, 2022 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
