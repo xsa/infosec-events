@@ -7,6 +7,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
+| [BSides Athens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [BSides Dublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
@@ -49,6 +50,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Dundee](https://www.bsidesdundee.org.uk/) | Aug 6, 2022 | Dundee :scotland: | [@DundeeSides](https://twitter.com/DundeeSides) | N
 | [BSides Vitória](http://bsides.vix.br/) | Jul 30, 2022 | Vitória :brazil: | [@BSidesVitoria](https://twitter.com/bsidesvitoria) | N
 | [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | N
+| [BSides Athens](https://2022.bsidesath.gr/) | Jun 25, 2022 | Virtual :computer: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [Area41](https://area41.io/) | Jun 16-17, 2022 | Zurich :switzerland: |  [@a41con](https://twitter.com/a41con) | N
 | [BSides Cayman Islands](https://bsides.ky) | May 26, 2022 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
 | [BSides Munich](https://2022.bsidesmunich.org/) | May 16, 2022 | Munich :de: | [@BSidesMunich](https://twitter.com/bsidesmunich) | Y
