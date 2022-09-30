@@ -34,6 +34,8 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | ---------- | ------- | -------- | ------- | :--------:
 | [BruCon](https://www.brucon.org/2022/ ) | Sep 29-30, 2022 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
 | [International Cyber Expo](https://www.internationalcyberexpo.com) | Sep 27-28, 2022 | London :uk: | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration.<br/>Fee on-site.
+| [BSides João Pessoa](https://www.bsidesjp.com.br/) | Sep 24, 2022 | João Pessoa :brazil: | [@BSidesJP](https://twitter.com/BSidesJP) | N
+| [BSides Perú](https://bsidesperu.org/) | Sep 24, 2022 | Lima :peru: | [@BSidesPe](https://twitter.com/BSidesPe) | Y
 | [Texas Cyber Summit](https://texascyber.com/) | Sep 22-24, 2022 | Austin (TX) :us: | [@TexasCyber](https://twitter.com/texascyber) | N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 22-23, 2022| Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [BSides Singapore](https://bsidessg.org/) | Sep 22-23, 2022 | Virtual :computer: | [@BSidesSG](https://twitter.com/BSidesSG) | Y
@@ -45,6 +47,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Las Vegas](https://bsideslv.org/) | Aug 9-10, 2022 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [Black Hat USA](https://www.blackhat.com/us-22/) | Aug 6-11, 2022 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSides Dundee](https://www.bsidesdundee.org.uk/) | Aug 6, 2022 | Dundee :scotland: | [@DundeeSides](https://twitter.com/DundeeSides) | N
+| [BSides Vitória](http://bsides.vix.br/) | Jul 30, 2022 | Vitória :brazil: | [@BSidesVitoria](https://twitter.com/bsidesvitoria) | N
 | [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | N
 | [Area41](https://area41.io/) | Jun 16-17, 2022 | Zurich :switzerland: |  [@a41con](https://twitter.com/a41con) | N
 | [BSides Cayman Islands](https://bsides.ky) | May 26, 2022 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
