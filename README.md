@@ -32,6 +32,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Calgary](https://www.bsidescalgary.org) | Oct 20-21, 2022 | Calgary :canada:<br/>Virtual :computer: | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 20, 2022 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 12-14, 2022 | Deadwood (SD) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
+[BSides København]() | Oct 8, 2022 | Copenhagen :denmark: | [@BSidesKBH](https://twitter.com/bsideskbh) | N
 
 ## Past
 
