@@ -51,6 +51,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Zurich](https://bsideszh.ch/) | Sep 17, 2022 | Zurich :switzerland: | [@BSidesZurich](https://twitter.com/BsidesZurich) | CHF 10
 | [BSides Nairobi](https://bsidesnairobi.ke/) | Sep 16-17, 2022 | Nairobi :kenya: | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
 | [BSides Varzdin](https://bsidesvarazdin.org/) | Sep 16, 2022 | Varaždin :croatia: | [@BSidesVarzdin](https://twitter.com/bsidesvarazdin) | Y
+| [BSides BDX](https://www.bsidesbdx.org/) | Sep 10, 2022 | Bordeaux :fr: | [@BSidesBDX](https://twitter.com/BSidesBDX) | Y
 | [BSides Melbourne](https://www.bsidesmelbourne.com) | Sep 9-11, 2022 | Melbourne :australia: | [@BSidesMelbourne](https://twitter.com/bsidesmelbourne) | N
 | [DEF CON 30](https://defcon.org/) | Aug 11-14, 2022 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [BSides Las Vegas](https://bsideslv.org/) | Aug 9-10, 2022 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
