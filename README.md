@@ -14,6 +14,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides San Francisco](https://bsidessf.org/) | Apr 22-23, 2023 | San Francisco (CA) :us: | [@BSidesSF](https://twitter.com/BSidesSF) | 
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
 | [BSides Cayman Islands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
+| [BSides Roma](https://www.bsidesroma.it/) | Jan 21-22, 2023 | Rome :it: | [@BSidesRoma](https://twitter.com/BSidesRoma) | N
 | [ShmooCon](https://shmoocon.org/) | Jan 20-22, 2023 | Washington (DC) :us: | [@ShmooCon](https://twitter.com/shmoocon/) | N
 | [BSides London](https://www.securitybsides.org.uk/) | Dec 10, 2022 | London :uk: | [@BSidesLondon](https://twitter.com/BSidesLondon) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-22/ ) | Dec 5-8, 2022 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
