@@ -24,6 +24,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSides Vienna](https://bsidesvienna.at/) | Nov 19, 2022 | Vienna :austria: | [@BSidesVienna](https://twitter.com/BSidesVienna) | N
 | [Black Hat MEA](https://blackhatmea.com/) | Nov 15-17, 2022 | Riyadh :saudi_arabia:| [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
+| [BSides Lisbon](https://bsideslisbon.org/) | Nov 10-11, 2022 | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
 | [BSides Varanasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 4-5, 2022 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
