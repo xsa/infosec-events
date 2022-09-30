@@ -25,6 +25,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesAustin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
 | [BSidesBerlin](https://bsides.berlin/) | Nov 26, 2022 | Berlin :de: | [@SidesBer](https://twitter.com/sidesber) | N
 | [BSidesVienna](https://bsidesvienna.at/) | Nov 19, 2022 | Vienna :austria: | [@BSidesVienna](https://twitter.com/BSidesVienna) | N
+| [GreHack](https://grehack.fr/2022/) | Nov 18, 2022 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Black Hat MEA](https://blackhatmea.com/) | Nov 15-17, 2022 | Riyadh :saudi_arabia:| [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [BSidesLisbon](https://bsideslisbon.org/) | Nov 10-11, 2022 | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | N
@@ -36,6 +37,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesGoldCoast](https://bsidesgoldie.com/) | Oct 22, 2022 | Southport :australia: | [@BSidesGC](https://twitter.com/bsidesgc) | Y
 | [BSidesCalgary](https://www.bsidescalgary.org) | Oct 20-21, 2022 | Calgary :canada:<br/>Virtual :computer: | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 20, 2022 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
+| [Hexacon](https://www.hexacon.fr/) | Oct 14-15, 2022 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 12-14, 2022 | Deadwood (SD) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Oct 8, 2022 | Copenhagen :denmark: | [@BSidesKBH](https://twitter.com/bsideskbh) | N
 | [BSidesAhmedabad](https://bsidesahmedabad.in/2022/) | Oct 1, 2022 | Ahmedabad :india: | [@BSidesAhmedabad](https://twitter.com/bsidesahmedabad) | N
