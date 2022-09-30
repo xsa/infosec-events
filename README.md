@@ -7,6 +7,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
+| [BSides Las Vegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [BSides Athens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [BSides Dublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
