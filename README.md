@@ -43,6 +43,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [International Cyber Expo](https://www.internationalcyberexpo.com) | Sep 27-28, 2022 | London :uk: | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration.<br/>Fee on-site.
 | [BSides João Pessoa](https://www.bsidesjp.com.br/) | Sep 24, 2022 | João Pessoa :brazil: | [@BSidesJP](https://twitter.com/BSidesJP) | N
 | [BSides Perú](https://bsidesperu.org/) | Sep 24, 2022 | Lima :peru: | [@BSidesPe](https://twitter.com/BSidesPe) | Y
+| [BSides Kraków](https://bsideskrakow.pl/) | Sep 24, 2022 | Kraków :poland: | [@BSidesKrakow](https://twitter.com/bsideskrakow) | Y
 | [Texas Cyber Summit](https://texascyber.com/) | Sep 22-24, 2022 | Austin (TX) :us: | [@TexasCyber](https://twitter.com/texascyber) | N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 22-23, 2022| Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [BSides Singapore](https://bsidessg.org/) | Sep 22-23, 2022 | Virtual :computer: | [@BSidesSG](https://twitter.com/BSidesSG) | Y
