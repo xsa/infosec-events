@@ -71,6 +71,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesTLV](https://bsidestlv.com/) | Jun 30, 2022 | Tel Aviv :israel: | [@BSidesTLV](https://twitter.com/@BSidesTLV) | Y
 | [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | N
 | [BSidesAthens](https://2022.bsidesath.gr/) | Jun 25, 2022 | Virtual :computer: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
+| [BSidesCairo](https://www.bsidescairo.com/) | Jun 24-25, 2022 | Cairo :egypt: | [@BSidesCairo](https://twitter.com/BSidesCairo) | Y
 | [Area41](https://area41.io/) | Jun 16-17, 2022 | Zurich :switzerland: |  [@a41con](https://twitter.com/a41con) | N
 | [BSidesCaymanIslands](https://bsides.ky) | May 26, 2022 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
 | [BSidesMunich](https://2022.bsidesmunich.org/) | May 16, 2022 | Munich :de: | [@BSidesMunich](https://twitter.com/bsidesmunich) | Y
