@@ -26,7 +26,10 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesCapeTown](https://bsidescapetown.co.za/) | Dec 3, 2022 | Cape Town :south_africa: | [@BSidesCapeTown](https://twitter.com/BSidesCapeTown) | N
 | [BSidesAustin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
 | [BSidesBerlin](https://bsides.berlin/) | Nov 26, 2022 | Berlin :de: | [@SidesBer](https://twitter.com/sidesber) | N
+| [BSidesDayton](https://bsidesdayton.com/) | Nov 19, 2022 | Kettering (OH) :us: | [@BSidesDayton](https://twitter.com/BSidesDayton) | N
+| [BSidesCHS](https://www.bsidescharleston.org) | Nov 19, 2022 | Charleston (SC) :us:| [@BSidesCHS](https://twitter.com/BSidesCHS) | N
 | [BSidesVienna](https://bsidesvienna.at/) | Nov 19, 2022 | Vienna :austria: | [@BSidesVienna](https://twitter.com/BSidesVienna) | N
+| [BSidesOrlando]() | Nov 18-19, 2022 | Orlando (FL) :us: | [@BSidesORL](https://twitter.com/BSidesORL)| N
 | [GreHack](https://grehack.fr/2022/) | Nov 18, 2022 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Black Hat MEA](https://blackhatmea.com/) | Nov 15-17, 2022 | Riyadh :saudi_arabia:| [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
