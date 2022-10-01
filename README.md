@@ -11,10 +11,12 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
+| [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [BSidesSanFrancisco](https://bsidessf.org/) | Apr 22-23, 2023 | San Francisco (CA) :us: | [@BSidesSF](https://twitter.com/BSidesSF) | 
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
+| [BSidesOK](https://bsidesok.com/) | Apr 5-7, 2023 | Glenpool (OK) :us:| [BSidesOK](https://twitter.com/BSidesOK) | Y
 | [BSidesCaymanIslands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
 | [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [BSidesCymru](https://twitter.com/BSidesCymru) | 
 | [BSidesRoma](https://www.bsidesroma.it/) | Jan 21-22, 2023 | Rome :it: | [@BSidesRoma](https://twitter.com/BSidesRoma) | N
@@ -79,6 +81,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Wild West Hackin' Fest: Way West](https://wildwesthackinfest.com/way-west/) | May 4-6, 2022 | San Diego (CA) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
 | [BSidesPrishtina](https://www.bsidesprishtina.org/) | Apr 30, 2022 | Prishtina :kosovo: | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 27-29, 2022 | Nantes :fr: | [@botconf](http://www.twitter.com/Botconf) | N
+| [BSidesOK](https://bsidesok.com/) | Apr 7-8, 2022 | Glenpool (OK) :us:| [BSidesOK](https://twitter.com/BSidesOK) | Y
 | [BSidesDublin](https://www.bsidesdub.ie/) | Mar 19, 2022 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [RootedCON](https://www.rootedcon.com/) | Mar 10-12, 2022 | Madrid :es: | [@rootedcon](https://twitter.com/rootedcon) | N
 | [Offensive Security Conference](https://www.offensivecon.org/) | Feb 4-5, 2022 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
