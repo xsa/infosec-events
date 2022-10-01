@@ -67,6 +67,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Black Hat USA](https://www.blackhat.com/us-22/) | Aug 6-11, 2022 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesDundee](https://www.bsidesdundee.org.uk/) | Aug 6, 2022 | Dundee :scotland: | [@DundeeSides](https://twitter.com/DundeeSides) | N
 | [BSidesVitória](http://bsides.vix.br/) | Jul 30, 2022 | Vitória :brazil: | [@BSidesVitoria](https://twitter.com/bsidesvitoria) | N
+| [BSidesBrisbane](https://bsidesbrisbane.com/) | Jul 16, 2022 | Brisbane :australia: | [@bsides_bne](https://twitter.com/bsides_bne) | N
 | [BSidesTLV](https://bsidestlv.com/) | Jun 30, 2022 | Tel Aviv :israel: | [@BSidesTLV](https://twitter.com/@BSidesTLV) | Y
 | [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | N
 | [BSidesAthens](https://2022.bsidesath.gr/) | Jun 25, 2022 | Virtual :computer: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
