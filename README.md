@@ -48,43 +48,4 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 ## Past
 
-| Event Name | Date(s) | Location | Twitter | Free
-| ---------- | ------- | -------- | ------- | :--------:
-| [BSidesAhmedabad](https://bsidesahmedabad.in/2022/) | Oct 1, 2022 | Ahmedabad :india: | [@BSidesAhmedabad](https://twitter.com/bsidesahmedabad) | N
-| [BruCon](https://www.brucon.org/2022/ ) | Sep 29-30, 2022 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
-| [International Cyber Expo](https://www.internationalcyberexpo.com) | Sep 27-28, 2022 | London :uk: | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration.<br/>Fee on-site.
-| [BSidesJoãoPessoa](https://www.bsidesjp.com.br/) | Sep 24, 2022 | João Pessoa :brazil: | [@BSidesJP](https://twitter.com/BSidesJP) | N
-| [BSidesPerú](https://bsidesperu.org/) | Sep 24, 2022 | Lima :peru: | [@BSidesPe](https://twitter.com/BSidesPe) | Y
-| [BSidesKraków](https://bsideskrakow.pl/) | Sep 24, 2022 | Kraków :poland: | [@BSidesKrakow](https://twitter.com/bsideskrakow) | Y
-| [Texas Cyber Summit](https://texascyber.com/) | Sep 22-24, 2022 | Austin (TX) :us: | [@TexasCyber](https://twitter.com/texascyber) | N
-| [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 22-23, 2022| Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
-| [BSidesSingapore](https://bsidessg.org/) | Sep 22-23, 2022 | Virtual :computer: | [@BSidesSG](https://twitter.com/BSidesSG) | Y
-| [BSidesTallinn](https://tallinn.bsides.ee/) | Sep 22, 2022 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N<br/>(Student Get-In-Free Program)
-| [BSidesZurich](https://bsideszh.ch/) | Sep 17, 2022 | Zurich :switzerland: | [@BSidesZurich](https://twitter.com/BsidesZurich) | CHF 10
-| [BSidesNairobi](https://bsidesnairobi.ke/) | Sep 16-17, 2022 | Nairobi :kenya: | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
-| [BSidesVarzdin](https://bsidesvarazdin.org/) | Sep 16, 2022 | Varaždin :croatia: | [@BSidesVarzdin](https://twitter.com/bsidesvarazdin) | Y
-| [BSidesStJohns](https://www.bsidesstjohns.com/) | Sep 15, 2022 | St. John’s :canada: | [@BSidesStJohns](https://twitter.com/BSIdesStJohns)
-| [BSidesMTL](https://bsidesmtl.ca/) | Sep 10, 2022 | Montreal :canada: | [@BSidesMontreal](https://twitter.com/BSidesMontreal) | N
-| [BSidesBDX](https://www.bsidesbdx.org/) | Sep 10, 2022 | Bordeaux :fr: | [@BSidesBDX](https://twitter.com/BSidesBDX) | Y
-| [BSidesMelbourne](https://www.bsidesmelbourne.com) | Sep 9-11, 2022 | Melbourne :australia: | [@BSidesMelbourne](https://twitter.com/bsidesmelbourne) | N
-| [DEF CON 30](https://defcon.org/) | Aug 11-14, 2022 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
-| [BSidesLasVegas](https://bsideslv.org/) | Aug 9-10, 2022 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
-| [Black Hat USA](https://www.blackhat.com/us-22/) | Aug 6-11, 2022 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [BSidesDundee](https://www.bsidesdundee.org.uk/) | Aug 6, 2022 | Dundee :scotland: | [@DundeeSides](https://twitter.com/DundeeSides) | N
-| [BSidesVitória](http://bsides.vix.br/) | Jul 30, 2022 | Vitória :brazil: | [@BSidesVitoria](https://twitter.com/bsidesvitoria) | N
-| [BSidesBrisbane](https://bsidesbrisbane.com/) | Jul 16, 2022 | Brisbane :australia: | [@bsides_bne](https://twitter.com/bsides_bne) | N
-| [BSidesTLV](https://bsidestlv.com/) | Jun 30, 2022 | Tel Aviv :israel: | [@BSidesTLV](https://twitter.com/@BSidesTLV) | Y
-| [FIRST Conference](https://www.first.org/conference/2022/) | Jun 26-Jul 1, 2022 | Dublin :ireland: | [@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | N
-| [BSidesAthens](https://2022.bsidesath.gr/) | Jun 25, 2022 | Virtual :computer: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
-| [BSidesCairo](https://www.bsidescairo.com/) | Jun 24-25, 2022 | Cairo :egypt: | [@BSidesCairo](https://twitter.com/BSidesCairo) | Y
-| [Area41](https://area41.io/) | Jun 16-17, 2022 | Zurich :switzerland: |  [@a41con](https://twitter.com/a41con) | N
-| [BSidesCaymanIslands](https://bsides.ky) | May 26, 2022 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
-| [BSidesMunich](https://2022.bsidesmunich.org/) | May 16, 2022 | Munich :de: | [@BSidesMunich](https://twitter.com/bsidesmunich) | Y
-| [BSidesSeattle](https://www.bsidesseattle.com/) | May 14, 2022 | Seattle (WA) :us: | [@BSidesSeattle](https://twitter.com/bsidesseattle) | N
-| [Wild West Hackin' Fest: Way West](https://wildwesthackinfest.com/way-west/) | May 4-6, 2022 | San Diego (CA) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
-| [BSidesPrishtina](https://www.bsidesprishtina.org/) | Apr 30, 2022 | Prishtina :kosovo: | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
-| [Botconf](https://www.botconf.eu/) | Apr 27-29, 2022 | Nantes :fr: | [@botconf](http://www.twitter.com/Botconf) | N
-| [BSidesOK](https://bsidesok.com/) | Apr 7-8, 2022 | Glenpool (OK) :us:| [BSidesOK](https://twitter.com/BSidesOK) | Y
-| [BSidesDublin](https://www.bsidesdub.ie/) | Mar 19, 2022 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
-| [RootedCON](https://www.rootedcon.com/) | Mar 10-12, 2022 | Madrid :es: | [@rootedcon](https://twitter.com/rootedcon) | N
-| [Offensive Security Conference](https://www.offensivecon.org/) | Feb 4-5, 2022 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
+- [2022](./2022.md)
