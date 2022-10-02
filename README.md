@@ -45,12 +45,12 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Hexacon](https://www.hexacon.fr/) | Oct 14-15, 2022 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 12-14, 2022 | Deadwood (SD) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Oct 8, 2022 | Copenhagen :denmark: | [@BSidesKBH](https://twitter.com/bsideskbh) | N
-| [BSidesAhmedabad](https://bsidesahmedabad.in/2022/) | Oct 1, 2022 | Ahmedabad :india: | [@BSidesAhmedabad](https://twitter.com/bsidesahmedabad) | N
 
 ## Past
 
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
+| [BSidesAhmedabad](https://bsidesahmedabad.in/2022/) | Oct 1, 2022 | Ahmedabad :india: | [@BSidesAhmedabad](https://twitter.com/bsidesahmedabad) | N
 | [BruCon](https://www.brucon.org/2022/ ) | Sep 29-30, 2022 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
 | [International Cyber Expo](https://www.internationalcyberexpo.com) | Sep 27-28, 2022 | London :uk: | [@IntCyberExpo](https://twitter.com/IntCyberExpo) | Free online pre-registration.<br/>Fee on-site.
 | [BSidesJoãoPessoa](https://www.bsidesjp.com.br/) | Sep 24, 2022 | João Pessoa :brazil: | [@BSidesJP](https://twitter.com/BSidesJP) | N
