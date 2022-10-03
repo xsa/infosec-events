@@ -35,7 +35,8 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [BSidesLisbon](https://bsideslisbon.org/) | Nov 10-11, 2022 | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
-| [BSidesVaranasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
+| [BSidesDFW](http://bsidesdfw.com/) | Nov 5, 2022 | Fort Worth (TX) :us: | [@BSidesDFW](https://twitter.com/BSidesDFW) | ??
+| [BSidesVaranasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 4-5, 2022 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
 | [BSidesOttawa](https://bsidesottawa.ca/) | Oct 28-29, 2022 | Ottawa :canada: | [@BSidesOttawa](https://twitter.com/BSidesOttawa) | Y
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 25, 2022 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
@@ -51,6 +52,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesSTL](https://bsidesstl.org) | Oct 8, 2022 | St-Louis (MO) :us: | [@BSidesSTL](https://twitter.com/BSidesSTL) | N
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Oct 8, 2022 | Copenhagen :denmark: | [@BSidesKBH](https://twitter.com/bsideskbh) | N
 | [BSidesPDX](https://bsidespdx.org/) | Oct 7, 2022 | Portland (OR) :us: | [@BSidesPDX](https://twitter.com/BSidesPDX) | Y
+| [BSidesIdahoFalls](https://bsidesidahofalls.org/) | Oct 7-8, 2022 | Idaho Falls (ID) :us: | [@BSidesIdFalls](https://twitter.com/BSidesIdFalls) | N
 
 ## Past
 
