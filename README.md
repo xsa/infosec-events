@@ -14,6 +14,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
+| [RSA Conference](https://www.rsaconference.com/) | Apr 24-27, 2023 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
 | [BSidesSanFrancisco](https://bsidessf.org/) | Apr 22-23, 2023 | San Francisco (CA) :us: | [@BSidesSF](https://twitter.com/BSidesSF) | ??
 | [HITBSecConf](https://conference.hitb.org/) | Apr 17-21, 2022 | Amsterdam :netherlands: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
