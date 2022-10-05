@@ -56,6 +56,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Oct 8, 2022 | Copenhagen :denmark: | [@BSidesKBH](https://twitter.com/bsideskbh) | N
 | [BSidesPDX](https://bsidespdx.org/) | Oct 7, 2022 | Portland (OR) :us: | [@BSidesPDX](https://twitter.com/BSidesPDX) | Y
 | [BSidesIdahoFalls](https://bsidesidahofalls.org/) | Oct 7-8, 2022 | Idaho Falls (ID) :us: | [@BSidesIdFalls](https://twitter.com/BSidesIdFalls) | N
+| [SecTor](https://sector.ca) | Oct 5-6, 2022 | Toronto :canada: | [@SecTorCa](https://twitter.com/sectorca) | N
 
 ## Past
 
