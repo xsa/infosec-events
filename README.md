@@ -58,6 +58,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesIdahoFalls](https://bsidesidahofalls.org/) | Oct 7-8, 2022 | Idaho Falls (ID) :us: | [@BSidesIdFalls](https://twitter.com/BSidesIdFalls) | N
 | [Objective By The Sea](https://objectivebythesea.org) | Oct 6-7, 2022 | El Vendrell :es:<br/>Virtual :computer: | [@objective_see](https://twitter.com/objective_see) | Y
 | [SecTor](https://sector.ca) | Oct 5-6, 2022 | Toronto :canada: | [@SecTorCa](https://twitter.com/sectorca) | N
+| [National Information Security Conference (NISC)](https://www.sapphire.net/nisc/) | Oct 5-7, 2022 | Chester :uk: | | N
 
 ## Past
 
