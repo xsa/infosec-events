@@ -29,6 +29,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesDFW](http://bsidesdfw.com/) | Nov 5, 2022 | Fort Worth (TX) :us: | [@BSidesDFW](https://twitter.com/BSidesDFW) | ??
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
 | [BSidesLisbon](https://bsideslisbon.org/) | Nov 10-11, 2022 | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | N
+| [OWASP Global AppSec](https://sf.globalappsec.org) | Nov 14-18, 2022 | San Francisco :us: | [@OWASP](https://twitter.com/owasp) | N
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [Black Hat MEA](https://blackhatmea.com/) | Nov 15-17, 2022 | Riyadh :saudi_arabia:| [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [GreHack](https://grehack.fr/2022/) | Nov 18, 2022 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
@@ -43,7 +44,8 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesLondon](https://www.securitybsides.org.uk/) | Dec 10, 2022 | London :uk: | [@BSidesLondon](https://twitter.com/BSidesLondon) | N
 | [ShmooCon](https://shmoocon.org/) | Jan 20-22, 2023 | Washington (DC) :us: | [@ShmooCon](https://twitter.com/shmoocon/) | N
 | [BSidesRoma](https://www.bsidesroma.it/) | Jan 21-22, 2023 | Rome :it: | [@BSidesRoma](https://twitter.com/BSidesRoma) | N
-| [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [BSidesCymru](https://twitter.com/BSidesCymru) | 
+| [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [@BSidesCymru](https://twitter.com/BSidesCymru) | 
+| [OWASP Global AppSec](https://dublin.globalappsec.org) | Feb 13-16, 2023 | Dublin :ireland: | [@OWASP](https://twitter.com/owasp) | N
 | [BSidesCaymanIslands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
 | [BSidesOK](https://bsidesok.com/) | Apr 5-7, 2023 | Glenpool (OK) :us:| [BSidesOK](https://twitter.com/BSidesOK) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
