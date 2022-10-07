@@ -6,10 +6,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [National Information Security Conference (NISC)](https://www.sapphire.net/nisc/) | Oct 5-7, 2022 | Chester :uk: | | N
-| [SecTor](https://sector.ca) | Oct 5-6, 2022 | Toronto :canada: | [@SecTorCa](https://twitter.com/sectorca) | N
-| [Objective By The Sea](https://objectivebythesea.org) | Oct 6-7, 2022 | El Vendrell :es:<br/>Virtual :computer: | [@objective_see](https://twitter.com/objective_see) | Y
-| [Hacktivity](https://2022.hacktivity.com/) | Oct 6-7, 2022 | Budapest :hungary:<br/>Virtual :computer: | [@HacktivityConf](https://twitter.com/hacktivityconf) | N
 | [BSidesIdahoFalls](https://bsidesidahofalls.org/) | Oct 7-8, 2022 | Idaho Falls (ID) :us: | [@BSidesIdFalls](https://twitter.com/BSidesIdFalls) | N
 | [BSidesPDX](https://bsidespdx.org/) | Oct 7, 2022 | Portland (OR) :us: | [@BSidesPDX](https://twitter.com/BSidesPDX) | Y
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Oct 8, 2022 | Copenhagen :denmark: | [@BSidesKBH](https://twitter.com/bsideskbh) | N
