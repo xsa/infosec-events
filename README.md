@@ -6,10 +6,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesIdahoFalls](https://bsidesidahofalls.org/) | Oct 7-8, 2022 | Idaho Falls (ID) :us: | [@BSidesIdFalls](https://twitter.com/BSidesIdFalls) | N
-| [BSidesPDX](https://bsidespdx.org/) | Oct 7, 2022 | Portland (OR) :us: | [@BSidesPDX](https://twitter.com/BSidesPDX) | Y
-| [BSidesKøbenhavn](https://bsideskbh.dk/) | Oct 8, 2022 | Copenhagen :denmark: | [@BSidesKBH](https://twitter.com/bsideskbh) | N
-| [BSidesSTL](https://bsidesstl.org) | Oct 8, 2022 | St-Louis (MO) :us: | [@BSidesSTL](https://twitter.com/BSidesSTL) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 12-14, 2022 | Deadwood (SD) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 14-15, 2022 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | ~[BSidesFortMyers](https://bsidesftmyers.com/)~ | ~Oct 14-15, 2022~ | ~Fort Myers (FL) :us:~ | ~[@BSidesFtMyers](https://twitter.com/BSidesFtMyers)~ | Cancelled
