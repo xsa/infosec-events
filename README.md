@@ -31,6 +31,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesVienna](https://bsidesvienna.at/) | Nov 19, 2022 | Vienna :austria: | [@BSidesVienna](https://twitter.com/BSidesVienna) | N
 | [BSidesCHS](https://www.bsidescharleston.org) | Nov 19, 2022 | Charleston (SC) :us:| [@BSidesCHS](https://twitter.com/BSidesCHS) | N
 | [BSidesDayton](https://bsidesdayton.com/) | Nov 19, 2022 | Kettering (OH) :us: | [@BSidesDayton](https://twitter.com/BSidesDayton) | N
+| [Canterbury Hacker Camp](https://2022.chcon.nz) | Nov 24-26, 2022 | Canterbury :new_zealand: | [@CHCon_nz](https://twitter.com/CHCon_nz) | N
 | [BSidesBerlin](https://bsides.berlin/) | Nov 26, 2022 | Berlin :de: | [@SidesBer](https://twitter.com/sidesber) | N
 | [BSidesSydney](http://bsidessydney.org/) | Nov 27, 2022 | Sydney :australia: | [@BsidesSyd_Org](https://twitter.com/BsidesSyd_Org) | N
 | [BSidesAustin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
