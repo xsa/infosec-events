@@ -32,6 +32,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesCHS](https://www.bsidescharleston.org) | Nov 19, 2022 | Charleston (SC) :us:| [@BSidesCHS](https://twitter.com/BSidesCHS) | N
 | [BSidesDayton](https://bsidesdayton.com/) | Nov 19, 2022 | Kettering (OH) :us: | [@BSidesDayton](https://twitter.com/BSidesDayton) | N
 | [BSidesBerlin](https://bsides.berlin/) | Nov 26, 2022 | Berlin :de: | [@SidesBer](https://twitter.com/sidesber) | N
+| [BSidesSydney](http://bsidessydney.org/) | Nov 27, 2022 | Sydney :australia: | [@BsidesSyd_Org](https://twitter.com/BsidesSyd_Org) | N
 | [BSidesAustin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
 | [BSidesCapeTown](https://bsidescapetown.co.za/) | Dec 3, 2022 | Cape Town :south_africa: | [@BSidesCapeTown](https://twitter.com/BSidesCapeTown) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-22/ ) | Dec 5-8, 2022 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
