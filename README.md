@@ -6,6 +6,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
+| [Australian Cyber Conference](https://cyberconference.com.au/melbourne) | Oct 11-13, 2022 | Melbourne :australia: | [@AISA_National](https://twitter.com/AISA_National) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 12-14, 2022 | Deadwood (SD) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 14-15, 2022 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | ~[BSidesFortMyers](https://bsidesftmyers.com/)~ | ~Oct 14-15, 2022~ | ~Fort Myers (FL) :us:~ | ~[@BSidesFtMyers](https://twitter.com/BSidesFtMyers)~ | Cancelled
