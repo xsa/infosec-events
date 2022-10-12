@@ -9,6 +9,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Australian Cyber Conference](https://cyberconference.com.au/melbourne) | Oct 11-13, 2022 | Melbourne :australia: | [@AISA_National](https://twitter.com/AISA_National) | N
 | [OptivCon](https://go.optiv.com/2022OptivCon-Indianapolis.html) | Oct 12, 2022 | Indianapolis (IN) :us: | [@Optiv](https://twitter.com/Optiv) | Y
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 12-14, 2022 | Deadwood (SD) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
+| [GrrCON](https://grrcon.com/) | Oct 13-14, 2022 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 14-15, 2022 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | ~[BSidesFortMyers](https://bsidesftmyers.com/)~ | ~Oct 14-15, 2022~ | ~Fort Myers (FL) :us:~ | ~[@BSidesFtMyers](https://twitter.com/BSidesFtMyers)~ | Cancelled
 | [BSidesRDU](https://bsidesrdu.org/) | Oct 15, 2022 | Raleigh (NC) :us: | [@BSidesRDU](https://twitter.com/BSidesRDU) | Y
@@ -60,6 +61,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [SEC-T](https://www.sec-t.org/) | Sep 12-15, 2023 | Stockholm :sweden: | [@Sec_T_org](https://twitter.com/Sec_T_org) | N
+| [GrrCON](https://grrcon.com/) | Sep 28-29, 2023 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 28-30, 2023 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 
