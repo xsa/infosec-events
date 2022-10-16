@@ -6,13 +6,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Australian Cyber Conference](https://cyberconference.com.au/melbourne) | Oct 11-13, 2022 | Melbourne :australia: | [@AISA_National](https://twitter.com/AISA_National) | N
-| [OptivCon](https://go.optiv.com/2022OptivCon-Indianapolis.html) | Oct 12, 2022 | Indianapolis (IN) :us: | [@Optiv](https://twitter.com/Optiv) | Y
-| [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 12-14, 2022 | Deadwood (SD) :us: | [@WWHackinFest](https://twitter.com/WWHackinFest) | N
-| [GrrCON](https://grrcon.com/) | Oct 13-14, 2022 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
-| [Hexacon](https://www.hexacon.fr/) | Oct 14-15, 2022 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
-| ~[BSidesFortMyers](https://bsidesftmyers.com/)~ | ~Oct 14-15, 2022~ | ~Fort Myers (FL) :us:~ | ~[@BSidesFtMyers](https://twitter.com/BSidesFtMyers)~ | Cancelled
-| [BSidesRDU](https://bsidesrdu.org/) | Oct 15, 2022 | Raleigh (NC) :us: | [@BSidesRDU](https://twitter.com/BSidesRDU) | Y
 | [OptivCon](https://go.optiv.com/2022OptivConChicago.html) | Oct 19, 2022 | Chicago (IL) :us: | [@Optiv](https://twitter.com/Optiv) | Y
 | [Zero-Day Conference](https://zero-day.ch) | Oct 20, 2022 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 | [BSidesCalgary](https://www.bsidescalgary.org) | Oct 20-21, 2022 | Calgary :canada:<br/>Virtual :computer: | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N
