@@ -7,6 +7,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [OptivCon](https://go.optiv.com/2022OptivConChicago.html) | Oct 19, 2022 | Chicago (IL) :us: | [@Optiv](https://twitter.com/Optiv) | Y
+| [Cyber and Threat Intelligence Summit (CTIS)](https://cti-summit.org/) | Oct 19-20, 2022 | Kirchberg :luxembourg: | - | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 20, 2022 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 | [BSidesCalgary](https://www.bsidescalgary.org) | Oct 20-21, 2022 | Calgary :canada:<br/>Virtual :computer: | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N
 | [HOU.SEC.CON](http://houstonseccon.org) | Oct 20-21, 2022 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
