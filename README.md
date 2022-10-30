@@ -6,12 +6,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesGoldCoast](https://bsidesgoldie.com/) | Oct 22, 2022 | Southport :australia: | [@BSidesGC](https://twitter.com/bsidesgc) | Y
-| [BSidesTriad](https://www.bsidestriad.org/) | Oct 22, 2022 | Greensboro (NC) :us: | [@BSidesG](https://twitter.com/bsidesg) | Y
-| [BSidesSD](https://www.bsidessd.org/) | Oct 22-23, 2022 | San Diego (CA) :us: | [@BSidesSD](https://twitter.com/BSidesSD) | Y
-| [Hardwear.io](https://hardwear.io) | Oct 24-28, 2022 | The Hague :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | N
-| [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 25, 2022 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
-| [BSidesOttawa](https://bsidesottawa.ca/) | Oct 28-29, 2022 | Ottawa :canada: | [@BSidesOttawa](https://twitter.com/BSidesOttawa) | Y
 | [UK Cyber Week](https://www.ukcyberweek.co.uk/) | Nov 3-4, 2022 | London :uk: | [@UKCyberWeek](https://twitter.com/UKCyberWeek) | Y
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 4-5, 2022 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
 | [BSidesVaranasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
