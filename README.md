@@ -12,6 +12,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesVaranasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
 | [BSidesLisbon](https://bsideslisbon.org/) | Nov 10-11, 2022 | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | N
+| [Navaja Negra](https://www.navajanegra.com/) | Nov 10-12, 2022 | Albacete :es: | [@navajanegra_ab](https://twitter.com/navajanegra_ab) | N
 | [OWASP Global AppSec](https://sf.globalappsec.org) | Nov 14-18, 2022 | San Francisco :us: | [@OWASP](https://twitter.com/owasp) | N
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [Black Hat MEA](https://blackhatmea.com/) | Nov 15-17, 2022 | Riyadh :saudi_arabia:| [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
