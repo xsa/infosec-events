@@ -8,8 +8,8 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | ---------- | ------- | -------- | ------- | :--------:
 | [UK Cyber Week](https://www.ukcyberweek.co.uk/) | Nov 3-4, 2022 | London :uk: | [@UKCyberWeek](https://twitter.com/UKCyberWeek) | Y
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 4-5, 2022 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
-| [BSidesVaranasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
 | [BSidesDFW](http://bsidesdfw.com/) | Nov 5, 2022 | Fort Worth (TX) :us: | [@BSidesDFW](https://twitter.com/BSidesDFW) | ??
+| [BSidesVaranasi](https://www.bsidesvaranasi.in/) | Nov 5-6, 2022 | Virtual :computer: | [@BsidesVaranasi](https://twitter.com/BsidesVaranasi) | Y
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
 | [BSidesLisbon](https://bsideslisbon.org/) | Nov 10-11, 2022 | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | N
 | [OWASP Global AppSec](https://sf.globalappsec.org) | Nov 14-18, 2022 | San Francisco :us: | [@OWASP](https://twitter.com/owasp) | N
