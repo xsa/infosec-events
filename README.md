@@ -45,6 +45,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
+| [leHACK](https://lehack.org/) | Jun 30-Jul 1, 2023 | Paris :fr: | [@leHACK](https://twitter.com/leHACK) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
