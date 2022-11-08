@@ -1,6 +1,6 @@
 # {Cyber,Info}Sec Events
 
-List of past and future {cyber,info}sec related events. Freel free to contribute by submitting issues or pull requests. Thanks!
+List of past and future {cyber,info}sec related events. Freel free to contribute by submitting issues or pull requests (related blog post [here](https://0x58.medium.com/cyber-info-security-events-list-2650185762c1)). Thanks!
 
 ## Upcoming
 
