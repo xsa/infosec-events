@@ -44,6 +44,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 19-20, 2023 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
+| [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [leHACK](https://lehack.org/) | Jun 30-Jul 1, 2023 | Paris :fr: | [@leHACK](https://twitter.com/leHACK) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
