@@ -27,6 +27,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesSLC](https://www.bsidesslc.org/) | Dec 16, 2022 | Salt Lake City (UT) :us: | [@BSidesSLC](http://www.twitter.com/bsidesslc) | N
 | [ShmooCon](https://shmoocon.org/) | Jan 20-22, 2023 | Washington (DC) :us: | [@ShmooCon](https://twitter.com/shmoocon/) | N
 | [BSidesRoma](https://www.bsidesroma.it/) | Jan 21-22, 2023 | Rome :it: | [@BSidesRoma](https://twitter.com/BSidesRoma) | N
+| [CactusCon](https://www.cactuscon.com/) | Jan 27-28, 2023 | Mesa (AZ) :us:<br/>Virtual :computer: | [@CactusCon](https://twitter.com/CactusCon) | Y
 | [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [@BSidesCymru](https://twitter.com/BSidesCymru) | 
 | [OWASP Global AppSec](https://dublin.globalappsec.org) | Feb 13-16, 2023 | Dublin :ireland: | [@OWASP](https://twitter.com/owasp) | N
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
