@@ -6,6 +6,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
+| [IRISSCON](https://iriss.ie/irisscon/) | Nov 10, 2022 | Dublin :ireland: | [@irisscert](https://twitter.com/irisscert) | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
 | [BSidesLisbon](https://bsideslisbon.org/) | Nov 10-11, 2022 | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | N
 | [Navaja Negra](https://www.navajanegra.com/) | Nov 10-12, 2022 | Albacete :es: | [@navajanegra_ab](https://twitter.com/navajanegra_ab) | N
