@@ -1,5 +1,7 @@
 # {Cyber,Info}Sec Events
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/0x58)
+
 List of past and future {cyber,info}sec related events. Freel free to contribute by submitting issues or pull requests (related blog post [here](https://0x58.medium.com/cyber-info-security-events-list-2650185762c1)). Thanks!
 
 ## Upcoming
