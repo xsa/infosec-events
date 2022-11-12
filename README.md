@@ -22,7 +22,7 @@ Thanks! 😉
 | [BSidesCHS](https://www.bsidescharleston.org) | Nov 19, 2022 | Charleston (SC) :us:| [@BSidesCHS](https://twitter.com/BSidesCHS) | N
 | [BSidesDayton](https://bsidesdayton.com/) | Nov 19, 2022 | Kettering (OH) :us: | [@BSidesDayton](https://twitter.com/BSidesDayton) | N
 | [Canterbury Hacker Camp](https://2022.chcon.nz) | Nov 24-26, 2022 | Canterbury :new_zealand: | [@CHCon_nz](https://twitter.com/CHCon_nz) | N
-| [BlackHoodie](https://blackhoodie.re/Blackhoodie-Virtual-2022/) | Nov 25, 2022 | Virtual :computer: | [@Blackhoodie_RE](https://twitter.com/Blackhoodie_RE) | Women-only
+| [BlackHoodie](https://blackhoodie.re/Blackhoodie-Virtual-2022/) | Nov 25, 2022 | Virtual :computer: | [@Blackhoodie_RE](https://twitter.com/Blackhoodie_RE) | Y<br/>(Women-only)
 | [BSidesBerlin](https://bsides.berlin/) | Nov 26, 2022 | Berlin :de: | [@SidesBer](https://twitter.com/sidesber) | N
 | [BSidesSydney](http://bsidessydney.org/) | Nov 27, 2022 | Sydney :australia: | [@BsidesSyd_Org](https://twitter.com/BsidesSyd_Org) | N
 | [BSidesAustin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
