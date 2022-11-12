@@ -12,9 +12,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Twitter | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [IRISSCON](https://iriss.ie/irisscon/) | Nov 10, 2022 | Dublin :ireland: | [@irisscert](https://twitter.com/irisscert) | N
-| [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 10, 2022 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | N
-| [BSidesLisbon](https://bsideslisbon.org/) | Nov 10-11, 2022 | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | N
 | [Navaja Negra](https://www.navajanegra.com/) | Nov 10-12, 2022 | Albacete :es: | [@navajanegra_ab](https://twitter.com/navajanegra_ab) | N
 | [OWASP Global AppSec](https://sf.globalappsec.org) | Nov 14-18, 2022 | San Francisco :us: | [@OWASP](https://twitter.com/owasp) | N
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
