@@ -10,7 +10,7 @@ Thanks! 😉
 
 ## Upcoming
 
-| Event Name | Date(s) | Location | Twitter | Free
+| Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [Navaja Negra](https://www.navajanegra.com/) | Nov 10-12, 2022 | Albacete :es: | [@navajanegra_ab](https://twitter.com/navajanegra_ab) | N
 | [OWASP Global AppSec](https://sf.globalappsec.org) | Nov 14-18, 2022 | San Francisco :us: | [@OWASP](https://twitter.com/owasp) | N
