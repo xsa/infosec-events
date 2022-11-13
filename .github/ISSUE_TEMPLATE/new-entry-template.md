@@ -11,5 +11,5 @@ assignees: xsa
 - Website: <event website>
 - Date(s): <MMM DD, YYYY>
 - Location: <City, Country>
-- Twitter Handle:  <@FooBarBaz>
+- Twitter/Mastodon Handle:  <@FooBarBaz>
 - Free: Y/N
