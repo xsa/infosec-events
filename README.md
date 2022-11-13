@@ -12,7 +12,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Navaja Negra](https://www.navajanegra.com/) | Nov 10-12, 2022 | Albacete :es: | [@navajanegra_ab](https://twitter.com/navajanegra_ab) | N
 | [OWASP Global AppSec](https://sf.globalappsec.org) | Nov 14-18, 2022 | San Francisco :us: | [@OWASP](https://twitter.com/owasp) | N
 | [Black Alps](https://blackalps.ch) | Nov 15-16, 2022 | Yverdon :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [Black Hat MEA](https://blackhatmea.com/) | Nov 15-17, 2022 | Riyadh :saudi_arabia:| [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
