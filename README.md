@@ -24,7 +24,8 @@ Thanks! 😉
 | [BlackHoodie](https://blackhoodie.re/Blackhoodie-Virtual-2022/) | Nov 25, 2022 | Virtual :computer: | [@Blackhoodie_RE](https://twitter.com/Blackhoodie_RE) | Y<br/>(Women-only)
 | [BSidesBerlin](https://bsides.berlin/) | Nov 26, 2022 | Berlin :de: | [@SidesBer](https://twitter.com/sidesber) | N
 | [BSidesSydney](http://bsidessydney.org/) | Nov 27, 2022 | Sydney :australia: | [@BsidesSyd_Org](https://twitter.com/BsidesSyd_Org) | N
-| [BSidesAustin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
+| [BSidesOttawa](https://bsidesottawa.ca/) | Nov 29-29, 2022 | Ottawa (ON) :canada: | - | N
+| [BSidesAustin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
 | [BSidesCapeTown](https://bsidescapetown.co.za/) | Dec 3, 2022 | Cape Town :south_africa: | [@BSidesCapeTown](https://twitter.com/BSidesCapeTown) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-22/ ) | Dec 5-8, 2022 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLondon](https://www.securitybsides.org.uk/) | Dec 10, 2022 | London :uk: | [@BSidesLondon](https://twitter.com/BSidesLondon) | N
