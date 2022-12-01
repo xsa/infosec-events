@@ -42,6 +42,7 @@ Thanks! 😉
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 19-20, 2023 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
+| [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo](https://infosec.exchange/@BSidesBuffalo) | N
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
