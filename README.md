@@ -54,6 +54,7 @@ Thanks! 😉
 | [GrrCON](https://grrcon.com/) | Sep 28-29, 2023 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 28-30, 2023 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
+| [GreHack](https://grehack.fr/) | Nov 17, 2023 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 
 
 ## Past
