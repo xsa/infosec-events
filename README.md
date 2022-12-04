@@ -12,10 +12,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesOttawa](https://bsidesottawa.ca/) | Nov 28-29, 2022 | Ottawa (ON) :canada: | - | N
-| [BSidesAustin](https://bsidesaustin.com/) | Dec 2, 2022 | Virtual :computer: | [@BSidesAustin](https://twitter.com/bsidesaustin) | Y
-| [BSidesCapeTown](https://bsidescapetown.co.za/) | Dec 3, 2022 | Cape Town :south_africa: | [@BSidesCapeTown](https://twitter.com/BSidesCapeTown) | N
-| [BSidesBHAM](https://bsidesbham.org/) | Dec 3, 2022 | Birmingham (AL) :us: | [@BSidesBHAM](https://infosec.exchange/@BSidesBHAM) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-22/ ) | Dec 5-8, 2022 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLondon](https://www.securitybsides.org.uk/) | Dec 10, 2022 | London :uk: | [@BSidesLondon](https://twitter.com/BSidesLondon) | N
 | [BSidesSLC](https://www.bsidesslc.org/) | Dec 16, 2022 | Salt Lake City (UT) :us: | [@BSidesSLC](http://www.twitter.com/bsidesslc) | N
