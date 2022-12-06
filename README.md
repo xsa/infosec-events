@@ -43,6 +43,7 @@ Thanks! 😉
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
+| [TROOPERS](https://troopers.de/) | Jun 26-20, 2023 | Heidelberg :de: | [@WEareTROOPERS](https://infosec.exchange/@WEareTROOPERS) | N
 | [leHACK](https://lehack.org/) | Jun 30-Jul 1, 2023 | Paris :fr: | [@leHACK](https://twitter.com/leHACK) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
