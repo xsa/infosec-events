@@ -12,7 +12,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Black Hat Europe](https://www.blackhat.com/eu-22/ ) | Dec 5-8, 2022 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLondon](https://www.securitybsides.org.uk/) | Dec 10, 2022 | London :uk: | [@BSidesLondon](https://twitter.com/BSidesLondon) | N
 | [BSidesSLC](https://www.bsidesslc.org/) | Dec 16, 2022 | Salt Lake City (UT) :us: | [@BSidesSLC](http://www.twitter.com/bsidesslc) | N
 | [ShmooCon](https://shmoocon.org/) | Jan 20-22, 2023 | Washington (DC) :us: | [@ShmooCon](https://twitter.com/shmoocon/) | N
