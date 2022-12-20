@@ -16,6 +16,7 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
+| [North Carolina Cybersecurity Symposium](https://nc-pace.org/symposium/2023/overview/) | Jan 19-20, 2023 | Raleigh (NC) :us: | - | N
 | [ShmooCon](https://shmoocon.org/) | Jan 20-22, 2023 | Washington (DC) :us: | [@ShmooCon](https://twitter.com/shmoocon/) | N
 | [BSidesRoma](https://www.bsidesroma.it/) | Jan 21-22, 2023 | Rome :it: | [@BSidesRoma](https://twitter.com/BSidesRoma) | N
 | [CactusCon](https://www.cactuscon.com/) | Jan 27-28, 2023 | Mesa (AZ) :us:<br/>Virtual :computer: | [@CactusCon](https://twitter.com/CactusCon) | Y
