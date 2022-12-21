@@ -40,6 +40,7 @@ Thanks! 😉
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 19-20, 2023 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
 | [THOTCON](https://www.thotcon.org/) | May 19-20, 2023 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
+| [Security Fest](https://securityfest.com/) | May 25-26, 2023 | Gothenburg :sweden: | [@securityfest](https://twitter.com/securityfest) | N
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo](https://infosec.exchange/@BSidesBuffalo) | N
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
