@@ -33,6 +33,7 @@ Thanks! 😉
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
 | [HITBSecConf](https://conference.hitb.org/) | Apr 17-21, 2023 | Amsterdam :netherlands: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [Cybersec Europe](https://www.cyberseceurope.com/) | Apr 19-20, 2023 | Brussels :belgium: | [@cyberseceurope_](https://twitter.com/cyberseceurope_) | Y
+| [BSidesNYC](https://bsidesnyc.org) | Apr 22, 2023 | New York City (NY) :us: | [@BSidesNYC](https://infosec.exchange/@BSidesNYC) | N
 | [BSidesSanFrancisco](https://bsidessf.org/) | Apr 22-23, 2023 | San Francisco (CA) :us: | [@BSidesSF](https://infosec.exchange/@bsidessf) | ??
 | [RSA Conference](https://www.rsaconference.com/) | Apr 24-27, 2023 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
 | [BSidesCharm](https://bsidescharm.org/) | Apr 29-30, 2023 | Towson (MD) :us: | [@BSidesCharm](https://infosec.exchange/@BSidesCharm) | N
