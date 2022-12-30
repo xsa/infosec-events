@@ -46,6 +46,7 @@ Thanks! 😉
 | [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham](https://infosec.exchange/@BSidesCheltenham) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo](https://infosec.exchange/@BSidesBuffalo) | N
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
+| [BSidesSATX](https://www.bsidessatx.com/) | Jun 10, 2023 | San Antonio (TX) :us: | [@BSidesSATX](https://infosec.exchange/@BSidesSATX) | N
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [TROOPERS](https://troopers.de/) | Jun 26-20, 2023 | Heidelberg :de: | [@WEareTROOPERS](https://infosec.exchange/@WEareTROOPERS) | N
