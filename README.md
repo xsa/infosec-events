@@ -22,6 +22,7 @@ Thanks! 😉
 | [CactusCon](https://www.cactuscon.com/) | Jan 27-28, 2023 | Mesa (AZ) :us:<br/>Virtual :computer: | [@CactusCon](https://twitter.com/CactusCon) | Y
 | [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [@BSidesCymru](https://twitter.com/BSidesCymru) | 
 | [OWASP Global AppSec](https://dublin.globalappsec.org) | Feb 13-16, 2023 | Dublin :ireland: | [@OWASP](https://twitter.com/owasp) | N
+| [Disobey](https://disobey.fi/2023/) | Feb 17-18, 2023 | Helsinki 🇫🇮 | [@Disobey_fi](https://twitter.com/disobey_fi) | N
 | [Nullcon](https://nullcon.net/) | Mar 9-10, 2023 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
 | [Insomni'hack](https://insomnihack.ch/) | Mar 20-25, 2023 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
@@ -57,6 +58,7 @@ Thanks! 😉
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [Blue Team Con](https://blueteamcon.com/) | Aug 25-27, 2023 | Chicago (IL) :us: | [@BlueTeamCon](https://twitter.com/BlueTeamCon) | N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
+| [BSidesTallinn](https://tallinn.bsides.ee/) | TBD Sep 2023 | Tallinn 🇪🇪 | [@bsidestll](https://twitter.com/bsidestll) | N
 | [SEC-T](https://www.sec-t.org/) | Sep 12-15, 2023 | Stockholm :sweden: | [@Sec_T_org](https://twitter.com/Sec_T_org) | N
 | [BruCon](https://www.brucon.org/) | Sep 28-29, 2023 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
 | [GrrCON](https://grrcon.com/) | Sep 28-29, 2023 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
