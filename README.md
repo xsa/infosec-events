@@ -24,6 +24,7 @@ Thanks! 😉
 | [OWASP Global AppSec](https://dublin.globalappsec.org) | Feb 13-16, 2023 | Dublin :ireland: | [@OWASP](https://twitter.com/owasp) | N
 | [Disobey](https://disobey.fi/2023/) | Feb 17-18, 2023 | Helsinki 🇫🇮 | [@Disobey_fi](https://twitter.com/disobey_fi) | N
 | [Nullcon](https://nullcon.net/) | Mar 9-10, 2023 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
+| [BsidesHBG](https://bsideshbg.com) | Mar 11, 2023 | Harrisburg (PA) :us: | [@BsidesHbg](https://twitter.com/BsidesHbg) | N
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
 | [Insomni'hack](https://insomnihack.ch/) | Mar 20-25, 2023 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
 | [BSidesCaymanIslands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
