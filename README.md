@@ -30,6 +30,7 @@ Thanks! 😉
 | [CanSecWest](https://www.secwest.net/) | Mar 22-24, 2023 | Vancouver :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
 | BSides Lancashire | Mar 30, 2023 | TBD :uk: | [@BSidesLanc](https://twitter.com/BSidesLanc) | N
 | [CypherCon](https://cyphercon.com/) | Mar 30-31, 2023 | Milwaukee (WI) :us: | [@cyphercon](https://twitter.com/cyphercon) | N
+| [SANS Neurodiversity in Cybersecurity Summit](https://www.sans.org/cyber-security-training-events/neurodiversity-in-cybersecurity-summit-2023/) | Apr 4, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
 | [BSidesOK](https://bsidesok.com/) | Apr 5-7, 2023 | Glenpool (OK) :us:| [BSidesOK](https://twitter.com/BSidesOK) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
 | [HITBSecConf](https://conference.hitb.org/) | Apr 17-21, 2023 | Amsterdam :netherlands: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
