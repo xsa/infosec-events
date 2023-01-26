@@ -16,7 +16,7 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [CactusCon](https://www.cactuscon.com/) | Jan 27-28, 2023 | Mesa (AZ) :us:<br/>Virtual :computer: | [@CactusCon](https://twitter.com/CactusCon) | Y
+| [CactusCon](https://www.cactuscon.com/) | Jan 27-28, 2023 | Mesa (AZ) :us:<br/>Virtual :computer: | [@cactuscon@infosec.exchange](https://infosec.exchange/@cactuscon) | Y
 | [FOSDEM (Security devroom)](https://fosdem.org/2023/schedule/track/security/) | Feb 4-5, 2023 | Brussels :belgium: | [@fosdem@fosstodon.org](https://infosec.exchange/@fosdem@fosstodon.org) | Y
 | [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [@BSidesCymru](https://twitter.com/BSidesCymru) | 
 | [OWASP Global AppSec](https://dublin.globalappsec.org) | Feb 13-16, 2023 | Dublin :ireland: | [@OWASP](https://twitter.com/owasp) | N
@@ -24,7 +24,7 @@ Thanks! 😉
 | [Nullcon](https://nullcon.net/) | Mar 9-10, 2023 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [BsidesHBG](https://bsideshbg.com) | Mar 11, 2023 | Harrisburg (PA) :us: | [@BsidesHbg](https://twitter.com/BsidesHbg) | N
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
-| [BSidesROC](https://bsidesroc.com) | Mar 18, 2023 | Rochester (NY) :us: | [@bsidesroc](https://infosec.exchange/@bsidesroc) | N
+| [BSidesROC](https://bsidesroc.com) | Mar 18, 2023 | Rochester (NY) :us: | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
 | [Insomni'hack](https://insomnihack.ch/) | Mar 20-25, 2023 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
 | [BSidesCaymanIslands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
 | [CanSecWest](https://www.secwest.net/) | Mar 22-24, 2023 | Vancouver :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
@@ -36,23 +36,23 @@ Thanks! 😉
 | [HITBSecConf](https://conference.hitb.org/) | Apr 17-21, 2023 | Amsterdam :netherlands: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [Cybersec Europe](https://www.cyberseceurope.com/) | Apr 19-20, 2023 | Brussels :belgium: | [@cyberseceurope_](https://twitter.com/cyberseceurope_) | Y
 | [THCon](https://thcon.party) | Apr 20-21, 2023 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
-| [BSidesNYC](https://bsidesnyc.org) | Apr 22, 2023 | New York City (NY) :us: | [@BSidesNYC](https://infosec.exchange/@BSidesNYC) | N
-| [BSidesSanFrancisco](https://bsidessf.org/) | Apr 22-23, 2023 | San Francisco (CA) :us: | [@BSidesSF](https://infosec.exchange/@bsidessf) | ??
+| [BSidesNYC](https://bsidesnyc.org) | Apr 22, 2023 | New York City (NY) :us: | [@BSidesNYC@infosec.exchange](https://infosec.exchange/@BSidesNYC) | N
+| [BSidesSanFrancisco](https://bsidessf.org/) | Apr 22-23, 2023 | San Francisco (CA) :us: | [@BSidesSF@infosec.exchange](https://infosec.exchange/@bsidessf) | ??
 | [RSA Conference](https://www.rsaconference.com/) | Apr 24-27, 2023 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
-| [BSidesCharm](https://bsidescharm.org/) | Apr 29-30, 2023 | Towson (MD) :us: | [@BSidesCharm](https://infosec.exchange/@BSidesCharm) | N
+| [BSidesCharm](https://bsidescharm.org/) | Apr 29-30, 2023 | Towson (MD) :us: | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@BSidesCharm) | N
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 19-20, 2023 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
 | [THOTCON](https://www.thotcon.org/) | May 19-20, 2023 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
 | [Security Fest](https://securityfest.com/) | May 25-26, 2023 | Gothenburg :sweden: | [@securityfest](https://twitter.com/securityfest) | N
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
-| [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham](https://infosec.exchange/@BSidesCheltenham) | N
-| [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo](https://infosec.exchange/@BSidesBuffalo) | N
+| [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham@infosec.exchange](https://infosec.exchange/@BSidesCheltenham) | N
+| [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
-| [BSidesSATX](https://www.bsidessatx.com/) | Jun 10, 2023 | San Antonio (TX) :us: | [@BSidesSATX](https://infosec.exchange/@BSidesSATX) | N
+| [BSidesSATX](https://www.bsidessatx.com/) | Jun 10, 2023 | San Antonio (TX) :us: | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | N
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
-| [TROOPERS](https://troopers.de/) | Jun 26-20, 2023 | Heidelberg :de: | [@WEareTROOPERS](https://infosec.exchange/@WEareTROOPERS) | N
+| [TROOPERS](https://troopers.de/) | Jun 26-20, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [leHACK](https://lehack.org/) | Jun 30-Jul 1, 2023 | Paris :fr: | [@leHACK](https://twitter.com/leHACK) | N
 | [Pass the SALT](https://pass-the-salt.org/) | Jul 3-5, 2023 | Lille :fr: | [@passthesaltcon](https://twitter.com/passthesaltcon) | N
 | [Black Hat USA](https://www.blackhat.com/us-23/) | Aug 5-10, 2023 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
