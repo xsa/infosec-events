@@ -42,6 +42,7 @@ Thanks! 😉
 | [RSA Conference](https://www.rsaconference.com/) | Apr 24-27, 2023 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
 | [BSidesCharm](https://bsidescharm.org/) | Apr 29-30, 2023 | Towson (MD) :us: | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@BSidesCharm) | N
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [NorthSec](https://nsec.io) | May 18-19, 2023 | Montreal :canada: | [@northsec_io](https://twitter.com/northsec_io) | N
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 19-20, 2023 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
 | [THOTCON](https://www.thotcon.org/) | May 19-20, 2023 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
