@@ -69,6 +69,7 @@ Thanks! 😉
 | [GrrCON](https://grrcon.com/) | Sep 28-29, 2023 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 28-30, 2023 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
 | [Converge Security Conference](https://convergesec.com/) | Sep 29-30, 2023 | Anaheim (CA) :us: | [@convergesec](https://twitter.com/convergesec) | N
+| [Hexacon](https://www.hexacon.fr/) | Oct 13-14, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
