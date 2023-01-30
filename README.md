@@ -20,6 +20,8 @@ Thanks! 😉
 | [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [@BSidesCymru](https://twitter.com/BSidesCymru) | 
 | [OWASP Global AppSec](https://dublin.globalappsec.org) | Feb 13-16, 2023 | Dublin :ireland: | [@OWASP](https://twitter.com/owasp) | N
 | [Disobey](https://disobey.fi/2023/) | Feb 17-18, 2023 | Helsinki 🇫🇮 | [@Disobey_fi](https://twitter.com/disobey_fi) | N
+| [Antisyphon Summit (Conference)](https://www.antisyphontraining.com/2023-most-offensive-summit/) | Mar 1, 2023 | Virtual :computer: | [@Antisy_Training@infosec.exchange](https://infosec.exchange/@Antisy_Training) | Y
+| [Antisyphon Summit (Training)](https://www.antisyphontraining.com/2023-most-offensive-summit/) | Mar 2-3, 2023 | Virtual :computer: | [@Antisy_Training@infosec.exchange](https://infosec.exchange/@Antisy_Training) | N
 | [Nullcon](https://nullcon.net/) | Mar 9-10, 2023 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [BsidesHBG](https://bsideshbg.com) | Mar 11, 2023 | Harrisburg (PA) :us: | [@BsidesHbg](https://twitter.com/BsidesHbg) | N
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
