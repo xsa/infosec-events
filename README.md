@@ -16,6 +16,7 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
+| [Cybertech Global](https://www.cybertechisrael.com) | Jan 30-Fev 1, 2023 | Tel Aviv :israel: | - | N
 | [FOSDEM (Security devroom)](https://fosdem.org/2023/schedule/track/security/) | Feb 4-5, 2023 | Brussels :belgium: | [@fosdem@fosstodon.org](https://infosec.exchange/@fosdem@fosstodon.org) | Y
 | [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [@BSidesCymru](https://twitter.com/BSidesCymru) | 
 | [OWASP Global AppSec](https://dublin.globalappsec.org) | Feb 13-16, 2023 | Dublin :ireland: | [@OWASP](https://twitter.com/owasp) | N
@@ -71,6 +72,7 @@ Thanks! 😉
 | [GrrCON](https://grrcon.com/) | Sep 28-29, 2023 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 28-30, 2023 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
 | [Converge Security Conference](https://convergesec.com/) | Sep 29-30, 2023 | Anaheim (CA) :us: | [@convergesec](https://twitter.com/convergesec) | N
+| [Cybertech Europe](https://italy.cybertechconference.com) | Oct 3-4, 2023 | Rome :italy: | - | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 13-14, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
