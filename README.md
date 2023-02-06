@@ -16,7 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [FOSDEM (Security devroom)](https://fosdem.org/2023/schedule/track/security/) | Feb 4-5, 2023 | Brussels :belgium: | [@fosdem@fosstodon.org](https://infosec.exchange/@fosdem@fosstodon.org) | Y
 | [BSidesCymru](https://www.bsides.cymru/) | Feb 11, 2023 | Cardiff :wales: | [@BSidesCymru](https://twitter.com/BSidesCymru) | 
 | [OWASP Global AppSec](https://dublin.globalappsec.org) | Feb 13-16, 2023 | Dublin :ireland: | [@OWASP](https://twitter.com/owasp) | N
 | [Disobey](https://disobey.fi/2023/) | Feb 17-18, 2023 | Helsinki 🇫🇮 | [@Disobey_fi](https://twitter.com/disobey_fi) | N
