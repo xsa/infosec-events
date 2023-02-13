@@ -54,6 +54,7 @@ Thanks! 😉
 | [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham@infosec.exchange](https://infosec.exchange/@BSidesCheltenham) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
+| [BSidesBangalore](https://bsidesbangalore.in) | Jun 8, 2023 | Bangalore :india: | [@bsidesbangalore](https://twitter.com/bsidesbangalore) | N
 | [REcon](https://www.recon.cx) | Jun 9-11, 2023 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
 | [BSidesSATX](https://www.bsidessatx.com/) | Jun 10, 2023 | San Antonio (TX) :us: | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | N
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
