@@ -40,6 +40,7 @@ Thanks! 😉
 | [BSidesNYC](https://bsidesnyc.org) | Apr 22, 2023 | New York City (NY) :us: | [@BSidesNYC@infosec.exchange](https://infosec.exchange/@BSidesNYC) | N
 | [BSidesSanFrancisco](https://bsidessf.org/) | Apr 22-23, 2023 | San Francisco (CA) :us: | [@BSidesSF@infosec.exchange](https://infosec.exchange/@bsidessf) | ??
 | [RSA Conference](https://www.rsaconference.com/) | Apr 24-27, 2023 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
+| [BSidesVancouver](https://sites.google.com/fourthplanet.ca/bsidesvan/home) | Apr 29-30, 2023 | Vancouver :canada: | [@BSidesVancouver](https://twitter.com/BSidesVancouver) | N
 | [BSidesCharm](https://bsidescharm.org/) | Apr 29-30, 2023 | Towson (MD) :us: | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@BSidesCharm) | N
 | [CackalackyCon](https://cackalackycon.org) | May 5-7, 2023 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
