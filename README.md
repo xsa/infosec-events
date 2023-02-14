@@ -30,7 +30,8 @@ Thanks! 😉
 | [BSidesSofia](https://securitybsides.bg) | Mar 18-19, 2023 | Sofia :bulgaria: | [@bsidesbg](https://twitter.com/bsidesbg) | N
 | [Insomni'hack](https://insomnihack.ch/) | Mar 20-25, 2023 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
 | [BSidesCaymanIslands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
-| [CanSecWest](https://www.secwest.net/) | Mar 22-24, 2023 | Vancouver :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
+| [CanSecWest](https://www.secwest.net/) | Mar 22-24, 2023 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
+| [BSidesRegina](https://bsidesregina.ca) | Mar 23, 2023 | Regina (SK) :canada: | - | N
 | BSides Lancashire | Mar 30, 2023 | TBD :uk: | [@BSidesLanc](https://twitter.com/BSidesLanc) | N
 | [CypherCon](https://cyphercon.com/) | Mar 30-31, 2023 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [SANS Neurodiversity in Cybersecurity Summit](https://www.sans.org/cyber-security-training-events/neurodiversity-in-cybersecurity-summit-2023/) | Apr 4, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
