@@ -22,11 +22,12 @@ Thanks! 😉
 | [Attack Surface Management Summit](https://www.securitysummits.com/event/attack-surface-management-summit/) | Feb 22, 2023 | Virtual :computer: | [@securityweek](https://www.twitter.com/securityweek) | Y
 | [Antisyphon Summit (Conference)](https://www.antisyphontraining.com/2023-most-offensive-summit/) | Mar 1, 2023 | Virtual :computer: | [@Antisy_Training@infosec.exchange](https://infosec.exchange/@Antisy_Training) | Y
 | [Antisyphon Summit (Training)](https://www.antisyphontraining.com/2023-most-offensive-summit/) | Mar 2-3, 2023 | Virtual :computer: | [@Antisy_Training@infosec.exchange](https://infosec.exchange/@Antisy_Training) | N
-| [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 3, 2023 | Zagreb :croatia: | [@BSidesZagreb](https://twitter.com/bsideszagreb) | Y
+| [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 3, 2023 | Zagreb :croatia: | [@BSidesZagreb](https://twitter.com/bsideszagreb) | Y
 | [Nullcon](https://nullcon.net/) | Mar 9-10, 2023 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [BsidesHBG](https://bsideshbg.com) | Mar 11, 2023 | Harrisburg (PA) :us: | [@BsidesHbg](https://twitter.com/BsidesHbg) | N
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
 | [BSidesROC](https://bsidesroc.com) | Mar 18, 2023 | Rochester (NY) :us: | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
+| [BSidesSofia](https://securitybsides.bg) | Mar 18-19, 2023 | Sofia :bulgaria: | [@bsidesbg](https://twitter.com/bsidesbg) | N
 | [Insomni'hack](https://insomnihack.ch/) | Mar 20-25, 2023 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
 | [BSidesCaymanIslands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
 | [CanSecWest](https://www.secwest.net/) | Mar 22-24, 2023 | Vancouver :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
