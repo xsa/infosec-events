@@ -16,7 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Attack Surface Management Summit](https://www.securitysummits.com/event/attack-surface-management-summit/) | Feb 22, 2023 | Virtual :computer: | [@securityweek](https://www.twitter.com/securityweek) | Y
 | [Antisyphon Summit (Conference)](https://www.antisyphontraining.com/2023-most-offensive-summit/) | Mar 1, 2023 | Virtual :computer: | [@Antisy_Training@infosec.exchange](https://infosec.exchange/@Antisy_Training) | Y
 | [Antisyphon Summit (Training)](https://www.antisyphontraining.com/2023-most-offensive-summit/) | Mar 2-3, 2023 | Virtual :computer: | [@Antisy_Training@infosec.exchange](https://infosec.exchange/@Antisy_Training) | N
 | [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 3, 2023 | Zagreb :croatia: | [@BSidesZagreb](https://twitter.com/bsideszagreb) | Y
