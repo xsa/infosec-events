@@ -21,6 +21,7 @@ Thanks! 😉
 | [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 3, 2023 | Zagreb :croatia: | [@BSidesZagreb](https://twitter.com/bsideszagreb) | Y
 | [Nullcon](https://nullcon.net/) | Mar 9-10, 2023 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [BsidesHBG](https://bsideshbg.com) | Mar 11, 2023 | Harrisburg (PA) :us: | [@BsidesHbg](https://twitter.com/BsidesHbg) | N
+| [APIsecure](https://www.apisecure.co) | Mar 14-15, 2023 | Santa Clara (CA) :us: | [@apisecure](https://twitter.com/@apisecure) | Y
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
 | [BSidesROC](https://bsidesroc.com) | Mar 18, 2023 | Rochester (NY) :us: | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
 | [BSidesSofia](https://securitybsides.bg) | Mar 18-19, 2023 | Sofia :bulgaria: | [@bsidesbg](https://twitter.com/bsidesbg) | N
