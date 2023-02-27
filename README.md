@@ -81,6 +81,7 @@ Thanks! 😉
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2023/) | Oct 4-6, 2023 | London :uk: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 13-14, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesBloom](https://bsidesbloomington.org) | Oct 13-14, 2023 | Bloomington (IN) :us:| [@bsidesbloom](https://www.twitter.com/bsidesbloom) | N
+| [EuroUSEC](https://eurousec23.itu.dk) | Oct 16-17, 2023 | Copenhagen :denmark: | - | Y
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
