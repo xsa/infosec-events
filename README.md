@@ -16,9 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Antisyphon Summit (Conference)](https://www.antisyphontraining.com/2023-most-offensive-summit/) | Mar 1, 2023 | Virtual :computer: | [@Antisy_Training@infosec.exchange](https://infosec.exchange/@Antisy_Training) | Y
-| [Antisyphon Summit (Training)](https://www.antisyphontraining.com/2023-most-offensive-summit/) | Mar 2-3, 2023 | Virtual :computer: | [@Antisy_Training@infosec.exchange](https://infosec.exchange/@Antisy_Training) | N
-| [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 3, 2023 | Zagreb :croatia: | [@BSidesZagreb](https://twitter.com/bsideszagreb) | Y
 | [Nullcon](https://nullcon.net/) | Mar 9-10, 2023 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [BsidesHBG](https://bsideshbg.com) | Mar 11, 2023 | Harrisburg (PA) :us: | [@BsidesHbg](https://twitter.com/BsidesHbg) | N
 | [APIsecure](https://www.apisecure.co) | Mar 14-15, 2023 | Santa Clara (CA) :us: | [@apisecure](https://twitter.com/@apisecure) | Y
