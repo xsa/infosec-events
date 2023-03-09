@@ -33,6 +33,7 @@ Thanks! 😉
 | [SANS Neurodiversity in Cybersecurity Summit](https://www.sans.org/cyber-security-training-events/neurodiversity-in-cybersecurity-summit-2023/) | Apr 4, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
 | [BSidesOK](https://bsidesok.com/) | Apr 5-7, 2023 | Glenpool (OK) :us:| [BSidesOK](https://twitter.com/BSidesOK) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
+| [Kernelcon][https://kernelcon.org/] | Apr 12-15,2023 | Omaha (NE) :us: | [@_kernelcon_]https://twitter.com/_kernelcon_] | N
 | [BSidesNashville](https://bsidesnash.org) | Apr 15, 2023 | Nashville (TN) :us: | [@BSidesnash](https://twitter.com/BSidesnash) | N
 | [HITBSecConf](https://conference.hitb.org/) | Apr 17-21, 2023 | Amsterdam :netherlands: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [Cybersec Europe](https://www.cyberseceurope.com/) | Apr 19-20, 2023 | Brussels :belgium: | [@cyberseceurope_](https://twitter.com/cyberseceurope_) | Y
@@ -82,9 +83,10 @@ Thanks! 😉
 | [Converge Security Conference](https://convergesec.com/) | Sep 29-30, 2023 | Anaheim (CA) :us: | [@convergesec](https://twitter.com/convergesec) | N
 | [Cybertech Europe](https://italy.cybertechconference.com) | Oct 3-4, 2023 | Rome :it: | - | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2023/) | Oct 4-6, 2023 | London :uk: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
+| [CornCon](https://corncon.net/) | Oct 5-7, 2023 | Davenport (IA) :us: | [QCCornCON](https://twitter.com/QCCornCON) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 13-14, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesBloom](https://bsidesbloomington.org) | Oct 13-14, 2023 | Bloomington (IN) :us:| [@bsidesbloom](https://www.twitter.com/bsidesbloom) | N
-| [BSidesCambridgeMA](https://bsidescambridgema.org/) | Oct 14, 2023 | Crambridge (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@BSidesCambridgeMA) | N
+| [BSidesCambridgeMA](https://bsidescambridgema.org/) | Oct 14, 2023 | Cambridge (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@BSidesCambridgeMA) | N
 | [EuroUSEC](https://eurousec23.itu.dk) | Oct 16-17, 2023 | Copenhagen :denmark: | - | Y
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
