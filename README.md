@@ -34,7 +34,7 @@ Thanks! 😉
 | [SANS Neurodiversity in Cybersecurity Summit](https://www.sans.org/cyber-security-training-events/neurodiversity-in-cybersecurity-summit-2023/) | Apr 4, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
 | [BSidesOK](https://bsidesok.com/) | Apr 5-7, 2023 | Glenpool (OK) :us:| [BSidesOK](https://twitter.com/BSidesOK) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
-| [Kernelcon][https://kernelcon.org/] | Apr 12-15,2023 | Omaha (NE) :us: | [@_kernelcon_]https://twitter.com/_kernelcon_] | N
+| [Kernelcon](https://kernelcon.org/) | Apr 12-15, 2023 | Omaha (NE) :us: | [@_kernelcon_](https://twitter.com/_kernelcon_) | N
 | [BSidesNashville](https://bsidesnash.org) | Apr 15, 2023 | Nashville (TN) :us: | [@BSidesnash](https://twitter.com/BSidesnash) | N
 | [HITBSecConf](https://conference.hitb.org/) | Apr 17-21, 2023 | Amsterdam :netherlands: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [Cybersec Europe](https://www.cyberseceurope.com/) | Apr 19-20, 2023 | Brussels :belgium: | [@cyberseceurope_](https://twitter.com/cyberseceurope_) | Y
