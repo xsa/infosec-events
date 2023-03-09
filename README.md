@@ -17,6 +17,7 @@ Thanks! 😉
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [Nullcon](https://nullcon.net/) | Mar 9-10, 2023 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
+| [RootedCON](https://www.rootedcon.com/) | Mar 9-11, 2023 | Madrid :es: | [@rootedcon](https://twitter.com/rootedcon) | N
 | [BsidesHBG](https://bsideshbg.com) | Mar 11, 2023 | Harrisburg (PA) :us: | [@BsidesHbg](https://twitter.com/BsidesHbg) | N
 | [APIsecure](https://www.apisecure.co) | Mar 14-15, 2023 | Santa Clara (CA) :us: | [@apisecure](https://twitter.com/@apisecure) | Y
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
