@@ -89,4 +89,5 @@ Thanks! 😉
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
+| [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 2-3, 2023 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [GreHack](https://grehack.fr/) | Nov 17, 2023 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
