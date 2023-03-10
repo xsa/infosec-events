@@ -65,6 +65,7 @@ Thanks! 😉
 | [BSidesBangalore](https://bsidesbangalore.in) | Jun 8, 2023 | Bangalore :india: | [@bsidesbangalore](https://twitter.com/bsidesbangalore) | N
 | [REcon](https://www.recon.cx) | Jun 9-11, 2023 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
 | [BSidesSATX](https://www.bsidessatx.com/) | Jun 10, 2023 | San Antonio (TX) :us: | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | N
+| [SANS Ransomware Summit](https://www.sans.org/cyber-security-training-events/ransomware-summit-2023/?msc=ransomware-cfp-mlp) | Jun 23, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [TROOPERS](https://troopers.de/) | Jun 26-20, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
