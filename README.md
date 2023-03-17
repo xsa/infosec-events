@@ -16,8 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [APIsecure](https://www.apisecure.co) | Mar 14-15, 2023 | Santa Clara (CA) :us: | [@apisecure](https://twitter.com/@apisecure) | Y
-| [GISEC Global](https://www.gisec.ae) | Mar 14-16, 2023 | Dubai :united_arab_emirates: | [@GISECGlobal](https://twitter.com/GISECGlobal) | Y
 | [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
 | [BSidesROC](https://bsidesroc.com) | Mar 18, 2023 | Rochester (NY) :us: | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
 | [BSidesSofia](https://securitybsides.bg) | Mar 18-19, 2023 | Sofia :bulgaria: | [@bsidesbg](https://twitter.com/bsidesbg) | N
