@@ -16,10 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [WiCyS](https://www.wicys.org/) | Mar 16-18, 2023 | Boulder (CO) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
-| [BSidesROC](https://bsidesroc.com) | Mar 18, 2023 | Rochester (NY) :us: | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
-| [BSidesSofia](https://securitybsides.bg) | Mar 18-19, 2023 | Sofia :bulgaria: | [@bsidesbg](https://twitter.com/bsidesbg) | N
-| [PancakesCon](https://pancakescon.com) | Mar 19, 2023 | Virtual :computer: | [@pancakescon@infosec.exchange](https://infosec.exchange/@pancakescon) | Y
 | [Australian Cyber Conference](https://cyberconference.com.au) | Mar 20-22, 2023 | Canberra :australia: | [@AISA_National](https://twitter.com/AISA_National) | N
 | [Insomni'hack](https://insomnihack.ch/) | Mar 20-25, 2023 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
 | [BSidesCaymanIslands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
