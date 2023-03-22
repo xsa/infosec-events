@@ -55,6 +55,7 @@ Thanks! 😉
 | [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham@infosec.exchange](https://infosec.exchange/@BSidesCheltenham) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [CONFidence](https://www.confidence-conference.org) | Jun 5-6, 2023 | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | N
+| [ENISA AI Cybersecurity Conference](https://www.enisa.europa.eu/events/ai-cybersecurity-conference) | Jun 7, 2023 | Brussels :belgium:<br/> :computer: | [@enisa_eu](https://twitter.com/enisa_eu) | Y
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
 | [BSidesBangalore](https://bsidesbangalore.in) | Jun 8, 2023 | Bangalore :india: | [@bsidesbangalore](https://twitter.com/bsidesbangalore) | N
 | [REcon](https://www.recon.cx) | Jun 9-11, 2023 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
