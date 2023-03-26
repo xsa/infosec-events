@@ -16,13 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Australian Cyber Conference](https://cyberconference.com.au) | Mar 20-22, 2023 | Canberra :australia: | [@AISA_National](https://twitter.com/AISA_National) | N
-| [Insomni'hack](https://insomnihack.ch/) | Mar 20-25, 2023 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
-| [BSidesCaymanIslands](https://bsides.ky) | Mar 22-24, 2023 | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | N
-| [CanSecWest](https://www.secwest.net/) | Mar 22-24, 2023 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
-| [BSidesRegina](https://bsidesregina.ca) | Mar 23, 2023 | Regina (SK) :canada: | - | N
-| [HackSecuReims](https://hacksecureims.eu) | Mar 24-25, 2023 | Reims :fr: | [@hacksecureims_](https://twitter.com/hacksecureims_) | Y
-| [BSidesBUD](https://bsidesbud.com) | Mar 25, 2023 | Budapest :hungary: | [@bsidesbud](https://twitter.com/bsidesbud) | Y
 | [BSidesLancashire](https://www.bsideslancashire.org) | Mar 30, 2023 | Lancaster :uk: | [@BSidesLanc](https://twitter.com/BSidesLanc) | N
 | [CypherCon](https://cyphercon.com/) | Mar 30-31, 2023 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [SANS Neurodiversity in Cybersecurity Summit](https://www.sans.org/cyber-security-training-events/neurodiversity-in-cybersecurity-summit-2023/) | Apr 4, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
