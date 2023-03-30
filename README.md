@@ -66,6 +66,7 @@ Thanks! 😉
 | [BSidesUme](https://indico.neic.no/event/244/) | Jun 27, 2023 | Ume :sweden: | - | N
 | [leHACK](https://lehack.org/) | Jun 30-Jul 1, 2023 | Paris :fr: | [@leHACK](https://twitter.com/leHACK) | N
 | [Pass the SALT](https://pass-the-salt.org/) | Jul 3-5, 2023 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
+| [BSidesMilano](https://milano.securitybsides.it) | Jul 8, 2023 | Milan :it: | [@BSidesMilano](https://twitter.com/@BSidesMilano) | N
 | [BSidesBrisbane](https://bsidesbrisbane.com) | Jul 15, 2023 | Brisbane :australia: | - | N
 | [Black Hat USA](https://www.blackhat.com/us-23/) | Aug 5-10, 2023 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
