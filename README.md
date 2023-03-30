@@ -16,7 +16,8 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesLancashire](https://www.bsideslancashire.org) | Mar 30, 2023 | Lancaster :uk: | [@BSidesLanc](https://twitter.com/BSidesLanc) | N
+| [Scot-Secure](https://www.scot-secure.com) | Mar 30, 2023 | Edinburgh :scotland: | - | N
+| [BSidesLancashire](https://www.bsideslancashire.org) | Mar 30, 2023 | Lancaster :uk: | [@BSidesLanc](https://twitter.com/BSidesLanc) | Y/N
 | [CypherCon](https://cyphercon.com/) | Mar 30-31, 2023 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [SANS Neurodiversity in Cybersecurity Summit](https://www.sans.org/cyber-security-training-events/neurodiversity-in-cybersecurity-summit-2023/) | Apr 4, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
 | [UK Cyber Week](https://www.ukcyberweek.co.uk) | Apr 4-5, 2023 | London :uk: | [@UKCyberWeek](https://twitter.com/UKCyberWeek) | Y
@@ -73,6 +74,7 @@ Thanks! 😉
 | [BSidesTallinn](https://tallinn.bsides.ee/) | TBD Sep 2023 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
 | [BSidesZurich](https://bsideszh.ch/) | Sep 9, 2023 | Zurich :switzerland: | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | TBD
 | [SEC-T](https://www.sec-t.org/) | Sep 12-15, 2023 | Stockholm :sweden: | [@Sec_T_org](https://twitter.com/Sec_T_org) | N
+| [Scot-Secure West](https://www.scotsecurewest.com) | Sep 14, 2023 | Glasgow :scotland: | - | Y/N
 | [RomHack](https://romhack.io) | Sep 16, 2023 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [Hack In Paris](https://hackinparis.com) | Sep 25-29, 2023 | Paris :fr: | [@hackinparis](https://twitter.com/hackinparis) | N
 | [BruCon](https://www.brucon.org/) | Sep 28-29, 2023 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
