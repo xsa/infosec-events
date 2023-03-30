@@ -55,6 +55,7 @@ Thanks! 😉
 | [ENISA AI Cybersecurity Conference](https://www.enisa.europa.eu/events/ai-cybersecurity-conference) | Jun 7, 2023 | Brussels :belgium:<br/> :computer: | [@enisa_eu](https://twitter.com/enisa_eu) | Y
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
 | [BSidesBangalore](https://bsidesbangalore.in) | Jun 8, 2023 | Bangalore :india: | [@bsidesbangalore](https://twitter.com/bsidesbangalore) | N
+| [BSidesBarcelona](https://bsides.barcelona) | Jun 8-9, 2023 | Barcelona :es: | [@barcelonabsides](https://twitter.com/@barcelonabsides) | N
 | [REcon](https://www.recon.cx) | Jun 9-11, 2023 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
 | [BSidesSATX](https://www.bsidessatx.com/) | Jun 10, 2023 | San Antonio (TX) :us: | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | N
 | [RVAsec](https://rvasec.com) | Jun 13-14, 2023 | Richmond (VA) :us: | [@rvasec](https://twitter.com/rvasec) | N
