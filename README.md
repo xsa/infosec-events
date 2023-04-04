@@ -21,6 +21,7 @@ Thanks! 😉
 | [BSidesOK](https://bsidesok.com/) | Apr 5-7, 2023 | Glenpool (OK) :us:| [BSidesOK](https://twitter.com/BSidesOK) | Y
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
 | [Kernelcon](https://kernelcon.org/) | Apr 12-15, 2023 | Omaha (NE) :us: | [@_kernelcon_](https://twitter.com/_kernelcon_) | N
+| [Zer0Con](https://zer0con.org) | Apr 13-14, 2023 | Seoul :kr: | - | N
 | [Hack Space Con](https://www.hackspacecon.com/) | Apr 13-15, 2023 | Merritt Island (FL) :us: | [@HackSpaceCon](https://twitter.com/HackSpaceCon) | N
 | [BSidesSLC](https://www.bsidesslc.org) | Apr 14-15, 2023 | Salt Lake City (UT) :us: | [@bsidesslc](http://www.twitter.com/bsidesslc) | N
 | [BSidesNashville](https://bsidesnash.org) | Apr 15, 2023 | Nashville (TN) :us: | [@BSidesnash](https://twitter.com/BSidesnash) | N
