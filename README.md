@@ -86,7 +86,7 @@ Thanks! 😉
 | [Cybertech Europe](https://italy.cybertechconference.com) | Oct 3-4, 2023 | Rome :it: | - | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2023/) | Oct 4-6, 2023 | London :uk: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [CornCon](https://corncon.net/) | Oct 5-7, 2023 | Davenport (IA) :us: | [QCCornCON](https://twitter.com/QCCornCON) | N
-| [HOU.SEC.CON](https://web.cvent.com/event/76d46ccb-fe00-4fe5-ba46-e4a77c807f21/summary) | Oct 12-13 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
+| [HOU.SEC.CON](https://web.cvent.com/event/76d46ccb-fe00-4fe5-ba46-e4a77c807f21/summary) | Oct 12-13, 2023 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 13-14, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesBloom](https://bsidesbloomington.org) | Oct 13-14, 2023 | Bloomington (IN) :us:| [@bsidesbloom](https://www.twitter.com/bsidesbloom) | N
 | [BSidesCambridgeMA](https://bsidescambridgema.org/) | Oct 14, 2023 | Cambridge (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@BSidesCambridgeMA) | N
