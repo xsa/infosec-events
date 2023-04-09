@@ -47,6 +47,7 @@ Thanks! 😉
 | [THOTCON](https://www.thotcon.org/) | May 19-20, 2023 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
 | [BSidesSeattle](https://www.bsidesseattle.com/) | May 20, 2023 | Seattle (WA) :us: | [@BSidesSeattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N
+| [BSides Fort Wayne](https://bsidesfortwayne.org/) | May 20, 2023 | Fort Wayne (IN) :us: | [@BSidesFortWayne](https://twitter.com/BSidesFortWayne) | N
 | [Security Fest](https://securityfest.com/) | May 25-26, 2023 | Gothenburg :sweden: | [@securityfest](https://twitter.com/securityfest) | N
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham@infosec.exchange](https://infosec.exchange/@BSidesCheltenham) | N
