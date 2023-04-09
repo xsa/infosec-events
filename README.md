@@ -27,6 +27,7 @@ Thanks! 😉
 | [BSidesNashville](https://bsidesnash.org) | Apr 15, 2023 | Nashville (TN) :us: | [@BSidesnash](https://twitter.com/BSidesnash) | N
 | [HITBSecConf](https://conference.hitb.org/) | Apr 17-21, 2023 | Amsterdam :netherlands: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [Cybersec Europe](https://www.cyberseceurope.com/) | Apr 19-20, 2023 | Brussels :belgium: | [@cyberseceurope_](https://twitter.com/cyberseceurope_) | Y
+| [ExploitCon](https://exploitcon.com/) | Apr 20, 2023 | Salt Lake City (UT) :us: | [@ExploitC0n](https://twitter.com/ExploitC0n) | N
 | [THCon](https://thcon.party) | Apr 20-21, 2023 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [CarolinaCon](https://carolinacon.org) | Apr 21-23, 2023 | Virtual :computer: | [@carolinacon@infosec.exchange](https://infosec.exchange/@carolinacon) | Y
 | [BSidesNYC](https://bsidesnyc.org) | Apr 22, 2023 | New York City (NY) :us: | [@BSidesNYC@infosec.exchange](https://infosec.exchange/@BSidesNYC) | N
@@ -46,6 +47,7 @@ Thanks! 😉
 | [THOTCON](https://www.thotcon.org/) | May 19-20, 2023 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
 | [BSidesSeattle](https://www.bsidesseattle.com/) | May 20, 2023 | Seattle (WA) :us: | [@BSidesSeattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N
+| [BSides Fort Wayne](https://bsidesfortwayne.org/) | May 20, 2023 | Fort Wayne (IN) :us: | [@BSidesFortWayne](https://twitter.com/BSidesFortWayne) | N
 | [Security Fest](https://securityfest.com/) | May 25-26, 2023 | Gothenburg :sweden: | [@securityfest](https://twitter.com/securityfest) | N
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham@infosec.exchange](https://infosec.exchange/@BSidesCheltenham) | N
@@ -77,6 +79,7 @@ Thanks! 😉
 | [BSidesZurich](https://bsideszh.ch/) | Sep 9, 2023 | Zurich :switzerland: | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | TBD
 | [SEC-T](https://www.sec-t.org/) | Sep 12-15, 2023 | Stockholm :sweden: | [@Sec_T_org](https://twitter.com/Sec_T_org) | N
 | [Scot-Secure West](https://www.scotsecurewest.com) | Sep 14, 2023 | Glasgow :scotland: | - | Y/N
+| [BSides Columbus](https://www.bsidescolumbus.com/) | Sep 14-15, 2023 | Columbus (OH) :us: | [@BSidesColumbus](https://twitter.com/bsidescolumbus) | N
 | [RomHack](https://romhack.io) | Sep 16, 2023 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [Hack In Paris](https://hackinparis.com) | Sep 25-29, 2023 | Paris :fr: | [@hackinparis](https://twitter.com/hackinparis) | N
 | [BruCon](https://www.brucon.org/) | Sep 28-29, 2023 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
@@ -93,6 +96,7 @@ Thanks! 😉
 | [EuroUSEC](https://eurousec23.itu.dk) | Oct 16-17, 2023 | Copenhagen :denmark: | - | Y
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 18-20, 2023 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
+| [BSidesDayton](https://bsidesdayton.com/) | Oct 21, 2023 | Dayton (OH) :us: | [BSidesDayton](https://twitter.com/bsidesdayton) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 2-3, 2023 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
