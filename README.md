@@ -17,7 +17,7 @@ Thanks! 😉
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [Botconf](https://www.botconf.eu/) | Apr 12-14, 2023 | Strasbourg :fr: | [@botconf](http://www.twitter.com/Botconf) | N
-| [Kernelcon](https://kernelcon.org/) | Apr 12-15, 2023 | Omaha (NE) :us: | [@_kernelcon_](https://twitter.com/_kernelcon_) | N
+| [Kernelcon](https://kernelcon.org/) | Apr 12-15, 2023 | Omaha (NE) :us: | [@kernelcon@infosec.exchange](https://infosec.exchange/@kernelcon) | N
 | [Zer0Con](https://zer0con.org) | Apr 13-14, 2023 | Seoul :kr: | - | N
 | [Hack Space Con](https://www.hackspacecon.com/) | Apr 13-15, 2023 | Merritt Island (FL) :us: | [@HackSpaceCon](https://twitter.com/HackSpaceCon) | N
 | [BSidesSLC](https://www.bsidesslc.org) | Apr 14-15, 2023 | Salt Lake City (UT) :us: | [@bsidesslc](http://www.twitter.com/bsidesslc) | N
