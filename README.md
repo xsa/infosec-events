@@ -47,6 +47,7 @@ Thanks! 😉
 | [BSidesFortWayne](https://bsidesfortwayne.org/) | May 20, 2023 | Fort Wayne (IN) :us: | [@BSidesFortWayne](https://twitter.com/BSidesFortWayne) | N
 | [Security Fest](https://securityfest.com/) | May 25-26, 2023 | Gothenburg :sweden: | [@securityfest](https://twitter.com/securityfest) | N
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
+| [Hardwear.io USA](https://hardwear.io/usa-2023/) | Jun 2-3, 2023 | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham@infosec.exchange](https://infosec.exchange/@BSidesCheltenham) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [CONFidence](https://www.confidence-conference.org) | Jun 5-6, 2023 | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | N
@@ -98,6 +99,7 @@ Thanks! 😉
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 2-3, 2023 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
+| [Hardwear.io](https://hardwear.io/netherlands-2023/) | Nov 2-3, 2023 | The Hague :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [SecretCon](https://www.secretcon.com/) | Nov 2-3, 2023 | St Paul (MN) :us: | - | N
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Nov 11, 2023 | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | N
 | [GreHack](https://grehack.fr/) | Nov 17, 2023 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
