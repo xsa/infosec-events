@@ -64,7 +64,8 @@ Thanks! 😉
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [TROOPERS](https://troopers.de/) | Jun 26-20, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
-| [BSidesUme](https://indico.neic.no/event/244/) | Jun 27, 2023 | Ume :sweden: | - | N
+| [BSidesUme](https://indico.neic.no/event/244/) | Jun 27, 2023 | Ume :sweden: | - | N
+| [BSidesTLV](https://bsidestlv.com) | Jun 29, 2023 | Tel Aviv :israel: | [@BsidesTLV](https://twitter.com/BsidesTLV) | N
 | [leHACK](https://lehack.org/) | Jun 30-Jul 1, 2023 | Paris :fr: | [@leHACK](https://twitter.com/leHACK) | N
 | [Pass the SALT](https://pass-the-salt.org/) | Jul 3-5, 2023 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [BSidesMilano](https://milano.securitybsides.it) | Jul 8, 2023 | Milan :it: | [@BSidesMilano](https://twitter.com/@BSidesMilano) | N
