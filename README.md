@@ -16,10 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [HITBSecConf](https://conference.hitb.org/) | Apr 17-21, 2023 | Amsterdam :netherlands: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
-| [Cybersec Europe](https://www.cyberseceurope.com/) | Apr 19-20, 2023 | Brussels :belgium: | [@cyberseceurope_](https://twitter.com/cyberseceurope_) | Y
-| [ExploitCon](https://exploitcon.com/) | Apr 20, 2023 | Salt Lake City (UT) :us: | [@ExploitC0n](https://twitter.com/ExploitC0n) | N
-| [THCon](https://thcon.party) | Apr 20-21, 2023 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [CarolinaCon](https://carolinacon.org) | Apr 21-23, 2023 | Virtual :computer: | [@carolinacon@infosec.exchange](https://infosec.exchange/@carolinacon) | Y
 | [BSidesNYC](https://bsidesnyc.org) | Apr 22, 2023 | New York City (NY) :us: | [@BSidesNYC@infosec.exchange](https://infosec.exchange/@BSidesNYC) | N
 | [BSidesSanFrancisco](https://bsidessf.org/) | Apr 22-23, 2023 | San Francisco (CA) :us: | [@BSidesSF@infosec.exchange](https://infosec.exchange/@bsidessf) | N
