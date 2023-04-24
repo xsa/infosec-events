@@ -92,4 +92,5 @@ Thanks! 😉
 | [Hardwear.io](https://hardwear.io/netherlands-2023/) | Nov 2-3, 2023 | The Hague :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [SecretCon](https://www.secretcon.com/) | Nov 2-3, 2023 | St Paul (MN) :us: | - | N
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Nov 11, 2023 | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | N
+| [DeepSec](https://deepsec.net) | Nov 14-17, 2023 | Vienna :austria: | [@deepsec@social.tchncs.de](https://social.tchncs.de/@deepsec) | N
 | [GreHack](https://grehack.fr/) | Nov 17, 2023 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
