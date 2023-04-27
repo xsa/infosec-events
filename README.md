@@ -72,6 +72,7 @@ Thanks! 😉
 | [BSidesColumbus](https://www.bsidescolumbus.com/) | Sep 14-15, 2023 | Columbus (OH) :us: | [@BSidesColumbus](https://twitter.com/bsidescolumbus) | N
 | [RomHack](https://romhack.io) | Sep 16, 2023 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [Hack In Paris](https://hackinparis.com) | Sep 25-29, 2023 | Paris :fr: | [@hackinparis](https://twitter.com/hackinparis) | N
+| [ROOTCON](https://rootcon.org) | Sep 27-29, 2023 | Tagaytay :philippines: | [@rootconorg](https://www.twitter.com/rootconorg) | N
 | [BruCon](https://www.brucon.org/) | Sep 28-29, 2023 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
 | [GrrCON](https://grrcon.com/) | Sep 28-29, 2023 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 28-30, 2023 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
