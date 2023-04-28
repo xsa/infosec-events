@@ -72,7 +72,8 @@ Thanks! 😉
 | [Scot-Secure West](https://www.scotsecurewest.com) | Sep 14, 2023 | Glasgow :scotland: | - | Y/N
 | [BSidesColumbus](https://www.bsidescolumbus.com/) | Sep 14-15, 2023 | Columbus (OH) :us: | [@BSidesColumbus](https://twitter.com/bsidescolumbus) | N
 | [RomHack](https://romhack.io) | Sep 16, 2023 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
-| [LABScon](https://www.labscon.io) | Sep 20-23, 2023 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | N
+| [mWISE](https://mwise.mandiant.com) | Sep 18-20, 2023 | Washington (DC) :us: | [@mwiseconference](https://twitter.com/mwiseconference) | N
+| [LABScon](https://www.labscon.io) | Sep 20-23, 2023 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | N
 | [Hack In Paris](https://hackinparis.com) | Sep 25-29, 2023 | Paris :fr: | [@hackinparis](https://twitter.com/hackinparis) | N
 | [ROOTCON](https://rootcon.org) | Sep 27-29, 2023 | Tagaytay :philippines: | [@rootconorg](https://www.twitter.com/rootconorg) | N
 | [BruCon](https://www.brucon.org/) | Sep 28-29, 2023 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
