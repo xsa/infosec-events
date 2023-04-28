@@ -50,7 +50,7 @@ Thanks! 😉
 | [RVAsec](https://rvasec.com) | Jun 13-14, 2023 | Richmond (VA) :us: | [@rvasec](https://twitter.com/rvasec) | N
 | [BSidesLjubljana](https://0x7e7.bsidesljubljana.si) | Jun 16, 2023 | Ljubljana :slovenia: | [@bsidesljubljana](https://twitter.com/@bsidesljubljana) | Y
 | [SANS Ransomware Summit](https://www.sans.org/cyber-security-training-events/ransomware-summit-2023/?msc=ransomware-cfp-mlp) | Jun 23, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
-| [BSidesBoulder](https://bsidesboulder.org) | Jun 23, 2023 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
+| [BSidesBoulder](https://bsidesboulder.org) | Jun 23, 2023 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [TROOPERS](https://troopers.de/) | Jun 26-20, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
@@ -60,6 +60,7 @@ Thanks! 😉
 | [Pass the SALT](https://pass-the-salt.org/) | Jul 3-5, 2023 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [BSidesMilano](https://milano.securitybsides.it) | Jul 8, 2023 | Milan :it: | [@BSidesMilano](https://twitter.com/@BSidesMilano) | N
 | [BSidesBrisbane](https://bsidesbrisbane.com) | Jul 15, 2023 | Brisbane :australia: | - | N
+| [BSidesPHG](www.bsidespgh.com) | Jul 21, 2023 | Pittsburgh (PA) :us: | [@bsidespgh@infosec.exchange](https://infosec.exchange/@bsidespgh) | N
 | [Black Hat USA](https://www.blackhat.com/us-23/) | Aug 5-10, 2023 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
