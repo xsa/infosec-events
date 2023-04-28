@@ -25,6 +25,7 @@ Thanks! 😉
 | [CackalackyCon](https://cackalackycon.org) | May 5-7, 2023 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Sthack](https://www.sthack.fr) | May 12, 2023 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
+| [SLEUTHCON](https://www.sleuthcon.com) | May 12, 2023 | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | N
 | [BSidesKnoxville](https://www.10-sec.org/bsides-knoxville) | May 12, 2023 | Knoxville (TN) :us: | [@bsidesknoxville@infosec.exchange](https://infosec.exchange/@bsidesknoxville) | Y
 | [PasswordsCon](https://passwordscon.org/passwordscon-2023-bergen/) | May 15-16, 2023 | Bergen :norway: | - | Y
 | [NorthSec](https://nsec.io) | May 18-19, 2023 | Montreal :canada: | [@northsec_io](https://twitter.com/northsec_io) | N
