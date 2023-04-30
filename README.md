@@ -16,8 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Eurocrypt](https://eurocrypt.iacr.org/2023/) | Apr 23-27, 2023 | Lyon :fr: | [@IACR_News](https://twitter.com/IACR_News) | N
-| [RSA Conference](https://www.rsaconference.com/) | Apr 24-27, 2023 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
 | [BSidesVancouver](https://sites.google.com/fourthplanet.ca/bsidesvan/home) | Apr 29-30, 2023 | Vancouver :canada: | [@BSidesVancouver](https://twitter.com/BSidesVancouver) | N
 | [BSidesCharm](https://bsidescharm.org/) | Apr 29-30, 2023 | Towson (MD) :us: | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@BSidesCharm) | N
 | [t2](https://t2.fi) | May 4-5, 2023 | Helsinki :finland: | [@t2_fi](https://twitter.com/t2_fi) | N
