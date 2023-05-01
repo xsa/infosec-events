@@ -16,8 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesVancouver](https://sites.google.com/fourthplanet.ca/bsidesvan/home) | Apr 29-30, 2023 | Vancouver :canada: | [@BSidesVancouver](https://twitter.com/BSidesVancouver) | N
-| [BSidesCharm](https://bsidescharm.org/) | Apr 29-30, 2023 | Towson (MD) :us: | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@BSidesCharm) | N
 | [t2](https://t2.fi) | May 4-5, 2023 | Helsinki :finland: | [@t2_fi](https://twitter.com/t2_fi) | N
 | [BSidesAustin](https://bsidesaustin.com) | May 4-5, 2023 | Austin (TX) :us: | [@bsidesaustin@infosec.exchange](https://infosec.exchange/@bsidesaustin) | N
 | [CackalackyCon](https://cackalackycon.org) | May 5-7, 2023 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
