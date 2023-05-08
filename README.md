@@ -16,9 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [t2](https://t2.fi) | May 4-5, 2023 | Helsinki :finland: | [@t2_fi](https://twitter.com/t2_fi) | N
-| [BSidesAustin](https://bsidesaustin.com) | May 4-5, 2023 | Austin (TX) :us: | [@bsidesaustin@infosec.exchange](https://infosec.exchange/@bsidesaustin) | N
-| [CackalackyCon](https://cackalackycon.org) | May 5-7, 2023 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
 | [Black Hat Asia](https://www.blackhat.com) | May 9-12, 2023 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Sthack](https://www.sthack.fr) | May 12, 2023 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
 | [SLEUTHCON](https://www.sleuthcon.com) | May 12, 2023 | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | N
