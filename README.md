@@ -16,13 +16,6 @@ Thanks! 😉
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [PasswordsCon](https://passwordscon.org/passwordscon-2023-bergen/) | May 15-16, 2023 | Bergen :norway: | - | Y
-| [NorthSec](https://nsec.io) | May 18-19, 2023 | Montreal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
-| [Offensive Security Conference](https://www.offensivecon.org/) | May 19-20, 2023 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
-| [THOTCON](https://www.thotcon.org/) | May 19-20, 2023 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
-| [BSidesRoanoke](https://bsidesroa.org/) | May 20, 2023 | Roanoke (VA) :us: | [@RoanokeInfosec](https://twitter.com/roanokeinfosec) | 
-| [BSidesSeattle](https://www.bsidesseattle.com/) | May 20, 2023 | Seattle (WA) :us: | [@BSidesSeattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N
-| [BSidesFortWayne](https://bsidesfortwayne.org/) | May 20, 2023 | Fort Wayne (IN) :us: | [@BSidesFortWayne](https://twitter.com/BSidesFortWayne) | N
 | [Security Fest](https://securityfest.com/) | May 25-26, 2023 | Gothenburg :sweden: | [@securityfest](https://twitter.com/securityfest) | N
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 27, 2023 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [x33fcon](https://www.x33fcon.com/) | May 29-30, 2023 | Gdynia :poland: | [@x33fcon](https://www.twitter.com/x33fcon) | N
