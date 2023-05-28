@@ -45,6 +45,7 @@ Thanks! 😉
 | [BSidesBrisbane](https://bsidesbrisbane.com) | Jul 15, 2023 | Brisbane :australia: | - | N
 | [BSidesPHG](www.bsidespgh.com) | Jul 21, 2023 | Pittsburgh (PA) :us: | [@bsidespgh@infosec.exchange](https://infosec.exchange/@bsidespgh) | N
 | [Black Hat USA](https://www.blackhat.com/us-23/) | Aug 5-10, 2023 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [The Diana Initiative](https://www.dianainitiative.org) | Aug 7, 2023 | Las Vegas (NV) :us: | [@dianainitiative](https://www.twitter.com/dianainitiative) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [Blue Team Con](https://blueteamcon.com/) | Aug 25-27, 2023 | Chicago (IL) :us: | [@BlueTeamCon](https://twitter.com/BlueTeamCon) | N
