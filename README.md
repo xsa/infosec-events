@@ -46,11 +46,12 @@ Thanks! 😉
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [Blue Team Con](https://blueteamcon.com/) | Aug 25-27, 2023 | Chicago (IL) :us: | [@BlueTeamCon](https://twitter.com/BlueTeamCon) | N
-| [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [BSidesTallinn](https://tallinn.bsides.ee/) | TBD Sep 2023 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
 | [BSidesZurich](https://bsideszh.ch/) | Sep 9, 2023 | Zurich :switzerland: | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | TBD
+| [Borderless Cyber Meets Privacy](https://borderlesscyber2023.oasis-open.org/) | Sep 11-12, 2023 | Egham Hill :uk: | [@OASISopen](https://twitter.com/OASISopen) | N
 | [SEC-T](https://www.sec-t.org/) | Sep 12-15, 2023 | Stockholm :sweden: | [@Sec_T_org](https://twitter.com/Sec_T_org) | N
 | [Scot-Secure West](https://www.scotsecurewest.com) | Sep 14, 2023 | Glasgow :scotland: | - | Y/N
+| [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [BSidesColumbus](https://www.bsidescolumbus.com/) | Sep 14-15, 2023 | Columbus (OH) :us: | [@BSidesColumbus](https://twitter.com/bsidescolumbus) | N
 | [RomHack](https://romhack.io) | Sep 16, 2023 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [mWISE](https://mwise.mandiant.com) | Sep 18-20, 2023 | Washington (DC) :us: | [@mwiseconference](https://twitter.com/mwiseconference) | N
