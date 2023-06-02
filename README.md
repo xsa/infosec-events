@@ -15,6 +15,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Hardwear.io USA](https://hardwear.io/usa-2023/) | Jun 2-3, 2023 | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [BSidesCheltenham](https://www.cheltenhambsides.org.uk/) | Jun 3, 2023 | Cheltenham :uk: | [@BSidesCheltenham@infosec.exchange](https://infosec.exchange/@BSidesCheltenham) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
+| [FIRST Conference](https://www.first.org/conference/2023/) | Jun 4-9, 2023 | Montreal :canada: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [CONFidence](https://www.confidence-conference.org) | Jun 5-6, 2023 | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | N
 | [ENISA AI Cybersecurity Conference](https://www.enisa.europa.eu/events/ai-cybersecurity-conference) | Jun 7, 2023 | Brussels :belgium:<br/> :computer: | [@enisa_eu](https://twitter.com/enisa_eu) | Y
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
