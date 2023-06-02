@@ -17,7 +17,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 3, 2023 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [FIRST Conference](https://www.first.org/conference/2023/) | Jun 4-9, 2023 | Montreal :canada: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [CONFidence](https://www.confidence-conference.org) | Jun 5-6, 2023 | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | N
-| [Techno Security & Digital Forensics Conference](https://www.technosecurity.us/east) | June 5-8, 2023 | Wilmington (NC) :us: | [@technosecurity](https://twitter.com/technosecurity) | N
+| [Techno Security & Digital Forensics Conference](https://www.technosecurity.us/east) | Jun 5-8, 2023 | Wilmington (NC) :us: | [@technosecurity](https://twitter.com/technosecurity) | N
 | [ENISA AI Cybersecurity Conference](https://www.enisa.europa.eu/events/ai-cybersecurity-conference) | Jun 7, 2023 | Brussels :belgium:<br/> :computer: | [@enisa_eu](https://twitter.com/enisa_eu) | Y
 | [SSTIC](https://www.sstic.org) | Jun 7-9, 2023 | Rennes :fr: | - | N
 | [Grassr00tz](https://www.grassr00tz.com/) | Jun 8, 2023 | Appleton (WI) :us: | [@grassr00tz](https://twitter.com/grassr00tz) | Y
