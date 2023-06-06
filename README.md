@@ -67,6 +67,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Security Onion Conference](https://blog.securityonion.net/2023/05/security-onion-conference-2023-save.html) | Oct 6, 2023 | Augusta (GA) :us: | [@securityonion](https://twitter.com/securityonion) | Y
 | [HOU.SEC.CON](https://web.cvent.com/event/76d46ccb-fe00-4fe5-ba46-e4a77c807f21/summary) | Oct 12-13, 2023 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 13-14, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
+| [SecSea](https://secsea.org) | Oct 13-14, 2023 | La Ciotat :fr: | [@SecSeaConf](https://twitter.com/SecSeaConf) | N
 | [BSidesBloom](https://bsidesbloomington.org) | Oct 13-14, 2023 | Bloomington (IN) :us:| [@bsidesbloom](https://www.twitter.com/bsidesbloom) | N
 | [BSidesCambridgeMA](https://bsidescambridgema.org/) | Oct 14, 2023 | Cambridge (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@BSidesCambridgeMA) | N
 | [EuroUSEC](https://eurousec23.itu.dk) | Oct 16-17, 2023 | Copenhagen :denmark: | - | Y
