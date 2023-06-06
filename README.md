@@ -41,6 +41,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
 | [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [Blue Team Con](https://blueteamcon.com/) | Aug 25-27, 2023 | Chicago (IL) :us: | [@BlueTeamCon](https://twitter.com/BlueTeamCon) | N
+| [Barbhack](https://www.barbhack.fr/2023/en/) | Aug 26, 2023 | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | N
 | [BSidesTallinn](https://tallinn.bsides.ee/) | TBD Sep 2023 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
 | [BSidesZurich](https://bsideszh.ch/) | Sep 9, 2023 | Zurich :switzerland: | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | TBD
 | [Borderless Cyber Meets Privacy](https://borderlesscyber2023.oasis-open.org/) | Sep 11-12, 2023 | Egham Hill :uk: | [@OASISopen](https://twitter.com/OASISopen) | N
