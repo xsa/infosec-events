@@ -66,6 +66,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 18-20, 2023 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [BSidesDayton](https://bsidesdayton.com/) | Oct 21, 2023 | Dayton (OH) :us: | [BSidesDayton](https://twitter.com/bsidesdayton) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
+| [SAINTCON](https://www.saintcon.org) | Oct 24-27, 2023 | Provo (UT) :us: | - | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 | [Ekoparty](https://ekoparty.org/en_US/) | Nov 1-3, 2023 | Buenos Aires :argentina: | [@ekoparty](https://twitter.com/ekoparty) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 2-3, 2023 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
