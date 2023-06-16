@@ -12,8 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [fwd:cloudsec](https://fwdcloudsec.org/) | Jun 12-13, 2023 | Anaheim (CA) :us: | [@fwdcloudsec@infosec.exchange](https://infosec.exchange/@fwdcloudsec) | N
-| [RVAsec](https://rvasec.com) | Jun 13-14, 2023 | Richmond (VA) :us: | [@rvasec](https://twitter.com/rvasec) | N
 | [BSidesLjubljana](https://0x7e7.bsidesljubljana.si) | Jun 16, 2023 | Ljubljana :slovenia: | [@bsidesljubljana](https://twitter.com/@bsidesljubljana) | Y
 | [SANS Ransomware Summit](https://www.sans.org/cyber-security-training-events/ransomware-summit-2023/?msc=ransomware-cfp-mlp) | Jun 23, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 23, 2023 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
