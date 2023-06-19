@@ -12,7 +12,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesLjubljana](https://0x7e7.bsidesljubljana.si) | Jun 16, 2023 | Ljubljana :slovenia: | [@bsidesljubljana](https://twitter.com/@bsidesljubljana) | Y
+| [Infosecurity Europe](https://www.infosecurityeurope.com) | Jun 20-22, 2023 | London :uk: | [@Infosecurity](https://www.twitter.com/Infosecurity) | N
 | [SANS Ransomware Summit](https://www.sans.org/cyber-security-training-events/ransomware-summit-2023/?msc=ransomware-cfp-mlp) | Jun 23, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 23, 2023 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
 | [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
