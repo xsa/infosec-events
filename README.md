@@ -12,11 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Infosecurity Europe](https://www.infosecurityeurope.com) | Jun 20-22, 2023 | London :uk: | [@Infosecurity](https://www.twitter.com/Infosecurity) | N
-| [SANS Ransomware Summit](https://www.sans.org/cyber-security-training-events/ransomware-summit-2023/?msc=ransomware-cfp-mlp) | Jun 23, 2023 | Virtual :computer: | [@sansinstitute](https://twitter.com/sansinstitute) | Y
-| [BSidesBoulder](https://bsidesboulder.org) | Jun 23, 2023 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
-| [CircleCityCon](https://circlecitycon.org/) | Jun 23-25, 2023 | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | N
-| [BSidesAthens](https://www.bsidesath.gr/) | Jun 24, 2023 | Athens :greece: | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [TROOPERS](https://troopers.de/) | Jun 26-20, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [BSidesUme](https://indico.neic.no/event/244/) | Jun 27, 2023 | Ume :sweden: | - | N
 | [BSidesTLV](https://bsidestlv.com) | Jun 29, 2023 | Tel Aviv :israel: | [@BsidesTLV](https://twitter.com/BsidesTLV) | N
