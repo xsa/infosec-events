@@ -71,5 +71,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/berlin2023/) | Nov 6-8, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Nov 11, 2023 | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | N
 | [DeepSec](https://deepsec.net) | Nov 14-17, 2023 | Vienna :austria: | [@deepsec@social.tchncs.de](https://social.tchncs.de/@deepsec) | N
+| [SANS HackFest Summit](https://www.sans.org/cyber-security-training-events/hackfest-summit-2023/) | Nov 16-17, 2023 | Hollywood (CA) :us: | [@SANSOffensive](https://twitter.com/SANSOffensive) | N
 | [GreHack](https://grehack.fr/) | Nov 17, 2023 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [BSidesBerlin](https://bsides.berlin) | Nov 18, 2023 | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | N
