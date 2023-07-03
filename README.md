@@ -35,6 +35,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [RomHack](https://romhack.io) | Sep 16, 2023 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [mWISE](https://mwise.mandiant.com) | Sep 18-20, 2023 | Washington (DC) :us: | [@mwiseconference](https://twitter.com/mwiseconference) | N
 | [LABScon](https://www.labscon.io) | Sep 20-23, 2023 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | N
+| [nullcon](https://nullcon.net/goa-2023) | Sep 20-24, 2023 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
 | [BSidesOslo](https://bsidesoslo.no) | Sep 21, 2023 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | Y
 | [BSidesTirana](https://bsidestirana.al/) | Sep 21, 2023 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [European Cybersecurity Skills Conference](https://www.enisa.europa.eu/events/cybersecurity-skills-conference-2023) | Sep 21-22, 2023 | Segovia :es: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
