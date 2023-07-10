@@ -12,8 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Pass the SALT](https://pass-the-salt.org/) | Jul 3-5, 2023 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
-| [BSidesMilano](https://milano.securitybsides.it) | Jul 8, 2023 | Milan :it: | [@BSidesMilano](https://twitter.com/@BSidesMilano) | N
 | [BSidesBrisbane](https://bsidesbrisbane.com) | Jul 15, 2023 | Brisbane :australia: | - | N
 | [BSidesPHG](www.bsidespgh.com) | Jul 21, 2023 | Pittsburgh (PA) :us: | [@bsidespgh@infosec.exchange](https://infosec.exchange/@bsidespgh) | N
 | [Black Hat USA](https://www.blackhat.com/us-23/) | Aug 5-10, 2023 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
