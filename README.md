@@ -45,6 +45,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 28-30, 2023 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
 | [Converge Security Conference](https://convergesec.com/) | Sep 29-30, 2023 | Anaheim (CA) :us: | [@convergesec](https://twitter.com/convergesec) | N
 | [Cybertech Europe](https://italy.cybertechconference.com) | Oct 3-4, 2023 | Rome :it: | - | N
+| [c0c0n](https://india.c0c0n.org) | Oct 4-7, 2023 | Kochi :india: | [@\_c0c0n\_](https://www.twitter.com/_c0c0n_) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2023/) | Oct 4-6, 2023 | London :uk: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [CornCon](https://corncon.net/) | Oct 5-7, 2023 | Davenport (IA) :us: | [@QCCornCON](https://twitter.com/QCCornCON) | N
 | [Security Onion Conference](https://blog.securityonion.net/2023/05/security-onion-conference-2023-save.html) | Oct 6, 2023 | Augusta (GA) :us: | [@securityonion](https://twitter.com/securityonion) | Y
