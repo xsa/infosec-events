@@ -56,6 +56,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [SecSea](https://secsea.org) | Oct 13-14, 2023 | La Ciotat :fr: | [@SecSeaConf](https://twitter.com/SecSeaConf) | N
 | [BSidesBloom](https://bsidesbloomington.org) | Oct 13-14, 2023 | Bloomington (IN) :us:| [@bsidesbloom](https://www.twitter.com/bsidesbloom) | N
 | [BSidesCambridgeMA](https://bsidescambridgema.org/) | Oct 14, 2023 | Cambridge (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@BSidesCambridgeMA) | N
+| [BSidesMunich](https://2023.bsidesmunich.org) | Oct 14-15, 2023 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
 | [EuroUSEC](https://eurousec23.itu.dk) | Oct 16-17, 2023 | Copenhagen :denmark: | - | Y
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 18-20, 2023 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
