@@ -26,6 +26,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Borderless Cyber Meets Privacy](https://borderlesscyber2023.oasis-open.org/) | Sep 11-12, 2023 | Egham Hill :uk: | [@OASISopen](https://twitter.com/OASISopen) | N
 | [Cyberhagen](https://www.cyberhagen.com) | Sep 12-13, 2023 | Copenhagen :denmark: + :computer: | - | N
 | [SEC-T](https://www.sec-t.org/) | Sep 12-15, 2023 | Stockholm :sweden: | [@Sec_T_org](https://twitter.com/Sec_T_org) | N
+| [44CON](https://44con.com/) | Sep 13-15, 2023 | London :uk: | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N
 | [Scot-Secure West](https://www.scotsecurewest.com) | Sep 14, 2023 | Glasgow :scotland: | - | Y/N
 | [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
 | [BSidesColumbus](https://www.bsidescolumbus.com/) | Sep 14-15, 2023 | Columbus (OH) :us: | [@BSidesColumbus](https://twitter.com/bsidescolumbus) | N
