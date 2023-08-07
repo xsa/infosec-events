@@ -33,6 +33,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesFrankfurt](https://bsidesfrankfurt.org) | Sep 15, 2023 | Frankfurt :de: | [@BSidesFRA](https://twitter.com/BSidesFRA) | N
 | [RomHack](https://romhack.io) | Sep 16, 2023 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [mWISE](https://mwise.mandiant.com) | Sep 18-20, 2023 | Washington (DC) :us: | [@mwiseconference](https://twitter.com/mwiseconference) | N
+| [BSidesStJohns](https://www.bsidesstjohns.com) | Sep 20, 2023 | St. John’s (NL) :canada: | [@BSidesStJohns](https://twitter.com/BSidesStJohns) | Y
 | [LABScon](https://www.labscon.io) | Sep 20-23, 2023 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | N
 | [nullcon](https://nullcon.net/goa-2023) | Sep 20-24, 2023 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
 | [BSidesOslo](https://bsidesoslo.no) | Sep 21, 2023 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | Y
