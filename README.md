@@ -12,11 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [SquadCon](https://girlshackvillage.com) | Aug 1-3, 2023 | Las Vegas (NV) :us: | - | N
-| [Black Hat USA](https://www.blackhat.com/us-23/) | Aug 5-10, 2023 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [The Diana Initiative](https://www.dianainitiative.org) | Aug 7, 2023 | Las Vegas (NV) :us: | [@DianaInitiative@defcon.social](https://defcon.social/@DianaInitiative) | N
-| [BSidesLasVegas](https://bsideslv.org/) | Aug 8-9, 2023 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
-| [DEF CON 31](https://defcon.org/) | Aug 10-13, 2023 | Las Vegas (NV) :us: | [@defcon](https://twitter.com/defcon) | N
 | [OFFZONE](https://offzone.moscow/eng/) | Aug 24-25, 2023 | Moscow :ru: | [@offzone_moscow](https://twitter.com/offzone_moscow) | N
 | [Blue Team Con](https://blueteamcon.com/) | Aug 25-27, 2023 | Chicago (IL) :us: | [@BlueTeamCon](https://twitter.com/BlueTeamCon) | N
 | [Barbhack](https://www.barbhack.fr/2023/en/) | Aug 26, 2023 | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | N
