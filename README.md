@@ -15,7 +15,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [OFFZONE](https://offzone.moscow/eng/) | Aug 24-25, 2023 | Moscow :ru: | [@offzone_moscow](https://twitter.com/offzone_moscow) | N
 | [Blue Team Con](https://blueteamcon.com/) | Aug 25-27, 2023 | Chicago (IL) :us: | [@BlueTeamCon](https://twitter.com/BlueTeamCon) | N
 | [Barbhack](https://www.barbhack.fr/2023/en/) | Aug 26, 2023 | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | N
-| [BSidesTallinn](https://tallinn.bsides.ee/) | TBD Sep 2023 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
 | [Balkan Computer Congress]() | Sep 8-10, 2023 | Novi Sad :serbia: | [@BalCC0n](https://twitter.com/BalCC0n) | N
 | [BSidesZurich](https://bsideszh.ch/) | Sep 9, 2023 | Zurich :switzerland: | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | TBD
 | [Borderless Cyber Meets Privacy](https://borderlesscyber2023.oasis-open.org/) | Sep 11-12, 2023 | Egham Hill :uk: | [@OASISopen](https://twitter.com/OASISopen) | N
@@ -31,6 +30,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesStJohns](https://www.bsidesstjohns.com) | Sep 20, 2023 | St. John’s (NL) :canada: | [@BSidesStJohns](https://twitter.com/BSidesStJohns) | Y
 | [LABScon](https://www.labscon.io) | Sep 20-23, 2023 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | N
 | [nullcon](https://nullcon.net/goa-2023) | Sep 20-24, 2023 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
+| [BSidesTallinn](https://tallinn.bsides.ee/) | 21 Sep 2023 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
 | [BSidesOslo](https://bsidesoslo.no) | Sep 21, 2023 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | Y
 | [BSidesTirana](https://bsidestirana.al/) | Sep 21, 2023 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [European Cybersecurity Skills Conference](https://www.enisa.europa.eu/events/cybersecurity-skills-conference-2023) | Sep 21-22, 2023 | Segovia :es: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
