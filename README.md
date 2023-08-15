@@ -30,7 +30,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesStJohns](https://www.bsidesstjohns.com) | Sep 20, 2023 | St. John’s (NL) :canada: | [@BSidesStJohns](https://twitter.com/BSidesStJohns) | Y
 | [LABScon](https://www.labscon.io) | Sep 20-23, 2023 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | N
 | [nullcon](https://nullcon.net/goa-2023) | Sep 20-24, 2023 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
-| [BSidesTallinn](https://tallinn.bsides.ee/) | 21 Sep 2023 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
+| [BSidesTallinn](https://tallinn.bsides.ee/) | Sep 21, 2023 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
 | [BSidesOslo](https://bsidesoslo.no) | Sep 21, 2023 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | Y
 | [BSidesTirana](https://bsidestirana.al/) | Sep 21, 2023 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [European Cybersecurity Skills Conference](https://www.enisa.europa.eu/events/cybersecurity-skills-conference-2023) | Sep 21-22, 2023 | Segovia :es: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
