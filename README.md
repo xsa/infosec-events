@@ -76,4 +76,5 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Elbsides](https://elbsides.eu/) | Nov 17, 2023 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [GreHack](https://grehack.fr/) | Nov 17, 2023 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [BSidesBerlin](https://bsides.berlin) | Nov 18, 2023 | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | N
+| [BSidesVienna](https://bsidesvienna.at) | Nov 18-19, 2023 | Vienna :austria: | [@bsidesvienna@infosec.exchange](https://infosec.exchange/@bsidesvienna) | N
 | [m0lecon](https://m0lecon.it) | Dec 2, 2023 | Torino :it: | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
