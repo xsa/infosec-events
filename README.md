@@ -79,3 +79,4 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesBerlin](https://bsides.berlin) | Nov 18, 2023 | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | N
 | [BSidesVienna](https://bsidesvienna.at) | Nov 18-19, 2023 | Vienna :austria: | [@bsidesvienna@infosec.exchange](https://infosec.exchange/@bsidesvienna) | N
 | [m0lecon](https://m0lecon.it) | Dec 2, 2023 | Torino :it: | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
+| [Cybersecurity and Privacy Professionals Conference 2024](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2024) | May 1–3, 2024 | Minneapolis, MN | - | N
