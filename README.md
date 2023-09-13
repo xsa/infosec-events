@@ -58,6 +58,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [EuroUSEC](https://eurousec23.itu.dk) | Oct 16-17, 2023 | Copenhagen :denmark: | - | Y
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 18-20, 2023 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
+| [JawnCon](https://jawncon.org) | Oct 19-20, 2023 | Glenside (PA) :us: | [@jawncon@infosec.exchange](https://infosec.exchange/@jawncon) | Y (for .edu)
 | [BSidesDayton](https://bsidesdayton.com/) | Oct 21, 2023 | Dayton (OH) :us: | [BSidesDayton](https://twitter.com/bsidesdayton) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [SAINTCON](https://www.saintcon.org) | Oct 24-27, 2023 | Provo (UT) :us: | - | N
