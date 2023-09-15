@@ -34,6 +34,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesTirana](https://bsidestirana.al/) | Sep 21, 2023 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [European Cybersecurity Skills Conference](https://www.enisa.europa.eu/events/cybersecurity-skills-conference-2023) | Sep 21-22, 2023 | Segovia :es: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
 | [BSidesSG](https://bsidessg.org) | Sep 22, 2023 | Singapore :singapore: | [@BSidesSG](https://twitter.com/BSidesSG) | N
+| [BSidesEdmonton](https://www.bsidesedmonton.ca) | Sep 25-26, 2023 | Edmonton (AB) :canada: | - | N
 | [Hack In Paris](https://hackinparis.com) | Sep 25-29, 2023 | Paris :fr: | [@hackinparis](https://twitter.com/hackinparis) | N
 | [ROOTCON](https://rootcon.org) | Sep 27-29, 2023 | Tagaytay :philippines: | [@rootconorg](https://www.twitter.com/rootconorg) | N
 | [BruCon](https://www.brucon.org/) | Sep 28-29, 2023 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
