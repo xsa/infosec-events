@@ -12,12 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [44CON](https://44con.com/) | Sep 13-15, 2023 | London :uk: | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N
-| [Scot-Secure West](https://www.scotsecurewest.com) | Sep 14, 2023 | Glasgow :scotland: | - | Y/N
-| [Global Cyber Conference](https://swisscyberinstitute.com/conference/) | Sep 14-15, 2023 | Zurich :switzerland: | [@swisscyberinst](https://twitter.com/swisscyberinst) | N
-| [BSidesColumbus](https://www.bsidescolumbus.com/) | Sep 14-15, 2023 | Columbus (OH) :us: | [@BSidesColumbus](https://twitter.com/bsidescolumbus) | N
-| [BSidesFrankfurt](https://bsidesfrankfurt.org) | Sep 15, 2023 | Frankfurt :de: | [@BSidesFRA](https://twitter.com/BSidesFRA) | N
-| [RomHack](https://romhack.io) | Sep 16, 2023 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [mWISE](https://mwise.mandiant.com) | Sep 18-20, 2023 | Washington (DC) :us: | [@mwiseconference](https://twitter.com/mwiseconference) | N
 | [Internet2 Technology Exchange](https://internet2.edu/2023-internet2-technology-exchange/) (Security Track) | Sep 18-22, 2023 | Minneapolis (MN) :us: | - | N
 | [BSidesStJohns](https://www.bsidesstjohns.com) | Sep 20, 2023 | St. John’s (NL) :canada: | [@BSidesStJohns](https://twitter.com/BSidesStJohns) | Y
