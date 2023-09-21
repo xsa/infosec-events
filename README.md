@@ -6,12 +6,20 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 ## Past
 
-[2023](./2023.md) | [2022](./2022.md)
+[2025](./2025.md) | [2024](./2024.md) | [2023](./2023.md) | [2022](./2022.md)
 
 ## Upcoming
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
+| [THOTCON](https://www.thotcon.org/) | May 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
+| [CactusCon](https://www.cactuscon.com/) | Feb 16-17, 2024 | Mesa (AZ) :us: | [@CactusCon](https://twitter.com/CactusCon) | Y
+| [BSidesChicago](https://bsideschicago.org/yx/) | Nov 10, 2023 | Chicago (IL) :us: | [@bsideschicago](https://www.facebook.com/BsidesChicago/) | N
+| [Simply Cyber Con](https://www.simplycybercon.org/) | Nov 08, 2023 | Virtual :computer: | [@geral_auger](https://twitter.com/gerald_auger) | Y
+| [Hackers Teaching Hackers](https://www.hthackers.com/) | Nov 02, 2023 | Columbus (OH) :us: | [@hthackers](https://twitter.com/hthackers) | N
+| [SAINTCON](https://www.saintcon.org/) | Oct 24-27, 2023 | Provo (UT) :us: | [@SAINTCON](https://twitter.com/SAINTCON)
+| [CONspiracy](https://www.csscd.org/) | Oct 20, 2023 | Anderson (IN) :us: | [@CSSCD_AU](https://twitter.com/CSSCD_AU) | N
+| [GrrCON](https://grrcon.com/) | Sept 28-29, 2023 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [mWISE](https://mwise.mandiant.com) | Sep 18-20, 2023 | Washington (DC) :us: | [@mwiseconference](https://twitter.com/mwiseconference) | N
 | [Internet2 Technology Exchange](https://internet2.edu/2023-internet2-technology-exchange/) (Security Track) | Sep 18-22, 2023 | Minneapolis (MN) :us: | - | N
 | [BSidesStJohns](https://www.bsidesstjohns.com) | Sep 20, 2023 | St. John’s (NL) :canada: | [@BSidesStJohns](https://twitter.com/BSidesStJohns) | Y
