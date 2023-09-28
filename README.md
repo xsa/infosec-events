@@ -12,17 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [mWISE](https://mwise.mandiant.com) | Sep 18-20, 2023 | Washington (DC) :us: | [@mwiseconference](https://twitter.com/mwiseconference) | N
-| [Internet2 Technology Exchange](https://internet2.edu/2023-internet2-technology-exchange/) (Security Track) | Sep 18-22, 2023 | Minneapolis (MN) :us: | - | N
-| [BSidesStJohns](https://www.bsidesstjohns.com) | Sep 20, 2023 | St. John’s (NL) :canada: | [@BSidesStJohns](https://twitter.com/BSidesStJohns) | Y
-| [LABScon](https://www.labscon.io) | Sep 20-23, 2023 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | N
-| [nullcon](https://nullcon.net/goa-2023) | Sep 20-24, 2023 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
-| [BSidesTallinn](https://tallinn.bsides.ee/) | Sep 21, 2023 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
-| [BSidesOslo](https://bsidesoslo.no) | Sep 21, 2023 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | Y
-| [BSidesTirana](https://bsidestirana.al/) | Sep 21, 2023 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
-| [European Cybersecurity Skills Conference](https://www.enisa.europa.eu/events/cybersecurity-skills-conference-2023) | Sep 21-22, 2023 | Segovia :es: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
-| [BSidesSG](https://bsidessg.org) | Sep 22, 2023 | Singapore :singapore: | [@BSidesSG](https://twitter.com/BSidesSG) | N
-| [BSidesEdmonton](https://www.bsidesedmonton.ca) | Sep 25-26, 2023 | Edmonton (AB) :canada: | - | N
 | [Hack In Paris](https://hackinparis.com) | Sep 25-29, 2023 | Paris :fr: | [@hackinparis](https://twitter.com/hackinparis) | N
 | [ROOTCON](https://rootcon.org) | Sep 27-29, 2023 | Tagaytay :philippines: | [@rootconorg](https://www.twitter.com/rootconorg) | N
 | [BruCon](https://www.brucon.org/) | Sep 28-29, 2023 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
