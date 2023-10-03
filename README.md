@@ -12,12 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Hack In Paris](https://hackinparis.com) | Sep 25-29, 2023 | Paris :fr: | [@hackinparis](https://twitter.com/hackinparis) | N
-| [ROOTCON](https://rootcon.org) | Sep 27-29, 2023 | Tagaytay :philippines: | [@rootconorg](https://www.twitter.com/rootconorg) | N
-| [BruCon](https://www.brucon.org/) | Sep 28-29, 2023 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
-| [GrrCON](https://grrcon.com/) | Sep 28-29, 2023 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
-| [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 28-30, 2023 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
-| [Converge Security Conference](https://convergesec.com/) | Sep 29-30, 2023 | Anaheim (CA) :us: | [@convergesec](https://twitter.com/convergesec) | N
 | [Cybertech Europe](https://italy.cybertechconference.com) | Oct 3-4, 2023 | Rome :it: | - | N
 | [c0c0n](https://india.c0c0n.org) | Oct 4-7, 2023 | Kochi :india: | [@\_c0c0n\_](https://www.twitter.com/_c0c0n_) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2023/) | Oct 4-6, 2023 | London :uk: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
