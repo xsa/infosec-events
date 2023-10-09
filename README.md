@@ -12,14 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Cybertech Europe](https://italy.cybertechconference.com) | Oct 3-4, 2023 | Rome :it: | - | N
-| [c0c0n](https://india.c0c0n.org) | Oct 4-7, 2023 | Kochi :india: | [@\_c0c0n\_](https://www.twitter.com/_c0c0n_) | N
-| [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2023/) | Oct 4-6, 2023 | London :uk: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
-| [MSSN CTRL](https://www.mssnctrl.org) | Oct 5-6, 2023 | Arlington (VA) :us: | - | N
-| [CornCon](https://corncon.net/) | Oct 5-7, 2023 | Davenport (IA) :us: | [@QCCornCON](https://twitter.com/QCCornCON) | N
-| [Security Onion Conference](https://blog.securityonion.net/2023/05/security-onion-conference-2023-save.html) | Oct 6, 2023 | Augusta (GA) :us: | [@securityonion](https://twitter.com/securityonion) | Y
-| [BSidesPDX](https://bsidespdx.org) | Oct 6-7, 2023 | Portland (OR) :us: | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | Y
-| [BSidesAugusta](https://bsidesaugusta.org) | Oct 7, 2023 | Augusta (GA) :us: | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | Y
 | [Hackfest](https://hackfest.ca) | Oct 9-14, 2023 | Lévis (QC) :canada: | [@hackfest@infosec.exchange](https://infosec.exchange/@hackfest) | N
 | [HOU.SEC.CON](https://web.cvent.com/event/76d46ccb-fe00-4fe5-ba46-e4a77c807f21/summary) | Oct 12-13, 2023 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
 | [BSidesVI](https://www.bsidesvi.com) | Oct 13, 2023 | Victoria (BC) :canada: |  [@BSidesVI](https://infosec.exchange/@BSidesVI) | TBA
