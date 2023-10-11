@@ -52,3 +52,5 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Educause Cybersecurity and Privacy Professionals Conference 2024](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2024) | May 1–3, 2024 | Minneapolis (MN) :us: | - | N
 | [CactusCon](https://www.cactuscon.com/) | Feb 16-17, 2024 | Mesa (AZ) :us: | [@CactusCon](https://twitter.com/CactusCon) | Y
 | [THOTCON](https://www.thotcon.org/) | May 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
+| [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
+
