@@ -12,15 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Hackfest](https://hackfest.ca) | Oct 9-14, 2023 | Lévis (QC) :canada: | [@hackfest@infosec.exchange](https://infosec.exchange/@hackfest) | N
-| [HOU.SEC.CON](https://web.cvent.com/event/76d46ccb-fe00-4fe5-ba46-e4a77c807f21/summary) | Oct 12-13, 2023 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
-| [BSidesVI](https://www.bsidesvi.com) | Oct 13, 2023 | Victoria (BC) :canada: |  [@BSidesVI](https://infosec.exchange/@BSidesVI) | TBA
-| [Hexacon](https://www.hexacon.fr/) | Oct 13-14, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
-| [SecSea](https://secsea.org) | Oct 13-14, 2023 | La Ciotat :fr: | [@SecSeaConf](https://twitter.com/SecSeaConf) | N
-| [BSidesBloom](https://bsidesbloomington.org) | Oct 13-14, 2023 | Bloomington (IN) :us:| [@bsidesbloom](https://www.twitter.com/bsidesbloom) | N
-| [BSidesCambridgeMA](https://bsidescambridgema.org/) | Oct 14, 2023 | Cambridge (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@BSidesCambridgeMA) | N
-| [BSidesMunich](https://2023.bsidesmunich.org) | Oct 14-15, 2023 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
-| [EuroUSEC](https://eurousec23.itu.dk) | Oct 16-17, 2023 | Copenhagen :denmark: | - | Y
 | [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 18-20, 2023 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [JawnCon](https://jawncon.org) | Oct 19-20, 2023 | Glenside (PA) :us: | [@jawncon@infosec.exchange](https://infosec.exchange/@jawncon) | Y (for .edu)
