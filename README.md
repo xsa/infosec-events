@@ -12,7 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [hack.lu](https://hack.lu/) | Oct 16-19, 2023 | Luxembourg :luxembourg: | [@hack_lu](https://twitter.com/hack_lu) | N
 | [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | Oct 18-20, 2023 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [JawnCon](https://jawncon.org) | Oct 19-20, 2023 | Glenside (PA) :us: | [@jawncon@infosec.exchange](https://infosec.exchange/@jawncon) | Y (for .edu)
 | [CONspiracy](https://www.csscd.org/) | Oct 20, 2023 | Anderson (IN) :us: | [@CSSCD_AU](https://twitter.com/CSSCD_AU) | N
