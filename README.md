@@ -44,5 +44,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Botconf](https://www.botconf.eu/) | Apr 23-26, 2024 | Nice :fr: | [@Botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
 | [Educause Cybersecurity and Privacy Professionals Conference 2024](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2024) | May 1–3, 2024 | Minneapolis (MN) :us: | - | N
 | [SSTIC](https://www.sstic.org) | Jun 5-7, 2024 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
+| [hack.lu](https://hack.lu/) | Oct 22-25, 2024 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [THOTCON](https://www.thotcon.org/) | May 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
