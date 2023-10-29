@@ -17,6 +17,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [SAINTCON](https://www.saintcon.org/) | Oct 24-27, 2023 | Provo (UT) :us: | [@SAINTCON](https://twitter.com/SAINTCON) | N
 | [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
 | [BitUP](https://bitupalicante.com) | Oct 28, 2023 | Alicante :es: | [@bitupalicante](https://www.twitter.com/bitupalicante) | N
+| [ThreatModCon](https://www.threatmodelingconnect.com) | Oct 29, 2023 | Washington (DC) :us: | [@TMConnectHQ](https://twitter.com/TMConnectHQ) | N
 | [WICCON](https://wiccon.nl) | Oct 31, 2023 | Haarlem :netherlands: | [@wicca_NL](https://twitter.com/wicca_NL) | N
 | [Ekoparty](https://ekoparty.org/en_US/) | Nov 1-3, 2023 | Buenos Aires :argentina: | [@ekoparty](https://twitter.com/ekoparty) | N
 | [Hackers Teaching Hackers](https://www.hthackers.com/) | Nov 02, 2023 | Columbus (OH) :us: | [@hthackers](https://twitter.com/hthackers) | N
