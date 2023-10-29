@@ -12,11 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 24, 2023 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
-| [ATT&CKcon 4.0](https://na.eventscloud.com/website/58627/) | Oct 24-25, 2023 | McLean (VA) :us: | [@MITREcorp](http://twitter.com/MITREcorp) | N
-| [SAINTCON](https://www.saintcon.org/) | Oct 24-27, 2023 | Provo (UT) :us: | [@SAINTCON](https://twitter.com/SAINTCON) | N
-| [Zero-Day Conference](https://zero-day.ch) | Oct 26, 2023 | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N
-| [BitUP](https://bitupalicante.com) | Oct 28, 2023 | Alicante :es: | [@bitupalicante](https://www.twitter.com/bitupalicante) | N
 | [ThreatModCon](https://www.threatmodelingconnect.com) | Oct 29, 2023 | Washington (DC) :us: | [@TMConnectHQ](https://twitter.com/TMConnectHQ) | N
 | [WICCON](https://wiccon.nl) | Oct 31, 2023 | Haarlem :netherlands: | [@wicca_NL](https://twitter.com/wicca_NL) | N
 | [Ekoparty](https://ekoparty.org/en_US/) | Nov 1-3, 2023 | Buenos Aires :argentina: | [@ekoparty](https://twitter.com/ekoparty) | N
