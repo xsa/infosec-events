@@ -34,6 +34,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [m0lecon](https://m0lecon.it) | Dec 2, 2023 | Torino :it: | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
 | [CactusCon](https://www.cactuscon.com/) | Feb 16-17, 2024 | Mesa (AZ) :us: | [@CactusCon](https://twitter.com/CactusCon) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
+| [HackGDL](https://www.hackgdl.net) | Mar 16, 2024 | Guadalajara :mexico: | [@HackGDL](https://twitter.com/HackGDL) | N
 | [THCon](https://thcon.party) | Apr 4-5, 2024 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [BSidesKC](https://bsideskc.org) | Apr 20, 2024 | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N
 | [Botconf](https://www.botconf.eu/) | Apr 23-26, 2024 | Nice :fr: | [@Botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
