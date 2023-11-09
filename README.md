@@ -12,16 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [ThreatModCon](https://www.threatmodelingconnect.com) | Oct 29, 2023 | Washington (DC) :us: | [@TMConnectHQ](https://twitter.com/TMConnectHQ) | N
-| [WICCON](https://wiccon.nl) | Oct 31, 2023 | Haarlem :netherlands: | [@wicca_NL](https://twitter.com/wicca_NL) | N
-| [Ekoparty](https://ekoparty.org/en_US/) | Nov 1-3, 2023 | Buenos Aires :argentina: | [@ekoparty](https://twitter.com/ekoparty) | N
-| [Hackers Teaching Hackers](https://www.hthackers.com/) | Nov 02, 2023 | Columbus (OH) :us: | [@hthackers](https://twitter.com/hthackers) | N
-| [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 2-3, 2023 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
-| [Hardwear.io](https://hardwear.io/netherlands-2023/) | Nov 2-3, 2023 | The Hague :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | N
-| [SecretCon](https://www.secretcon.com/) | Nov 2-3, 2023 | St Paul (MN) :us: | - | N
-| [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 3-4, 2023 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
-| [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/berlin2023/) | Nov 6-8, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
-| [Simply Cyber Con](https://www.simplycybercon.org/) | Nov 08, 2023 | Virtual :computer: | [@geral_auger](https://twitter.com/gerald_auger) | Y
 | [BSidesChicago](https://bsideschicago.org/yx/) | Nov 10, 2023 | Chicago (IL) :us: | [@bsideschicago](https://www.facebook.com/BsidesChicago/) | N
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Nov 11, 2023 | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | N
 | [DeepSec](https://deepsec.net) | Nov 14-17, 2023 | Vienna :austria: | [@deepsec@social.tchncs.de](https://social.tchncs.de/@deepsec) | N
