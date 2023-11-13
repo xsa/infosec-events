@@ -14,6 +14,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | ---------- | ------- | -------- | ------- | :--------:
 | [BSidesChicago](https://bsideschicago.org/yx/) | Nov 10, 2023 | Chicago (IL) :us: | [@bsideschicago](https://www.facebook.com/BsidesChicago/) | N
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | Nov 11, 2023 | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | N
+| [Black Hat MEA](https://blackhatmea.com) | Nov 14-16, 2023 | Riyadh :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [DeepSec](https://deepsec.net) | Nov 14-17, 2023 | Vienna :austria: | [@deepsec@social.tchncs.de](https://social.tchncs.de/@deepsec) | N
 | [IRISSCON](https://iriss.ie/irisscon/) | Nov 16, 2023 | Dublin :ireland: | [@irisscert](https://twitter.com/irisscert) | N
 | [SANS HackFest Summit](https://www.sans.org/cyber-security-training-events/hackfest-summit-2023/) | Nov 16-17, 2023 | Hollywood (CA) :us: | [@SANSOffensive](https://twitter.com/SANSOffensive) | N
