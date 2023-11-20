@@ -12,16 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesChicago](https://bsideschicago.org/yx/) | Nov 10, 2023 | Chicago (IL) :us: | [@bsideschicago](https://www.facebook.com/BsidesChicago/) | N
-| [BSidesKøbenhavn](https://bsideskbh.dk/) | Nov 11, 2023 | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | N
-| [Black Hat MEA](https://blackhatmea.com) | Nov 14-16, 2023 | Riyadh :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [DeepSec](https://deepsec.net) | Nov 14-17, 2023 | Vienna :austria: | [@deepsec@social.tchncs.de](https://social.tchncs.de/@deepsec) | N
-| [IRISSCON](https://iriss.ie/irisscon/) | Nov 16, 2023 | Dublin :ireland: | [@irisscert](https://twitter.com/irisscert) | N
-| [SANS HackFest Summit](https://www.sans.org/cyber-security-training-events/hackfest-summit-2023/) | Nov 16-17, 2023 | Hollywood (CA) :us: | [@SANSOffensive](https://twitter.com/SANSOffensive) | N
-| [Elbsides](https://elbsides.eu/) | Nov 17, 2023 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
-| [GreHack](https://grehack.fr/) | Nov 17, 2023 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
-| [BSidesBerlin](https://bsides.berlin) | Nov 18, 2023 | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | N
-| [BSidesVienna](https://bsidesvienna.at) | Nov 18-19, 2023 | Vienna :austria: | [@bsidesvienna@infosec.exchange](https://infosec.exchange/@bsidesvienna) | N
 | [m0lecon](https://m0lecon.it) | Dec 2, 2023 | Torino :it: | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
 | [CactusCon](https://www.cactuscon.com/) | Feb 16-17, 2024 | Mesa (AZ) :us: | [@CactusCon](https://twitter.com/CactusCon) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
