@@ -16,6 +16,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Black Hat Europe](https://www.blackhat.com/eu-23/) | Dec 4-7, 2023 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesPhilly](https://bsidesphilly.org) | Dec 8, 2023 | Philadelphia (PA) :us: | [@bsidesphilly@infosec.exchange](https://infosec.exchange/@bsidesphilly) | N
 | [CYBERSECURITY OUTLOOK 2024](https://ve.informaengage.com/virtual-events/cybersecurity-outlook-2024/) | Dec 14, 2023 | Virtual :computer: | - | Y
+| [ShmooCon](https://shmoocon.org/) | Jan 12-14, 2024 | Washington (DC) :us: | [@ShmooCon@infosec.exchange](https://infosec.exchange/@ShmooCon) | N
 | [CactusCon](https://www.cactuscon.com/) | Feb 16-17, 2024 | Mesa (AZ) :us: | [@CactusCon](https://twitter.com/CactusCon) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
 | [HackGDL](https://www.hackgdl.net) | Mar 16, 2024 | Guadalajara :mexico: | [@HackGDL](https://twitter.com/HackGDL) | N
