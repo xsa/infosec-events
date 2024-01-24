@@ -16,6 +16,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
 | [HackGDL](https://www.hackgdl.net) | Mar 16, 2024 | Guadalajara :mexico: | [@HackGDL](https://twitter.com/HackGDL) | N
 | [CanSecWest](https://www.secwest.net/) | Mar 20-22, 2024 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
+| [PancakesCon](https://pancakescon.com) | Mar 24, 2023 | Virtual :computer: | [@pancakescon@infosec.exchange](https://infosec.exchange/@pancakescon) | Y
 | [VulnCon](https://www.first.org/conference/vulncon2024/) | Mar 25-27, 2024 | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [THCon](https://thcon.party) | Apr 4-5, 2024 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti24/) | Apr 15-17, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
