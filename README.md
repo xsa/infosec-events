@@ -38,6 +38,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Pass the SALT](https://2024.pass-the-salt.org/) | Jul 3-5, 2024 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [leHACK](https://lehack.org/) | Jul 5-7, 2024 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
+| [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [hack.lu](https://hack.lu/) | Oct 22-25, 2024 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
