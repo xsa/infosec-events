@@ -13,6 +13,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [CactusCon](https://www.cactuscon.com/) | Feb 16-17, 2024 | Mesa (AZ) :us: | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | Y
+| [Internet2 Community Exchange](https://internet2.edu/2024-internet2-community-exchange/) (Security Topics) | March 4-7, 2024 | Chicago (IL) :us: | - | N
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
 | [HackGDL](https://www.hackgdl.net) | Mar 16, 2024 | Guadalajara :mexico: | [@HackGDL](https://twitter.com/HackGDL) | N
 | [CanSecWest](https://www.secwest.net/) | Mar 20-22, 2024 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
