@@ -30,6 +30,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesSeattle](https://www.bsidesseattle.com/) | Apr 27, 2024 | Seattle (WA) :us: | [@BSidesSeattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N
 | [BSidesCharm](https://bsidescharm.org/) | Apr 20-21, 2024 | Towson (MD) :us: | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@BSidesCharm) | N
 | [Educause Cybersecurity and Privacy Professionals Conference 2024](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2024) | May 1–3, 2024 | Minneapolis (MN) :us: | - | N
+| [RSA Conference](https://www.rsaconference.com/) | May 6-9, 2024 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 10-11, 2024 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
 | [BreizhCTF](https://www.breizhctf.com/) | May 17-18, 2024 | Rennes :fr: | [@BreizhCTF](https://twitter.com/BreizhCTF) | N
 | [CackalackyCon](https://cackalackycon.org) | May 17-19, 2024 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
