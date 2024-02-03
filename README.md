@@ -13,6 +13,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [CactusCon](https://www.cactuscon.com/) | Feb 16-17, 2024 | Mesa (AZ) :us: | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | Y
+| [Swiss Cyber Security Days](https://www.scsd.ch) | Feb 20-21, 2024 | Bern :switzerland: | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N
 | [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 1, 2024 | Zagreb :croatia: | - | Y
 | [Internet2 Community Exchange](https://internet2.edu/2024-internet2-community-exchange/) (Security Topics) | March 4-7, 2024 | Chicago (IL) :us: | - | N
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
@@ -46,6 +47,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [leHACK](https://lehack.org/) | Jul 5-7, 2024 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 22, 2024 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [hack.lu](https://hack.lu/) | Oct 22-25, 2024 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
