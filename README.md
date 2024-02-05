@@ -23,6 +23,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [VulnCon](https://www.first.org/conference/vulncon2024/) | Mar 25-27, 2024 | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2024 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [BSidesParis](https://bsidesparis.fr/) | Apr 4, 2024 | Paris :fr: | - | N
+| [BSidesPrague](https://bsidesprg.cz) | Apr 4, 2024 | Prague :czech_republic: | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
 | [THCon](https://thcon.party) | Apr 4-5, 2024 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [Cybersecurity Summit](https://cybersecuritysummit.com/summit/nashville24/) | Apr 5, 2024 | Nashville :us: | [@CyberSummitUSA](https://twitter.com/CyberSummitUSA) | Y
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti24/) | Apr 15-17, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
