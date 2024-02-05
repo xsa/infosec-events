@@ -46,7 +46,8 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [TROOPERS](https://troopers.de/) | Jun 24-28, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [Pass the SALT](https://2024.pass-the-salt.org/) | Jul 3-5, 2024 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [leHACK](https://lehack.org/) | Jul 5-7, 2024 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
-| [DEF CON 32](https://defcon.org/) | Aug 8-11, 2023 | Las Vegas (NV) :us: | [@defcon@defcon.social](https://defcon.social/@defcon) | N
+| [BSidesLasVegas](https://bsideslv.org/) | Aug 6-7, 2024 | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | N
+| [DEF CON 32](https://defcon.org/) | Aug 8-11, 2024 | Las Vegas (NV) :us: | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 22, 2024 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
