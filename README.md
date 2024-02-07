@@ -45,6 +45,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesBarcelona](https://bsides.barcelona) | May 29-30, 2024 | Barcelona :es: | [@barcelonabsides](https://twitter.com/@barcelonabsides) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 1, 2024 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [SSTIC](https://www.sstic.org) | Jun 5-7, 2024 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
+| [BSidesBoulder](https://bsidesboulder.org) | Jun 14, 2024 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
 | [TROOPERS](https://troopers.de/) | Jun 24-28, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [Pass the SALT](https://2024.pass-the-salt.org/) | Jul 3-5, 2024 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [leHACK](https://lehack.org/) | Jul 5-7, 2024 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
