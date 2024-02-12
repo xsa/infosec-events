@@ -53,7 +53,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [leHACK](https://lehack.org/) | Jul 5-7, 2024 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 6-7, 2024 | Las Vegas (NV) :us: | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON 32](https://defcon.org/) | Aug 8-11, 2024 | Las Vegas (NV) :us: | [@defcon@defcon.social](https://defcon.social/@defcon) | N
-| [HITBSecConf](https://conference.hitb.org/hitbsecconf2024bkk/) | Aug 29-30, 2023 | Bangkok :thailand: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
+| [HITBSecConf](https://conference.hitb.org/hitbsecconf2024bkk/) | Aug 29-30, 2024 | Bangkok :thailand: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 22, 2024 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
