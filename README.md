@@ -34,6 +34,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesKC](https://bsideskc.org) | Apr 20, 2024 | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N
 | [Insomni'hack](https://insomnihack.ch/) | Apr 22-26, 2024 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
 | [Botconf](https://www.botconf.eu/) | Apr 23-26, 2024 | Nice :fr: | [@Botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
+| [Hardly Strictly Security](https://hardlystrictlysecurity.io) | Apr 25, 2024 | Virtual :computer: | [@pdiscoveryio](https://twitter.com/pdiscoveryio) | Y
 | [BSidesSeattle](https://www.bsidesseattle.com/) | Apr 27, 2024 | Seattle (WA) :us: | [@BSidesSeattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N
 | [BSidesCharm](https://bsidescharm.org/) | Apr 20-21, 2024 | Towson (MD) :us: | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@BSidesCharm) | N
 | [Educause Cybersecurity and Privacy Professionals Conference 2024](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2024) | May 1–3, 2024 | Minneapolis (MN) :us: | - | N
