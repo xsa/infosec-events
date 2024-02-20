@@ -17,6 +17,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Swiss Cyber Security Days](https://www.scsd.ch) | Feb 20-21, 2024 | Bern :switzerland: | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N
 | [HackOn](https://hackon.es) | Feb 22, 2024 | Móstoles :es: | [@hackonurjc](https://twitter.com/hackonurjc) | Y
 | [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 1, 2024 | Zagreb :croatia: | - | Y
+| [FS-ISAC: Americas Spring Summit](https://www.fsisac.com/events/2024-americas-spring) | Mar 3-6, 2024 | San Diego (CA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Internet2 Community Exchange](https://internet2.edu/2024-internet2-community-exchange/) (Security Topics) | March 4-7, 2024 | Chicago (IL) :us: | - | N
 | [RootedCON](https://www.rootedcon.com/) | Mar 7-9, 2024 | Madrid :es: | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | N
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
@@ -32,6 +33,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Zer0Con](https://zer0con.org) | Apr 4-5, 2024 | Seoul :kr: | - | N
 | [THCon](https://thcon.party) | Apr 4-5, 2024 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [Cybersecurity Summit](https://cybersecuritysummit.com/summit/nashville24/) | Apr 5, 2024 | Nashville :us: | [@CyberSummitUSA](https://twitter.com/CyberSummitUSA) | Y
+| [FS-ISAC: FinCyber Today Canada](https://www.fsisac.com/events/2024-canada) | Apr 11, 2024 | Toronto (ON) :canada: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti24/) | Apr 15-17, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesKC](https://bsideskc.org) | Apr 20, 2024 | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N
 | [Insomni'hack](https://insomnihack.ch/) | Apr 22-26, 2024 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
@@ -45,6 +47,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BreizhCTF](https://www.breizhctf.com/) | May 17-18, 2024 | Rennes :fr: | [@BreizhCTF](https://twitter.com/BreizhCTF) | N
 | [CackalackyCon](https://cackalackycon.org) | May 17-19, 2024 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
 | [BSidesReykjavik](https://bsidesreykjavik.com) | May 18, 2024 | Reykjavik :iceland: | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | Y
+| [FS-ISAC: EMEA Summit](https://www.fsisac.com/events/2024-emea) | May 21-23, 2024 | Berlin :de: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Sthack](https://www.sthack.fr) | May 24, 2024 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
 | [Security for Space Systems (3S)](https://atpi.eventsair.com/24a06---3s2024/) | May 27-28, 2024 | Noordwijk :netherlands: | - | N
 | [TyphoonCon](https://typhooncon.com) | May 27-29, 2024 | Seoul :kr: | [@typhooncon](https://twitter.com/typhooncon) | N
@@ -57,13 +60,16 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [TROOPERS](https://troopers.de/) | Jun 24-28, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [Pass the SALT](https://2024.pass-the-salt.org/) | Jul 3-5, 2024 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [leHACK](https://lehack.org/) | Jul 5-7, 2024 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
+| [FS-ISAC: APAC Summit](https://www.fsisac.com/events/2024-apac) | Jul 9-10, 2024 | Singapore :singapore: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 6-7, 2024 | Las Vegas (NV) :us: | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON 32](https://defcon.org/) | Aug 8-11, 2024 | Las Vegas (NV) :us: | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [HITBSecConf](https://conference.hitb.org/hitbsecconf2024bkk/) | Aug 29-30, 2024 | Bangkok :thailand: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
+| [FS-ISAC: FinCyber Today UK](https://www.fsisac.com/events/2024-london) | Sep 23-24, 2024 | London :uk: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2023 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 22, 2024 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [hack.lu](https://hack.lu/) | Oct 22-25, 2024 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
+| [FS-ISAC: Americas Fall Summit](https://www.fsisac.com/events/2024-americas-fall) | Oct 27-30, 2024 | Atlanta (GA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [THOTCON](https://www.thotcon.org/) | May 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
