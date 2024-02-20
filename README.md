@@ -20,6 +20,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Internet2 Community Exchange](https://internet2.edu/2024-internet2-community-exchange/) (Security Topics) | March 4-7, 2024 | Chicago (IL) :us: | - | N
 | [RootedCON](https://www.rootedcon.com/) | Mar 7-9, 2024 | Madrid :es: | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | N
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
+| [Navigating Human-Centric Risk](https://www.linkedin.com/events/scs-navigatinghuman-centricrisk7165642831234080768/) | Mar 12, 2024 | Geneva :switzerland: | [@SwCybSec](https://twitter.com/SwCybSec) | Y
 | [nullcon](https://nullcon.net/) | Mar 14-15, 2024 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [HackGDL](https://www.hackgdl.net) | Mar 16, 2024 | Guadalajara :mexico: | [@HackGDL](https://twitter.com/HackGDL) | N
 | [CanSecWest](https://www.secwest.net/) | Mar 20-22, 2024 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
