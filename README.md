@@ -33,6 +33,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Zer0Con](https://zer0con.org) | Apr 4-5, 2024 | Seoul :kr: | - | N
 | [THCon](https://thcon.party) | Apr 4-5, 2024 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [Cybersecurity Summit](https://cybersecuritysummit.com/summit/nashville24/) | Apr 5, 2024 | Nashville :us: | [@CyberSummitUSA](https://twitter.com/CyberSummitUSA) | Y
+| [UniCon](https://scythe.io/unicon24) | Apr 9, 2024 | Virtual :computer: | [@scythe_io](https://twitter.com/scythe_io) | Y
 | [FS-ISAC: FinCyber Today Canada](https://www.fsisac.com/events/2024-canada) | Apr 11, 2024 | Toronto (ON) :canada: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti24/) | Apr 15-17, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesKC](https://bsideskc.org) | Apr 20, 2024 | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N
