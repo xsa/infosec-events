@@ -12,10 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Munich Cyber Security Conference](https://mcsc.io) | Feb 15-16, 2024 | Munich :de: | [@SN_Munich](https://twitter.com/SN_Munich) | N
-| [CactusCon](https://www.cactuscon.com/) | Feb 16-17, 2024 | Mesa (AZ) :us: | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | Y
-| [Swiss Cyber Security Days](https://www.scsd.ch) | Feb 20-21, 2024 | Bern :switzerland: | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N
-| [HackOn](https://hackon.es) | Feb 22, 2024 | Móstoles :es: | [@hackonurjc](https://twitter.com/hackonurjc) | Y
 | [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 1, 2024 | Zagreb :croatia: | - | Y
 | [FS-ISAC: Americas Spring Summit](https://www.fsisac.com/events/2024-americas-spring) | Mar 3-6, 2024 | San Diego (CA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Internet2 Community Exchange](https://internet2.edu/2024-internet2-community-exchange/) (Security Topics) | March 4-7, 2024 | Chicago (IL) :us: | - | N
