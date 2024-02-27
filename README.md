@@ -22,6 +22,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [nullcon](https://nullcon.net/) | Mar 14-15, 2024 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [HackGDL](https://www.hackgdl.net) | Mar 16, 2024 | Guadalajara :mexico: | [@HackGDL](https://twitter.com/HackGDL) | N
 | [CanSecWest](https://www.secwest.net/) | Mar 20-22, 2024 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
+| [SLEUTHCON](https://www.sleuthcon.com) | May 24, 2024 | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | N
 | [PancakesCon](https://pancakescon.com) | Mar 24, 2023 | Virtual :computer: | [@pancakescon@infosec.exchange](https://infosec.exchange/@pancakescon) | Y
 | [VulnCon](https://www.first.org/conference/vulncon2024/) | Mar 25-27, 2024 | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2024 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
