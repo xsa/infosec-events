@@ -24,7 +24,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [nullcon](https://nullcon.net/) | Mar 14-15, 2024 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [HackGDL](https://www.hackgdl.net) | Mar 16, 2024 | Guadalajara :mexico: | [@HackGDL](https://twitter.com/HackGDL) | N
 | [CanSecWest](https://www.secwest.net/) | Mar 20-22, 2024 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
-| [SLEUTHCON](https://www.sleuthcon.com) | May 24, 2024 | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | N
 | [PancakesCon](https://pancakescon.com) | Mar 24, 2023 | Virtual :computer: | [@pancakescon@infosec.exchange](https://infosec.exchange/@pancakescon) | Y
 | [ESIEA Secure Edition](https://ese.esiea.fr) | Mar 25, 2024 | Paris :fr: | - | N
 | [VulnCon](https://www.first.org/conference/vulncon2024/) | Mar 25-27, 2024 | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
@@ -52,6 +51,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesReykjavik](https://bsidesreykjavik.com) | May 18, 2024 | Reykjavik :iceland: | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | Y
 | [FS-ISAC: EMEA Summit](https://www.fsisac.com/events/2024-emea) | May 21-23, 2024 | Berlin :de: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Sthack](https://www.sthack.fr) | May 24, 2024 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
+| [SLEUTHCON](https://www.sleuthcon.com) | May 24, 2024 | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | N
 | [Security for Space Systems (3S)](https://atpi.eventsair.com/24a06---3s2024/) | May 27-28, 2024 | Noordwijk :netherlands: | - | N
 | [CONFidence](https://www.confidence-conference.org) | May 27-28, 2024 | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | N
 | [TyphoonCon](https://typhooncon.com) | May 27-29, 2024 | Seoul :kr: | [@typhooncon](https://twitter.com/typhooncon) | N
