@@ -16,6 +16,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [NDSS Symposium](https://www.ndss-symposium.org/ndss-program/symposium-2024/) | Feb 26 - Mar 1, 2024 | San Diego (CA) :us: | [@NDSSSymposium](https://twitter.com/NDSSSymposium) | N
 | [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 1, 2024 | Zagreb :croatia: | - | Y
 | [FS-ISAC: Americas Spring Summit](https://www.fsisac.com/events/2024-americas-spring) | Mar 3-6, 2024 | San Diego (CA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
+| [s4x24](https://s4xevents.com/s4x24/) | Mar 4-7, 2024 | Miami (FL) :us: | - | N
 | [Internet2 Community Exchange](https://internet2.edu/2024-internet2-community-exchange/) (Security Topics) | March 4-7, 2024 | Chicago (IL) :us: | - | N
 | [RootedCON](https://www.rootedcon.com/) | Mar 7-9, 2024 | Madrid :es: | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | N
 | [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
