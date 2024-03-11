@@ -61,6 +61,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Hardwear.io](https://hardwear.io/usa-2024/) | May 28-Jun 1, 2024 | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [BSidesBarcelona](https://bsides.barcelona) | May 29-30, 2024 | Barcelona :es: | [@barcelonabsides](https://twitter.com/@barcelonabsides) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 1, 2024 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
+| [RVAsec](https://rvasec.com) | Jun 4-5, 2024 | Richmond (VA) :us: | [@rvasec](https://twitter.com/rvasec) | N
 | [SSTIC](https://www.sstic.org) | Jun 5-7, 2024 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [x33fcon](https://www.x33fcon.com/) | Jun 13-14, 2024 | Gdynia :poland: | [@x33fcon](https://www.twitter.com/x33fcon) | N
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 14, 2024 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
