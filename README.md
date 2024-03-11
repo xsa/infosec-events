@@ -38,6 +38,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Southeast Cybersecurity Summit](https://www.secybersecurity.com) | Apr 10-11, 2024 | Birmingham (AL) :us: | - | N
 | [FS-ISAC: FinCyber Today Canada](https://www.fsisac.com/events/2024-canada) | Apr 11, 2024 | Toronto (ON) :canada: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti24/) | Apr 15-17, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
+| [t2](https://t2.fi/conference/) | Apr 18-19, 2024 | Helsinki :finland: | [@t2_fi](https://twitter.com/t2_fi/) | N
 | [BSidesKC](https://bsideskc.org) | Apr 20, 2024 | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N
 | [Insomni'hack](https://insomnihack.ch/) | Apr 22-26, 2024 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
 | [Botconf](https://www.botconf.eu/) | Apr 23-26, 2024 | Nice :fr: | [@Botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
