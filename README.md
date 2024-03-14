@@ -71,6 +71,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [FS-ISAC: APAC Summit](https://www.fsisac.com/events/2024-apac) | Jul 9-10, 2024 | Singapore :singapore: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [BSidesLasVegas](https://bsideslv.org/) | Aug 6-7, 2024 | Las Vegas (NV) :us: | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON 32](https://defcon.org/) | Aug 8-11, 2024 | Las Vegas (NV) :us: | [@defcon@defcon.social](https://defcon.social/@defcon) | N
+| [BSidesYXE](https://bsidesyxe.ca) | Aug 24, 2024 | Saskatoon (SK) :canada: | [@bsidesyxe@infosec.exchange](https://infosec.exchange/@bsidesyxe) | N
 | [HITBSecConf](https://conference.hitb.org/hitbsecconf2024bkk/) | Aug 29-30, 2024 | Bangkok :thailand: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [BSidesNoVA](https://www.bsidesnova.org/) | Sep 7-8, 2024 | Arlington (VA) :us: | [@BSides_NoVA](https://twitter.com/BSides_NoVA) | N
 | [BruCon](https://www.brucon.org/) | Sep 19-20, 2024 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
