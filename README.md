@@ -12,17 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Open Cyber Security Conference](https://www.ocsc.info) | Feb 26 - Mar 1, 2024 | Tenerife :es: | - | N
-| [NDSS Symposium](https://www.ndss-symposium.org/ndss-program/symposium-2024/) | Feb 26 - Mar 1, 2024 | San Diego (CA) :us: | [@NDSSSymposium](https://twitter.com/NDSSSymposium) | N
-| [BSidesZagreb](https://bsideszagreb.srce.hr) | Mar 1, 2024 | Zagreb :croatia: | - | Y
-| [FS-ISAC: Americas Spring Summit](https://www.fsisac.com/events/2024-americas-spring) | Mar 3-6, 2024 | San Diego (CA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
-| [s4x24](https://s4xevents.com/s4x24/) | Mar 4-7, 2024 | Miami (FL) :us: | - | N
-| [Internet2 Community Exchange](https://internet2.edu/2024-internet2-community-exchange/) (Security Topics) | March 4-7, 2024 | Chicago (IL) :us: | - | N
-| [RootedCON](https://www.rootedcon.com/) | Mar 7-9, 2024 | Madrid :es: | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | N
-| [JSSI](https://www.ossir.org/conference/jssi-2024/) | Mar 12, 2024 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
-| [Navigating Human-Centric Risk](https://www.linkedin.com/events/scs-navigatinghuman-centricrisk7165642831234080768/) | Mar 12, 2024 | Geneva :switzerland: | [@SwCybSec](https://twitter.com/SwCybSec) | Y
-| [nullcon](https://nullcon.net/) | Mar 14-15, 2024 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
-| [HackGDL](https://www.hackgdl.net) | Mar 16, 2024 | Guadalajara :mexico: | [@HackGDL](https://twitter.com/HackGDL) | N
 | [CanSecWest](https://www.secwest.net/) | Mar 20-22, 2024 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
 | [PancakesCon](https://pancakescon.com) | Mar 24, 2023 | Virtual :computer: | [@pancakescon@infosec.exchange](https://infosec.exchange/@pancakescon) | Y
 | [ESIEA Secure Edition](https://ese.esiea.fr) | Mar 25, 2024 | Paris :fr: | - | N
