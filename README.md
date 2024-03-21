@@ -50,6 +50,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [CONFidence](https://www.confidence-conference.org) | May 27-28, 2024 | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | N
 | [TyphoonCon](https://typhooncon.com) | May 27-29, 2024 | Seoul :kr: | [@typhooncon](https://twitter.com/typhooncon) | N
 | [Hardwear.io](https://hardwear.io/usa-2024/) | May 28-Jun 1, 2024 | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | N
+| [HackSecuReims](https://hacksecureims.eu) | Mar 29-30, 2024 | Reims :fr: | [@hacksecureims_](https://twitter.com/hacksecureims_) | Y
 | [BSidesBarcelona](https://bsides.barcelona) | May 29-30, 2024 | Barcelona :es: | [@barcelonabsides](https://twitter.com/@barcelonabsides) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 1, 2024 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [RVAsec](https://rvasec.com) | Jun 4-5, 2024 | Richmond (VA) :us: | [@rvasec](https://twitter.com/rvasec) | N
