@@ -46,6 +46,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [FS-ISAC: EMEA Summit](https://www.fsisac.com/events/2024-emea) | May 21-23, 2024 | Berlin :de: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Sthack](https://www.sthack.fr) | May 24, 2024 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
 | [SLEUTHCON](https://www.sleuthcon.com) | May 24, 2024 | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | N
+| [BSidesVancouver](https://www.bsidesvancouver.com) | May 26-27, 2024 | Vancouver :canada: | [@BSidesVancouver](https://twitter.com/BSidesVancouver) | N
 | [Security for Space Systems (3S)](https://atpi.eventsair.com/24a06---3s2024/) | May 27-28, 2024 | Noordwijk :netherlands: | - | N
 | [CONFidence](https://www.confidence-conference.org) | May 27-28, 2024 | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | N
 | [TyphoonCon](https://typhooncon.com) | May 27-29, 2024 | Seoul :kr: | [@typhooncon](https://twitter.com/typhooncon) | N
