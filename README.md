@@ -12,11 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [CanSecWest](https://www.secwest.net/) | Mar 20-22, 2024 | Vancouver (BC) :canada: | [@secwestnet](https://twitter.com/secwestnet) | N
-| [BSidesTransylvania](https://bsidestransylvania.com) | Mar 23, 2024 | Cluj-Napoca :romania: | [@bsidesro](https://twitter.com/bsidesro) | N
-| [PancakesCon](https://pancakescon.com) | Mar 24, 2023 | Virtual :computer: | [@pancakescon@infosec.exchange](https://infosec.exchange/@pancakescon) | Y
-| [ESIEA Secure Edition](https://ese.esiea.fr) | Mar 25, 2024 | Paris :fr: | - | N
-| [VulnCon](https://www.first.org/conference/vulncon2024/) | Mar 25-27, 2024 | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2024 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [BSidesParis](https://bsidesparis.fr/) | Apr 4, 2024 | Paris :fr: | - | N
 | [BSidesPrague](https://bsidesprg.cz) | Apr 4, 2024 | Prague :czech_republic: | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
