@@ -58,6 +58,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [SSTIC](https://www.sstic.org) | Jun 5-7, 2024 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [x33fcon](https://www.x33fcon.com/) | Jun 13-14, 2024 | Gdynia :poland: | [@x33fcon](https://www.twitter.com/x33fcon) | N
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 14, 2024 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
+| [WarCon](https://warcon.pl) | Jun 14-15, 2024 | Warsaw :poland: | [@WarConPL](https://twitter.com/WarConPL) | TBD
 | [TROOPERS](https://troopers.de/) | Jun 24-28, 2023 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [Off-by-One Conference](https://offbyone.sg) | Jun 26-27, 2024 | Singapore :singapore: | [@offbyoneconf](https://twitter.com/offbyoneconf) | N
 | [Pass the SALT](https://2024.pass-the-salt.org/) | Jul 3-5, 2024 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
