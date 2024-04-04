@@ -25,6 +25,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Hack Space Con](https://www.hackspacecon.com/) | Apr 10-13, 2024 | Kennedy Space Center (FL) :us: | [@HackSpaceCon](https://twitter.com/HackSpaceCon) | N
 | [FS-ISAC: FinCyber Today Canada](https://www.fsisac.com/events/2024-canada) | Apr 11, 2024 | Toronto (ON) :canada: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti24/) | Apr 15-17, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
+| [Planet Cyber Sec (CISO Forum)](https://planetcybersec.com/041724-conference/) | Apr 17, 2024 | Mountain View (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [t2](https://t2.fi/conference/) | Apr 18-19, 2024 | Helsinki :finland: | [@t2_fi](https://twitter.com/t2_fi/) | N
 | [BSidesKC](https://bsideskc.org) | Apr 20, 2024 | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N
 | [Insomni'hack](https://insomnihack.ch/) | Apr 22-26, 2024 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
@@ -52,6 +53,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 1, 2024 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [RVAsec](https://rvasec.com) | Jun 4-5, 2024 | Richmond (VA) :us: | [@rvasec](https://twitter.com/rvasec) | N
 | [SSTIC](https://www.sstic.org) | Jun 5-7, 2024 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
+| [Planet Cyber Sec (AppSec)](https://planetcybersec.com/061224-conference/) | Jun 12, 2024 | Santa Monica (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [x33fcon](https://www.x33fcon.com/) | Jun 13-14, 2024 | Gdynia :poland: | [@x33fcon](https://www.twitter.com/x33fcon) | N
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 14, 2024 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
 | [WarCon](https://warcon.pl) | Jun 14-15, 2024 | Warsaw :poland: | [@WarConPL](https://twitter.com/WarConPL) | TBD
@@ -76,7 +78,9 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 22, 2024 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [hack.lu](https://hack.lu/) | Oct 22-25, 2024 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [FS-ISAC: Americas Fall Summit](https://www.fsisac.com/events/2024-americas-fall) | Oct 27-30, 2024 | Atlanta (GA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
+| [Planet Cyber Sec (CISO Forum)](https://planetcybersec.com/103024-conference/) | Oct 30, 2024 | La Jolla (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 8-9, 2024 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
+| [Planet Cyber Sec](https://planetcybersec.com/121124-conference/) | Dec 11, 2024 | Long Beach (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [THOTCON](https://www.thotcon.org/) | May 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
