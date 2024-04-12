@@ -45,6 +45,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [RVAsec](https://rvasec.com) | Jun 4-5, 2024 | Richmond (VA) :us: | [@rvasec](https://twitter.com/rvasec) | N
 | [SSTIC](https://www.sstic.org) | Jun 5-7, 2024 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [Planet Cyber Sec (AppSec)](https://planetcybersec.com/061224-conference/) | Jun 12, 2024 | Santa Monica (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
+| [HOPE](https://www.hope.net) | Jul 12-14, 2024 | New York (NY) :us: | [@hopeconf@mastodon.online](https://mastodon.online/@hopeconf) | N
 | [x33fcon](https://www.x33fcon.com/) | Jun 13-14, 2024 | Gdynia :poland: | [@x33fcon](https://www.twitter.com/x33fcon) | N
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 14, 2024 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
 | [WarCon](https://warcon.pl) | Jun 14-15, 2024 | Warsaw :poland: | [@WarConPL](https://twitter.com/WarConPL) | TBD
