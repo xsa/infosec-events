@@ -16,6 +16,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Hack Space Con](https://www.hackspacecon.com/) | Apr 10-13, 2024 | Kennedy Space Center (FL) :us: | [@HackSpaceCon](https://twitter.com/HackSpaceCon) | N
 | [FS-ISAC: FinCyber Today Canada](https://www.fsisac.com/events/2024-canada) | Apr 11, 2024 | Toronto (ON) :canada: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti24/) | Apr 15-17, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
+| [ENISA Cybersecurity Policy Conference](https://www.enisa.europa.eu/events/eucpc2024/2nd-enisa-cybersecurity-policy-conference) | Apr 17, 2024 | Brussels :be: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
 | [Planet Cyber Sec (CISO Forum)](https://planetcybersec.com/041724-conference/) | Apr 17, 2024 | Mountain View (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [t2](https://t2.fi/conference/) | Apr 18-19, 2024 | Helsinki :finland: | [@t2_fi](https://twitter.com/t2_fi/) | N
 | [BSidesKC](https://bsideskc.org) | Apr 20, 2024 | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N
