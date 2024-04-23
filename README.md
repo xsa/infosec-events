@@ -25,6 +25,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [BreizhCTF](https://www.breizhctf.com/) | May 17-18, 2024 | Rennes :fr: | [@BreizhCTF](https://twitter.com/BreizhCTF) | N
 | [CackalackyCon](https://cackalackycon.org) | May 17-19, 2024 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
 | [BSidesReykjavik](https://bsidesreykjavik.com) | May 18, 2024 | Reykjavik :iceland: | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | Y
+| [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | May 20-21, 2024 | Tel-Aviv :israel: | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
 | [FS-ISAC: EMEA Summit](https://www.fsisac.com/events/2024-emea) | May 21-23, 2024 | Berlin :de: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Sthack](https://www.sthack.fr) | May 24, 2024 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
 | [SLEUTHCON](https://www.sleuthcon.com) | May 24, 2024 | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | N
