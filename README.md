@@ -57,6 +57,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 20-22, 2024 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
 | [FS-ISAC: FinCyber Today UK](https://www.fsisac.com/events/2024-uk) | Sep 23-24, 2024 | London :uk: | [@FSISAC@twitter.com](https://twitter.com/FSISAC) | N
 | [GrrCON](https://grrcon.com/) | Sep 26-27, 2024 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
+| [BSidesTirana](https://bsidestirana.al/) | TBD, 2024 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [Cyber White Hats Conference](https://whiteconference.com) | Oct 1, 2024 | Baku :azerbaijan: | - | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2024 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesAugusta](https://bsidesaugusta.org) | Oct 5, 2024 | Augusta (GA) :us: | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
