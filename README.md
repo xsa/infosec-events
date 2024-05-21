@@ -12,15 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Educause Cybersecurity and Privacy Professionals Conference 2024](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2024) | May 1–3, 2024 | Minneapolis (MN) :us: | - | N
-| [RSA Conference](https://www.rsaconference.com/) | May 6-9, 2024 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
-| [PIVOTcon](https://pivotcon.org) | May 8-10, 2024 | Malaga :es: | [@pivot_con](https://twitter.com/pivot_con) | N
-| [Offensive Security Conference](https://www.offensivecon.org/) | May 10-11, 2024 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
-| [HackMiami](https://hackmiami.com) | May 15-18, 2024 | Miami (FL) :us: | [@hackmiami](https://www.twitter.com/hackmiami) | N 
-| [BreizhCTF](https://www.breizhctf.com/) | May 17-18, 2024 | Rennes :fr: | [@BreizhCTF](https://twitter.com/BreizhCTF) | N
-| [CackalackyCon](https://cackalackycon.org) | May 17-19, 2024 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
-| [Nolacon](https://nolacon.com) | May 17-19, 2024 | New Orleans (LA) :us: | [@nola_con](https://twitter.com/nola_con) | N
-| [BSidesReykjavik](https://bsidesreykjavik.com) | May 18, 2024 | Reykjavik :iceland: | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | Y
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | May 20-21, 2024 | Tel-Aviv :israel: | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
 | [FS-ISAC: EMEA Summit](https://www.fsisac.com/events/2024-emea) | May 21-23, 2024 | Berlin :de: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Sthack](https://www.sthack.fr) | May 24, 2024 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
