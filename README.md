@@ -50,6 +50,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [GrrCON](https://grrcon.com/) | Sep 26-27, 2024 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [BSidesTirana](https://bsidestirana.al/) | TBD, 2024 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [Cyber White Hats Conference](https://whiteconference.com) | Oct 1, 2024 | Baku :azerbaijan: | - | N
+| [BSidesBE](https://bern.bsides.ch) | Oct 1, 2024 | Bern :switzerland: | [@BSides_Bern](https://twitter.com/BSides_Bern) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2024 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesAugusta](https://bsidesaugusta.org) | Oct 5, 2024 | Augusta (GA) :us: | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/tales-from-the-real-world) | Oct 10-11, 2024 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
