@@ -63,6 +63,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Planet Cyber Sec (CISO Forum)](https://planetcybersec.com/103024-conference/) | Oct 30, 2024 | La Jolla (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 8-9, 2024 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
+| [BSidesMunich](https://2024.bsidesmunich.org) | Nov 10-11, 2024 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [CHCon (Christchurch Hacker Conference)](https://2024.chcon.nz) | Nov 21-23, 2024 | Christchurch :new_zealand: | [@CHCon_nz](https://twitter.com/CHCon_nz) | N
 | [Planet Cyber Sec](https://planetcybersec.com/121124-conference/) | Dec 11, 2024 | Long Beach (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
