@@ -12,21 +12,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | May 20-21, 2024 | Tel-Aviv :israel: | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
-| [FS-ISAC: EMEA Summit](https://www.fsisac.com/events/2024-emea) | May 21-23, 2024 | Berlin :de: | [@FSISAC](https://twitter.com/FSISAC) | N
-| [Sthack](https://www.sthack.fr) | May 24, 2024 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
-| [SLEUTHCON](https://www.sleuthcon.com) | May 24, 2024 | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | N
-| [BSidesVancouver](https://www.bsidesvancouver.com) | May 26-27, 2024 | Vancouver :canada: | [@BSidesVancouver](https://twitter.com/BSidesVancouver) | N
-| [Security for Space Systems (3S)](https://atpi.eventsair.com/24a06---3s2024/) | May 27-28, 2024 | Noordwijk :netherlands: | - | N
-| [CONFidence](https://www.confidence-conference.org) | May 27-28, 2024 | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | N
-| [TyphoonCon](https://typhooncon.com) | May 27-29, 2024 | Seoul :kr: | [@typhooncon](https://twitter.com/typhooncon) | N
-| [Hardwear.io](https://hardwear.io/usa-2024/) | May 28-Jun 1, 2024 | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | N
-| [HackSecuReims](https://hacksecureims.eu) | Mar 29-30, 2024 | Reims :fr: | [@hacksecureims_](https://twitter.com/hacksecureims_) | Y
-| [BSidesBarcelona](https://bsides.barcelona) | May 29-30, 2024 | Barcelona :es: | [@barcelonabsides](https://twitter.com/@barcelonabsides) | N
-| [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 1, 2024 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
-| [RVAsec](https://rvasec.com) | Jun 4-5, 2024 | Richmond (VA) :us: | [@rvasec](https://twitter.com/rvasec) | N
-| [SSTIC](https://www.sstic.org) | Jun 5-7, 2024 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
-| [BSidesSATX](https://www.bsidessatx.com/) | Jun 8, 2024 | San Antonio (TX) :us: | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | N
 | [Planet Cyber Sec (AppSec)](https://planetcybersec.com/061224-conference/) | Jun 12, 2024 | Santa Monica (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [HOPE](https://www.hope.net) | Jul 12-14, 2024 | New York (NY) :us: | [@hopeconf@mastodon.online](https://mastodon.online/@hopeconf) | N
 | [x33fcon](https://www.x33fcon.com/) | Jun 13-14, 2024 | Gdynia :poland: | [@x33fcon](https://www.twitter.com/x33fcon) | N
