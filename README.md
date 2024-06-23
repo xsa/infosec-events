@@ -58,4 +58,5 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [CHCon (Christchurch Hacker Conference)](https://2024.chcon.nz) | Nov 21-23, 2024 | Christchurch :new_zealand: | [@CHCon_nz](https://twitter.com/CHCon_nz) | N
 | [Hackvens](https://hackvens.fr) | Nov 22, 2024 | Lille :fr: | - | N
 | [Planet Cyber Sec](https://planetcybersec.com/121124-conference/) | Dec 11, 2024 | Long Beach (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
+| [Hackers 2 Hackers Conference (H2HC)](https://www.h2hc.com.br/en/) | Dec 14-15, 2024 | Sao Paulo :brazil: | [@h2hconference](https://twitter.com/h2hconference) | N
 | [THOTCON](https://www.thotcon.org/) | May 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
