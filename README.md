@@ -2,7 +2,7 @@
 
 # {Cyber,Info}Sec Events
 
-List of past and future {cyber,info}sec related events. Freel free to contribute by submitting issues or pull requests. Thanks! 😉
+List of past and future {cyber,info}sec related events. Feel free to contribute by submitting issues or pull requests. Thanks! 😉
 
 ## Past
 
