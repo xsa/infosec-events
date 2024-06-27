@@ -61,4 +61,5 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Hackvens](https://hackvens.fr) | Nov 22, 2024 | Lille :fr: | - | N
 | [Planet Cyber Sec](https://planetcybersec.com/121124-conference/) | Dec 11, 2024 | Long Beach (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [Hackers 2 Hackers Conference (H2HC)](https://www.h2hc.com.br/en/) | Dec 14-15, 2024 | Sao Paulo :brazil: | [@h2hconference](https://twitter.com/h2hconference) | N
+| [CruiseCon](https://cruisecon.com) | Feb 8-13, 2025 | Port Canaveral (FL) :us: | - | N
 | [THOTCON](https://www.thotcon.org/) | May 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
