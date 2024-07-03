@@ -47,7 +47,8 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/tales-from-the-real-world) | Oct 10-11, 2024 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
 | [SecSea](https://secsea.org) | Oct 11-12, 2024 | La Ciotat :fr: | - | N
 | [Hacktivity NOW+NEXT](https://hacktivity.com) | Oct 17, 2024 | Budapest :hungary: | [@hacktivityconf](https://twitter.com/hacktivityconf) | N
-| [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [BSidesToronto](https://www.bsidesto.ca) | Oct 19-20, 2024 | Toronto (ON) :canada: | [@BSidesToronto@infosec.exchange](https://infosec.exchange/@BSidesToronto) | N
+| [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto (ON) :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 22, 2024 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [hack.lu](https://hack.lu/) | Oct 22-25, 2024 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [FS-ISAC: Americas Fall Summit](https://www.fsisac.com/events/2024-americas-fall) | Oct 27-30, 2024 | Atlanta (GA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
