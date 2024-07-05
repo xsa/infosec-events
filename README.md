@@ -48,6 +48,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 8-9, 2024 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
 | [BSidesMunich](https://2024.bsidesmunich.org) | Nov 10-11, 2024 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
 | [SuriCon](https://www.suricon.net) | Nov 13-15, 2024 | Madrid :es: | [@suricata@infosec.exchange](https://infosec.exchange/@suricata) | N
+| [Ekoparty](https://ekoparty.org/en_US/) | Nov 13-15, 2024 | Buenos Aires :argentina: | [@ekoparty](https://twitter.com/ekoparty) | N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [CHCon (Christchurch Hacker Conference)](https://2024.chcon.nz) | Nov 21-23, 2024 | Christchurch :new_zealand: | [@CHCon_nz](https://twitter.com/CHCon_nz) | N
 | [Hackvens](https://hackvens.fr) | Nov 22, 2024 | Lille :fr: | - | N
