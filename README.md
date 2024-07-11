@@ -42,6 +42,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesToronto](https://www.bsidesto.ca) | Oct 19-20, 2024 | Toronto (ON) :canada: | [@BSidesToronto@infosec.exchange](https://infosec.exchange/@BSidesToronto) | N
 | [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto (ON) :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 22, 2024 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
+| [Kaspersky Security Analyst Summit (SAS)](https://thesascon.com) | Oct 22-25, 2024 | Bali :indonesia: | [@TheSAScon](https://twitter.com/TheSAScon) | N
 | [hack.lu](https://hack.lu/) | Oct 22-25, 2024 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [FS-ISAC: Americas Fall Summit](https://www.fsisac.com/events/2024-americas-fall) | Oct 27-30, 2024 | Atlanta (GA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Planet Cyber Sec (CISO Forum)](https://planetcybersec.com/103024-conference/) | Oct 30, 2024 | La Jolla (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
