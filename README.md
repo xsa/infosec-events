@@ -23,6 +23,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Barbhack](https://www.barbhack.fr/2024/en/) | Aug 31, 2024 | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | N
 | [OrangeCon](https://orangecon.nl) | Sep 5, 2024 | Amsterdam :netherlands: | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | N
 | [BSidesNoVA](https://www.bsidesnova.org/) | Sep 7-8, 2024 | Arlington (VA) :us: | [@BSides_NoVA](https://twitter.com/BSides_NoVA) | N
+| [Munich Cyber Tactics, Techniques and Procedures](https://www.mcttp.de) | Sep 17-19, 2024 | Munich :de: | [@MCTTP_Con](https://twitter.com/MCTTP_Con) | N
 | [LABScon](https://www.labscon.io) | Sep 18-21, 2024 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | Invite-only
 | [BruCon](https://www.brucon.org/) | Sep 19-20, 2024 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 20-22, 2024 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
