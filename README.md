@@ -34,6 +34,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [ENISA CTI Conference](https://www.enisa.europa.eu/events/cti-conference) | Oct 1, 2024 | Brussels :belgium: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2024 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesAugusta](https://bsidesaugusta.org) | Oct 5, 2024 | Augusta (GA) :us: | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
+| [Open Security Conference](https://opensecurityconference.org/) | Oct 4-6, 2024 | Rückersbach :de: | [@Osco](https://infosec.exchange/@OSCo) | N
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/tales-from-the-real-world) | Oct 10-11, 2024 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
 | [SecSea](https://secsea.org) | Oct 11-12, 2024 | La Ciotat :fr: | - | N
 | [Hacktivity NOW+NEXT](https://hacktivity.com) | Oct 17, 2024 | Budapest :hungary: | [@hacktivityconf](https://twitter.com/hacktivityconf) | N
