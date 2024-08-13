@@ -17,6 +17,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [DEF CON 32](https://defcon.org/) | Aug 8-11, 2024 | Las Vegas (NV) :us: | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [BSidesYXE](https://bsidesyxe.ca) | Aug 24, 2024 | Saskatoon (SK) :canada: | [@bsidesyxe@infosec.exchange](https://infosec.exchange/@bsidesyxe) | N
 | [HITBSecConf](https://conference.hitb.org/hitbsecconf2024bkk/) | Aug 29-30, 2024 | Bangkok :thailand: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
+| [BSidesBristol](https://www.bsidesbristol.org.uk/) | Aug 30-31 2024 | UK :uk: | [@bsidesbristol](https://x.com/BSIDESBRISTOL) | N
 | [Barbhack](https://www.barbhack.fr/2024/en/) | Aug 31, 2024 | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | N
 | [OrangeCon](https://orangecon.nl) | Sep 5, 2024 | Amsterdam :netherlands: | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | N
 | [BSidesNoVA](https://www.bsidesnova.org/) | Sep 7-8, 2024 | Arlington (VA) :us: | [@BSides_NoVA](https://twitter.com/BSides_NoVA) | N
