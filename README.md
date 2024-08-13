@@ -37,7 +37,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Open Security Conference](https://opensecurityconference.org/) | Oct 4-6, 2024 | Rückersbach :de: | [@Osco](https://infosec.exchange/@OSCo) | N
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/tales-from-the-real-world) | Oct 10-11, 2024 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
 | [SecSea](https://secsea.org) | Oct 11-12, 2024 | La Ciotat :fr: | - | N
-| [BSidesOslo](https://bsidesoslo.no) | Oct 14, 2024 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | Y
+| [BSidesOslo](https://bsidesoslo.no) | Oct 14, 2024 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | N
 | [Hacktivity NOW+NEXT](https://hacktivity.com) | Oct 17, 2024 | Budapest :hungary: | [@hacktivityconf](https://twitter.com/hacktivityconf) | N
 | [BSidesToronto](https://www.bsidesto.ca) | Oct 19-20, 2024 | Toronto (ON) :canada: | [@BSidesToronto@infosec.exchange](https://infosec.exchange/@BSidesToronto) | N
 | [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto (ON) :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
