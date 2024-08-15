@@ -47,6 +47,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [hack.lu](https://hack.lu/) | Oct 22-25, 2024 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [FS-ISAC: Americas Fall Summit](https://www.fsisac.com/events/2024-americas-fall) | Oct 27-30, 2024 | Atlanta (GA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Planet Cyber Sec (CISO Forum)](https://planetcybersec.com/103024-conference/) | Oct 30, 2024 | La Jolla (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
+| [BSidesChicago](https://bsideschicago.org/yx/) | Nov 2, 2024 | Chicago (IL) :us: | [@bsideschicago](https://www.facebook.com/BsidesChicago/) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 8-9, 2024 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
 | [BSidesMunich](https://2024.bsidesmunich.org) | Nov 10-11, 2024 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
