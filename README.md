@@ -12,9 +12,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Black Hat USA](https://www.blackhat.com/us-23/) | Aug 3-8, 2024 | Last Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [BSidesLasVegas](https://bsideslv.org/) | Aug 6-7, 2024 | Las Vegas (NV) :us: | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
-| [DEF CON 32](https://defcon.org/) | Aug 8-11, 2024 | Las Vegas (NV) :us: | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [BSidesYXE](https://bsidesyxe.ca) | Aug 24, 2024 | Saskatoon (SK) :canada: | [@bsidesyxe@infosec.exchange](https://infosec.exchange/@bsidesyxe) | N
 | [HITBSecConf](https://conference.hitb.org/hitbsecconf2024bkk/) | Aug 29-30, 2024 | Bangkok :thailand: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
 | [BSidesBristol](https://www.bsidesbristol.org.uk/) | Aug 30-31 2024 | Bristol :uk: | [@bsidesbristol](https://x.com/BSIDESBRISTOL) | N
