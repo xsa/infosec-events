@@ -38,7 +38,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SecSea](https://secsea.org) | Oct 11-12, 2024 | La Ciotat :fr: | - | N
 | [BSidesBirmingham](https://bsidesbham.org) | Oct 12, 2024 | Birmingham (AL) :us: | [@BSidesBHAM@infosec.exchange](https://infosec.exchange/@BSidesBHAM) | N
 | [BSidesOslo](https://bsidesoslo.no) | Oct 14, 2024 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | N
-| [SOC Analyst Appreciation Day](https://www.socanalystday.com/) | Oct 16, 2024 | Online :laptop: | - | Y
+| [SOC Analyst Appreciation Day](https://www.socanalystday.com/) | Oct 16, 2024 | Online :computer: | - | Y
 | [Hacktivity NOW+NEXT](https://hacktivity.com) | Oct 17, 2024 | Budapest :hungary: | [@hacktivityconf](https://twitter.com/hacktivityconf) | N
 | [BSidesNYC](https://bsidesnyc.org) | Oct 19, 2024 | New York City (NY) :us: | [@BSidesNYC@infosec.exchange](https://infosec.exchange/@BSidesNYC) | N
 | [BSidesToronto](https://www.bsidesto.ca) | Oct 19-20, 2024 | Toronto (ON) :canada: | [@BSidesToronto@infosec.exchange](https://infosec.exchange/@BSidesToronto) | N
