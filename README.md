@@ -22,13 +22,13 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Munich Cyber Tactics, Techniques and Procedures](https://www.mcttp.de) | Sep 17-19, 2024 | Munich :de: | [@MCTTP_Con](https://twitter.com/MCTTP_Con) | N
 | [LABScon](https://www.labscon.io) | Sep 18-21, 2024 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | Invite-only
 | [BruCon](https://www.brucon.org/) | Sep 19-20, 2024 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
+| [BSidesTirana](https://bsidestirana.al/) | Sep 20, 2024 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 20-22, 2024 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
 | [FS-ISAC: FinCyber Today UK](https://www.fsisac.com/events/2024-uk) | Sep 23-24, 2024 | London :uk: | [@FSISAC@twitter.com](https://twitter.com/FSISAC) | N
 | [HOU.SEC.CON](https://www.houstonseccon.com) | Sep 24-25, 2024 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
 | [GrrCON](https://grrcon.com/) | Sep 26-27, 2024 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
 | [BSidesLjubljana](https://0x7e8.bsidesljubljana.si) | Sep 27, 2024 | Ljubljana :slovenia: | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | Y
 | [ThreatModCon](https://www.threatmodcon.com/san-francisco) | Sep 27-28, 2024 | San Francisco (CA) :us: | [@TMConnectHQ](https://twitter.com/TMConnectHQ) | N
-| [BSidesTirana](https://bsidestirana.al/) | TBD, 2024 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [Cyber White Hats Conference](https://whiteconference.com) | Oct 1, 2024 | Baku :azerbaijan: | - | N
 | [BSidesBE](https://bern.bsides.ch) | Oct 1, 2024 | Bern :switzerland: | [@BSides_Bern](https://twitter.com/BSides_Bern) | N
 | [ENISA CTI Conference](https://www.enisa.europa.eu/events/cti-conference) | Oct 1, 2024 | Brussels :belgium: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
