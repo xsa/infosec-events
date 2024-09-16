@@ -12,13 +12,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesYXE](https://bsidesyxe.ca) | Aug 24, 2024 | Saskatoon (SK) :canada: | [@bsidesyxe@infosec.exchange](https://infosec.exchange/@bsidesyxe) | N
-| [HITBSecConf](https://conference.hitb.org/hitbsecconf2024bkk/) | Aug 29-30, 2024 | Bangkok :thailand: | [@HITBSecConf](https://twitter.com/hitbsecconf) | N
-| [BSidesBristol](https://www.bsidesbristol.org.uk/) | Aug 30-31 2024 | Bristol :uk: | [@bsidesbristol](https://x.com/BSIDESBRISTOL) | N
-| [Barbhack](https://www.barbhack.fr/2024/en/) | Aug 31, 2024 | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | N
-| [OrangeCon](https://orangecon.nl) | Sep 5, 2024 | Amsterdam :netherlands: | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | N
-| [BSidesNoVA](https://www.bsidesnova.org/) | Sep 7-8, 2024 | Arlington (VA) :us: | [@BSides_NoVA](https://twitter.com/BSides_NoVA) | N
-| [Sec-T](https://www.sec-t.org/) | Sep 10-13, 2024 | Stockholm :sweden: | [@SEC_T_org](https://twitter.com/SEC_T_org) | N
 | [Munich Cyber Tactics, Techniques and Procedures](https://www.mcttp.de) | Sep 17-19, 2024 | Munich :de: | [@MCTTP_Con](https://twitter.com/MCTTP_Con) | N
 | [LABScon](https://www.labscon.io) | Sep 18-21, 2024 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | Invite-only
 | [BruCon](https://www.brucon.org/) | Sep 19-20, 2024 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
