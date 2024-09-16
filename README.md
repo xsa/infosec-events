@@ -20,6 +20,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [FS-ISAC: FinCyber Today UK](https://www.fsisac.com/events/2024-uk) | Sep 23-24, 2024 | London :uk: | [@FSISAC@twitter.com](https://twitter.com/FSISAC) | N
 | [HOU.SEC.CON](https://www.houstonseccon.com) | Sep 24-25, 2024 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
 | [GrrCON](https://grrcon.com/) | Sep 26-27, 2024 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
+| [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 26-28, 2024 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
 | [BSidesLjubljana](https://0x7e8.bsidesljubljana.si) | Sep 27, 2024 | Ljubljana :slovenia: | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | Y
 | [ThreatModCon](https://www.threatmodcon.com/san-francisco) | Sep 27-28, 2024 | San Francisco (CA) :us: | [@TMConnectHQ](https://twitter.com/TMConnectHQ) | N
 | [Cyber White Hats Conference](https://whiteconference.com) | Oct 1, 2024 | Baku :azerbaijan: | - | N
