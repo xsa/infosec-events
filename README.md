@@ -32,6 +32,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Cyber White Hats Conference](https://whiteconference.com) | Oct 1, 2024 | Baku :azerbaijan: | - | N
 | [BSidesBE](https://bern.bsides.ch) | Oct 1, 2024 | Bern :switzerland: | [@BSides_Bern](https://twitter.com/BSides_Bern) | N
 | [ENISA CTI Conference](https://www.enisa.europa.eu/events/cti-conference) | Oct 1, 2024 | Brussels :belgium: | [@enisa_eu@respublicae.eu](https://respublicae.eu/@enisa_eu) | N
+| [FIRST Vulnerability Forecasting Technical Colloquium](https://www.first.org/events/colloquia/utrecht2024/) | Oct 3-4, 2024 | Utrecht :netherlands: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 4-5, 2024 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesAugusta](https://bsidesaugusta.org) | Oct 5, 2024 | Augusta (GA) :us: | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
 | [Open Security Conference](https://opensecurityconference.org/) | Oct 4-6, 2024 | Rückersbach :de: | [@Osco](https://infosec.exchange/@OSCo) | N
