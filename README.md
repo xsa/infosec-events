@@ -17,6 +17,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BruCon](https://www.brucon.org/) | Sep 19-20, 2024 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
 | [BSidesTirana](https://bsidestirana.al/) | Sep 20, 2024 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 20-22, 2024 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
+| [BSidesGVL](https://www.bsidesgreenville.org) | Sep 21, 2024 | Greenville (SC) :us: | [@bsidesgvl](https://twitter.com/bsidesgvl) | N
 | [FS-ISAC: FinCyber Today UK](https://www.fsisac.com/events/2024-uk) | Sep 23-24, 2024 | London :uk: | [@FSISAC@twitter.com](https://twitter.com/FSISAC) | N
 | [HOU.SEC.CON](https://www.houstonseccon.com) | Sep 24-25, 2024 | Houston (TX) :us: | [@HouSecCon](https://twitter.com/HouSecCon) | N
 | [GrrCON](https://grrcon.com/) | Sep 26-27, 2024 | Grand Rapids (MI) :us: | [@GrrCON](https://twitter.com/GrrCON) | N
