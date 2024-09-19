@@ -14,6 +14,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | ---------- | ------- | -------- | ------- | :--------:
 | [Munich Cyber Tactics, Techniques and Procedures](https://www.mcttp.de) | Sep 17-19, 2024 | Munich :de: | [@MCTTP_Con](https://twitter.com/MCTTP_Con) | N
 | [LABScon](https://www.labscon.io) | Sep 18-21, 2024 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | Invite-only
+| [BSidesTallinn](https://tallinn.bsides.ee/) | Sep 19, 2024 | Tallinn :estonia: | [@bsidestll](https://twitter.com/bsidestll) | N
 | [BruCon](https://www.brucon.org/) | Sep 19-20, 2024 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
 | [BSidesTirana](https://bsidestirana.al/) | Sep 20, 2024 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | Y
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 20-22, 2024 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
