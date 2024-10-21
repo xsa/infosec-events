@@ -12,15 +12,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [CERT-EU Annual Conference](https://cert.europa.eu/conference/tales-from-the-real-world) | Oct 10-11, 2024 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
-| [SecSea](https://secsea.org) | Oct 11-12, 2024 | La Ciotat :fr: | - | N
-| [SteakOverflow](https://esnhack.fr/) | Oct 12, 2024 | Rennes :fr: | [@esnhack](https://x.com/esnhack) | Y
-| [BSidesBirmingham](https://bsidesbham.org) | Oct 12, 2024 | Birmingham (AL) :us: | [@BSidesBHAM@infosec.exchange](https://infosec.exchange/@BSidesBHAM) | N
-| [BSidesOslo](https://bsidesoslo.no) | Oct 14, 2024 | Oslo :norway: | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | N
-| [SOC Analyst Appreciation Day](https://www.socanalystday.com/) | Oct 16, 2024 | Online :computer: | - | Y
-| [Hacktivity NOW+NEXT](https://hacktivity.com) | Oct 17, 2024 | Budapest :hungary: | [@hacktivityconf](https://twitter.com/hacktivityconf) | N
-| [BSidesNYC](https://bsidesnyc.org) | Oct 19, 2024 | New York City (NY) :us: | [@BSidesNYC@infosec.exchange](https://infosec.exchange/@BSidesNYC) | N
-| [BSidesToronto](https://www.bsidesto.ca) | Oct 19-20, 2024 | Toronto (ON) :canada: | [@BSidesToronto@infosec.exchange](https://infosec.exchange/@BSidesToronto) | N
 | [SecTor](https://www.blackhat.com/sector/) | Oct 21-24, 2024 | Toronto (ON) :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com) | Oct 22, 2024 | Bern :switzerland: | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [Kaspersky Security Analyst Summit (SAS)](https://thesascon.com) | Oct 22-25, 2024 | Bali :indonesia: | [@TheSAScon](https://twitter.com/TheSAScon) | N
