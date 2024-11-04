@@ -32,6 +32,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 2, 2025 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [Internet2 Community Exchange](https://events.internet2.edu/website/76216/) (Security Topics) | Apr 21-May 1, 2025 | Anaheim (CA) :us: | - | N
 | [NorthSec](https://nsec.io) | May 15-18, 2025 | Montréal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
+| [Educause Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2025) | May 19–21, 2025 | Minneapolis (MN) :us: | - | N
 | [THOTCON](https://www.thotcon.org/) | May 30-31, 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2025) | Sep 24-26, 2025 | Berlin :de: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
