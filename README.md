@@ -21,6 +21,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Hackvens](https://hackvens.fr) | Nov 22, 2024 | Lille :fr: | - | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 22, 2024 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | Y
 | [PasswordsCon](https://passwordscon.org/) | Dec 2-4, 2024 | Oslo :norway: | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y
+| [Internet2 Technology Exchange](https://events.internet2.edu/website/69276/) (Security Track) | Dec 9-13 | Boston (MA) :us: | - | N
 | [Planet Cyber Sec](https://planetcybersec.com/121124-conference/) | Dec 11, 2024 | Long Beach (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-24/) | Dec 11-12, 2023 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Hackers 2 Hackers Conference (H2HC)](https://www.h2hc.com.br/en/) | Dec 14-15, 2024 | Sao Paulo :brazil: | [@h2hconference](https://twitter.com/h2hconference) | N
