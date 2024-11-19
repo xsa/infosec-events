@@ -17,6 +17,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SuriCon](https://www.suricon.net) | Nov 13-15, 2024 | Madrid :es: | [@suricata@infosec.exchange](https://infosec.exchange/@suricata) | N
 | [Ekoparty](https://ekoparty.org/en_US/) | Nov 13-15, 2024 | Buenos Aires :argentina: | [@ekoparty](https://twitter.com/ekoparty) | N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
+| [BSidesOttawa](https://bsidesottawa.ca/) | Nov 21-22, 2024 | Ottawa (ON) :canada: | [@bsidesottawa](http://twitter.com/bsidesottawa) | N
 | [CHCon (Christchurch Hacker Conference)](https://2024.chcon.nz) | Nov 21-23, 2024 | Christchurch :new_zealand: | [@CHCon_nz](https://twitter.com/CHCon_nz) | N
 | [Hackvens](https://hackvens.fr) | Nov 22, 2024 | Lille :fr: | - | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 22, 2024 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | Y
