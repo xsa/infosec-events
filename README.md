@@ -17,9 +17,13 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SuriCon](https://www.suricon.net) | Nov 13-15, 2024 | Madrid :es: | [@suricata@infosec.exchange](https://infosec.exchange/@suricata) | N
 | [Ekoparty](https://ekoparty.org/en_US/) | Nov 13-15, 2024 | Buenos Aires :argentina: | [@ekoparty](https://twitter.com/ekoparty) | N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
+| [BSidesOttawa](https://bsidesottawa.ca/) | Nov 21-22, 2024 | Ottawa (ON) :canada: | [@bsidesottawa](http://twitter.com/bsidesottawa) | N
 | [CHCon (Christchurch Hacker Conference)](https://2024.chcon.nz) | Nov 21-23, 2024 | Christchurch :new_zealand: | [@CHCon_nz](https://twitter.com/CHCon_nz) | N
 | [Hackvens](https://hackvens.fr) | Nov 22, 2024 | Lille :fr: | - | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 22, 2024 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | Y
+| [Hitch'Hack](https://hack2g2.fr) | Nov 23, 2024 | Vannes :fr: | [@Hack2G2](https://twitter.com/Hack2G2) | N
+| [Threat Modeling Connect Meetup](https://lu.ma/tmc-london-meetup-nov2024) | Nov 27, 2024 | London :uk: | [@TMConnectHQ](https://x.com/TMConnectHQ) | Y
+| [Ph0wn](https://ph0wn.org) | Nov 29-30, 2024 | Sophia Antipolis :fr: | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | Y
 | [PasswordsCon](https://passwordscon.org/) | Dec 2-4, 2024 | Oslo :norway: | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y
 | [Internet2 Technology Exchange](https://events.internet2.edu/website/69276/) (Security Track) | Dec 9-13, 2024 | Boston (MA) :us: | - | N
 | [Planet Cyber Sec](https://planetcybersec.com/121124-conference/) | Dec 11, 2024 | Long Beach (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
@@ -35,4 +39,9 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Educause Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2025) | May 19–21, 2025 | Minneapolis (MN) :us: | - | N
 | [THOTCON](https://www.thotcon.org/) | May 30-31, 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
+| [REcon](https://www.recon.cx) | Jun 23-29, 2025 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
+| [leHACK](https://lehack.org/) | Jul 27-28, 2025 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2025) | Sep 24-26, 2025 | Berlin :de: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
+| [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
+| [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
+
