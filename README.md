@@ -40,4 +40,5 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2025) | Sep 24-26, 2025 | Berlin :de: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
+| [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 
