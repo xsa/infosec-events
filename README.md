@@ -21,6 +21,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [CHCon (Christchurch Hacker Conference)](https://2024.chcon.nz) | Nov 21-23, 2024 | Christchurch :new_zealand: | [@CHCon_nz](https://twitter.com/CHCon_nz) | N
 | [Hackvens](https://hackvens.fr) | Nov 22, 2024 | Lille :fr: | - | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 22, 2024 | Arlington (VA) :us: | [@CYBERWARCON](https://twitter.com/CYBERWARCON) | Y
+| [Hitch'Hack](https://hack2g2.fr) | Nov 23, 2024 | Vannes :fr: | [@Hack2G2](https://twitter.com/Hack2G2) | N
 | [Threat Modeling Connect Meetup](https://lu.ma/tmc-london-meetup-nov2024) | Nov 27, 2024 | London :uk: | [@TMConnectHQ](https://x.com/TMConnectHQ) | Y
 | [Ph0wn](https://ph0wn.org) | Nov 29-30, 2024 | Sophia Antipolis :fr: | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | Y
 | [PasswordsCon](https://passwordscon.org/) | Dec 2-4, 2024 | Oslo :norway: | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y
