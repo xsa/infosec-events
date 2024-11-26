@@ -12,7 +12,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Black Hat MEA](https://blackhatmea.com) | Nov 26-28, 2023 | Malham :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [Black Hat MEA](https://blackhatmea.com) | Nov 26-28, 2024 | Malham :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Threat Modeling Connect Meetup](https://lu.ma/tmc-london-meetup-nov2024) | Nov 27, 2024 | London :uk: | [@TMConnectHQ](https://x.com/TMConnectHQ) | Y
 | [Ph0wn](https://ph0wn.org) | Nov 29-30, 2024 | Sophia Antipolis :fr: | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | Y
 | [PasswordsCon](https://passwordscon.org/) | Dec 2-4, 2024 | Oslo :norway: | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y
