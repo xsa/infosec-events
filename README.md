@@ -4,6 +4,10 @@
 
 List of past and future {cyber,info}sec related events. Feel free to contribute by submitting issues or pull requests. Thanks! 😉
 
+## Featured List
+
+- OpenSSF ([@osff](https://github.com/ossf)) Events: https://openssf.org/events/
+
 ## Past
 
 [2024](./2024.md) | [2023](./2023.md) | [2022](./2022.md)
