@@ -16,14 +16,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Black Hat MEA](https://blackhatmea.com) | Nov 26-28, 2024 | Malham :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [Threat Modeling Connect Meetup](https://lu.ma/tmc-london-meetup-nov2024) | Nov 27, 2024 | London :uk: | [@TMConnectHQ](https://x.com/TMConnectHQ) | Y
-| [Ph0wn](https://ph0wn.org) | Nov 29-30, 2024 | Sophia Antipolis :fr: | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | Y
-| [PasswordsCon](https://passwordscon.org/) | Dec 2-4, 2024 | Oslo :norway: | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y
-| [BSidesPhilly](https://bsidesphilly.org) | Dec 6, 2024 | Philadelphia (PA) :us: | [@bsidesphilly@infosec.exchange](https://infosec.exchange/@bsidesphilly) | N
-| [Internet2 Technology Exchange](https://events.internet2.edu/website/69276/) (Security Track) | Dec 9-13, 2024 | Boston (MA) :us: | - | N
-| [Planet Cyber Sec](https://planetcybersec.com/121124-conference/) | Dec 11, 2024 | Long Beach (CA) :us: | [@Layer8Masters](https://twitter.com/Layer8Masters) | N
-| [Black Hat Europe](https://www.blackhat.com/eu-24/) | Dec 11-12, 2023 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Hackers 2 Hackers Conference (H2HC)](https://www.h2hc.com.br/en/) | Dec 14-15, 2024 | Sao Paulo :brazil: | [@h2hconference](https://twitter.com/h2hconference) | N
 | [CruiseCon](https://cruisecon.com) | Feb 8-13, 2025 | Port Canaveral (FL) :us: | - | N
 | [RuhrSec](https://www.ruhrsec.de/2025/) | Feb 20-21, 2025 | Bochum :de: | [@ruhrsec](https://twitter.com/ruhrsec) | N
