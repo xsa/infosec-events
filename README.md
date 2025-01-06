@@ -16,7 +16,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Hackers 2 Hackers Conference (H2HC)](https://www.h2hc.com.br/en/) | Dec 14-15, 2024 | Sao Paulo :brazil: | [@h2hconference](https://twitter.com/h2hconference) | N
 | [CruiseCon](https://cruisecon.com) | Feb 8-13, 2025 | Port Canaveral (FL) :us: | - | N
 | [RuhrSec](https://www.ruhrsec.de/2025/) | Feb 20-21, 2025 | Bochum :de: | [@ruhrsec](https://twitter.com/ruhrsec) | N
 | [RE//verse](https://re-verse.io) | Feb 28-Mar 1, 2025 | Orlando (FL) :us: | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
