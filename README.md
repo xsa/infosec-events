@@ -23,6 +23,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Insomni'hack](https://insomnihack.ch/) | Mar 10-15, 2025 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 2, 2025 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [GÉANT Security Days](https://security.geant.org/geant-security-days-2025/) | Apr 8-10, 2025 | Prague 🇨🇿 | - | Y
+| [ATLSECCON](https://www.atlseccon.com) | Apr 10-11, 2025 | Halifax (NS) :canada: | [@AtlSecCon](https://twitter.com/AtlSecCon) | N
 | [Internet2 Community Exchange](https://events.internet2.edu/website/76216/) (Security Topics) | Apr 21-May 1, 2025 | Anaheim (CA) :us: | - | N
 | [NorthSec](https://nsec.io) | May 15-18, 2025 | Montréal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
 | [Educause Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2025) | May 19–21, 2025 | Minneapolis (MN) :us: | - | N
