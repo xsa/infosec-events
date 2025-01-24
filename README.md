@@ -16,7 +16,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [ShmooCon](https://shmoocon.org/) | Jan 10-12, 2025 | Washington (DC) :us: | [@ShmooCon@infosec.exchange](https://infosec.exchange/@ShmooCon) | N
 | [CruiseCon](https://cruisecon.com) | Feb 8-13, 2025 | Port Canaveral (FL) :us: | - | N
 | [RuhrSec](https://www.ruhrsec.de/2025/) | Feb 20-21, 2025 | Bochum :de: | [@ruhrsec](https://twitter.com/ruhrsec) | N
 | [RE//verse](https://re-verse.io) | Feb 28-Mar 1, 2025 | Orlando (FL) :us: | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
