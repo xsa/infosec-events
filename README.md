@@ -29,6 +29,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [THOTCON](https://www.thotcon.org/) | May 30-31, 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 13, 2025 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
+| [Offensive X](https://offensivex.org) | Jun 18-19, 2025 | Athens :greece: | [@XOffensive21584](https://twitter.com/XOffensive21584) | N
 | [REcon](https://www.recon.cx) | Jun 23-29, 2025 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
 | [Pass the SALT](https://2025.pass-the-salt.org/) | Jul 1-3, 2025 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [leHACK](https://lehack.org/) | Jul 27-28, 2025 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
