@@ -6,6 +6,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 ## Featured List
 
+- [CyberRisk Alliance Communities Events](https://www.cyberriskalliance.com/communities)
 - OpenSSF ([@osff](https://github.com/ossf)) Events: https://openssf.org/events/
 
 ## Past
