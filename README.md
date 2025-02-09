@@ -25,7 +25,8 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Insomni'hack](https://insomnihack.ch/) | Mar 10-15, 2025 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 18-20, 2025 | Podgorica :montenegro: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 2, 2025 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
-| [GÉANT Security Days](https://security.geant.org/geant-security-days-2025/) | Apr 8-10, 2025 | Prague 🇨🇿 | - | Y
+| [GÉANT Security Days](https://security.geant.org/geant-security-days-2025/) | Apr 8-10, 2025 | Prague :czech_republic: | - | Y
+| [THCon](https://thcon.party) | Apr 10-11, 2025 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [ATLSECCON](https://www.atlseccon.com) | Apr 10-11, 2025 | Halifax (NS) :canada: | [@AtlSecCon](https://twitter.com/AtlSecCon) | N
 | [Internet2 Community Exchange](https://events.internet2.edu/website/76216/) (Security Topics) | Apr 21-May 1, 2025 | Anaheim (CA) :us: | - | N
 | [NorthSec](https://nsec.io) | May 15-18, 2025 | Montréal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
