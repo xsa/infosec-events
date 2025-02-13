@@ -18,6 +18,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [CruiseCon](https://cruisecon.com) | Feb 8-13, 2025 | Port Canaveral (FL) :us: | - | N
+| [HackOn](https://www.hackcon.org) | Feb 12-13, 2025 | Oslo :norway: | - | N
 | [RuhrSec](https://www.ruhrsec.de/2025/) | Feb 20-21, 2025 | Bochum :de: | [@ruhrsec](https://twitter.com/ruhrsec) | N
 | [DistrictCon](https://www.districtcon.org) | Feb 21-22, 2025 | Washington (DC) :us: | [@DistrictCon@infosec.exchange](https://infosec.exchange/@DistrictCon) | N
 | [RE//verse](https://re-verse.io) | Feb 28-Mar 1, 2025 | Orlando (FL) :us: | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
