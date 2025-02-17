@@ -34,6 +34,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 16-17, 2025 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
 | [CackalackyCon](https://cackalackycon.org) | May 16-18, 2025 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
 | [Educause Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2025) | May 19–21, 2025 | Minneapolis (MN) :us: | - | N
+| [Botconf](https://www.botconf.eu/) | May 21-23, 2025 | Angers :fr: | [@Botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
 | [THOTCON](https://www.thotcon.org/) | May 30-31, 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 13, 2025 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
