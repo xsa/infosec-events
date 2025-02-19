@@ -30,6 +30,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [GÉANT Security Days](https://security.geant.org/geant-security-days-2025/) | Apr 8-10, 2025 | Prague :czech_republic: | - | Y
 | [THCon](https://thcon.party) | Apr 10-11, 2025 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [ATLSECCON](https://www.atlseccon.com) | Apr 10-11, 2025 | Halifax (NS) :canada: | [@AtlSecCon](https://twitter.com/AtlSecCon) | N
+| [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti25/) | Apr 21-23, 2025 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Internet2 Community Exchange](https://events.internet2.edu/website/76216/) (Security Topics) | Apr 21-May 1, 2025 | Anaheim (CA) :us: | - | N
 | [NorthSec](https://nsec.io) | May 15-18, 2025 | Montréal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 16-17, 2025 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
