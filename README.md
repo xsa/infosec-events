@@ -25,6 +25,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [nullcon](https://nullcon.net/) | Mar 1-2, 2025 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
 | [BSidesZagreb](https://www.bsideszagreb.com) | Mar 7, 2025 | Zagreb :croatia: | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [Insomni'hack](https://insomnihack.ch/) | Mar 10-15, 2025 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
+| [JSSI](https://www.ossir.org/conference/jssi-2025/) | Mar 11, 2025 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 18-20, 2025 | Podgorica :montenegro: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 2, 2025 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [CypherCon](https://cyphercon.com/) | Apr 3-4, 2025 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
