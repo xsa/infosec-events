@@ -22,6 +22,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [RuhrSec](https://www.ruhrsec.de/2025/) | Feb 20-21, 2025 | Bochum :de: | [@ruhrsec](https://twitter.com/ruhrsec) | N
 | [DistrictCon](https://www.districtcon.org) | Feb 21-22, 2025 | Washington (DC) :us: | [@DistrictCon@infosec.exchange](https://infosec.exchange/@DistrictCon) | N
 | [RE//verse](https://re-verse.io) | Feb 28-Mar 1, 2025 | Orlando (FL) :us: | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
+| [nullcon](https://nullcon.net/) | Mar 1-2, 2025 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
 | [BSidesZagreb](https://www.bsideszagreb.com) | Mar 7, 2025 | Zagreb :croatia: | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [Insomni'hack](https://insomnihack.ch/) | Mar 10-15, 2025 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 18-20, 2025 | Podgorica :montenegro: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
