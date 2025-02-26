@@ -45,6 +45,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 13, 2025 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [Offensive X](https://offensivex.org) | Jun 18-19, 2025 | Athens :greece: | [@TheOffensiveX](https://twitter.com/TheOffensiveX) | N
+| [FIRST Conference](https://www.first.org/conference/2025) | Jun 22-27, 2025 | Copenhagen :denmark: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [REcon](https://www.recon.cx) | Jun 23-29, 2025 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
 | [TumpiCon](https://tumpicon.org) | Jun 27-28, 2025 | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | Invite-Only
 | [Pass the SALT](https://2025.pass-the-salt.org/) | Jul 1-3, 2025 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
@@ -56,4 +57,3 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
-
