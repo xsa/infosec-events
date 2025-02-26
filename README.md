@@ -30,6 +30,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 2, 2025 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [CypherCon](https://cyphercon.com/) | Apr 3-4, 2025 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [BSidesPrague](https://bsidesprg.cz) | Apr 3-4, 2025 | Prague :czech_republic: | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
+| [FIRST VulnCon](https://www.first.org/conference/vulncon2025/) | Apr 7-10, 2025 | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [GÉANT Security Days](https://security.geant.org/geant-security-days-2025/) | Apr 8-10, 2025 | Prague :czech_republic: | - | Y
 | [THCon](https://thcon.party) | Apr 10-11, 2025 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [ATLSECCON](https://www.atlseccon.com) | Apr 10-11, 2025 | Halifax (NS) :canada: | [@AtlSecCon](https://twitter.com/AtlSecCon) | N
@@ -56,4 +57,3 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
-
