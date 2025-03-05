@@ -17,12 +17,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [CruiseCon](https://cruisecon.com) | Feb 8-13, 2025 | Port Canaveral (FL) :us: | - | N
-| [HackOn](https://www.hackcon.org) | Feb 12-13, 2025 | Oslo :norway: | - | N
-| [RuhrSec](https://www.ruhrsec.de/2025/) | Feb 20-21, 2025 | Bochum :de: | [@ruhrsec](https://twitter.com/ruhrsec) | N
-| [DistrictCon](https://www.districtcon.org) | Feb 21-22, 2025 | Washington (DC) :us: | [@DistrictCon@infosec.exchange](https://infosec.exchange/@DistrictCon) | N
-| [RE//verse](https://re-verse.io) | Feb 28-Mar 1, 2025 | Orlando (FL) :us: | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
-| [nullcon](https://nullcon.net/) | Mar 1-2, 2025 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
 | [BSidesZagreb](https://www.bsideszagreb.com) | Mar 7, 2025 | Zagreb :croatia: | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [Insomni'hack](https://insomnihack.ch/) | Mar 10-15, 2025 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
 | [JSSI](https://www.ossir.org/conference/jssi-2025/) | Mar 11, 2025 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
