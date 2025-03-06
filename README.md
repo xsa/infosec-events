@@ -43,6 +43,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Elbsides](https://www.elbsides.eu) | Jun 13, 2025 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 13, 2025 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
 | [Offensive X](https://offensivex.org) | Jun 18-19, 2025 | Athens :greece: | [@TheOffensiveX](https://twitter.com/TheOffensiveX) | N
+| [BSidesSATX](https://www.bsidessatx.com/) | Jun 21, 2025 | San Antonio (TX) :us: | [@BSidesSATX](https://twitter.com/BSidesSATX) | N/A
 | [FIRST Conference](https://www.first.org/conference/2025) | Jun 22-27, 2025 | Copenhagen :denmark: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [REcon](https://www.recon.cx) | Jun 23-29, 2025 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
 | [TumpiCon](https://tumpicon.org) | Jun 27-28, 2025 | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | Invite-Only
