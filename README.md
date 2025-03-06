@@ -49,7 +49,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Pass the SALT](https://2025.pass-the-salt.org/) | Jul 1-3, 2025 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [leHACK](https://lehack.org/) | Jul 27-28, 2025 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 6-7, 2025 | Las Vegas (NV) :us: | [@bsideslv](https://www.twitter.com/bsideslv) | N
-| [OrangeCon](https://orangecon.nl/) | Sep 5, 2025 | Amsterdam :nl: | [@OrangeCon_nl](https://twitter.com/OrangeCon_nl) | N
+| [OrangeCon](https://orangecon.nl/) | Sep 5, 2025 | Amsterdam :netherlands: | [@OrangeCon_nl](https://twitter.com/OrangeCon_nl) | N
 | [PraSec](https://www.prasec.cz) | Sep 18-19, 2025 | Prague :czech_republic: | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 19-21, 2025 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2025) | Sep 24-26, 2025 | Berlin :de: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
