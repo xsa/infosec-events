@@ -56,6 +56,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 19-21, 2025 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2025) | Sep 24-26, 2025 | Berlin :de: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [RomHack](https://romhack.io) | Sep 27, 2025 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
+| [CERT-EU Annual Conference](https://cert.europa.eu/conference/never-gonna-breach-you-up/announcement) | Oct 2-3, 2025 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
 | [GrrCON](https://grrcon.com/) | Oct 2-3, 2025 | Grand Rapids (MI) :us: | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | N
 | [Objective by the Sea](https://objectivebythesea.org) | Oct 15-17, 2025 | Ibiza :es: | [@objective_see](https://twitter.com/objective_see) | N
 | [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
