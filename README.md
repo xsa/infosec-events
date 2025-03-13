@@ -42,6 +42,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OWASP Global AppSec](https://barcelona.globalappsec.org) | May 29-30, 2025 | Barcelona :es: | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [THOTCON](https://www.thotcon.org/) | May 30-31, 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
+| [BSidesUme](https://indico.neic.no/event/273/) | Jun 10-11, 2025 | Umeå :sweden: | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 13, 2025 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 13, 2025 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
 | [Offensive X](https://offensivex.org) | Jun 18-19, 2025 | Athens :greece: | [@TheOffensiveX](https://twitter.com/TheOffensiveX) | N
