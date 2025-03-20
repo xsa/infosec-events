@@ -55,7 +55,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Pass the SALT](https://2025.pass-the-salt.org/) | Jul 1-3, 2025 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [leHACK](https://lehack.org/) | Jul 27-28, 2025 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 6-7, 2025 | Las Vegas (NV) :us: | [@bsideslv](https://www.twitter.com/bsideslv) | N
-| [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | Aug 28-29, 2025 | Amsterdam :netherlands: | [@LinuxFoundation](https://twitter.com/linuxfoundation) | N
+| [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | Aug 28-29, 2025 | Amsterdam :netherlands: | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N
 | [BSidesFrankfurt](https://bsidesfrankfurt.org/) | Aug 29, 2025 | Frankfurt :de: | [@BSidesFRA](https://twitter.com/BSidesFRA) | N
 | [OrangeCon](https://orangecon.nl/) | Sep 5, 2025 | Amsterdam :netherlands: | [@OrangeCon_nl](https://twitter.com/OrangeCon_nl) | N
 | [PraSec](https://www.prasec.cz) | Sep 18-19, 2025 | Prague :czech_republic: | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
