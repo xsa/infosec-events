@@ -17,11 +17,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesZagreb](https://www.bsideszagreb.com) | Mar 7, 2025 | Zagreb :croatia: | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
-| [Insomni'hack](https://insomnihack.ch/) | Mar 10-15, 2025 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
-| [JSSI](https://www.ossir.org/conference/jssi-2025/) | Mar 11, 2025 | Paris :fr: | [@OSSIRFrance](https://twitter.com/OSSIRFrance) | N
-| [BSidesLimburg](https://www.bsides-limburg.be) | Mar 14, 2025 | Hasselt :belgium: | - | N
-| [BSidesBA](https://bsidesba.sk) | Mar 15, 2025 | Bratislava :slovakia: | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | N
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 18-20, 2025 | Podgorica :montenegro: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesSD](https://www.bsidessd.org/) | Mar 29, 2025 | San Diego (CA) :us: | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
 | [Black Hat Asia](https://www.blackhat.com/asia-25/) | Apr 1-4, 2025 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
