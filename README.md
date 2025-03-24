@@ -37,6 +37,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesTokyo](https://bsides.tokyo/en/) | May 17, 2025 | Tokyo :jp: | - | N
 | [Educause Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2025) | May 19–21, 2025 | Minneapolis (MN) :us: | - | N
 | [Botconf](https://www.botconf.eu/) | May 21-23, 2025 | Angers :fr: | [@Botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
+| [Hardwear.io](https://hardwear.io/) | May 27-31, 2025 | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [OWASP Global AppSec](https://barcelona.globalappsec.org) | May 29-30, 2025 | Barcelona :es: | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [THOTCON](https://www.thotcon.org/) | May 30-31, 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
