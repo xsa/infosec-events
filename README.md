@@ -70,6 +70,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Offensive AI Con](https://www.offensiveaicon.com) | Oct 5-8, 2025 | San Diego (CA) :us: | - | Invite-Only
 | [Objective by the Sea](https://objectivebythesea.org) | Oct 15-17, 2025 | Ibiza :es: | [@objective_see](https://twitter.com/objective_see) | N
 | [No Hat](https://www.nohat.it/) | Oct 18, 2025 | Bergamo :it: | [@nohatcon](https://twitter.com/nohatcon) | N
+| [BSidesPerth](https://bsidesperth.com.au/) | Oct 18-19, 2025 | Perth :australia: | [@BSidesPer](https://twitter.com/BSidesPer) | N
 | [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
