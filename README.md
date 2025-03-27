@@ -23,7 +23,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesSD](https://www.bsidessd.org/) | Mar 29, 2025 | San Diego (CA) :us: | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
 | [Black Hat Asia](https://www.blackhat.com/asia-25/) | Apr 1-4, 2025 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 2, 2025 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
-| [Kernelcon](https://kernelcon.org/) | Apr 3-4, 2025 | Omaha (NE) :us: | [@_kernelcon_](http://twitter.com/_kernelcon_) | N
+| [Kernelcon](https://kernelcon.org/) | Apr 3-4, 2025 | Omaha (NE) :us: | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | N
 | [CypherCon](https://cyphercon.com/) | Apr 3-4, 2025 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [BSidesPrague](https://bsidesprg.cz) | Apr 3-4, 2025 | Prague :czech_republic: | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
 | [FIRST VulnCon](https://www.first.org/conference/vulncon2025/) | Apr 7-10, 2025 | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
