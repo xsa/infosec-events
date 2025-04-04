@@ -70,6 +70,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [GrrCON](https://grrcon.com/) | Oct 2-3, 2025 | Grand Rapids (MI) :us: | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | N
 | [BsidesCambridgeMA](https://bsidescambridgema.org/) | Oct 4, 2025 | Somerville (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | N
 | [Offensive AI Con](https://www.offensiveaicon.com) | Oct 5-8, 2025 | San Diego (CA) :us: | - | Invite-Only
+| [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | Oct 8-10, 2025 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [Objective by the Sea](https://objectivebythesea.org) | Oct 15-17, 2025 | Ibiza :es: | [@objective_see](https://twitter.com/objective_see) | N
 | [No Hat](https://www.nohat.it/) | Oct 18, 2025 | Bergamo :it: | [@nohatcon](https://twitter.com/nohatcon) | N
 | [BSidesPerth](https://bsidesperth.com.au/) | Oct 18-19, 2025 | Perth :australia: | [@BSidesPer](https://twitter.com/BSidesPer) | N
