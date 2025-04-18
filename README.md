@@ -81,6 +81,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [No Hat](https://www.nohat.it/) | Oct 18, 2025 | Bergamo :it: | [@nohatcon](https://twitter.com/nohatcon) | N
 | [BSidesPerth](https://bsidesperth.com.au/) | Oct 18-19, 2025 | Perth :australia: | [@BSidesPer](https://twitter.com/BSidesPer) | N
 | [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
+| [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | Nov 7-8, 2025 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS) | N
 | [DEATHCon](https://deathcon.io) | Nov 8-9, 2025 | Multiple Locations | [@DEATHCon@infosec.exchange](https://infosec.exchange/@DEATHCon) | N
 | [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2025/) | Nov 10-12, 2025 | Seoul :kr: | [@DFRWS](https://twitter.com/DFRWS) | N
 | [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
