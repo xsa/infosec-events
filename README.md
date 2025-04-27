@@ -56,6 +56,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesSATX](https://www.bsidessatx.com/) | Jun 21, 2025 | San Antonio (TX) :us: | [@BSidesSATX](https://twitter.com/BSidesSATX) | N/A
 | [FIRST Conference](https://www.first.org/conference/2025) | Jun 22-27, 2025 | Copenhagen :denmark: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [REcon](https://www.recon.cx) | Jun 23-29, 2025 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
+| [TROOPERS](https://troopers.de/) | Jun 25-27, 2025 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [TumpiCon](https://tumpicon.org) | Jun 27-28, 2025 | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | Invite-Only
 | [Pass the SALT](https://2025.pass-the-salt.org/) | Jul 1-3, 2025 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2025/) | Jul 22-25, 2025 | Chicago (IL) :us: | [@DFRWS](https://twitter.com/DFRWS) | N
