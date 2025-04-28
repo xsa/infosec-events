@@ -19,19 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 18-20, 2025 | Podgorica :montenegro: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
-| [BSidesSD](https://www.bsidessd.org/) | Mar 29, 2025 | San Diego (CA) :us: | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
-| [Black Hat Asia](https://www.blackhat.com/asia-25/) | Apr 1-4, 2025 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [BSidesMKE](https://www.bsidesmke.org/) | Apr 2, 2025 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
-| [Kernelcon](https://kernelcon.org/) | Apr 3-4, 2025 | Omaha (NE) :us: | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | N
-| [CypherCon](https://cyphercon.com/) | Apr 3-4, 2025 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
-| [BSidesPrague](https://bsidesprg.cz) | Apr 3-4, 2025 | Prague :czech_republic: | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
-| [FIRST VulnCon](https://www.first.org/conference/vulncon2025/) | Apr 7-10, 2025 | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
-| [GÉANT Security Days](https://security.geant.org/geant-security-days-2025/) | Apr 8-10, 2025 | Prague :czech_republic: | - | Y
-| [THCon](https://thcon.party) | Apr 10-11, 2025 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
-| [Zer0Con](https://zer0con.org/) | Apr 10-11, 2025 | Seoul :kr: | [@POC_Crew](https://twitter.com/@POC_Crew) | N
-| [ATLSECCON](https://www.atlseccon.com) | Apr 10-11, 2025 | Halifax (NS) :canada: | [@AtlSecCon](https://twitter.com/AtlSecCon) | N
-| [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti25/) | Apr 21-23, 2025 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Internet2 Community Exchange](https://events.internet2.edu/website/76216/) (Security Topics) | Apr 21-May 1, 2025 | Anaheim (CA) :us: | - | N
 | [BSidesSF](https://bsidessf.org/) | Apr 26-27, 2025 | San Francisco (CA) :us: | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | N
 | [PIVOTcon](https://pivotcon.org) | May 7-9, 2025 | Malaga :es: | [@pivot_con](https://x.com/pivot_con) | Invite-Only
