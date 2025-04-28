@@ -19,8 +19,9 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Internet2 Community Exchange](https://events.internet2.edu/website/76216/) (Security Topics) | Apr 21-May 1, 2025 | Anaheim (CA) :us: | - | N
+| [Internet2 Community Exchange](https://events.internet2.edu/website/76216/) (Security Topics) | Apr 21 - May 1, 2025 | Anaheim (CA) :us: | - | N
 | [BSidesSF](https://bsidessf.org/) | Apr 26-27, 2025 | San Francisco (CA) :us: | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | N
+| [RSA Conference](https://www.rsaconference.com/) | Apr 28 - May 1, 2025 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
 | [PIVOTcon](https://pivotcon.org) | May 7-9, 2025 | Malaga :es: | [@pivot_con](https://x.com/pivot_con) | Invite-Only
 | [NorthSec](https://nsec.io) | May 15-18, 2025 | Montréal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 16-17, 2025 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
