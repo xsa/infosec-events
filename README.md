@@ -58,6 +58,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SEC-T](https://www.sec-t.org/) | Sep 10-12, 2025 | Stockholm :sweden: | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
 | [PraSec](https://www.prasec.cz) | Sep 18-19, 2025 | Prague :czech_republic: | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 19-21, 2025 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
+| [BSidesEdmonton](https://www.bsidesedmonton.org/) | Sep 22-23, 2025 | Edmonton :canada: | [@bsidesedmonton](https://twitter.com/bsidesedmonton) | N
 | [OWASP AppSec Days France](https://www.owaspappsecdays.fr/2025/) | Sep 23, 2025 | Paris :fr: | - | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2025) | Sep 24-26, 2025 | Berlin :de: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [RomHack](https://romhack.io) | Sep 27, 2025 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
