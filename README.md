@@ -23,6 +23,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesSF](https://bsidessf.org/) | Apr 26-27, 2025 | San Francisco (CA) :us: | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | N
 | [RSA Conference](https://www.rsaconference.com/) | Apr 28 - May 1, 2025 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
 | [PIVOTcon](https://pivotcon.org) | May 7-9, 2025 | Malaga :es: | [@pivot_con](https://x.com/pivot_con) | Invite-Only
+| [Off-by-One Conference](https://offbyone.sg/) | May 8-9, 2025 | Singapore :singapore: | [@offbyoneconf](https://x.com/offbyoneconf) | N
 | [NorthSec](https://nsec.io) | May 15-18, 2025 | Montréal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
 | [Offensive Security Conference](https://www.offensivecon.org/) | May 16-17, 2025 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
 | [CackalackyCon](https://cackalackycon.org) | May 16-18, 2025 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
