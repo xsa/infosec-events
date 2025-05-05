@@ -63,6 +63,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesEdmonton](https://www.bsidesedmonton.org/) | Sep 22-23, 2025 | Edmonton :canada: | [@bsidesedmonton](https://twitter.com/bsidesedmonton) | N
 | [OWASP AppSec Days France](https://www.owaspappsecdays.fr/2025/) | Sep 23, 2025 | Paris :fr: | - | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2025) | Sep 24-26, 2025 | Berlin :de: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
+| [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 25-27, 2025 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
 | [RomHack](https://romhack.io) | Sep 27, 2025 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/never-gonna-breach-you-up/announcement) | Oct 2-3, 2025 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
 | [GrrCON](https://grrcon.com/) | Oct 2-3, 2025 | Grand Rapids (MI) :us: | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | N
