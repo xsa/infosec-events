@@ -19,16 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Internet2 Community Exchange](https://events.internet2.edu/website/76216/) (Security Topics) | Apr 21 - May 1, 2025 | Anaheim (CA) :us: | - | N
-| [BSidesSF](https://bsidessf.org/) | Apr 26-27, 2025 | San Francisco (CA) :us: | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | N
-| [RSA Conference](https://www.rsaconference.com/) | Apr 28 - May 1, 2025 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
-| [PIVOTcon](https://pivotcon.org) | May 7-9, 2025 | Malaga :es: | [@pivot_con](https://x.com/pivot_con) | Invite-Only
-| [Off-by-One Conference](https://offbyone.sg/) | May 8-9, 2025 | Singapore :singapore: | [@offbyoneconf](https://x.com/offbyoneconf) | N
-| [NorthSec](https://nsec.io) | May 15-18, 2025 | Montréal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
-| [Offensive Security Conference](https://www.offensivecon.org/) | May 16-17, 2025 | Berlin :de: | [@offensive_con](https://twitter.com/offensive_con) | N
-| [CackalackyCon](https://cackalackycon.org) | May 16-18, 2025 | Raleigh (NC) :us:| [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | N
-| [BSidesTokyo](https://bsides.tokyo/en/) | May 17, 2025 | Tokyo :jp: | - | N
-| [ESIEA Secure Edition](https://ese.esiea.fr/) | May 17, 2025 | Paris :fr: | [@EsieaSecEdit](https://twitter.com/EsieaSecEdit) | N
 | [Educause Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2025) | May 19–21, 2025 | Minneapolis (MN) :us: | - | N
 | [Botconf](https://www.botconf.eu/) | May 21-23, 2025 | Angers :fr: | [@Botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
 | [SINCON](https://www.infosec-city.com/sin-25) | May 22-23, 2025 | Singapore :singapore: | [@Infosec_City](https://twitter.com/infosec_city) | N
