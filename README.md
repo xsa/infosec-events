@@ -23,6 +23,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Botconf](https://www.botconf.eu/) | May 21-23, 2025 | Angers :fr: | [@Botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
 | [SINCON](https://www.infosec-city.com/sin-25) | May 22-23, 2025 | Singapore :singapore: | [@Infosec_City](https://twitter.com/infosec_city) | N
 | [Sthack](https://sthack.fr/) | May 23, 2025 | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | N
+| [BSidesDublin](https://www.bsidesdub.ie/) | May 24, 2025 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [TyphoonCon](https://typhooncon.com/) | May 26-30, 2025 | Seoul :kr: | [@typhooncon](https://twitter.com/typhooncon) | N
 | [Hardwear.io](https://hardwear.io/) | May 27-31, 2025 | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [OWASP Global AppSec](https://barcelona.globalappsec.org) | May 29-30, 2025 | Barcelona :es: | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
