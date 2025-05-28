@@ -30,6 +30,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OWASP Global AppSec](https://barcelona.globalappsec.org) | May 29-30, 2025 | Barcelona :es: | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [THOTCON](https://www.thotcon.org/) | May 30-31, 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
 | [Honeynet Project Workshop](https://prague2025.honeynet.org/) | Jun 2-4, 2025 | Prague :czech_republic: | [@ProjectHoneynet](https://twitter.com/projecthoneynet) | N
+| [RVAsec](https://rvasec.com/) | Jun 3-4, 2025 | Richmond (VA) :us: | [@RVAsec](https://twitter.com/rvasec) | N
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 7, 2025 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [Hague TIX](https://www.thehagueprogram.nl/the-hague-tix/hague-tix-2025) | Jun 10, 2025 | The Hague :netherlands: | [@haguetix@infosec.exchange](https://infosec.exchange/@haguetix) | N
