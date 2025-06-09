@@ -33,7 +33,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [RVAsec](https://rvasec.com/) | Jun 3-4, 2025 | Richmond (VA) :us: | [@RVAsec](https://twitter.com/rvasec) | N
 | [SSTIC](https://www.sstic.org) | Jun 4-6, 2025 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 7, 2025 | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
-| [ShowMeCon](https://showmecon.com) | Jun 9, 2025 | St-Louis (MO) | [@showmeconstl](https://x.com/showmeconstl) | N
+| [ShowMeCon](https://showmecon.com) | Jun 9, 2025 | St-Louis (MO) :us: | [@showmeconstl](https://x.com/showmeconstl) | N
 | [Hague TIX](https://www.thehagueprogram.nl/the-hague-tix/hague-tix-2025) | Jun 10, 2025 | The Hague :netherlands: | [@haguetix@infosec.exchange](https://infosec.exchange/@haguetix) | N
 | [BSidesUme](https://indico.neic.no/event/273/) | Jun 10-11, 2025 | Umeå :sweden: | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 13, 2025 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
