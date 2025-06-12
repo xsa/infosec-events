@@ -24,6 +24,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesUme](https://indico.neic.no/event/273/) | Jun 10-11, 2025 | Umeå :sweden: | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 13, 2025 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 13, 2025 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
+| [Layer 8 Conference](https://layer8conference.com/layer-8-conference-2025/) | Jun 14, 2025 | Boston (MA) :us: | [@layer8con](https://twitter.com/layer8con) | N
 | [Offensive X](https://offensivex.org) | Jun 18-19, 2025 | Athens :greece: | [@TheOffensiveX](https://twitter.com/TheOffensiveX) | N
 | [BSidesLuxembourg](https://2025.bsides.lu/) | Jun 19, 2025 | Luxembourg :luxembourg: | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
 | [BSidesSATX](https://www.bsidessatx.com/) | Jun 21, 2025 | San Antonio (TX) :us: | [@BSidesSATX](https://twitter.com/BSidesSATX) | N/A
