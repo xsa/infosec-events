@@ -43,6 +43,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Barbhack](https://www.barbhack.fr/) | Aug 30, 2025 | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | N
 | [Nullcon Berlin](https://nullcon.net/berlin-2025) | Sep 4-5, 2025 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
 | [OrangeCon](https://orangecon.nl/) | Sep 5, 2025 | Amsterdam :netherlands: | [@OrangeCon_nl](https://twitter.com/OrangeCon_nl) | N
+| [BSidesNEPA](https://bsidesnepa.org) | Sep 5, 2025 | Scranton (PA) :us: | - | N
 | [BSidesAhmedabad](https://bsidesahmedabad.in/) | Sep 12-13, 2025 | Ahmedabad :india: | [@bsidesahmedabad](https://twitter.com/bsidesahmedabad) | N
 | [SEC-T](https://www.sec-t.org/) | Sep 10-12, 2025 | Stockholm :sweden: | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
 | [LABScon](https://www.labscon.io/) | Sep 17-20, 2025 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
