@@ -32,6 +32,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [REcon](https://www.recon.cx) | Jun 23-29, 2025 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
 | [TROOPERS](https://troopers.de/) | Jun 25-27, 2025 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [BSidesTLV](https://bsidestlv.com/) | Jun 26, 2025 | Tel Aviv :israel: | [@BsidesTLV](https://twitter.com/bsidestlv) | N
+| [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | Jun 26-27, 2025 | Denver (CO) :us: | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N
 | [TumpiCon](https://tumpicon.org) | Jun 27-28, 2025 | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | Invite-Only
 | [Pass the SALT](https://2025.pass-the-salt.org/) | Jul 1-3, 2025 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [SummerCon](https://www.summercon.org/) | Jul 11-12, 2025 | Brooklyn (NY) :us: | [@SummerC0n](https://twitter.com/SummerC0n) | N
