@@ -19,15 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [ShowMeCon](https://showmecon.com) | Jun 9, 2025 | St-Louis (MO) :us: | [@showmeconstl](https://x.com/showmeconstl) | N
-| [Hague TIX](https://www.thehagueprogram.nl/the-hague-tix/hague-tix-2025) | Jun 10, 2025 | The Hague :netherlands: | [@haguetix@infosec.exchange](https://infosec.exchange/@haguetix) | N
-| [BSidesUme](https://indico.neic.no/event/273/) | Jun 10-11, 2025 | Umeå :sweden: | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
-| [Elbsides](https://www.elbsides.eu) | Jun 13, 2025 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
-| [BSidesBoulder](https://bsidesboulder.org) | Jun 13, 2025 | Boulder (CO) :us: | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
-| [Layer 8 Conference](https://layer8conference.com/layer-8-conference-2025/) | Jun 14, 2025 | Boston (MA) :us: | [@layer8con](https://twitter.com/layer8con) | N
-| [Offensive X](https://offensivex.org) | Jun 18-19, 2025 | Athens :greece: | [@TheOffensiveX](https://twitter.com/TheOffensiveX) | N
-| [BSidesLuxembourg](https://2025.bsides.lu/) | Jun 19, 2025 | Luxembourg :luxembourg: | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
-| [BSidesSATX](https://www.bsidessatx.com/) | Jun 21, 2025 | San Antonio (TX) :us: | [@BSidesSATX](https://twitter.com/BSidesSATX) | N/A
 | [FIRST Conference](https://www.first.org/conference/2025) | Jun 22-27, 2025 | Copenhagen :denmark: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [REcon](https://www.recon.cx) | Jun 23-29, 2025 | Montreal :canada: | [@reconmtl](https://twitter.com/reconmtl) | N
 | [TROOPERS](https://troopers.de/) | Jun 25-27, 2025 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
