@@ -24,11 +24,11 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [TROOPERS](https://troopers.de/) | Jun 25-27, 2025 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [BSidesTLV](https://bsidestlv.com/) | Jun 26, 2025 | Tel Aviv :israel: | [@BsidesTLV](https://twitter.com/bsidestlv) | N
 | [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | Jun 26-27, 2025 | Denver (CO) :us: | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N
+| [leHACK](https://lehack.org/) | Jun 27-28, 2025 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [TumpiCon](https://tumpicon.org) | Jun 27-28, 2025 | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | Invite-Only
 | [Pass the SALT](https://2025.pass-the-salt.org/) | Jul 1-3, 2025 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [SummerCon](https://www.summercon.org/) | Jul 11-12, 2025 | Brooklyn (NY) :us: | [@SummerC0n](https://twitter.com/SummerC0n) | N
 | [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2025/) | Jul 22-25, 2025 | Chicago (IL) :us: | [@DFRWS](https://twitter.com/DFRWS) | N
-| [leHACK](https://lehack.org/) | Jul 27-28, 2025 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 6-7, 2025 | Las Vegas (NV) :us: | [@bsideslv](https://www.twitter.com/bsideslv) | N
 | [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | Aug 28-29, 2025 | Amsterdam :netherlands: | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N
 | [BSidesFrankfurt](https://bsidesfrankfurt.org/) | Aug 29, 2025 | Frankfurt :de: | [@BSidesFRA](https://twitter.com/BSidesFRA) | N
