@@ -62,6 +62,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | Nov 7-8, 2025 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS) | N
 | [DEATHCon](https://deathcon.io) | Nov 8-9, 2025 | Multiple Locations | [@DEATHCon@infosec.exchange](https://infosec.exchange/@DEATHCon) | N
 | [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2025/) | Nov 10-12, 2025 | Seoul :kr: | [@DFRWS](https://twitter.com/DFRWS) | N
+| [Power of Community](https://powerofcommunity.net/) | Nov 13-14, 2025 | Seoul :kr: | [@POC_Crew](https://twitter.com/POC_Crew) | N
 | [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [BSidesMunich](https://2025.bsidesmunich.org) | Nov 17, 2025 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
