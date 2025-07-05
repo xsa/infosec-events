@@ -60,4 +60,5 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [BSidesMunich](https://2025.bsidesmunich.org) | Nov 17, 2025 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
+| [HackCon](https://www.hackcon.org/) | Feb 11-12, 2026 | Oslo :norway: | [@hackcon](https://twitter.com/hackcon) | N
 | [RE//verse](https://re-verse.io/) | Mar 5-7, 2026 | Orlando (FL) :us: | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
