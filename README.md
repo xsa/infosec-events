@@ -43,6 +43,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [RomHack](https://romhack.io) | Sep 27, 2025 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/never-gonna-breach-you-up/announcement) | Oct 2-3, 2025 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
 | [GrrCON](https://grrcon.com/) | Oct 2-3, 2025 | Grand Rapids (MI) :us: | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | N
+| [CruiseCon West](https://cruisecon.com/) | Oct 2-6, 2025 | San Pedro (CA) :us: | [@CruiseConEvents](http://twitter.com/CruiseConEvents) | N
 | [BsidesCambridgeMA](https://bsidescambridgema.org/) | Oct 4, 2025 | Somerville (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | N
 | [Offensive AI Con](https://www.offensiveaicon.com) | Oct 5-8, 2025 | San Diego (CA) :us: | - | Invite-Only
 | [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | Oct 8-10, 2025 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
