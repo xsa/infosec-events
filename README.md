@@ -41,6 +41,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 25-27, 2025 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
 | [BSidesOrlando](https://bsidesorlando.org/) | Sep 26-27, 2025 | Orlando (FL) :us: | [@bsidesorlando@infosec.exchange](https://infosec.exchange/@bsidesorlando)| N
 | [RomHack](https://romhack.io) | Sep 27, 2025 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
+| [SecTor](https://www.blackhat.com/sector/2025/) | Sep 30 - Oct 2, 2025 | Toronto (ON) :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/never-gonna-breach-you-up/announcement) | Oct 2-3, 2025 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
 | [GrrCON](https://grrcon.com/) | Oct 2-3, 2025 | Grand Rapids (MI) :us: | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | N
 | [CruiseCon West](https://cruisecon.com/) | Oct 2-6, 2025 | San Pedro (CA) :us: | [@CruiseConEvents](http://twitter.com/CruiseConEvents) | N
