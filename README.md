@@ -20,6 +20,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2025/) | Jul 22-25, 2025 | Chicago (IL) :us: | [@DFRWS](https://twitter.com/DFRWS) | N
+| [Black Hat USA](https://www.blackhat.com/us-25/) | Aug 2-7, 2025 | Las Vegas (NV) :us: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 6-7, 2025 | Las Vegas (NV) :us: | [@bsideslv](https://www.twitter.com/bsideslv) | N
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | Aug 16, 2025 | Bournemouth :uk: | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | N
 | [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | Aug 28-29, 2025 | Amsterdam :netherlands: | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N
