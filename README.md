@@ -19,8 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Pass the SALT](https://2025.pass-the-salt.org/) | Jul 1-3, 2025 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
-| [SummerCon](https://www.summercon.org/) | Jul 11-12, 2025 | Brooklyn (NY) :us: | [@SummerC0n](https://twitter.com/SummerC0n) | N
 | [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2025/) | Jul 22-25, 2025 | Chicago (IL) :us: | [@DFRWS](https://twitter.com/DFRWS) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 6-7, 2025 | Las Vegas (NV) :us: | [@bsideslv](https://www.twitter.com/bsideslv) | N
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | Aug 16, 2025 | Bournemouth :uk: | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | N
