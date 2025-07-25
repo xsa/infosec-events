@@ -31,6 +31,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesNEPA](https://bsidesnepa.org) | Sep 5, 2025 | Scranton (PA) :us: | - | N
 | [BSidesAhmedabad](https://bsidesahmedabad.in/) | Sep 12-13, 2025 | Ahmedabad :india: | [@bsidesahmedabad](https://twitter.com/bsidesahmedabad) | N
 | [SEC-T](https://www.sec-t.org/) | Sep 10-12, 2025 | Stockholm :sweden: | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
+| [BSidesRDU](https://bsidesrdu.org) | Sep 12, 2025 | Raleigh (NC) :us: | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | N
 | [LABScon](https://www.labscon.io/) | Sep 17-20, 2025 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
 | [PraSec](https://www.prasec.cz) | Sep 18-19, 2025 | Prague :czech_republic: | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
 | [BSidesTirana](https://bsidestirana.al) | Sep 19, 2025 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | N
