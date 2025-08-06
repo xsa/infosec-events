@@ -63,6 +63,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Power of Community](https://powerofcommunity.net/) | Nov 13-14, 2025 | Seoul :kr: | [@POC_Crew](https://twitter.com/POC_Crew) | N
 | [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [BSidesMunich](https://2025.bsidesmunich.org) | Nov 17, 2025 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
+| [Hardwear.io Netherlands](https://hardwear.io/netherlands-2025/) | Nov 20-21, 2025 | Amsterdam :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [Black Hat MEA](https://blackhatmea.com) | Dec 2-4, 2025 | Riyadh :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-25/) | Dec 8-11, 2025 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
