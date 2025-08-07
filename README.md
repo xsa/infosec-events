@@ -51,6 +51,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Offensive AI Con](https://www.offensiveaicon.com) | Oct 5-8, 2025 | San Diego (CA) :us: | - | Invite-Only
 | [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | Oct 8-10, 2025 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 10-11, 2025 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
+| [SecSea](https://secsea.org) | Oct 10-11, 2025 | La Ciotat :fr: | [@secseaconf](https://twitter.com/secseaconf) | N
 | [Objective by the Sea](https://objectivebythesea.org) | Oct 15-17, 2025 | Ibiza :es: | [@objective_see](https://twitter.com/objective_see) | N
 | [No Hat](https://www.nohat.it/) | Oct 18, 2025 | Bergamo :it: | [@nohatcon](https://twitter.com/nohatcon) | N
 | [BSidesPerth](https://bsidesperth.com.au/) | Oct 18-19, 2025 | Perth :australia: | [@BSidesPer](https://twitter.com/BSidesPer) | N
