@@ -60,6 +60,8 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2025/) | Nov 10-12, 2025 | Seoul :kr: | [@DFRWS](https://twitter.com/DFRWS) | N
 | [Power of Community](https://powerofcommunity.net/) | Nov 13-14, 2025 | Seoul :kr: | [@POC_Crew](https://twitter.com/POC_Crew) | N
 | [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
+| [Burning River Cyber Con](https://burningrivercybercon.com) | Nov 15, 2025 | Cleveland (OH) :us: | [@BurningRiverCon](https://x.com/BurningRiverCon) | N
+
 | [BSidesMunich](https://2025.bsidesmunich.org) | Nov 17, 2025 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
 | [Hardwear.io Netherlands](https://hardwear.io/netherlands-2025/) | Nov 20-21, 2025 | Amsterdam :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
