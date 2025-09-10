@@ -51,6 +51,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SecSea](https://secsea.org) | Oct 10-11, 2025 | La Ciotat :fr: | [@secseaconf](https://twitter.com/secseaconf) | N
 | [Objective by the Sea](https://objectivebythesea.org) | Oct 15-17, 2025 | Ibiza :es: | [@objective_see](https://twitter.com/objective_see) | N
 | [No Hat](https://www.nohat.it/) | Oct 18, 2025 | Bergamo :it: | [@nohatcon](https://twitter.com/nohatcon) | N
+| [BSidesNYC](https://bsidesnyc.org/) | Oct 18, 2025 | New-York (NY) :us: | [@bsidesnyc.org](https://bsky.app/profile/bsidesnyc.org)| N
 | [BSidesPerth](https://bsidesperth.com.au/) | Oct 18-19, 2025 | Perth :australia: | [@BSidesPer](https://twitter.com/BSidesPer) | N
 | [From The Source](https://volatilityfoundation.org/from-the-source-2025/) | Oct 20, 2025 | Arlington (VA) :us: | [@volatility@infosec.exchange](https://infosec.exchange/@volatility) | N
 | [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
