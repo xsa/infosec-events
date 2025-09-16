@@ -19,16 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesBournemouth](https://bsides-bournemouth.org/) | Aug 16, 2025 | Bournemouth :uk: | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | N
-| [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | Aug 28-29, 2025 | Amsterdam :netherlands: | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N
-| [BSidesFrankfurt](https://bsidesfrankfurt.org/) | Aug 29, 2025 | Frankfurt :de: | [@BSidesFRA](https://twitter.com/BSidesFRA) | N
-| [Barbhack](https://www.barbhack.fr/) | Aug 30, 2025 | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | N
-| [Nullcon Berlin](https://nullcon.net/berlin-2025) | Sep 4-5, 2025 | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | N
-| [OrangeCon](https://orangecon.nl/) | Sep 5, 2025 | Amsterdam :netherlands: | [@OrangeCon_nl](https://twitter.com/OrangeCon_nl) | N
-| [BSidesNEPA](https://bsidesnepa.org) | Sep 5, 2025 | Scranton (PA) :us: | - | N
-| [BSidesAhmedabad](https://bsidesahmedabad.in/) | Sep 12-13, 2025 | Ahmedabad :india: | [@bsidesahmedabad](https://twitter.com/bsidesahmedabad) | N
-| [SEC-T](https://www.sec-t.org/) | Sep 10-12, 2025 | Stockholm :sweden: | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
-| [BSidesRDU](https://bsidesrdu.org) | Sep 12, 2025 | Raleigh (NC) :us: | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | N
 | [LABScon](https://www.labscon.io/) | Sep 17-20, 2025 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
 | [PraSec](https://www.prasec.cz) | Sep 18-19, 2025 | Prague :czech_republic: | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
 | [BSidesTirana](https://bsidestirana.al) | Sep 19, 2025 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | N
