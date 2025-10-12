@@ -67,3 +67,4 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [RE//verse](https://re-verse.io/) | Mar 5-7, 2026 | Orlando (FL) :us: | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris :fr: | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
 | [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
+| [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken :de: | [@acm_wisec](https://twitter.com/acm_wisec) | N
