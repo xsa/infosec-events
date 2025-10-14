@@ -19,27 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [LABScon](https://www.labscon.io/) | Sep 17-20, 2025 | Scottsdale (AZ) :us: | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
-| [PraSec](https://www.prasec.cz) | Sep 18-19, 2025 | Prague :czech_republic: | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
-| [BSidesTirana](https://bsidestirana.al) | Sep 19, 2025 | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | N
-| [Balkan Computer Congress](https://www.balccon.org) | Sep 19-21, 2025 | Novi Sad :serbia: | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N
-| [BSidesEdmonton](https://www.bsidesedmonton.org/) | Sep 22-23, 2025 | Edmonton :canada: | [@bsidesedmonton](https://twitter.com/bsidesedmonton) | N
-| [OWASP AppSec Days France](https://www.owaspappsecdays.fr/2025/) | Sep 23, 2025 | Paris :fr: | - | N
-| [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2025) | Sep 24-26, 2025 | Berlin :de: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
-| [BSidesTallinn](https://tallinn.bsides.ee/) | Sep 25, 2025 | Tallinn :estonia: | [@bsidesTLL](https://twitter.com/bsidestll) | N
-| [BruCon](https://www.brucon.org/conference) | Sep 25-26, 2025 | Mechelen :belgium: | [@BruCon](https://twitter.com/BruCon) | N
-| [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 25-27, 2025 | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | N
-| [BSidesOrlando](https://bsidesorlando.org/) | Sep 26-27, 2025 | Orlando (FL) :us: | [@bsidesorlando@infosec.exchange](https://infosec.exchange/@bsidesorlando)| N
-| [RomHack](https://romhack.io) | Sep 27, 2025 | Rome :it: | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N
-| [SecTor](https://www.blackhat.com/sector/2025/) | Sep 30 - Oct 2, 2025 | Toronto (ON) :canada: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [CERT-EU Annual Conference](https://cert.europa.eu/conference/never-gonna-breach-you-up/announcement) | Oct 2-3, 2025 | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | N
-| [GrrCON](https://grrcon.com/) | Oct 2-3, 2025 | Grand Rapids (MI) :us: | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | N
-| [CruiseCon West](https://cruisecon.com/) | Oct 2-6, 2025 | San Pedro (CA) :us: | [@CruiseConEvents](http://twitter.com/CruiseConEvents) | N
-| [BsidesCambridgeMA](https://bsidescambridgema.org/) | Oct 4, 2025 | Somerville (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | N
-| [Offensive AI Con](https://www.offensiveaicon.com) | Oct 5-8, 2025 | San Diego (CA) :us: | - | Invite-Only
-| [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | Oct 8-10, 2025 | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
-| [Hexacon](https://www.hexacon.fr/) | Oct 10-11, 2025 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
-| [SecSea](https://secsea.org) | Oct 10-11, 2025 | La Ciotat :fr: | [@secseaconf](https://twitter.com/secseaconf) | N
 | [Objective by the Sea](https://objectivebythesea.org) | Oct 15-17, 2025 | Ibiza :es: | [@objective_see](https://twitter.com/objective_see) | N
 | [No Hat](https://www.nohat.it/) | Oct 18, 2025 | Bergamo :it: | [@nohatcon](https://twitter.com/nohatcon) | N
 | [BSidesNYC](https://bsidesnyc.org/) | Oct 18, 2025 | New-York (NY) :us: | [@bsidesnyc.org](https://bsky.app/profile/bsidesnyc.org)| N
