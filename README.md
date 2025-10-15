@@ -25,6 +25,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesPerth](https://bsidesperth.com.au/) | Oct 18-19, 2025 | Perth :australia: | [@BSidesPer](https://twitter.com/BSidesPer) | N
 | [From The Source](https://volatilityfoundation.org/from-the-source-2025/) | Oct 20, 2025 | Arlington (VA) :us: | [@volatility@infosec.exchange](https://infosec.exchange/@volatility) | N
 | [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
+| [SAINTCON](https://www.saintcon.org/) | Oct 21-24, 2025 | Provo (UT) :us: | [@SAINTCON](https://twitter.com/SAINTCON) | N
 | [Security Analyst Summit](https://thesascon.com/) | Oct 26-29, 2025 | Khao Lak :thailand: | [TheSAScon](https://twitter.com/TheSAScon) | Invite-Only
 | [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | Nov 7-8, 2025 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS) | N
 | [BSidesBerlin](https://bsides.berlin) | Nov 8, 2025 | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | N
