@@ -41,6 +41,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [Guild Con](https://guildcon.hackersguildpgh.com/) | Nov 22, 2025 | Pittsburgh (PA) :us: | [@HackersGuildPGH](https://x.com/hackersguildpgh) | N
 | [Black Hat MEA](https://blackhatmea.com) | Dec 2-4, 2025 | Riyadh :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [BSidesDresden](https://bsidesdresden.com/) | Dec 6, 2025 | Dresden :de: | [@bsidesdresden](https://twitter.com/bsidesdresden)| N
 | [Black Hat Europe](https://www.blackhat.com/eu-25/) | Dec 8-11, 2025 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLondon](https://bsides.london) | Dec 13, 2025 | London :uk: | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social)| Y
 | [DistrictCon](https://www.districtcon.org/) | Jan 24-25, 2026 | Washington (DC) :us: | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | N
