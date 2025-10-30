@@ -29,6 +29,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SAINTCON](https://www.saintcon.org/) | Oct 21-24, 2025 | Provo (UT) :us: | [@SAINTCON](https://twitter.com/SAINTCON) | N
 | [Security Analyst Summit](https://thesascon.com/) | Oct 26-29, 2025 | Khao Lak :thailand: | [TheSAScon](https://twitter.com/TheSAScon) | Invite-Only
 | [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | Nov 7-8, 2025 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS) | N
+| [Queen City Conference](https://queencitycon.org/) | Nov 7-9, 2025 | Cincinnati (OH) :us: | [@QC_con](https://twitter.com/QC_con) | N
 | [BSidesBerlin](https://bsides.berlin) | Nov 8, 2025 | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | N
 | [DEATHCon](https://deathcon.io) | Nov 8-9, 2025 | Multiple Locations | [@DEATHCon@infosec.exchange](https://infosec.exchange/@DEATHCon) | N
 | [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2025/) | Nov 10-12, 2025 | Seoul :kr: | [@DFRWS](https://twitter.com/DFRWS) | N
