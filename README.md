@@ -19,22 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Objective by the Sea](https://objectivebythesea.org) | Oct 15-17, 2025 | Ibiza :es: | [@objective_see](https://twitter.com/objective_see) | N
-| [No Hat](https://www.nohat.it/) | Oct 18, 2025 | Bergamo :it: | [@nohatcon](https://twitter.com/nohatcon) | N
-| [BSidesNYC](https://bsidesnyc.org/) | Oct 18, 2025 | New-York (NY) :us: | [@bsidesnyc.org](https://bsky.app/profile/bsidesnyc.org)| N
-| [BSidesPerth](https://bsidesperth.com.au/) | Oct 18-19, 2025 | Perth :australia: | [@BSidesPer](https://twitter.com/BSidesPer) | N
-| [From The Source](https://volatilityfoundation.org/from-the-source-2025/) | Oct 20, 2025 | Arlington (VA) :us: | [@volatility@infosec.exchange](https://infosec.exchange/@volatility) | N
-| [hack.lu](https://hack.lu/) | Oct 21-24, 2025 | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
-| [Ekoparty](https://ekoparty.org/) | Oct 22-24, 2025 | Buenos Aires :argentina: | [@ekoparty](https://twitter.com/ekoparty) | N
-| [SAINTCON](https://www.saintcon.org/) | Oct 21-24, 2025 | Provo (UT) :us: | [@SAINTCON](https://twitter.com/SAINTCON) | N
-| [Security Analyst Summit](https://thesascon.com/) | Oct 26-29, 2025 | Khao Lak :thailand: | [TheSAScon](https://twitter.com/TheSAScon) | Invite-Only
-| [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | Nov 7-8, 2025 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS) | N
-| [Queen City Conference](https://queencitycon.org/) | Nov 7-9, 2025 | Cincinnati (OH) :us: | [@QC_con](https://twitter.com/QC_con) | N
-| [BSidesBerlin](https://bsides.berlin) | Nov 8, 2025 | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | N
-| [DEATHCon](https://deathcon.io) | Nov 8-9, 2025 | Multiple Locations | [@DEATHCon@infosec.exchange](https://infosec.exchange/@DEATHCon) | N
-| [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2025/) | Nov 10-12, 2025 | Seoul :kr: | [@DFRWS](https://twitter.com/DFRWS) | N
-| [Power of Community](https://powerofcommunity.net/) | Nov 13-14, 2025 | Seoul :kr: | [@POC_Crew](https://twitter.com/POC_Crew) | N
-| [GreHack](https://grehack.fr/) | Nov 14, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Burning River Cyber Con](https://burningrivercybercon.com) | Nov 15, 2025 | Cleveland (OH) :us: | [@BurningRiverCon](https://x.com/BurningRiverCon) | N
 | [BSidesMunich](https://2025.bsidesmunich.org) | Nov 17, 2025 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
 | [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 19, 2025 | Arlington (VA) :us: | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | N
