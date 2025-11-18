@@ -41,6 +41,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesLuxembourg](https://2026.bsides.lu/) | May 6-8, 2026 | Belval :luxembourg: | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
 | [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
 | [OffensiveCon](https://www.offensivecon.org/) | May 15-16, 2026 | Berlin :de: | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N
+| [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal :canada: | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken :de: | [@acm_wisec](https://twitter.com/acm_wisec) | N
 | [BruCON](https://www.brucon.org/) | Sep 24-25, 2026 | Mechelen :belgium: | [@brucon](https://twitter.com/brucon) | N
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) :us: | [@QCCornCON](https://x.com/QCCornCON) | N
