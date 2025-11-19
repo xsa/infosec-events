@@ -41,6 +41,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesPrague](https://bsidesprg.cz/) | Apr 23-24, 2026 | Prague :czech_republic: | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
 | [BSidesLuxembourg](https://2026.bsides.lu/) | May 6-8, 2026 | Belval :luxembourg: | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
 | [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
+| [HackMiami](https://www.hackmiami.com/) | May 16, 2026 | Sunny Isles Beach (FL) :us: | [@hackmiami](https://twitter.com/hackmiami) | N
 | [OffensiveCon](https://www.offensivecon.org/) | May 15-16, 2026 | Berlin :de: | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N
 | [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal :canada: | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken :de: | [@acm_wisec](https://twitter.com/acm_wisec) | N
