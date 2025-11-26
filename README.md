@@ -50,6 +50,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OffensiveCon](https://www.offensivecon.org/) | May 15-16, 2026 | Berlin :de: | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg :sweden: | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
+| [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal :canada: | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken :de: | [@acm_wisec](https://twitter.com/acm_wisec) | N
 | [BruCON](https://www.brucon.org/) | Sep 24-25, 2026 | Mechelen :belgium: | [@brucon](https://twitter.com/brucon) | N
