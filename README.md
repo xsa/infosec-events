@@ -51,3 +51,4 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BruCON](https://www.brucon.org/) | Sep 24-25, 2026 | Mechelen :belgium: | [@brucon](https://twitter.com/brucon) | N
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) :us: | [@QCCornCON](https://x.com/QCCornCON) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 16-17, 2026 | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
+| [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
