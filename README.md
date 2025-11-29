@@ -19,13 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Burning River Cyber Con](https://burningrivercybercon.com) | Nov 15, 2025 | Cleveland (OH) :us: | [@BurningRiverCon](https://x.com/BurningRiverCon) | N
-| [BSidesMunich](https://2025.bsidesmunich.org) | Nov 17, 2025 | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | N
-| [CYBERWARCON](https://www.cyberwarcon.com/) | Nov 19, 2025 | Arlington (VA) :us: | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | N
-| [Hardwear.io Netherlands](https://hardwear.io/netherlands-2025/) | Nov 20-21, 2025 | Amsterdam :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | N
-| [Black Alps Cyber Security Conference](https://www.blackalps.ch) | Nov 20-21, 2025 | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
-| [Guild Con](https://guildcon.hackersguildpgh.com/) | Nov 22, 2025 | Pittsburgh (PA) :us: | [@HackersGuildPGH](https://x.com/hackersguildpgh) | N
-| [GreHack](https://grehack.fr/) | Nov 28, 2025 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Black Hat MEA](https://blackhatmea.com) | Dec 2-4, 2025 | Riyadh :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesDresden](https://bsidesdresden.com/) | Dec 6, 2025 | Dresden :de: | [@bsidesdresden](https://twitter.com/bsidesdresden)| N
 | [Black Hat Europe](https://www.blackhat.com/eu-25/) | Dec 8-11, 2025 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
