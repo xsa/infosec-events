@@ -39,6 +39,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti26/) | Apr 21-23, 2026 | Munich :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesPrague](https://bsidesprg.cz/) | Apr 23-24, 2026 | Prague :czech_republic: | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
 | [THCon](https://thcon.party/) | May 5-6, 2026 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
+| [PIVOTcon](https://pivotcon.org/) | May 6-8, 2026 | Malaga :es: | [@pivot_con](https://twitter.com/pivot_con) | Invite only
 | [BSidesLuxembourg](https://2026.bsides.lu/) | May 6-8, 2026 | Belval :luxembourg: | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
 | [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
 | [HackMiami](https://www.hackmiami.com/) | May 16, 2026 | Sunny Isles Beach (FL) :us: | [@hackmiami](https://twitter.com/hackmiami) | N
