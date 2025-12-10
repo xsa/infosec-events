@@ -34,6 +34,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana :slovenia: | [@BSidesLjubljana](https://twitter.com/BSidesLjubljana)| N
 | [BSidesLimburg](https://www.bsides-limburg.be) | Mar 13, 2026 | Hasselt :belgium: | - | N
 | [Insomni’Hack](https://insomnihack.ch/) | Mar 16-20, 2026 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
+| [BSidesMálaga](https://www.bsidesmalaga.com) | Mar 20, 2026 | Málaga :es: | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | N
 | [SO-CON](https://specterops.io/so-con/) | Apr 13-14, 2026 | Arlington (VA) :us: | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | N
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Botconf](https://www.botconf.eu/) | Apr 15-17, 2026 | Reims :fr: | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
