@@ -34,8 +34,9 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana :slovenia: | [@BSidesLjubljana](https://twitter.com/BSidesLjubljana)| N
 | [BSidesLimburg](https://www.bsides-limburg.be) | Mar 13, 2026 | Hasselt :belgium: | - | N
 | [Insomni’Hack](https://insomnihack.ch/) | Mar 16-20, 2026 | Lausanne :switzerland: | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
-| [BSidesMálaga](https://www.bsidesmalaga.com) | Mar 20, 2026 | Málaga :es: | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | N
+| [BSidesMálaga](https://www.bsidesmalaga.com) | Mar 20, 2026 | Málaga :es: | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
+| [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) :us: | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
 | [SO-CON](https://specterops.io/so-con/) | Apr 13-14, 2026 | Arlington (VA) :us: | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | N
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Botconf](https://www.botconf.eu/) | Apr 15-17, 2026 | Reims :fr: | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
@@ -45,9 +46,9 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [PIVOTcon](https://pivotcon.org/) | May 6-8, 2026 | Malaga :es: | [@pivot_con](https://twitter.com/pivot_con) | Invite only
 | [BSidesLuxembourg](https://2026.bsides.lu/) | May 6-8, 2026 | Belval :luxembourg: | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
 | [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal :canada: | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
+| [OffensiveCon](https://www.offensivecon.org/) | May 15-16, 2026 | Berlin :de: | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N
 | [HackMiami](https://www.hackmiami.com/) | May 16, 2026 | Sunny Isles Beach (FL) :us: | [@hackmiami](https://twitter.com/hackmiami) | N
 | [BSidesBA](https://bsidesba.sk) | May 16, 2026 | Bratislava :slovakia: | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | N
-| [OffensiveCon](https://www.offensivecon.org/) | May 15-16, 2026 | Berlin :de: | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg :sweden: | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
