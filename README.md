@@ -19,10 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Black Hat MEA](https://blackhatmea.com) | Dec 2-4, 2025 | Riyadh :saudi_arabia: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [BSidesDresden](https://bsidesdresden.com/) | Dec 6, 2025 | Dresden :de: | [@bsidesdresden](https://twitter.com/bsidesdresden)| N
-| [Black Hat Europe](https://www.blackhat.com/eu-25/) | Dec 8-11, 2025 | London :uk: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [BSidesLondon](https://bsides.london) | Dec 13, 2025 | London :uk: | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social)| Y
 | [DistrictCon](https://www.districtcon.org/) | Jan 24-25, 2026 | Washington (DC) :us: | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | N
 | [CactusCon](https://www.cactuscon.com/) | Feb 6-7, 2026 | Mesa (AZ) :us: | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | Y
 | [HackCon](https://www.hackcon.org/) | Feb 11-12, 2026 | Oslo :norway: | [@hackcon](https://twitter.com/hackcon) | N
