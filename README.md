@@ -33,6 +33,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesMálaga](https://www.bsidesmalaga.com) | Mar 20, 2026 | Málaga :es: | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) :us: | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
+| [Kernelcon](https://kernelcon.org/) | Apr 9-10, 2026 | Omaha (NE) :us: | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | N
 | [SO-CON](https://specterops.io/so-con/) | Apr 13-14, 2026 | Arlington (VA) :us: | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | N
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Botconf](https://www.botconf.eu/) | Apr 15-17, 2026 | Reims :fr: | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
