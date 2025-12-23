@@ -37,6 +37,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Botconf](https://www.botconf.eu/) | Apr 15-17, 2026 | Reims :fr: | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti26/) | Apr 21-23, 2026 | Munich :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
+| [Black Hat Asia](https://www.blackhat.com/asia-26/) | Apr 23-24, 2026 | Singapore :singapore: | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesPrague](https://bsidesprg.cz/) | Apr 23-24, 2026 | Prague :czech_republic: | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
 | [THCon](https://thcon.party/) | May 5-6, 2026 | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [PIVOTcon](https://pivotcon.org/) | May 6-8, 2026 | Malaga :es: | [@pivot_con](https://twitter.com/pivot_con) | Invite only
