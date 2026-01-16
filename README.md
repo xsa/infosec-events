@@ -24,6 +24,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [HackCon](https://www.hackcon.org/) | Feb 11-12, 2026 | Oslo :norway: | [@hackcon](https://twitter.com/hackcon) | N
 | [Nullcon Goa](https://nullcon.net/goa-2026) | Feb 28 - Mar 1, 2026 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
 | [SECCON](https://www.seccon.jp/14/seccon/opencon.html) | Feb 28 - Mar 1, 2026 | Tokyo :jp: | [@secconctf](https://twitter.com/secconctf) | N
+| [\[un\]prompted](https://unpromptedcon.org/) | Mar 3-4, 2026 | San Francisco (CA) :us: | - | N
 | [RE//verse](https://re-verse.io/) | Mar 5-7, 2026 | Orlando (FL) :us: | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris :fr: | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Mar 10-11, 2026 | Tel Aviv :israel: | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
