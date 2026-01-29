@@ -53,6 +53,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [HackMiami](https://www.hackmiami.com/) | May 16, 2026 | Sunny Isles Beach (FL) :us: | [@hackmiami](https://twitter.com/hackmiami) | N
 | [BSidesBA](https://bsidesba.sk) | May 16, 2026 | Bratislava :slovakia: | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | N
 | [BSides312](https://bsides312.org/) | May 16, 2026 | Chicago (IL) :us: | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N
+| [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) :us: | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg :sweden: | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
