@@ -56,6 +56,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) :us: | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg :sweden: | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
+| [Elbsides](https://www.elbsides.eu) | Jun 5, 2026 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal :canada: | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
