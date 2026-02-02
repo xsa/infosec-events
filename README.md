@@ -59,6 +59,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 5, 2026 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
+| [BSidesUme](https://indico.neic.no/event/287/) | Jun 16-17, 2026 | Umeå :sweden: | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
 | [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal :canada: | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
