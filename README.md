@@ -55,6 +55,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesBA](https://bsidesba.sk) | May 16, 2026 | Bratislava :slovakia: | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | N
 | [BSides312](https://bsides312.org/) | May 16, 2026 | Chicago (IL) :us: | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N
 | [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) :us: | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
+| [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków :poland: | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg :sweden: | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [BSidesHBG](https://www.bsideshbg.com/) | May 29, 2026 | Harrisburg (PA) :us: | [@BsidesHbg](https://x.com/BsidesHbg) | N
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
