@@ -66,6 +66,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken :de: | [@acm_wisec](https://twitter.com/acm_wisec) | N
+| [SEC-T](https://sec-t.org/) | Sep 10-11, 2026 | Stockholm :sweden: | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
 | [BruCON](https://www.brucon.org/) | Sep 24-25, 2026 | Mechelen :belgium: | [@brucon](https://twitter.com/brucon) | N
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) :us: | [@QCCornCON](https://x.com/QCCornCON) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville :es: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
