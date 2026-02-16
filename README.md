@@ -19,9 +19,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [DistrictCon](https://www.districtcon.org/) | Jan 24-25, 2026 | Washington (DC) :us: | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | N
-| [CactusCon](https://www.cactuscon.com/) | Feb 6-7, 2026 | Mesa (AZ) :us: | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | Y
-| [HackCon](https://www.hackcon.org/) | Feb 11-12, 2026 | Oslo :norway: | [@hackcon](https://twitter.com/hackcon) | N
 | [Nullcon Goa](https://nullcon.net/goa-2026) | Feb 28 - Mar 1, 2026 | Goa :india: | [@nullcon](https://twitter.com/nullcon) | N
 | [SECCON](https://www.seccon.jp/14/seccon/opencon.html) | Feb 28 - Mar 1, 2026 | Tokyo :jp: | [@secconctf](https://twitter.com/secconctf) | N
 | [\[un\]prompted](https://unpromptedcon.org/) | Mar 3-4, 2026 | San Francisco (CA) :us: | - | N
