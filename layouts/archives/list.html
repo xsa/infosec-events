@@ -1,15 +1,15 @@
 {{ define "main" }}
-<main class="container">
+<main class="container container-center">
 
   <header>
     <h1>{{ .Title | default "Archive" }}</h1>
     {{ with .Content }}{{ . }}{{ end }}
   </header>
 
-  {{/* Top navigation bar */}}
+  {{/* Top navigation */}}
   {{ partial "archive-nav.html" . }}
 
-  {{/* Dynamically show current year content first */}}
+  {{/* Show current year content dynamically */}}
   {{ $currentYear := now.Format "2006" }}
   {{ $currentPage := site.GetPage (printf "archives/%s.md" $currentYear) }}
   {{ if $currentPage }}
@@ -34,9 +34,7 @@
       {{/* Include current year if missing */}}
       {{ $found := false }}
       {{ range $items }}
-        {{ if eq .year $currentYear }}
-          {{ $found = true }}
-        {{ end }}
+        {{ if eq .year $currentYear }}{{ $found = true }}{{ end }}
       {{ end }}
       {{ if not $found }}
         {{ $items = $items | append (dict "page" nil "year" $currentYear "url" (printf "/archives/%d/" $currentYear)) }}

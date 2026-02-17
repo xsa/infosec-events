@@ -1,8 +1,10 @@
 {{ define "main" }}
-<main class="container">
+<main class="container container-center">
 
-  {{/* Top-year navigation */}}
-  {{ partial "archive-nav.html" . }}
+  {{/* Top navigation only for archive section */}}
+  {{ if in .Section "archives" }}
+    {{ partial "archive-nav.html" . }}
+  {{ end }}
 
   <article>
     <header>

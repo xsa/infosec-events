@@ -3,7 +3,7 @@
 {{ $section := site.GetPage "section" "archives" }}
 
 {{ if $section }}
-  {{/* Collect all year pages */}}
+  {{/* Collect year pages */}}
   {{ range $section.RegularPages }}
     {{ $fname := .File.BaseFileName }}
     {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
@@ -12,34 +12,25 @@
     {{ end }}
   {{ end }}
 
-  {{/* Ensure current year is included */}}
+  {{/* Ensure current year included */}}
   {{ $currentYear := now.Format "2006" | int }}
   {{ $found := false }}
   {{ range $items }}
-    {{ if eq .year $currentYear }}
-      {{ $found = true }}
-    {{ end }}
+    {{ if eq .year $currentYear }}{{ $found = true }}{{ end }}
   {{ end }}
   {{ if not $found }}
-    {{/* Dummy entry for current year if no file exists */}}
     {{ $items = $items | append (dict "page" nil "year" $currentYear "url" (printf "/archives/%d/" $currentYear)) }}
   {{ end }}
 
-  {{/* Sort descending so newest year is first */}}
+  {{/* Sort descending so newest first */}}
   {{ $items = sort $items "year" "desc" }}
 
   <nav class="archive-years">
     <ul style="display:flex; gap:1rem; list-style:none; padding:0;">
       {{ range $items }}
         {{ $url := "/" }}
-        {{ if .page }}
-          {{ $url = .page.RelPermalink }}
-        {{ else }}
-          {{ $url = printf "/archives/%d/" .year }}
-        {{ end }}
-        <li>
-          <a href="{{ $url }}">{{ .year }}</a>
-        </li>
+        {{ if .page }}{{ $url = .page.RelPermalink }}{{ else }}{{ $url = printf "/archives/%d/" .year }}{{ end }}
+        <li><a href="{{ $url }}">{{ .year }}</a></li>
       {{ end }}
     </ul>
   </nav>
