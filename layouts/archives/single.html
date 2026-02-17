@@ -22,7 +22,7 @@
       {{ end }}
       {{ $items = sort $items "year" "desc" }}
 
-      {{/* Find current index by permalink */}}
+      {{/* Find current index safely */}}
       {{ $current := . }}
       {{ $idx := -1 }}
       {{ range $i, $it := $items }}
@@ -31,41 +31,32 @@
         {{ end }}
       {{ end }}
 
-      {{/* Neighbor pages (prev = newer year, next = older year, since sorted desc) */}}
-      {{ $prev := nil }}
-      {{ $next := nil }}
+      {{ $len := len $items }}
+
       {{ if ge $idx 0 }}
-        {{ if lt (add $idx 1) (len $items) }}
-          {{ $next = index $items (add $idx 1) }}
-        {{ end }}
-        {{ if gt $idx 0 }}
-          {{ $prev = index $items (sub $idx 1) }}
-        {{ end }}
+        <nav class="archive-nav">
+          <ul>
+
+            {{/* Prev = newer year */}}
+            {{ if gt $idx 0 }}
+              {{ $prev := index $items (sub $idx 1) }}
+              <li>
+                ← <a href="{{ $prev.page.RelPermalink }}">{{ $prev.year }}</a>
+              </li>
+            {{ end }}
+
+            {{/* Next = older year */}}
+            {{ if lt (add $idx 1) $len }}
+              {{ $next := index $items (add $idx 1) }}
+              <li>
+                <a href="{{ $next.page.RelPermalink }}">{{ $next.year }}</a> →
+              </li>
+            {{ end }}
+
+          </ul>
+        </nav>
       {{ end }}
 
-      <hr>
-
-      <nav class="archive-nav" aria-label="Year navigation">
-        <ul style="display:flex;justify-content:space-between;list-style:none;padding:0;margin:0;">
-          <li>
-            {{ if $prev }}
-              {{ $p := index $prev "page" }}
-              {{ $y := index $prev "year" }}
-              <a href="{{ $p.RelPermalink }}">← Previous: {{ $y }}</a>
-            {{ end }}
-          </li>
-          <li>
-            <a href="{{ .CurrentSection.RelPermalink }}">Back to Archive</a>
-          </li>
-          <li>
-            {{ if $next }}
-              {{ $n := index $next "page" }}
-              {{ $y2 := index $next "year" }}
-              <a href="{{ $n.RelPermalink }}">Next: {{ $y2 }} →</a>
-            {{ end }}
-          </li>
-        </ul>
-      </nav>
     </article>
   </main>
 {{ end }}
