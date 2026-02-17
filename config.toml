@@ -6,7 +6,6 @@
 
 baseURL = "https://xsa.github.io/infosec-events/"
 languageCode = "en-us"
-title = "Infosec Events"
 publishDir = "public"
 
 # Enable GitHub-style emojis like :us:, :fr:, etc.
@@ -54,6 +53,7 @@ enableEmoji = true
 # Site-wide params (both themes ignore keys they don't use)
 # ---------------------------------------------------------
 [params]
+  title = "{Cyber,Info}Sec Events"
   subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
   centerTheme = true
 
