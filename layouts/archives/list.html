@@ -7,7 +7,7 @@
     {{ with .Content }}{{ . }}{{ end }}
   </header>
 
-  {{/* --- Collect archive pages and their years --- */}}
+  {{/* --- Collect all year pages --- */}}
   {{ $items := slice }}
   {{ range .Pages }}
     {{ $fname := .File.BaseFileName }}
@@ -17,7 +17,7 @@
     {{ end }}
   {{ end }}
 
-  {{/* --- Ensure current year is included --- */}}
+  {{/* --- Ensure current year is first if missing --- */}}
   {{ $currentYear := now.Format "2006" | int }}
   {{ $found := false }}
   {{ range $items }}
@@ -26,10 +26,11 @@
     {{ end }}
   {{ end }}
   {{ if not $found }}
+    {{/* dummy entry for current year */}}
     {{ $items = $items | append (dict "page" nil "year" $currentYear "url" (printf "/archives/%d/" $currentYear)) }}
   {{ end }}
 
-  {{/* --- Sort descending --- */}}
+  {{/* --- Sort descending (newest first) --- */}}
   {{ $items = sort $items "year" "desc" }}
 
   {{/* --- Top navigation bar --- */}}
@@ -43,7 +44,7 @@
     </ul>
   </nav>
 
-  {{/* --- Optional: List below navigation --- */}}
+  {{/* --- Optional: List below nav --- */}}
   <ul class="archive-list">
     {{ range $items }}
       <li>
