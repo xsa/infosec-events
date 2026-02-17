@@ -51,13 +51,13 @@ enableEmoji = true
 [params]
   subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
   fullWidthTheme = true
-  centerTheme = false
+  centerTheme = true
 
   # ---------------------
   # Terminal-specific params
   # ---------------------
   # Options: orange | blue | green | red | pink | purple | yellow
-  themeColor = "green"
+  themeColor = "blue"
   # If later you want tiny CSS tweaks for tables, you can add:
   # customCSS = ["css/table-fixes.css"]
 
