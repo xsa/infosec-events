@@ -1,123 +1,71 @@
-# ---------------------------------------------------------
-# Hugo configuration for infosec-events
-# Supports quick switching between Terminal and Blowfish
-# README -> Home, YYYY.md -> Archive (no repo reorg)
-# ---------------------------------------------------------
-
 baseURL = "https://xsa.github.io/infosec-events/"
-title = "{Cyber,Info}Sec Events"
+title = "Cyber, InfoSec Events"
 languageCode = "en-us"
 publishDir = "public"
-
-# Enable GitHub-style emojis like :us:, :fr:, etc.
 enableEmoji = true
 
-# Hugo >= 0.128: use pagination.pagerSize instead of paginate
-[pagination]
-  pagerSize = 20
+[params]
+  subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
+  fullWidthTheme = true
+  centerTheme = false
+  showLastUpdated = false
+  themeColor = "green"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "{Cyber,Info}Sec Events"
+    title = "Cyber, InfoSec Events"
 
-    [languages.en.params]
-      subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
+    [languages.en.params.logo]
+      logoText = "Cyber, InfoSec Events"
+      logoHomeLink = "/"
 
-      [languages.en.params.logo]
-        logoText = "{Cyber,Info}Sec Events"
-        logoHomeLink = "/"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "archives"
+        name = "Archive"
+        url = "/archives/"
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 3
 
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "archives"
-          name = "Archive"
-          url = "/archives/"
-
-# ---------------------------------------------------------
-# Module mounts (keep GitHub-first repo layout)
-# ---------------------------------------------------------
 [module]
-  # Include local content/ (About + archive index)
+  # Mount content folder first (About, archives intro)
   [[module.mounts]]
     source = "content"
     target = "content"
 
-  # README.md → homepage
-  [[module.mounts]]
-    source = "README.md"
-    target = "content/_index.md"
-
-  # Year files (e.g., 2026.md, 2025.md) → /archives/
+  # Mount year files
   [[module.mounts]]
     source = "."
     target = "content/archives"
     includeFiles = ["19??.md", "20??.md"]
 
-  # -------------------------------------------------------
-  # THEMES (toggle by flipping disable = true/false)
-  # -------------------------------------------------------
+  # Mount README.md last → homepage
+  [[module.mounts]]
+    source = "README.md"
+    target = "content/_index.md"
 
-  # Terminal theme (PANR)
+  # Terminal theme
   [[module.imports]]
-    path = "github.com/panr/hugo-theme-terminal"
-    disable = false   # ← USE Terminal: false | Switch to Blowfish: true
+    path = "github.com/panr/hugo-theme-terminal/v4"
+    disable = false
 
-# ---------------------------------------------------------
-# Site-wide params (both themes ignore keys they don't use)
-# ---------------------------------------------------------
-[params]
-  subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
-  fullWidthTheme = true
-  centerTheme = true
-
-  # ---------------------
-  # Terminal-specific params
-  # ---------------------
-  # Options: orange | blue | green | red | pink | purple | yellow
-  themeColor = "blue"
-  # If later you want tiny CSS tweaks for tables, you can add:
-  # customCSS = ["css/table-fixes.css"]
-
-# ---------------------------------------------------------
-# Navigation menu (works in both themes)
-# ---------------------------------------------------------
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Archive"
-    url  = "/archives/"
-    weight = 2
-
-  [[menu.main]]
-    name = "About"
-    url  = "/about/"
-    weight = 3
-
-# ---------------------------------------------------------
-# Markdown rendering
-# ---------------------------------------------------------
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true  # allow raw HTML in Markdown (for small scoped fixes)
+      unsafe = true
 
-# ---------------------------------------------------------
-# Permalinks
-# ---------------------------------------------------------
 [permalinks]
   archives = "/archives/:slug/"
 
-# ---------------------------------------------------------
-# Output formats
-# ---------------------------------------------------------
 [outputs]
   home = ["HTML", "RSS"]

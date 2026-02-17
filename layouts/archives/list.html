@@ -1,40 +1,30 @@
-{{/* layouts/archives/list.html */}}
 {{ define "main" }}
 <main class="container container-center">
-
   <header>
-    <h1>{{ .Title | default "Archive" }}</h1>
-    {{ with .Content }}{{ . }}{{ end }}
+    <h1>Archive</h1>
+    {{ with .Content }}<p>{{ . }}</p>{{ end }}
   </header>
 
-  {{ partial "archive-nav.html" . }}
-
-  {{/* Display current year’s content */}}
-  {{ $currentYear := now.Format "2006" }}
-  {{ with site.GetPage (printf "archives/%s.md" $currentYear) }}
-    <section class="current-year-content">
-      {{ .Content }}
-    </section>
+  {{/* Collect all year pages */}}
+  {{ $items := slice }}
+  {{ range .Pages }}
+    {{ $fname := .File.BaseFileName }}
+    {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
+      {{ $items = $items | append . }}
+    {{ end }}
   {{ end }}
 
-  {{/* Full year list below */}}
-  <ul class="archive-list">
-    {{ $section := site.GetPage "section" "archives" }}
-    {{ $years := slice }}
-    {{ if $section }}
-      {{ range $section.RegularPages }}
-        {{ $fname := .File.BaseFileName }}
-        {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
-          {{ $year := int $fname }}
-          {{ $years = $years | append (dict "year" $year "url" .RelPermalink) }}
-        {{ end }}
-      {{ end }}
-      {{ $years = sort $years "year" "desc" }}
-      {{ range $years }}
-        <li><a href="{{ .url }}">{{ .year }}</a></li>
-      {{ end }}
-    {{ end }}
-  </ul>
+  {{/* Sort descending by file name (newest year first) */}}
+  {{ $items = sort $items ".File.BaseFileName" "desc" }}
 
+  {{/* Render content inline */}}
+  {{ range $items }}
+    <section id="{{ .File.BaseFileName }}">
+      <div class="year-content">
+        {{ .Content }}
+      </div>
+    </section>
+    <hr>
+  {{ end }}
 </main>
 {{ end }}
