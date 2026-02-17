@@ -45,17 +45,13 @@ enableEmoji = true
     path = "github.com/panr/hugo-theme-terminal"
     disable = false   # ← USE Terminal: false | Switch to Blowfish: true
 
-  # Blowfish v2 theme (Nunocoracao)
-  [[module.imports]]
-    path = "github.com/nunocoracao/blowfish/v2"
-    disable = true    # ← USE Blowfish: false | Switch to Terminal: true
-
 # ---------------------------------------------------------
 # Site-wide params (both themes ignore keys they don't use)
 # ---------------------------------------------------------
 [params]
   subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
-  centerTheme = true
+  fullWidthTheme = true
+  centerTheme = false
 
   # ---------------------
   # Terminal-specific params
@@ -64,18 +60,6 @@ enableEmoji = true
   themeColor = "green"
   # If later you want tiny CSS tweaks for tables, you can add:
   # customCSS = ["css/table-fixes.css"]
-
-  # ---------------------
-  # Blowfish-specific params (https://blowfish.page/docs/configuration/)
-  # ---------------------
-  defaultTheme = "auto"     # auto | dark | light
-  colorScheme = "blowfish"  # or: ocean, avocado, fire, grayscale, etc.
-  enableSearch = true
-  enableShortcuts = true
-  enableCodeCopy = true
-  enableBreadcrumb = true
-  # mainSections can help Blowfish decide featured sections (not required for your mounts)
-  mainSections = ["archives"]
 
 # ---------------------------------------------------------
 # Navigation menu (works in both themes)
