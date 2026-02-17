@@ -27,6 +27,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 17-18, 2026 | Reykjavik :iceland: | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N
 | [BSidesMálaga](https://www.bsidesmalaga.com) | Mar 20, 2026 | Málaga :es: | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | N
 | [m0leCon](https://m0lecon.it/) | Mar 21, 2026 | Turin :it: | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
+| [RSA Conference](https://www.rsaconference.com/) | Mar 23 - Mar 26, 2026 | San Francisco (CA) :us: | [@RSAConference](https://twitter.com/rsaconference) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) :us: | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) :us: | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
 | [Kernelcon](https://kernelcon.org/) | Apr 9-10, 2026 | Omaha (NE) :us: | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | N
