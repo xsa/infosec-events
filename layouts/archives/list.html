@@ -15,7 +15,7 @@
       {{ $fname := .BaseFileName }}
       {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
         {{ $year := int $fname }}
-        {{ $items = $items | append (dict "page" . "year" $year) }}
+        {{ $items = $items | append (dict "page" . "year" $year "url" .RelPermalink) }}
       {{ end }}
     {{ end }}
   {{ end }}
@@ -29,30 +29,29 @@
     {{ end }}
   {{ end }}
   {{ if not $found }}
-    {{/* dummy link to /archives/YYYY/ */}}
-    {{ $dummy := dict "page" (dict "RelPermalink" (printf "/archives/%d/" $currentYear)) "year" $currentYear }}
-    {{ $items = $items | append $dummy }}
+    {{/* Add dummy entry with string URL */}}
+    {{ $items = $items | append (dict "page" nil "year" $currentYear "url" (printf "/archives/%d/" $currentYear)) }}
   {{ end }}
 
-  {{/* --- Sort descending --- */}}
+  {{/* --- Sort descending (newest first) --- */}}
   {{ $items = sort $items "year" "desc" }}
 
-  {{/* --- Year navigation bar at the top --- */}}
+  {{/* --- Top navigation for all years --- */}}
   <nav class="archive-years">
-    <ul style="display:flex; gap:1rem;">
+    <ul style="display:flex; gap:1rem; list-style:none; padding:0;">
       {{ range $items }}
         <li>
-          <a href="{{ .page.RelPermalink }}">{{ .year }}</a>
+          <a href="{{ if .page }}{{ .page.RelPermalink }}{{ else }}{{ .url }}{{ end }}">{{ .year }}</a>
         </li>
       {{ end }}
     </ul>
   </nav>
 
-  {{/* --- Optional: List links again in main list --- */}}
+  {{/* --- Main archive list (optional) --- */}}
   <ul class="archive-list">
     {{ range $items }}
       <li>
-        <a href="{{ .page.RelPermalink }}">{{ .year }}</a>
+        <a href="{{ if .page }}{{ .page.RelPermalink }}{{ else }}{{ .url }}{{ end }}">{{ .year }}</a>
       </li>
     {{ end }}
   </ul>
