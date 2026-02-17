@@ -9,6 +9,9 @@ languageCode = "en-us"
 title = "InfoSec Events"
 publishDir = "public"
 
+# Enable GitHub-style emojis like :us:, :fr:, :uk:
+enableEmoji = true
+
 # Hugo ≥ 0.128: use pagination.pagerSize instead of paginate
 [pagination]
   pagerSize = 20
