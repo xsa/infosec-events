@@ -9,5 +9,4 @@ This site mirrors the structure of the GitHub repository:
 
 The goal is to maintain a simple, transparent, and community‑driven list of cybersecurity events, kept versioned and openly accessible.
 
-Contribute new events or updates on GitHub:  
-https://github.com/xsa/infosec-events
+Contribute new events or updates on GitHub: https://github.com/xsa/infosec-events
