@@ -6,10 +6,19 @@
     {{ with .Content }}{{ . }}{{ end }}
   </header>
 
-  {{/* Include top navigation */}}
+  {{/* Top navigation bar */}}
   {{ partial "archive-nav.html" . }}
 
-  {{/* Optional: List below navigation */}}
+  {{/* Dynamically show current year content first */}}
+  {{ $currentYear := now.Format "2006" }}
+  {{ $currentPage := site.GetPage (printf "archives/%s.md" $currentYear) }}
+  {{ if $currentPage }}
+    <section class="current-year-content">
+      {{ $currentPage.Content }}
+    </section>
+  {{ end }}
+
+  {{/* Optional: list all years below */}}
   <ul class="archive-list">
     {{ $section := site.GetPage "section" "archives" }}
     {{ if $section }}
@@ -22,7 +31,7 @@
         {{ end }}
       {{ end }}
 
-      {{ $currentYear := now.Format "2006" | int }}
+      {{/* Include current year if missing */}}
       {{ $found := false }}
       {{ range $items }}
         {{ if eq .year $currentYear }}
@@ -34,7 +43,6 @@
       {{ end }}
 
       {{ $items = sort $items "year" "desc" }}
-
       {{ range $items }}
         <li><a href="{{ .url }}">{{ .year }}</a></li>
       {{ end }}
