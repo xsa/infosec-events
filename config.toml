@@ -16,6 +16,28 @@ enableEmoji = true
 [pagination]
   pagerSize = 20
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "{Cyber,Info}Sec Events"
+
+    [languages.en.params]
+      subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
+
+      [languages.en.params.logo]
+        logoText = "{Cyber,Info}Sec Events"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"
+        [[languages.en.menu.main]]
+          identifier = "archives"
+          name = "Archive"
+          url = "/archives/"
+
 # ---------------------------------------------------------
 # Module mounts (keep GitHub-first repo layout)
 # ---------------------------------------------------------
