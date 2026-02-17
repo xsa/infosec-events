@@ -1,0 +1,17 @@
+{{ define "main" }}
+<main class="container">
+
+  {{ partial "archive-nav.html" . }}
+
+  <article>
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+
+</main>
+{{ end }}
