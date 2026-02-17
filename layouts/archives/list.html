@@ -1,0 +1,32 @@
+{{/* layouts/archives/list.html */}}
+{{ define "main" }}
+  <main class="container">
+    <header>
+      <h1>{{ .Title | default "Archive" }}</h1>
+      {{ with .Content }}{{ . }}{{ end }}
+    </header>
+
+    {{/* Collect {page, year} from filename (e.g., 2026 from 2026.md) */}}
+    {{ $items := slice }}
+    {{ range .Pages }}
+      {{ $fname := .File.BaseFileName }}
+      {{ $year := atoi $fname }}
+      {{ if $year }}
+        {{ $items = $items | append (dict "page" . "year" $year) }}
+      {{ end }}
+    {{ end }}
+
+    {{/* Sort years DESC so newest (e.g., 2026) is first */}}
+    {{ $items = sort $items "year" "desc" }}
+
+    <ul>
+      {{ range $items }}
+        {{ $p := .page }}
+        {{ $y := .year }}
+        <li>
+          {{ $p.RelPermalink }}{{ $y }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </main>
+{{ end }}
