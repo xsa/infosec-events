@@ -2,12 +2,13 @@
 {{ define "main" }}
 <main class="container">
 
+  {{/* --- Section header --- */}}
   <header>
     <h1>{{ .Title | default "Archive" }}</h1>
     {{ with .Content }}{{ . }}{{ end }}
   </header>
 
-  {{/* --- Collect all year pages --- */}}
+  {{/* --- Collect all year pages in /archives/ --- */}}
   {{ $items := slice }}
   {{ range .Pages }}
     {{ $fname := .File.BaseFileName }}
@@ -17,7 +18,7 @@
     {{ end }}
   {{ end }}
 
-  {{/* --- Ensure current year is first if missing --- */}}
+  {{/* --- Ensure current year is included --- */}}
   {{ $currentYear := now.Format "2006" | int }}
   {{ $found := false }}
   {{ range $items }}
@@ -26,7 +27,7 @@
     {{ end }}
   {{ end }}
   {{ if not $found }}
-    {{/* dummy entry for current year */}}
+    {{/* Add dummy entry with string URL */}}
     {{ $items = $items | append (dict "page" nil "year" $currentYear "url" (printf "/archives/%d/" $currentYear)) }}
   {{ end }}
 
@@ -44,7 +45,7 @@
     </ul>
   </nav>
 
-  {{/* --- Optional: List below nav --- */}}
+  {{/* --- Optional: list below nav --- */}}
   <ul class="archive-list">
     {{ range $items }}
       <li>
