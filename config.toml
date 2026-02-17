@@ -6,48 +6,31 @@
 
 baseURL = "https://xsa.github.io/infosec-events/"
 languageCode = "en-us"
-title = "Infosec Events"
+title = "InfoSec Events"
 publishDir = "public"
-paginate = 20
 
-# We intentionally do NOT set `theme = "..."` when using modules.
-# The active theme is selected via [module.imports] below.
+# Hugo ≥ 0.128: use pagination.pagerSize instead of paginate
+[pagination]
+  pagerSize = 20
 
-# -------------------------------------------
-# Mounts: keep your repo structure unchanged
-# -------------------------------------------
+# Keep repo layout unchanged via mounts
 [module]
-  # Map README.md to homepage
+  # README.md → home
   [[module.mounts]]
     source = "README.md"
     target = "content/_index.md"
 
-  # Map year files like 2026.md, 2025.md to /archives/
+  # YYYY.md → /archives/
   [[module.mounts]]
     source = "."
     target = "content/archives"
     includeFiles = ["19??.md", "20??.md"]
 
-  # ---- Theme imports (swap here to change themes) ----
-  # Active theme:
+  # Theme via Hugo Modules (flexible; easy to change)
   [[module.imports]]
     path = "github.com/panr/hugo-theme-terminal"
-    # Uncomment the next line to pin a version/tag/commit for reproducibility
-    # disable = false
-    # [[module.imports.mounts]]  # usually not needed for most themes
 
-  # Example alternatives (comment above, uncomment one of these to switch):
-  # [[module.imports]]
-  #   path = "github.com/theNewDynamic/gohugo-theme-ananke"
-  #
-  # [[module.imports]]
-  #   path = "github.com/adityatelange/hugo-PaperMod"
-
-# -------------------------------------------
-# Theme-agnostic defaults (many themes respect these)
-# -------------------------------------------
 [params]
-  # Safe, minimal defaults; theme-specific params can be added later
   subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
   centerTheme = true
 
@@ -56,12 +39,10 @@ paginate = 20
     name = "Home"
     url  = "/"
     weight = 1
-
   [[menu.main]]
     name = "Archive"
     url  = "/archives/"
     weight = 2
-
   [[menu.main]]
     name = "About"
     url  = "/about/"
