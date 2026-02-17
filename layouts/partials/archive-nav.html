@@ -1,4 +1,4 @@
-{{/* Top-year navigation for archives */}}
+{{/* layouts/partials/archive-nav.html */}}
 {{ $items := slice }}
 {{ $section := site.GetPage "section" "archives" }}
 
@@ -18,8 +18,22 @@
       {{ $found = true }}
     {{ end }}
   {{ end }}
+
   {{ if not $found }}
+    {{/* Dummy entry for current year if no file exists yet */}}
     {{ $items = $items | append (dict "page" nil "year" $currentYear "url" (printf "/archives/%d/" $currentYear)) }}
   {{ end }}
 
+  {{/* Sort descending */}}
   {{ $items = sort $items "year" "desc" }}
+
+  <nav class="archive-years">
+    <ul style="display:flex; gap:1rem; list-style:none; padding:0;">
+      {{ range $items }}
+        <li>
+          <a href="{{ .url }}">{{ .year }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}
