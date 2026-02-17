@@ -1,79 +1,117 @@
-# -------------------------------------------
+# ---------------------------------------------------------
 # Hugo configuration for infosec-events
-# Flexible THEMES via Hugo Modules
+# Supports quick switching between Terminal and Blowfish
 # README -> Home, YYYY.md -> Archive (no repo reorg)
-# -------------------------------------------
+# ---------------------------------------------------------
 
 baseURL = "https://xsa.github.io/infosec-events/"
 languageCode = "en-us"
-title = "InfoSec Events"
+title = "Infosec Events"
 publishDir = "public"
 
-# Enable GitHub-style emojis like :us:, :fr:, :uk:
+# Enable GitHub-style emojis like :us:, :fr:, etc.
 enableEmoji = true
 
-# Hugo ≥ 0.128: use pagination.pagerSize instead of paginate
+# Hugo >= 0.128: use pagination.pagerSize instead of paginate
 [pagination]
   pagerSize = 20
 
-# Keep repo layout unchanged via mounts
+# ---------------------------------------------------------
+# Module mounts (keep GitHub-first repo layout)
+# ---------------------------------------------------------
 [module]
-  # 1) Include your local content/ (About page, archive index, etc.)
+  # Include local content/ (About + archive index)
   [[module.mounts]]
     source = "content"
     target = "content"
 
-  # 2) Map README.md to homepage (current year)
+  # README.md → homepage
   [[module.mounts]]
     source = "README.md"
     target = "content/_index.md"
 
-  # 3) Map year files into /archives/ (includes 2026.md even if it's the current year)
+  # Year files (e.g., 2026.md, 2025.md) → /archives/
   [[module.mounts]]
     source = "."
     target = "content/archives"
     includeFiles = ["19??.md", "20??.md"]
 
-  # Theme via Hugo Modules
+  # -------------------------------------------------------
+  # THEMES (toggle by flipping disable = true/false)
+  # -------------------------------------------------------
+
+  # Terminal theme (PANR)
   [[module.imports]]
     path = "github.com/panr/hugo-theme-terminal"
+    disable = false   # ← USE Terminal: false | Switch to Blowfish: true
 
+  # Blowfish v2 theme (Nunocoracao)
+  [[module.imports]]
+    path = "github.com/nunocoracao/blowfish/v2"
+    disable = true    # ← USE Blowfish: false | Switch to Terminal: true
+
+# ---------------------------------------------------------
+# Site-wide params (both themes ignore keys they don't use)
+# ---------------------------------------------------------
 [params]
   subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
   centerTheme = true
 
-  # Change theme color here — built‑in Terminal colors:
-  # orange | blue | green | red | pink | purple | yellow
-  themeColor = "green" 
+  # ---------------------
+  # Terminal-specific params
+  # ---------------------
+  # Options: orange | blue | green | red | pink | purple | yellow
+  themeColor = "green"
+  # If later you want tiny CSS tweaks for tables, you can add:
+  # customCSS = ["css/table-fixes.css"]
 
+  # ---------------------
+  # Blowfish-specific params (https://blowfish.page/docs/configuration/)
+  # ---------------------
+  defaultTheme = "auto"     # auto | dark | light
+  colorScheme = "blowfish"  # or: ocean, avocado, fire, grayscale, etc.
+  enableSearch = true
+  enableShortcuts = true
+  enableCodeCopy = true
+  enableBreadcrumb = true
+  # mainSections can help Blowfish decide featured sections (not required for your mounts)
+  mainSections = ["archives"]
+
+# ---------------------------------------------------------
+# Navigation menu (works in both themes)
+# ---------------------------------------------------------
 [menu]
   [[menu.main]]
     name = "Home"
     url  = "/"
     weight = 1
+
   [[menu.main]]
     name = "Archive"
     url  = "/archives/"
     weight = 2
+
   [[menu.main]]
     name = "About"
     url  = "/about/"
     weight = 3
 
+# ---------------------------------------------------------
+# Markdown rendering
+# ---------------------------------------------------------
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = true  # allow raw HTML in Markdown (for small scoped fixes)
 
+# ---------------------------------------------------------
+# Permalinks
+# ---------------------------------------------------------
 [permalinks]
   archives = "/archives/:slug/"
 
-[privacy]
-  [privacy.googleAnalytics]
-    disable = true
-    anonymizeIP = true
-    respectDoNotTrack = true
-    useSessionStorage = true
-
+# ---------------------------------------------------------
+# Output formats
+# ---------------------------------------------------------
 [outputs]
   home = ["HTML", "RSS"]
