@@ -1,0 +1,86 @@
+# -------------------------------------------
+# Hugo configuration for infosec-events
+# Flexible THEMES via Hugo Modules
+# README -> Home, YYYY.md -> Archive (no repo reorg)
+# -------------------------------------------
+
+baseURL = "https://xsa.github.io/infosec-events/"
+languageCode = "en-us"
+title = "Infosec Events"
+publishDir = "public"
+paginate = 20
+
+# We intentionally do NOT set `theme = "..."` when using modules.
+# The active theme is selected via [module.imports] below.
+
+# -------------------------------------------
+# Mounts: keep your repo structure unchanged
+# -------------------------------------------
+[module]
+  # Map README.md to homepage
+  [[module.mounts]]
+    source = "README.md"
+    target = "content/_index.md"
+
+  # Map year files like 2026.md, 2025.md to /archives/
+  [[module.mounts]]
+    source = "."
+    target = "content/archives"
+    includeFiles = ["19??.md", "20??.md"]
+
+  # ---- Theme imports (swap here to change themes) ----
+  # Active theme:
+  [[module.imports]]
+    path = "github.com/panr/hugo-theme-terminal"
+    # Uncomment the next line to pin a version/tag/commit for reproducibility
+    # disable = false
+    # [[module.imports.mounts]]  # usually not needed for most themes
+
+  # Example alternatives (comment above, uncomment one of these to switch):
+  # [[module.imports]]
+  #   path = "github.com/theNewDynamic/gohugo-theme-ananke"
+  #
+  # [[module.imports]]
+  #   path = "github.com/adityatelange/hugo-PaperMod"
+
+# -------------------------------------------
+# Theme-agnostic defaults (many themes respect these)
+# -------------------------------------------
+[params]
+  # Safe, minimal defaults; theme-specific params can be added later
+  subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
+  centerTheme = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Archive"
+    url  = "/archives/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url  = "/about/"
+    weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  archives = "/archives/:slug/"
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = true
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+
+[outputs]
+  home = ["HTML", "RSS"]
