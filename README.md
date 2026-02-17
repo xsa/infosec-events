@@ -56,6 +56,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków :poland: | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg :sweden: | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [BSidesHBG](https://www.bsideshbg.com/) | May 29, 2026 | Harrisburg (PA) :us: | [@BsidesHbg](https://x.com/BsidesHbg) | N
+| [AUVERGN'HACK](https://www.auvergnhack.fr/) | May 29-30, 2026 | Clermont-Ferrand :fr: | - | N
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes :fr: | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 5, 2026 | Hamburg :de: | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
