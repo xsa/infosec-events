@@ -1,5 +1,6 @@
 ---
 title: "Archive"
+aliases: ["/archives/"]
 ---
 
 Browse previous years’ events.  
