@@ -8,9 +8,9 @@
     {{ with .Content }}{{ . }}{{ end }}
   </header>
 
-  {{/* --- Collect all year pages in /archives/ --- */}}
+  {{/* --- Collect all year pages (from mounted files) --- */}}
   {{ $items := slice }}
-  {{ range .Pages }}
+  {{ range .RegularPages }}
     {{ $fname := .File.BaseFileName }}
     {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
       {{ $year := int $fname }}
@@ -27,7 +27,7 @@
     {{ end }}
   {{ end }}
   {{ if not $found }}
-    {{/* Add dummy entry with string URL */}}
+    {{/* Dummy entry for current year if no file exists yet */}}
     {{ $items = $items | append (dict "page" nil "year" $currentYear "url" (printf "/archives/%d/" $currentYear)) }}
   {{ end }}
 
@@ -45,7 +45,7 @@
     </ul>
   </nav>
 
-  {{/* --- Optional: list below nav --- */}}
+  {{/* --- Optional list below nav (can be removed) --- */}}
   <ul class="archive-list">
     {{ range $items }}
       <li>
