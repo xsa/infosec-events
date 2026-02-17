@@ -1,10 +1,10 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/xsantola)
-[![](https://img.shields.io/mastodon/follow/109262357540251967?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/@0x58)
-
 # {Cyber,Info}Sec Events
 
 List of past and future {cyber,info}sec related events. Feel free to contribute by submitting issues or pull requests. Thanks! 😉
+
+[PRs Welcome](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) | 
+[LinkedIn Connect](https://www.linkedin.com/in/xsantola) | 
+[Mastodon Follow](https://infosec.exchange/@0x58)
 
 ## Featured List
 
