@@ -63,6 +63,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesUme](https://indico.neic.no/event/287/) | Jun 16-17, 2026 | Umeå :sweden: | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
 | [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal :canada: | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
+| [leHACK](https://lehack.org/) | Jun 26-27, 2026 | Paris :fr: | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille :fr: | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken :de: | [@acm_wisec](https://twitter.com/acm_wisec) | N
 | [SEC-T](https://sec-t.org/) | Sep 10-11, 2026 | Stockholm :sweden: | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
