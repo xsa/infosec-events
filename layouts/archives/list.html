@@ -2,7 +2,6 @@
 {{ define "main" }}
 <main class="container">
 
-  {{/* --- Section Header --- */}}
   <header>
     <h1>{{ .Title | default "Archive" }}</h1>
     {{ with .Content }}{{ . }}{{ end }}
@@ -11,16 +10,14 @@
   {{/* --- Collect archive pages and their years --- */}}
   {{ $items := slice }}
   {{ range .Pages }}
-    {{ with .File }}
-      {{ $fname := .BaseFileName }}
-      {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
-        {{ $year := int $fname }}
-        {{ $items = $items | append (dict "page" . "year" $year "url" .RelPermalink) }}
-      {{ end }}
+    {{ $fname := .File.BaseFileName }}
+    {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
+      {{ $year := int $fname }}
+      {{ $items = $items | append (dict "page" . "year" $year "url" .RelPermalink) }}
     {{ end }}
   {{ end }}
 
-  {{/* --- Ensure current year is included even if no page exists --- */}}
+  {{/* --- Ensure current year is included --- */}}
   {{ $currentYear := now.Format "2006" | int }}
   {{ $found := false }}
   {{ range $items }}
@@ -29,29 +26,28 @@
     {{ end }}
   {{ end }}
   {{ if not $found }}
-    {{/* Add dummy entry with string URL */}}
     {{ $items = $items | append (dict "page" nil "year" $currentYear "url" (printf "/archives/%d/" $currentYear)) }}
   {{ end }}
 
-  {{/* --- Sort descending (newest first) --- */}}
+  {{/* --- Sort descending --- */}}
   {{ $items = sort $items "year" "desc" }}
 
-  {{/* --- Top navigation for all years --- */}}
+  {{/* --- Top navigation bar --- */}}
   <nav class="archive-years">
     <ul style="display:flex; gap:1rem; list-style:none; padding:0;">
       {{ range $items }}
         <li>
-          <a href="{{ if .page }}{{ .page.RelPermalink }}{{ else }}{{ .url }}{{ end }}">{{ .year }}</a>
+          <a href="{{ .url }}">{{ .year }}</a>
         </li>
       {{ end }}
     </ul>
   </nav>
 
-  {{/* --- Main archive list (optional) --- */}}
+  {{/* --- Optional: List below navigation --- */}}
   <ul class="archive-list">
     {{ range $items }}
       <li>
-        <a href="{{ if .page }}{{ .page.RelPermalink }}{{ else }}{{ .url }}{{ end }}">{{ .year }}</a>
+        <a href="{{ .url }}">{{ .year }}</a>
       </li>
     {{ end }}
   </ul>
