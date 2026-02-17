@@ -1,0 +1,7 @@
+# Hugo build artifacts
+/public/
+/resources/
+/.hugo_build.lock
+
+# Go module cache (optional to vendor later)
+/vendor/
