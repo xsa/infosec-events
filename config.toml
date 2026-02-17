@@ -39,6 +39,10 @@ publishDir = "public"
   subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
   centerTheme = true
 
+  # Change theme color here — built‑in Terminal colors:
+  # orange | blue | green | red | pink | purple | yellow
+  themeColor = "green" 
+
 [menu]
   [[menu.main]]
     name = "Home"
