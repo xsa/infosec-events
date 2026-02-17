@@ -49,6 +49,7 @@ enableEmoji = true
 # Site-wide params (both themes ignore keys they don't use)
 # ---------------------------------------------------------
 [params]
+  siteName = ""
   subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
   fullWidthTheme = true
   centerTheme = true
