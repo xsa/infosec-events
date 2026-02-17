@@ -1,25 +1,61 @@
-{{/* Collect {page, year} from filename */}}
-{{ $items := slice }}
+{{/* layouts/archives/list.html */}}
+{{ define "main" }}
+<main class="container">
 
-{{ range .Pages }}
-  {{ $fname := .File.BaseFileName }}
-  {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
-    {{ $year := int $fname }}
-    {{ $items = $items | append (dict "page" . "year" $year) }}
+  {{/* --- Section Header --- */}}
+  <header>
+    <h1>{{ .Title | default "Archive" }}</h1>
+    {{ with .Content }}{{ . }}{{ end }}
+  </header>
+
+  {{/* --- Collect archive pages and their years --- */}}
+  {{ $items := slice }}
+  {{ range .Pages }}
+    {{ with .File }}
+      {{ $fname := .BaseFileName }}
+      {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
+        {{ $year := int $fname }}
+        {{ $items = $items | append (dict "page" . "year" $year) }}
+      {{ end }}
+    {{ end }}
   {{ end }}
-{{ end }}
 
-{{/* Also include current year if missing */}}
-{{ $currentYear := now.Format "2006" | int }}
-{{ $found := false }}
-{{ range $items }}
-  {{ if eq .year $currentYear }}
-    {{ $found = true }}
+  {{/* --- Ensure current year is included even if no page exists --- */}}
+  {{ $currentYear := now.Format "2006" | int }}
+  {{ $found := false }}
+  {{ range $items }}
+    {{ if eq .year $currentYear }}
+      {{ $found = true }}
+    {{ end }}
   {{ end }}
-{{ end }}
-{{ if not $found }}
-  {{ $dummy := dict "page" (dict "RelPermalink" (print "/archives/" $currentYear "/") ) "year" $currentYear }}
-  {{ $items = $items | append $dummy }}
-{{ end }}
+  {{ if not $found }}
+    {{/* dummy link to /archives/YYYY/ */}}
+    {{ $dummy := dict "page" (dict "RelPermalink" (printf "/archives/%d/" $currentYear)) "year" $currentYear }}
+    {{ $items = $items | append $dummy }}
+  {{ end }}
 
-{{ $items = sort $items "year" "desc" }}
+  {{/* --- Sort descending --- */}}
+  {{ $items = sort $items "year" "desc" }}
+
+  {{/* --- Year navigation bar at the top --- */}}
+  <nav class="archive-years">
+    <ul style="display:flex; gap:1rem;">
+      {{ range $items }}
+        <li>
+          <a href="{{ .page.RelPermalink }}">{{ .year }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+
+  {{/* --- Optional: List links again in main list --- */}}
+  <ul class="archive-list">
+    {{ range $items }}
+      <li>
+        <a href="{{ .page.RelPermalink }}">{{ .year }}</a>
+      </li>
+    {{ end }}
+  </ul>
+
+</main>
+{{ end }}
