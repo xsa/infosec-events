@@ -2,8 +2,8 @@
 
 List of past and future {cyber,info}sec related events. Feel free to contribute by submitting issues or pull requests. Thanks! 😉
 
-[PRs Welcome](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) | 
-[LinkedIn Connect](https://www.linkedin.com/in/xsantola) | 
+[PRs Welcome](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) |
+[LinkedIn Connect](https://www.linkedin.com/in/xsantola) |
 [Mastodon Follow](https://infosec.exchange/@0x58)
 
 ## Featured List
@@ -51,6 +51,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 23, 2026 | Dublin :ireland: | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) :us: | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
 | [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków :poland: | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
+| [Hardwear.io USA](https://hardwear.io/usa-2026/) | May 26-30, 2026 | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg :sweden: | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [BSidesHBG](https://www.bsideshbg.com/) | May 29, 2026 | Harrisburg (PA) :us: | [@BsidesHbg](https://x.com/BsidesHbg) | N
 | [AUVERGN'HACK](https://www.auvergnhack.fr/) | May 29-30, 2026 | Clermont-Ferrand :fr: | - | N
