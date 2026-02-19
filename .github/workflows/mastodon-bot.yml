@@ -1,0 +1,96 @@
+name: Mastodon Bot
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Weekly digest every Monday at 08:00 UTC
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Mode to run (digest or notify)"
+        required: true
+        default: digest
+        type: choice
+        options: [digest, notify]
+
+jobs:
+  # ---------------------------------------------------------------------------
+  # Weekly digest — runs on schedule (and manual trigger)
+  # ---------------------------------------------------------------------------
+  digest:
+    name: Weekly Digest
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'digest')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Post weekly digest
+        env:
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
+        run: python scripts/mastodon_bot.py digest
+
+  # ---------------------------------------------------------------------------
+  # New event notification — runs on every push to main (by a human)
+  # ---------------------------------------------------------------------------
+  notify:
+    name: New Event Notification
+    if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Need previous commit to diff against
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Extract newly added event rows
+        id: diff
+        run: |
+          # Get lines added in this commit from markdown event files
+          ADDED=$(git diff HEAD~1 HEAD -- README.md 20??.md \
+            | grep '^+|' \
+            | grep -v '^+++' \
+            | grep -v 'Event Name' \
+            | grep -v '^\+|[-: |]*|$' \
+            | sed 's/^\+//' \
+            | python3 -c "
+          import sys, json, re
+
+          LINK_RE = re.compile(r'\[([^\]]*)\]\(([^)]+)\)')
+          FLAG_RE = re.compile(r'[\U0001F1E0-\U0001F1FF]{2}')
+
+          rows = []
+          for line in sys.stdin:
+              line = line.strip()
+              if not line.startswith('|'):
+                  continue
+              cells = [c.strip() for c in line.strip('|').split('|')]
+              if len(cells) < 2:
+                  continue
+              rows.append(cells)
+          print(json.dumps(rows))
+          ")
+          echo "added=$ADDED" >> $GITHUB_OUTPUT
+
+      - name: Post new event notification
+        if: steps.diff.outputs.added != '[]'
+        env:
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
+        run: |
+          python scripts/mastodon_bot.py notify --added '${{ steps.diff.outputs.added }}'
