@@ -1,0 +1,39 @@
+name: Generate ICS Calendar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+jobs:
+  generate-ics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to push the generated file back
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate ICS file
+        run: |
+          python scripts/generate_ics.py \
+            --output static/events.ics \
+            README.md 20??.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/events.ics
+          if git diff --cached --quiet; then
+            echo "No changes to ICS file."
+          else
+            git commit -m "chore: regenerate events.ics [skip ci]"
+            git push
+          fi

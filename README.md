@@ -4,7 +4,8 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 [PRs Welcome](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) |
 [LinkedIn Connect](https://www.linkedin.com/in/xsantola) |
-[Mastodon Follow](https://infosec.exchange/@0x58)
+[Mastodon Follow](https://infosec.exchange/@0x58) |
+[Subscribe to Calendar :calendar:](https://xsa.github.io/infosec-events/events.ics)
 
 ## Featured List
 
