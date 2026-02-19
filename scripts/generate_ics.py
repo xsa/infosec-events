@@ -55,6 +55,8 @@ def parse_dates(date_str: str):
 
     year = int(m.group("yr"))
     sm = MONTHS.get(m.group("sm").lower())
+    if not sm:
+        return None, None
     sd = int(m.group("sd"))
     start = date(year, sm, sd)
 
@@ -135,6 +137,10 @@ def parse_markdown_file(path: Path):
             ev = parse_table_row(line)
             if ev:
                 events.append(ev)
+            else:
+                # Only warn for lines that look like real data rows (not headers/separators)
+                if not re.match(r'^\|[\s\-|:]+\|', line) and "Event Name" not in line:
+                    print(f"  Warning: could not parse row: {line[:80]}", file=sys.stderr)
     return events
 
 
