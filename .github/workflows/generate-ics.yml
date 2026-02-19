@@ -3,10 +3,11 @@ name: Generate ICS Calendar
 on:
   push:
     branches: [main]
-  workflow_dispatch:  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   generate-ics:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Required to push the generated file back
@@ -34,6 +35,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to ICS file."
           else
-            git commit -m "chore: regenerate events.ics [skip ci]"
+            git commit -m "chore: regenerate events.ics"
             git push
           fi
