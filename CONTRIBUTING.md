@@ -36,6 +36,7 @@ If you prefer to submit a pull request directly, that's fine too—just make sur
 When submitting an event (via PR), use the structure already present in the repository:
 * Keep events chronologically ordered
 * Ensure dates use the format: ```MMM DD, YYYY```
+* Ensure the country flag emoji is used "as-is". This is to ensure that the Mastodon bot posts render them correctly.
 * Use the official event name and official links (website and social)
 * Avoid marketing descriptions—keep entries factual and concise
 
