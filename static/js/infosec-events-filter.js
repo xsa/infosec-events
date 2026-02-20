@@ -371,9 +371,8 @@
 
     const cityArr = Array.from(cityMap.entries()).map(([city, flag]) => ({ city, flag }));
     const ui = buildUI(continents, cityArr, allRows.length);
-    tables[0].parentNode.insertBefore(ui, tables[0]);
 
-    // Standalone search box — same look & feel, sits between filter box and table
+    // Insert search first, then filter below it: search → filter → map → table
     const searchWrapper = document.createElement("div");
     searchWrapper.id = "ef-search-wrapper";
     searchWrapper.innerHTML = `
@@ -385,6 +384,7 @@
       </div>
     `;
     tables[0].parentNode.insertBefore(searchWrapper, tables[0]);
+    tables[0].parentNode.insertBefore(ui, tables[0]);
 
     const selConts = new Set();
     const selCities = new Set();

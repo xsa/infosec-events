@@ -1,0 +1,56 @@
+name: Update Locations
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+
+jobs:
+  update-locations:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 2
+
+      - name: Check for new event rows in README
+        id: check
+        run: |
+          # Look for added lines that look like markdown table rows with content
+          NEW_ROWS=$(git diff HEAD~1 HEAD -- README.md | grep '^+|' | grep -v '^+++' | grep -v '^\+|---' | grep -v '^\+| Event' || true)
+          if [ -z "$NEW_ROWS" ]; then
+            echo "No new event rows detected, skipping geocoding."
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "New event rows detected:"
+            echo "$NEW_ROWS"
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.skip == 'false'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run location updater
+        if: steps.check.outputs.skip == 'false'
+        run: python3 scripts/update-locations.py
+
+      - name: Commit updated locations.json if changed
+        if: steps.check.outputs.skip == 'false'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/locations.json
+          if git diff --cached --quiet; then
+            echo "No changes to locations.json"
+          else
+            git commit -m "chore: auto-geocode new event locations [skip ci]"
+            git push
+          fi
