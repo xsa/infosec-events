@@ -42,6 +42,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Botconf](https://www.botconf.eu/) | Apr 15-17, 2026 | Reims 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti26/) | Apr 21-23, 2026 | Munich 🇩🇪 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
+| [BSidesColombia](https://bsidesco.org) | Apr 22-25, 2026 | Pereira 🇨🇴 | [@BSides_CO](https://x.com/BSides_CO) | N
 | [Black Hat Asia](https://www.blackhat.com/asia-26/) | Apr 23-24, 2026 | Singapore 🇸🇬 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesPrague](https://bsidesprg.cz/) | Apr 23-24, 2026 | Prague 🇨🇿 | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
 | [BSidesExeter](https://bsidesexeter.co.uk) | Apr 24-25, 2026 | Exeter 🇬🇧 | [@bsidesexeter@mastodon.social](https://mastodon.social/@bsidesexeter) | N
