@@ -26,7 +26,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesZagreb](https://www.bsideszagreb.com) | Mar 6, 2026 | Zagreb 🇭🇷 | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Mar 10-11, 2026 | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
-| [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana 🇸🇮 | [@BSidesLjubljana](https://twitter.com/BSidesLjubljana)| N
+| [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana)| N
 | [BSidesLimburg](https://www.bsides-limburg.be) | Mar 13, 2026 | Hasselt 🇧🇪 | - | N
 | [Insomni’Hack](https://insomnihack.ch/) | Mar 16-20, 2026 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 17-18, 2026 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N
