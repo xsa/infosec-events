@@ -44,6 +44,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti26/) | Apr 21-23, 2026 | Munich 🇩🇪 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Black Hat Asia](https://www.blackhat.com/asia-26/) | Apr 23-24, 2026 | Singapore 🇸🇬 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesPrague](https://bsidesprg.cz/) | Apr 23-24, 2026 | Prague 🇨🇿 | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
+| [BSidesExeter](https://bsidesexeter.co.uk) | Apr 24-25, 2026 | Exeter 🇬🇧 | [@bsidesexeter@mastodon.social](https://mastodon.social/@bsidesexeter) | N
 | [BSidesCharm](https://bsidescharm.org/) | Apr 25-26, 2026 | Towson (MD) 🇺🇸 | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@bsidescharm) | N
 | [EDUCAUSE Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2026) | Apr 28-30, 2026 | Anaheim, CA 🇺🇸 | - | N
 | [Out Of The Box](https://ootb.net/) | Apr 29-30, 2026 | Jakarta 🇮🇩 | - | N
