@@ -51,7 +51,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2  # Need previous commit to diff against
+          fetch-depth: 5  # Need enough history to find last human commit
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -61,8 +61,16 @@ jobs:
       - name: Extract newly added event rows
         id: diff
         run: |
-          # Get lines added in this commit from markdown event files
-          ADDED=$(git diff HEAD~1 HEAD -- README.md 20??.md \
+          # Find the most recent human commit and diff it against its parent
+          LAST_HUMAN=$(git log --format="%H %ae" | grep -v "github-actions\[bot\]" | head -1 | awk '{print $1}')
+          if [ -z "$LAST_HUMAN" ]; then
+            echo "added=[]" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          PARENT=$(git rev-parse ${LAST_HUMAN}^)
+          echo "Diffing ${PARENT} → ${LAST_HUMAN}" >&2
+
+          ADDED=$(git diff ${PARENT} ${LAST_HUMAN} -- README.md 20??.md \
             | grep '^+|' \
             | grep -v '^+++' \
             | grep -v 'Event Name' \
