@@ -62,7 +62,7 @@ jobs:
         id: diff
         run: |
           # git show handles both regular and merge commits correctly
-          ADDED=$(git show --format="" ${{ github.sha }} -- README.md | python3 -c "
+          ADDED=$(git show -m --format="" ${{ github.sha }} -- README.md | python3 -c "
           import sys, json, re
 
           LINK_RE = re.compile(r'\[([^\]]*)\]\(([^)]+)\)')
