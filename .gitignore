@@ -5,3 +5,6 @@
 
 # Go module cache (optional to vendor later)
 /vendor/
+
+# Calendar file generated via GitHub Actions
+static/events.ics
