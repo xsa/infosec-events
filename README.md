@@ -23,6 +23,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SECCON](https://www.seccon.jp/14/seccon/opencon.html) | Feb 28 - Mar 1, 2026 | Tokyo 🇯🇵 | [@secconctf](https://twitter.com/secconctf) | N
 | [\[un\]prompted](https://unpromptedcon.org/) | Mar 3-4, 2026 | San Francisco (CA) 🇺🇸 | - | N
 | [RE//verse](https://re-verse.io/) | Mar 5-7, 2026 | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
+| [BSidesZagreb](https://www.bsideszagreb.com) | Mar 6, 2026 | Zagreb 🇭🇷 | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Mar 10-11, 2026 | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
 | [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana 🇸🇮 | [@BSidesLjubljana](https://twitter.com/BSidesLjubljana)| N
