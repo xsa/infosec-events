@@ -61,39 +61,26 @@ jobs:
       - name: Extract newly added event rows
         id: diff
         run: |
-          # Find the most recent human commit and diff it against its parent
-          LAST_HUMAN=$(git log --format="%H %ae" | grep -v "github-actions\[bot\]" | head -1 | awk '{print $1}')
-          if [ -z "$LAST_HUMAN" ]; then
-            echo "added=[]" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-          PARENT=$(git rev-parse ${LAST_HUMAN}^)
-          echo "Diffing ${PARENT} → ${LAST_HUMAN}" >&2
-
-          ADDED=$(git diff ${PARENT} ${LAST_HUMAN} -- README.md \
-            | grep '^+|' \
-            | grep -v '^+++' \
-            | grep -v 'Event Name' \
-            | grep -v '^\+|[-: |]*|$' \
-            | sed 's/^\+//' \
-            | python3 -c "
+          # git show handles both regular and merge commits correctly
+          ADDED=$(git show --format="" ${{ github.sha }} -- README.md | python3 -c "
           import sys, json, re
 
           LINK_RE = re.compile(r'\[([^\]]*)\]\(([^)]+)\)')
-          FLAG_RE = re.compile(r'[\U0001F1E0-\U0001F1FF]{2}')
-
           rows = []
-          for line in sys.stdin:
-              line = line.strip()
-              if not line.startswith('|'):
+          for line in sys.stdin.buffer.read().decode('utf-8').splitlines():
+              if not line.startswith('+|'):
+                  continue
+              line = line[1:]  # strip leading +
+              if re.match(r'^\|[-: |]+\|$', line):
+                  continue
+              if 'Event Name' in line:
                   continue
               cells = [c.strip() for c in line.strip('|').split('|')]
               if len(cells) < 2:
                   continue
               rows.append(cells)
-          print(json.dumps(rows))
+          print(json.dumps(rows, ensure_ascii=False))
           ")
-          echo "DEBUG: $ADDED" >&2
           echo "added=$ADDED" >> $GITHUB_OUTPUT
 
       - name: Post new event notification
