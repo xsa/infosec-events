@@ -70,7 +70,7 @@ jobs:
           PARENT=$(git rev-parse ${LAST_HUMAN}^)
           echo "Diffing ${PARENT} → ${LAST_HUMAN}" >&2
 
-          ADDED=$(git diff ${PARENT} ${LAST_HUMAN} -- README.md 20??.md \
+          ADDED=$(git diff ${PARENT} ${LAST_HUMAN} -- README.md \
             | grep '^+|' \
             | grep -v '^+++' \
             | grep -v 'Event Name' \
