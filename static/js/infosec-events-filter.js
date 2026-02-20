@@ -210,6 +210,51 @@
         flex-shrink: 0;
       }
 
+      #ef-search-wrapper .ef-search-input {
+        background: none;
+        border: none;
+        border-bottom: 1px solid var(--comment, #75715e);
+        color: var(--foreground, #fcfcfc);
+        font-family: monospace;
+        font-size: 0.85rem;
+        padding: 0.1rem 0.25rem;
+        width: 100%;
+        max-width: 24rem;
+        transition: border-color 0.15s;
+        outline: none;
+      }
+      #ef-search-wrapper .ef-search-input:focus {
+        border-bottom-color: var(--accent, #f4bf75);
+      }
+      #ef-search-wrapper .ef-search-input::placeholder {
+        color: var(--comment, #75715e);
+      }
+
+      #ef-search-wrapper {
+        border: 1px solid var(--accent, #f4bf75);
+        padding: 0.55rem 1rem;
+        font-family: monospace;
+        font-size: 0.85rem;
+        margin-bottom: 1.5rem;
+      }
+
+      #ef-search-wrapper .ef-row {
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+      }
+
+      #ef-search-wrapper .ef-label {
+        color: var(--comment, #75715e);
+        font-family: monospace;
+        font-size: 0.75rem;
+        letter-spacing: 0.07em;
+        white-space: nowrap;
+        min-width: 5rem;
+        flex-shrink: 0;
+      }
+
       tr.ef-hidden { display: none; }
     `;
     document.head.appendChild(s);
@@ -285,13 +330,14 @@
     return details;
   }
 
-  function applyFilters(rows, selConts, selCities, freeOnly) {
+  function applyFilters(rows, selConts, selCities, freeOnly, searchTerm) {
     let visible = 0;
-    rows.forEach(({ row, city, continent, free }) => {
+    rows.forEach(({ row, city, continent, free, name, location }) => {
       const show =
         (selConts.size === 0 || selConts.has(continent)) &&
         (selCities.size === 0 || selCities.has(city)) &&
-        (!freeOnly || free);
+        (!freeOnly || free) &&
+        (!searchTerm || name.includes(searchTerm) || location.includes(searchTerm));
       row.classList.toggle("ef-hidden", !show);
       if (show) visible++;
     });
@@ -312,11 +358,12 @@
         const flag = extractFlag(location);
         const continent = getContinent(flag);
         const city = extractCity(location);
+        const name = row.querySelectorAll("td")[0] ? row.querySelectorAll("td")[0].textContent.trim().toLowerCase() : "";
 
         continents.add(continent);
         if (city && !cityMap.has(city)) cityMap.set(city, flag);
 
-        allRows.push({ row, city, continent, free: isFreeEvent(row) });
+        allRows.push({ row, city, continent, free: isFreeEvent(row), name, location: location.toLowerCase() });
       });
     });
 
@@ -326,13 +373,27 @@
     const ui = buildUI(continents, cityArr, allRows.length);
     tables[0].parentNode.insertBefore(ui, tables[0]);
 
+    // Standalone search box — same look & feel, sits between filter box and table
+    const searchWrapper = document.createElement("div");
+    searchWrapper.id = "ef-search-wrapper";
+    searchWrapper.innerHTML = `
+      <div class="ef-row ef-search-row">
+        <div class="ef-label">search</div>
+        <div class="ef-options ef-few">
+          <input type="text" id="ef-search" class="ef-search-input" placeholder="event name, city...">
+        </div>
+      </div>
+    `;
+    tables[0].parentNode.insertBefore(searchWrapper, tables[0]);
+
     const selConts = new Set();
     const selCities = new Set();
     let freeOnly = false;
+    let searchTerm = "";
 
     function refresh() {
-      const visible = applyFilters(allRows, selConts, selCities, freeOnly);
-      const isFiltered = selConts.size > 0 || selCities.size > 0 || freeOnly;
+      const visible = applyFilters(allRows, selConts, selCities, freeOnly, searchTerm);
+      const isFiltered = selConts.size > 0 || selCities.size > 0 || freeOnly || searchTerm;
       document.getElementById("ef-count").textContent =
         isFiltered ? `${visible} of ${allRows.length} events` : `${allRows.length} events`;
     }
@@ -351,6 +412,22 @@
       })
     );
 
+    document.getElementById("ef-search").addEventListener("input", e => {
+      const val = e.target.value.trim().toLowerCase();
+      searchTerm = val;
+      refresh();
+      // Auto-collapse filter box only when search is meaningful (3+ chars)
+      if (val.length >= 3) ui.removeAttribute("open");
+    });
+
+    document.getElementById("ef-search").addEventListener("keydown", e => {
+      if (e.key === "Enter") {
+        searchTerm = e.target.value.trim().toLowerCase();
+        refresh();
+        if (searchTerm) ui.removeAttribute("open");
+      }
+    });
+
     document.getElementById("ef-free").addEventListener("change", e => {
       freeOnly = e.target.checked;
       refresh();
@@ -358,12 +435,13 @@
 
     document.getElementById("ef-reset").addEventListener("click", () => {
       ui.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
+      document.getElementById("ef-search").value = "";
       selConts.clear();
       selCities.clear();
       freeOnly = false;
+      searchTerm = "";
       refresh();
-    });
-  }
+    });  }
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);
