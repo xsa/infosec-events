@@ -89,5 +89,6 @@ jobs:
         env:
           MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
           MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
+          ADDED_ROWS: ${{ steps.diff.outputs.added }}
         run: |
-          python scripts/mastodon_bot.py notify --added '${{ steps.diff.outputs.added }}'
+          python scripts/mastodon_bot.py notify --added "$ADDED_ROWS"

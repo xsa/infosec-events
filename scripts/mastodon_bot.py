@@ -26,6 +26,21 @@ from datetime import date, timedelta
 from pathlib import Path
 import glob
 
+# GitHub uses :xx: (ISO 2-letter) and some full names like :ireland:
+# Unicode flags are just two regional indicator letters (A=0x1F1E6)
+_SHORTCODE_ALIASES = {
+    "ireland": "ie", "england": "gb-eng", "scotland": "gb-sct", "wales": "gb-wls",
+}
+
+def resolve_shortcodes(text: str) -> str:
+    def _replace(m):
+        key = m.group(1).lower()
+        key = _SHORTCODE_ALIASES.get(key, key)
+        if len(key) == 2 and key.isalpha():
+            return "".join(chr(0x1F1E6 + ord(c) - ord("A")) for c in key.upper())
+        return m.group(0)
+    return re.sub(r':([a-z_-]+):', _replace, text)
+
 # ---------------------------------------------------------------------------
 # Reuse date/table parsing from generate_ics.py
 # ---------------------------------------------------------------------------
@@ -78,7 +93,7 @@ def parse_dates(date_str):
 
 
 def parse_table_row(line):
-    cells = [c.strip() for c in line.strip().strip("|").split("|")]
+    cells = [re.sub(r'\s+', ' ', c.strip()) for c in line.strip().strip("|").split("|")]
     if len(cells) < 2:
         return None
 
@@ -93,7 +108,7 @@ def parse_table_row(line):
         return None
 
     location = cells[2] if len(cells) > 2 else ""
-    location = FLAG_RE.sub("", LINK_RE.sub(r'\1', location)).strip()
+    location = resolve_shortcodes(LINK_RE.sub(r'\1', location).strip())
 
     # Extract Mastodon handle from Social column if present
     social_cell = cells[3] if len(cells) > 3 else ""
@@ -178,9 +193,47 @@ def thread(posts, token, base_url):
         print(f"  Posted: {text[:60]}...", file=sys.stderr)
 
 
-# ---------------------------------------------------------------------------
-# Format helpers
-# ---------------------------------------------------------------------------
+# Mapping of :country: shortcodes to flag emoji
+# Regional indicator letters: A=🇦, B=🇧, etc.
+def country_shortcode_to_flag(text: str) -> str:
+    """Convert :country: shortcodes to Unicode flag emoji."""
+    # Map shortcode name to ISO 3166-1 alpha-2 country code
+    SHORTCODES = {
+        "afghanistan": "AF", "albania": "AL", "algeria": "DZ", "argentina": "AR",
+        "australia": "AU", "austria": "AT", "belgium": "BE", "brazil": "BR",
+        "bulgaria": "BG", "canada": "CA", "chile": "CL", "china": "CN",
+        "colombia": "CO", "croatia": "HR", "czechia": "CZ", "czech_republic": "CZ",
+        "denmark": "DK", "egypt": "EG", "estonia": "EE", "finland": "FI",
+        "france": "FR", "germany": "DE", "ghana": "GH", "greece": "GR",
+        "hungary": "HU", "iceland": "IS", "india": "IN", "indonesia": "ID",
+        "iran": "IR", "iraq": "IQ", "ireland": "IE", "israel": "IL",
+        "italy": "IT", "japan": "JP", "jordan": "JO", "kenya": "KE",
+        "latvia": "LV", "lebanon": "LB", "lithuania": "LT", "luxembourg": "LU",
+        "malaysia": "MY", "malta": "MT", "mexico": "MX", "morocco": "MA",
+        "netherlands": "NL", "new_zealand": "NZ", "nigeria": "NG", "norway": "NO",
+        "pakistan": "PK", "peru": "PE", "philippines": "PH", "poland": "PL",
+        "portugal": "PT", "romania": "RO", "russia": "RU", "saudi_arabia": "SA",
+        "serbia": "RS", "singapore": "SG", "slovakia": "SK", "slovenia": "SI",
+        "south_africa": "ZA", "south_korea": "KR", "spain": "ES", "sweden": "SE",
+        "switzerland": "CH", "taiwan": "TW", "thailand": "TH", "tunisia": "TN",
+        "turkey": "TR", "ukraine": "UA", "united_arab_emirates": "AE",
+        "uk": "GB", "gb": "GB", "united_kingdom": "GB", "england": "GB",
+        "us": "US", "usa": "US", "united_states": "US", "venezuela": "VE",
+        "vietnam": "VN",
+    }
+
+    def replace(m):
+        name = m.group(1).lower()
+        code = SHORTCODES.get(name)
+        if not code:
+            return m.group(0)  # leave unknown shortcodes as-is
+        # Convert ISO code to regional indicator emoji
+        return "".join(chr(0x1F1E6 + ord(c) - ord('A')) for c in code.upper())
+
+    return re.sub(r':([a-z_]+):', replace, text)
+
+
+
 
 SITE_URL = "https://xsa.github.io/infosec-events/"
 CHAR_LIMIT = 500
@@ -189,7 +242,8 @@ CHAR_LIMIT = 500
 def format_event_line(ev):
     """Format a single event as a bullet line, tagging Mastodon handle if known."""
     handle = f" {ev['mastodon']}" if ev["mastodon"] else ""
-    return f"• {ev['name']}{handle} — {ev['date_raw']}, {ev['location']}"
+    location = country_shortcode_to_flag(ev["location"])
+    return f"• {ev['name']}{handle} — {ev['date_raw']}, {location}"
 
 
 def build_digest_posts(events):
@@ -244,11 +298,12 @@ def build_new_event_post(events):
     if len(events) == 1:
         ev = events[0]
         handle = f" {ev['mastodon']}" if ev["mastodon"] else ""
+        location = country_shortcode_to_flag(ev["location"])
         text = (
             f"🆕 New event added:{handle}\n\n"
             f"📌 {ev['name']}\n"
             f"📅 {ev['date_raw']}\n"
-            f"📍 {ev['location']}\n"
+            f"📍 {location}\n"
         )
         if ev["url"]:
             text += f"🔗 {ev['url']}\n"
@@ -324,7 +379,7 @@ def main():
     notify_p = sub.add_parser("notify", help="Post about newly added events")
     notify_p.add_argument(
         "--added",
-        required=True,
+        default=None,
         help='JSON array of new event rows, e.g. [["Name","Date","Location","Social","Free"]]',
     )
 
@@ -340,7 +395,11 @@ def main():
     if args.mode == "digest":
         mode_digest(token, base_url)
     elif args.mode == "notify":
-        mode_notify(token, base_url, args.added)
+        added = args.added or os.environ.get("ADDED_ROWS")
+        if not added:
+            print("Error: --added argument or ADDED_ROWS environment variable required.", file=sys.stderr)
+            sys.exit(1)
+        mode_notify(token, base_url, added)
 
 
 if __name__ == "__main__":
