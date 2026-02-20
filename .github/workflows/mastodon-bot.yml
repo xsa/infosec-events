@@ -93,6 +93,7 @@ jobs:
               rows.append(cells)
           print(json.dumps(rows))
           ")
+          echo "DEBUG: $ADDED" >&2
           echo "added=$ADDED" >> $GITHUB_OUTPUT
 
       - name: Post new event notification
