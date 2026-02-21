@@ -76,6 +76,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [RVAsec](https://rvasec.com/) | Jun 9-10, 2026 | Richmond (VA) 🇺🇸 | [@RVAsec](https://twitter.com/rvasec) | N
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesUme](https://indico.neic.no/event/287/) | Jun 16-17, 2026 | Umeå 🇸🇪 | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
+| [Area41](https://a41con.ch/) | Jun 18-19, 2026 | Zurich 🇨🇭  | [@a41con](https://twitter.com/a41con) | N
 | [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [leHACK](https://lehack.org/) | Jun 26-27, 2026 | Paris 🇫🇷 | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
