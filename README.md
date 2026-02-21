@@ -60,6 +60,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [HackMiami](https://www.hackmiami.com/) | May 16, 2026 | Sunny Isles Beach (FL) 🇺🇸 | [@hackmiami](https://twitter.com/hackmiami) | N
 | [BSidesBA](https://bsidesba.sk) | May 16, 2026 | Bratislava 🇸🇰 | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | N
 | [BSides312](https://bsides312.org/) | May 16, 2026 | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N
+| [BSidesTokyo](https://bsides.tokyo/en/) | May 16, 2026 | Tokyo 🇯🇵  | [@TokyoBSides](https://twitter.com/TokyoBSides) | N
 | [Ekoparty Miami](https://ekoparty.org/miami/) | May 21-22, 2026 | Miami (FL) 🇺🇸 | [@ekoparty](https://twitter.com/ekoparty) | N
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 23, 2026 | Dublin 🇮🇪 | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
