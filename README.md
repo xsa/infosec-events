@@ -100,6 +100,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | Oct 7-9, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 16-17, 2026 | Paris 🇫🇷 | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
+| [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 20, 2026 | Bern 🇨🇭 | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
 | [OWASP Global AppSec USA](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) | Nov 2-6, 2026 | San Francisco (CA) 🇺🇸 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [OSCo](https://opensecurityconference.org/) | Nov 5-8, 2026 | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | N
