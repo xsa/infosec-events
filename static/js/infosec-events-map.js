@@ -121,6 +121,19 @@
         font-size: 0.65rem !important;
         opacity: 0.6;
       }
+
+      /* Fix common global CSS conflicts that break Leaflet tile rendering */
+      #ef-map-container img {
+        max-width: none !important;
+        max-height: none !important;
+        width: auto !important;
+        height: auto !important;
+        display: inline !important;
+        border: none !important;
+        box-shadow: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
     `;
     document.head.appendChild(s);
   }
