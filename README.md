@@ -83,7 +83,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BruCON](https://www.brucon.org/) | Sep 24-25, 2026 | Mechelen 🇧🇪 | [@brucon](https://twitter.com/brucon) | N
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
 | [SecTor](https://www.blackhat.com/sector/2026/) | Oct 6-8, 2026 | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | May 21-22, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
+| [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | Oct 7-9, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 16-17, 2026 | Paris 🇫🇷 | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
