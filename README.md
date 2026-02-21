@@ -80,6 +80,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [leHACK](https://lehack.org/) | Jun 26-27, 2026 | Paris 🇫🇷 | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille 🇫🇷 | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken 🇩🇪 | [@acm_wisec](https://twitter.com/acm_wisec) | N
+| [BSidesLV](https://bsideslv.org/) | Aug 3-5, 2026 | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [SEC-T](https://sec-t.org/) | Sep 10-11, 2026 | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
 | [PraSec](https://www.prasec.cz) | Sep 10-11, 2026 | Prague 🇨🇿 | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
 | [LABScon](https://www.labscon.io/) | Sep 16-19, 2026 | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
