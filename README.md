@@ -22,6 +22,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Nullcon Goa](https://nullcon.net/goa-2026) | Feb 28 - Mar 1, 2026 | Goa 🇮🇳 | [@nullcon](https://twitter.com/nullcon) | N
 | [SECCON](https://www.seccon.jp/14/seccon/opencon.html) | Feb 28 - Mar 1, 2026 | Tokyo 🇯🇵 | [@secconctf](https://twitter.com/secconctf) | N
 | [\[un\]prompted](https://unpromptedcon.org/) | Mar 3-4, 2026 | San Francisco (CA) 🇺🇸 | - | N
+| [RootedCON](https://www.rootedcon.com/) | Mar 5-7, 2026 | Madrid 🇪🇸 | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | N
 | [RE//verse](https://re-verse.io/) | Mar 5-7, 2026 | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
 | [BSidesZagreb](https://www.bsideszagreb.com) | Mar 6, 2026 | Zagreb 🇭🇷 | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
