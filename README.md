@@ -70,6 +70,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [AUVERGN'HACK](https://www.auvergnhack.fr/) | May 29-30, 2026 | Clermont-Ferrand 🇫🇷 | - | N
 | [BSidesVilnius](https://bsidesvilnius.lt/) | Jun 3-4, 2026 | Vilnius :lithuania: | [@bsidesvilnius](https://twitter.com/bsidesvilnius) | Y
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
+| [OrangeCon](https://orangecon.nl/) | Jun 4, 2026 | Amsterdam 🇳🇱 | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 5, 2026 | Hamburg 🇩🇪 | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [RVAsec](https://rvasec.com/) | Jun 9-10, 2026 | Richmond (VA) 🇺🇸 | [@RVAsec](https://twitter.com/rvasec) | N
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
