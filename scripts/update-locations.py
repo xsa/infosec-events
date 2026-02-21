@@ -51,11 +51,17 @@ def parse_cities_from_readme():
             if len(parts) < 5:
                 continue
             location_raw = parts[3]
-            if not location_raw or location_raw.lower() in ("location", "---", ""):
+            if not location_raw:
+                continue
+            # Skip header and separator rows
+            if location_raw.lower() == "location":
+                continue
+            if re.match(r"^-+$", location_raw):
                 continue
             city = extract_city(location_raw)
-            if city and city.lower() not in ("location", ""):
-                cities[city] = location_raw.strip()
+            if not city or re.match(r"^-+$", city) or city.lower() == "location":
+                continue
+            cities[city] = location_raw.strip()
     return cities
 
 # ---------------------------------------------------------------------------
