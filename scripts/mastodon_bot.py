@@ -65,6 +65,38 @@ FLAG_RE = re.compile(r'[\U0001F1E0-\U0001F1FF]{2}')
 # Matches Mastodon handles: @handle@instance or @handle@instance.tld
 MASTODON_RE = re.compile(r'@[\w.-]+@[\w.-]+\.\w+')
 
+# Map flag emoji to country name for hashtags
+FLAG_TO_COUNTRY = {
+    "🇦🇫": "Afghanistan", "🇦🇱": "Albania", "🇩🇿": "Algeria", "🇦🇷": "Argentina",
+    "🇦🇺": "Australia", "🇦🇹": "Austria", "🇦🇿": "Azerbaijan", "🇧🇭": "Bahrain",
+    "🇧🇪": "Belgium", "🇧🇷": "Brazil", "🇧🇬": "Bulgaria", "🇨🇦": "Canada",
+    "🇨🇱": "Chile", "🇨🇳": "China", "🇨🇴": "Colombia", "🇭🇷": "Croatia",
+    "🇨🇿": "Czechia", "🇩🇰": "Denmark", "🇪🇬": "Egypt", "🇪🇪": "Estonia",
+    "🇫🇮": "Finland", "🇫🇷": "France", "🇩🇪": "Germany", "🇬🇭": "Ghana",
+    "🇬🇷": "Greece", "🇭🇺": "Hungary", "🇮🇸": "Iceland", "🇮🇳": "India",
+    "🇮🇩": "Indonesia", "🇮🇪": "Ireland", "🇮🇱": "Israel", "🇮🇹": "Italy",
+    "🇯🇵": "Japan", "🇯🇴": "Jordan", "🇰🇿": "Kazakhstan", "🇰🇪": "Kenya",
+    "🇰🇷": "SouthKorea", "🇰🇼": "Kuwait", "🇱🇻": "Latvia", "🇱🇧": "Lebanon",
+    "🇱🇹": "Lithuania", "🇱🇺": "Luxembourg", "🇲🇾": "Malaysia", "🇲🇹": "Malta",
+    "🇲🇽": "Mexico", "🇲🇪": "Montenegro", "🇲🇦": "Morocco", "🇳🇱": "Netherlands",
+    "🇳🇿": "NewZealand", "🇳🇬": "Nigeria", "🇳🇴": "Norway", "🇴🇲": "Oman",
+    "🇵🇰": "Pakistan", "🇵🇪": "Peru", "🇵🇭": "Philippines", "🇵🇱": "Poland",
+    "🇵🇹": "Portugal", "🇶🇦": "Qatar", "🇷🇴": "Romania", "🇷🇸": "Serbia",
+    "🇸🇬": "Singapore", "🇸🇰": "Slovakia", "🇸🇮": "Slovenia", "🇿🇦": "SouthAfrica",
+    "🇪🇸": "Spain", "🇸🇪": "Sweden", "🇨🇭": "Switzerland", "🇹🇼": "Taiwan",
+    "🇹🇭": "Thailand", "🇹🇳": "Tunisia", "🇹🇷": "Turkey", "🇦🇪": "UAE",
+    "🇺🇦": "Ukraine", "🇬🇧": "UK", "🇺🇸": "USA", "🇺🇿": "Uzbekistan",
+    "🇻🇪": "Venezuela", "🇻🇳": "Vietnam",
+}
+
+def flag_to_hashtag(location: str) -> str:
+    """Extract flag from location and return a country hashtag."""
+    m = FLAG_RE.search(location)
+    if not m:
+        return ""
+    country = FLAG_TO_COUNTRY.get(m.group(0), "")
+    return f"#{country}" if country else ""
+
 
 def parse_dates(date_str):
     m = DATE_RE.search(date_str)
@@ -243,7 +275,9 @@ def format_event_line(ev):
     """Format a single event as a bullet line, tagging Mastodon handle if known."""
     handle = f" {ev['mastodon']}" if ev["mastodon"] else ""
     location = country_shortcode_to_flag(ev["location"])
-    return f"• {ev['name']}{handle} — {ev['date_raw']}, {location}"
+    country_tag = flag_to_hashtag(location)
+    tag_str = f" {country_tag}" if country_tag else ""
+    return f"• {ev['name']}{handle} — {ev['date_raw']}, {location}{tag_str}"
 
 
 def build_digest_posts(events):
@@ -299,6 +333,8 @@ def build_new_event_post(events):
         ev = events[0]
         handle = f" {ev['mastodon']}" if ev["mastodon"] else ""
         location = country_shortcode_to_flag(ev["location"])
+        country_tag = flag_to_hashtag(location)
+        tag_str = f" {country_tag}" if country_tag else ""
         text = (
             f"🆕 New event added:{handle}\n\n"
             f"📌 {ev['name']}\n"
@@ -307,7 +343,7 @@ def build_new_event_post(events):
         )
         if ev["url"]:
             text += f"🔗 {ev['url']}\n"
-        text += f"\n#infosec #cybersecurity #conference"
+        text += f"\n#infosec #cybersecurity #conference{tag_str}"
     else:
         lines = [format_event_line(ev) for ev in events]
         text = f"🆕 {len(events)} new events added:\n\n" + \
