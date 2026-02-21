@@ -199,17 +199,6 @@
       maxZoom: 19,
     }).addTo(map);
 
-    // Custom amber pin marker to match terminal theme
-    const pinIcon = L.divIcon({
-      className: "",
-      html: `<svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="7" cy="7" r="5" fill="#f4bf75" stroke="#232627" stroke-width="1.5"/>
-      </svg>`,
-      iconSize: [14, 14],
-      iconAnchor: [7, 7],
-      popupAnchor: [0, -10],
-    });
-
     // Group events by city to stack multiple events at same location
     const byCity = new Map();
     events.forEach(ev => {
@@ -219,6 +208,22 @@
       byCity.get(ev.city).events.push(ev);
     });
 
+    // Proportional dot marker — bigger dot = more events at that location
+    function makePinIcon(count) {
+      const base = 7;
+      const size = base + Math.min(count - 1, 5) * 3; // 7px for 1 event, up to 22px for 6+
+      const total = size * 2;
+      return L.divIcon({
+        className: "",
+        html: `<svg width="${total}" height="${total}" viewBox="0 0 ${total} ${total}" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="${size}" cy="${size}" r="${size - 2}" fill="#f4bf75" stroke="#232627" stroke-width="1.5" opacity="0.9"/>
+        </svg>`,
+        iconSize: [total, total],
+        iconAnchor: [size, size],
+        popupAnchor: [0, -size],
+      });
+    }
+
     byCity.forEach(({ loc, events: cityEvents }, city) => {
       const popupLines = cityEvents.map(ev => {
         const nameHtml = ev.url
@@ -227,7 +232,7 @@
         return `<div class="ef-popup">${nameHtml}<br><span class="ef-popup-date">${ev.date} · ${ev.locationFull}</span></div>`;
       }).join("<hr style='margin:4px 0;border-color:#ddd'>");
 
-      L.marker([loc.lat, loc.lng], { icon: pinIcon })
+      L.marker([loc.lat, loc.lng], { icon: makePinIcon(cityEvents.length) })
         .addTo(map)
         .bindPopup(popupLines, { maxWidth: 260 });
     });
