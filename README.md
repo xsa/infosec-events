@@ -80,6 +80,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesUme](https://indico.neic.no/event/287/) | Jun 16-17, 2026 | Umeå 🇸🇪 | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
 | [Area41](https://a41con.ch/) | Jun 18-19, 2026 | Zurich 🇨🇭  | [@a41con](https://twitter.com/a41con) | N
 | [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
+| [OWASP Global AppSec EU](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/) | Jun 22-26, 2026 | Vienna 🇦🇹 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [leHACK](https://lehack.org/) | Jun 26-27, 2026 | Paris 🇫🇷 | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
 | [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille 🇫🇷 | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
@@ -99,6 +100,8 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 16-17, 2026 | Paris 🇫🇷 | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
+| [OWASP Global AppSec USA](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) | Nov 2-6, 2026 | San Francisco (CA) 🇺🇸 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
+
 | [OSCo](https://opensecurityconference.org/) | Nov 5-8, 2026 | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | N
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Objective by the Sea](https://objectivebythesea.org) | Nov 15-20, 2026 | Hawaii (HI) 🇺🇸 | [@objective_see](https://twitter.com/objective_see) | N
