@@ -255,6 +255,27 @@
         flex-shrink: 0;
       }
 
+      #ef-newsletter-banner {
+        display: block;
+        border: 1px solid var(--accent, #f4bf75);
+        background: rgba(244, 191, 117, 0.07);
+        padding: 0.55rem 1rem;
+        font-family: monospace;
+        font-size: 0.8rem;
+        color: var(--accent, #f4bf75);
+        text-decoration: none;
+        margin-bottom: 1.5rem;
+        letter-spacing: 0.03em;
+        transition: background 0.15s;
+      }
+      #ef-newsletter-banner::before {
+        content: "// ";
+        opacity: 0.5;
+      }
+      #ef-newsletter-banner:hover {
+        background: rgba(244, 191, 117, 0.14);
+      }
+
       tr.ef-hidden { display: none; }
     `;
     document.head.appendChild(s);
@@ -372,7 +393,7 @@
     const cityArr = Array.from(cityMap.entries()).map(([city, flag]) => ({ city, flag }));
     const ui = buildUI(continents, cityArr, allRows.length);
 
-    // Insert search first, then filter below it: search → filter → map → table
+    // Insert search first, then newsletter banner, then filter: search → banner → filter → map → table
     const searchWrapper = document.createElement("div");
     searchWrapper.id = "ef-search-wrapper";
     searchWrapper.innerHTML = `
@@ -383,7 +404,17 @@
         </div>
       </div>
     `;
+
+    // Newsletter banner
+    const banner = document.createElement("a");
+    banner.id = "ef-newsletter-banner";
+    banner.href = "https://infosec-mashup.santolaria.net/?utm_source=infosec-events&utm_medium=banner";
+    banner.target = "_blank";
+    banner.rel = "noopener";
+    banner.textContent = "📨 enjoy this? → subscribe to infosecMASHUP, a weekly cybersecurity newsletter";
+
     tables[0].parentNode.insertBefore(searchWrapper, tables[0]);
+    tables[0].parentNode.insertBefore(banner, tables[0]);
     tables[0].parentNode.insertBefore(ui, tables[0]);
 
     const selConts = new Set();

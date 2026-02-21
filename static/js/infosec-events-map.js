@@ -272,12 +272,9 @@
 
     const ui = buildMapUI();
 
-    // Insert after the search wrapper if present, otherwise after filter box, otherwise before first table
-    const searchWrapper = document.getElementById("ef-search-wrapper");
+    // Insert after the filter box (#ef) to maintain order: search → banner → filter → map → table
     const filterBox = document.getElementById("ef");
-    if (searchWrapper) {
-      searchWrapper.parentNode.insertBefore(ui, searchWrapper.nextSibling);
-    } else if (filterBox) {
+    if (filterBox) {
       filterBox.parentNode.insertBefore(ui, filterBox.nextSibling);
     } else {
       tables[0].parentNode.insertBefore(ui, tables[0]);
