@@ -99,6 +99,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SecTor](https://www.blackhat.com/sector/2026/) | Oct 6-8, 2026 | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | Oct 7-9, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
+| [HOU.SEC.CON](http://houstonseccon.org) | Oct 15-16, 2026 | Houston (TX) 🇺🇸 | [@HouSecCon](https://twitter.com/HouSecCon) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 16-17, 2026 | Paris 🇫🇷 | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 20, 2026 | Bern 🇨🇭 | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
