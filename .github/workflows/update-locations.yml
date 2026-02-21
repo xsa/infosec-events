@@ -52,5 +52,6 @@ jobs:
             echo "No changes to locations.json"
           else
             git commit -m "chore: auto-geocode new event locations [skip ci]"
+            git pull --rebase
             git push
           fi
