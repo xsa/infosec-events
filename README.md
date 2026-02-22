@@ -7,11 +7,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 [Mastodon Follow](https://infosec.exchange/@0x58) |
 [Subscribe to Calendar :calendar:](https://xsa.github.io/infosec-events/events.ics)
 
-## Featured List
-
-- [CyberRisk Alliance Communities Events](https://www.cyberriskalliance.com/communities)
-- OpenSSF ([@osff](https://github.com/ossf)) Events: https://openssf.org/events/
-
 ## Upcoming
 
 | Event Name | Date(s) | Location | Social | Free
