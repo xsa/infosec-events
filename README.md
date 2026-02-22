@@ -113,6 +113,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Hacktivity](https://www.hacktivity.com/) | Oct 21, 2026 | Budapest 🇭🇺 | [@HacktivityConf](https://twitter.com/hacktivityconf) | N
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
 | [OWASP Global AppSec USA](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) | Nov 2-6, 2026 | San Francisco (CA) 🇺🇸 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
+| [Black Alps Conference](https://www.blackalps.ch) | Nov 5-6, 2026 | Yverdon-les-Bains 🇨🇭 | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [OSCo](https://opensecurityconference.org/) | Nov 5-8, 2026 | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | N
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Objective by the Sea](https://objectivebythesea.org) | Nov 15-20, 2026 | Hawaii (HI) 🇺🇸 | [@objective_see](https://twitter.com/objective_see) | N
