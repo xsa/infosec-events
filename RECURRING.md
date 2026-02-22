@@ -53,7 +53,6 @@ Use this as a yearly checklist to ensure no recurring event is missed.
 | [BSidesICS/OT](https://www.bsidesics.org) | TBD | Miami (FL) 🇺🇸 | - | - |
 | [BSidesKC](https://bsideskc.org) | TBD | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | - |
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | TBD | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | - |
-| [BSidesLasVegas](https://bsideslv.org/) | TBD | Las Vegas (NV) :us: | [@BSidesLV](https://www.twitter.com/bsideslv) | - |
 | [BSidesLimburg](https://www.bsides-limburg.be) | TBD | Hasselt :belgium: | - | - |
 | [BSidesLisbon](https://bsideslisbon.org/) | TBD | Lisbon :portugal: | [@BSidesLisbon](https://twitter.com/BSidesLisbon) | - |
 | [BSidesLjubljana](https://0x7e8.bsidesljubljana.si) | TBD | Ljubljana :slovenia: | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | - |
@@ -181,7 +180,6 @@ Use this as a yearly checklist to ensure no recurring event is missed.
 | [PasswordsCon](https://passwordscon.org/) | TBD | Oslo :norway: | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | - |
 | [Ph0wn](https://ph0wn.org) | TBD | Sophia Antipolis :fr: | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | - |
 | [PIVOTcon](https://pivotcon.org) | TBD | Malaga :es: | [@pivot_con](https://x.com/pivot_con) | - |
-| [POC](https://powerofcommunity.net/) | TBD | Seoul :kr: | [@POC_crew](https://twitter.com/POC_crew) | - |
 | [Power of Community](https://powerofcommunity.net/) | TBD | Seoul :kr: | [@POC_Crew](https://twitter.com/POC_Crew) | - |
 | [PraSec](https://www.prasec.cz) | TBD | Prague :czech_republic: | [@PraSec_conf](https://twitter.com/PraSec_conf) | - |
 | [Queen City Conference](https://queencitycon.org/) | TBD | Cincinnati (OH) :us: | [@QC_con](https://twitter.com/QC_con) | - |
