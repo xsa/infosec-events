@@ -74,6 +74,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg 🇸🇪 | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [BSidesHBG](https://www.bsideshbg.com/) | May 29, 2026 | Harrisburg (PA) 🇺🇸 | [@BsidesHbg](https://x.com/BsidesHbg) | N
 | [AUVERGN'HACK](https://www.auvergnhack.fr/) | May 29-30, 2026 | Clermont-Ferrand 🇫🇷 | - | N
+| [WarCon](https://warcon.pl) | May 29-30, 2026 | Warsaw 🇵🇱 | [@WarConPL](https://twitter.com/WarConPL) | - |
 | [BSidesVilnius](https://bsidesvilnius.lt/) | Jun 3-4, 2026 | Vilnius :lithuania: | [@bsidesvilnius](https://twitter.com/bsidesvilnius) | Y
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [OrangeCon](https://orangecon.nl/) | Jun 4, 2026 | Amsterdam 🇳🇱 | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | N
