@@ -40,6 +40,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
 | [Kernelcon](https://kernelcon.org/) | Apr 9-10, 2026 | Omaha (NE) 🇺🇸 | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | N
+| [BSidesSLC](https://www.bsidesslc.org/) | Apr 9-10, 2026 | Salt Lake City (UT) 🇺🇸 | [@BSidesSLC](http://www.twitter.com/bsidesslc) | N
 | [SO-CON](https://specterops.io/so-con/) | Apr 13-14, 2026 | Arlington (VA) 🇺🇸 | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | N
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Botconf](https://www.botconf.eu/) | Apr 15-17, 2026 | Reims 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
@@ -89,7 +90,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Black Hat USA](https://www.blackhat.com/us-26/) | Aug 1-6, 2026 | Las Vegas (NV) 🇺🇸 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 3-5, 2026 | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON 34](https://defcon.org/) | Aug 6-9, 2026 | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
-| [BSidesSLC](https://www.bsidesslc.org/) | Apr 9-10, 2026 | Salt Lake City (UT) 🇺🇸 | [@BSidesSLC](http://www.twitter.com/bsidesslc) | N
 | [BSidesFrankfurt](https://bsidesfrankfurt.org/) | Sep 10-11, 2026 | Frankfurt 🇩🇪 | [@BSidesFRA@infosec.exchange](https://infosec.exchange/@bsidesfra) | N
 | [SEC-T](https://sec-t.org/) | Sep 10-11, 2026 | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
 | [PraSec](https://www.prasec.cz) | Sep 10-11, 2026 | Prague 🇨🇿 | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
