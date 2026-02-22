@@ -88,6 +88,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OWASP Global AppSec EU](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/) | Jun 22-26, 2026 | Vienna 🇦🇹 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [leHACK](https://lehack.org/) | Jun 26-27, 2026 | Paris 🇫🇷 | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
+| [BSidesAthens](https://www.bsidesath.gr/) | Jun 27, 2026 | Athens 🇬🇷 | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille 🇫🇷 | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken 🇩🇪 | [@acm_wisec](https://twitter.com/acm_wisec) | N
 | [Black Hat USA](https://www.blackhat.com/us-26/) | Aug 1-6, 2026 | Las Vegas (NV) 🇺🇸 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
