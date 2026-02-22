@@ -65,6 +65,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesTokyo](https://bsides.tokyo/en/) | May 16, 2026 | Tokyo 🇯🇵  | [@TokyoBSides](https://twitter.com/TokyoBSides) | N
 | [Ekoparty Miami](https://ekoparty.org/miami/) | May 21-22, 2026 | Miami (FL) 🇺🇸 | [@ekoparty](https://twitter.com/ekoparty) | N
 | [BSidesPrishtina](https://www.bsidesprishtina.org/) | May 22-23, 2026 | Prishtina 🇽🇰 | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
+| [BSidesGoldCoast](https://bsidesgoldie.com/) | May 23, 2026 | Southport (QLD) 🇦🇺 | [@BSidesGC](https://twitter.com/bsidesgc) | Y
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 23, 2026 | Dublin 🇮🇪 | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
 | [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków 🇵🇱 | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
