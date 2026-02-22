@@ -101,6 +101,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Wild West Hackin’ Fest Deadwood](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2026/) | Oct 6-9, 2026 | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | Oct 7-9, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
 | [Hacker Halted](https://www.hackerhalted.com) | Oct 8-9, 2026 | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://twitter.com/hackerhalted) | N
+| [No Hat](https://www.nohat.it/) | Oct 10, 2026 | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
 | [Australian Cyber Conference](https://cyberconference.com.au) | Oct 14-16, 2026 | Melbourne (VIC) 🇦🇺 | [@AISA_National](https://twitter.com/AISA_National) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [HOU.SEC.CON](http://houstonseccon.org) | Oct 15-16, 2026 | Houston (TX) 🇺🇸 | [@HouSecCon](https://twitter.com/HouSecCon) | N
