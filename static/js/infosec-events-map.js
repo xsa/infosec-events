@@ -262,6 +262,9 @@
   // ---------------------------------------------------------------------------
 
   function init() {
+    // Only run on the homepage, not archive pages
+    if (window.location.pathname.includes("/archives")) return;
+
     const tables = document.querySelectorAll("table");
     if (!tables.length) return;
 
