@@ -99,6 +99,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [PraSec](https://www.prasec.cz) | Sep 10-11, 2026 | Prague 🇨🇿 | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
 | [Blue Team Con](https://blueteamcon.com/) | Sep 10-13, 2026 | Chicago (IL) 🇺🇸 | [@BlueTeamCon@infosec.exchange](https://infosec.exchange/@BlueTeamCon) | N |
 | [LABScon](https://www.labscon.io/) | Sep 16-19, 2026 | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
+| [44CON](https://44con.com/) | Sep 17-18, 2026 | London 🇬🇧 | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N |
 | [BSides Tallinn](https://tallinn.bsides.ee/) | Sep 24, 2026 | Tallinn 🇪🇪 | [BSides Tallinn](https://www.facebook.com/groups/2546584348821321/)| N
 | [BruCON](https://www.brucon.org/) | Sep 24-25, 2026 | Mechelen 🇧🇪 | [@brucon](https://twitter.com/brucon) | N
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
