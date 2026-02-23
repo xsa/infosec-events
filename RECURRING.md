@@ -37,6 +37,7 @@ Use this as a yearly checklist to ensure no recurring event is missed.
 | [BSidesBrisbane](https://bsidesbrisbane.com/) | TBD | Brisbane :australia: | [@bsides_bne](https://twitter.com/bsides_bne) | - |
 | [BSidesBristol](https://www.bsidesbristol.org.uk/) | TBD | Bristol :uk: | [@bsidesbristol](https://x.com/BSIDESBRISTOL) | - |
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | TBD | Buffalo (NY) :us: | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | - |
+| [BSidesCalgary](https://www.bsidescalgary.org) | TBD | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | - |
 | [BsidesCambridgeMA](https://bsidescambridgema.org/) | TBD | Somerville (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | - |
 | [BSidesCanberra](https://www.bsidesau.com.au/) | TBD | Canberra :australia: | [@BSidesCbr](https://twitter.com/BSidesCbr) | - |
 | [BSidesCapeTown](https://bsidescapetown.co.za/) | TBD | Cape Town :south_africa: | [@BSidesCapeTown](https://twitter.com/BSidesCapeTown) | - |
