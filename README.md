@@ -71,6 +71,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków 🇵🇱 | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
 | [BSidesCalgary](https://www.bsidescalgary.org) | May 25-26, 2026 | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N |
 | [TyphoonCon](https://typhooncon.com/) | May 25-29, 2026 | Seoul 🇰🇷 | [@typhooncon](https://twitter.com/typhooncon) | N |
+| [CyCon](http://www.cycon.org) | May 26-29, 2026 | Tallinn 🇪🇪 | [@ccdcoe](https://x.com/ccdcoe) | N |
 | [Hardwear.io USA](https://hardwear.io/usa-2026/) | May 26-30, 2026 | Santa Clara (CA) 🇺🇸 | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg 🇸🇪 | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [BSidesHBG](https://www.bsideshbg.com/) | May 29, 2026 | Harrisburg (PA) 🇺🇸 | [@BsidesHbg](https://x.com/BsidesHbg) | N
