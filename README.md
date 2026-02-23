@@ -105,6 +105,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [44CON](https://44con.com/) | Sep 17-18, 2026 | London 🇬🇧 | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N |
 | [BSides Tallinn](https://tallinn.bsides.ee/) | Sep 24, 2026 | Tallinn 🇪🇪 | [BSides Tallinn](https://www.facebook.com/groups/2546584348821321/)| N
 | [BruCON](https://www.brucon.org/) | Sep 24-25, 2026 | Mechelen 🇧🇪 | [@brucon](https://twitter.com/brucon) | N
+| [BSidesEdmonton](https://www.bsidesedmonton.org/) | Sep 24-25, 2026 | Edmonton (AB) 🇨🇦 | [@bsidesedmonton@infosec.exchange](https://infosec.exchange/@bsidesedmonton) | N |
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 24-26, 2026 | Canberra (ACT) 🇦🇺 | [@bsidescbr@infosec.exchange](https://infosec.exchange/@bsidescbr) | N |
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
 | [RomHack](https://romhack.io) | Oct 2-4, 2026 | Rome 🇮🇹 | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N |
