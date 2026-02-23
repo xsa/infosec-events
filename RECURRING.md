@@ -222,7 +222,6 @@ Use this as a yearly checklist to ensure no recurring event is missed.
 | [WarCon](https://warcon.pl) | TBD | Warsaw :poland: | [@WarConPL](https://twitter.com/WarConPL) | - |
 | [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | TBD | Nashville (TN) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | - |
 | [Wild West Hackin' Fest](https://wildwesthackinfest.com) | TBD | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
-| [Wild West Hackin' Fest: Deadwood](https://wildwesthackinfest.com/deadwood/) | TBD | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
 | [x33fcon](https://www.x33fcon.com/) | TBD | Gdynia :poland: | [@x33fcon](https://www.twitter.com/x33fcon) | - |
 | [Zer0Con](https://zer0con.org/) | TBD | Seoul :kr: | [@POC_Crew](https://twitter.com/@POC_Crew) | - |
 | [Zero-Day Conference](https://zero-day.ch) | TBD | Geneva :switzerland: | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | - |
