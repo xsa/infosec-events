@@ -106,8 +106,7 @@ Use this as a yearly checklist to ensure no recurring event is missed.
 | [CircleCityCon](https://circlecitycon.org/) | TBD | Indianapolis (IN) :us: | [@CircleCityCon](https://twitter.com/circlecitycon) | - |
 | [CONFidence](https://www.confidence-conference.org) | TBD | Krakow :poland: | [@CONFidenceConf](https://twitter.com/@CONFidenceConf) | - |
 | [CornCon](https://corncon.net) | TBD | Davenport (IA) :us: | [@QCCornCON](https://x.com/QCCornCON) | - |
-| [CruiseCon](https://cruisecon.com) | TBD | Port Canaveral (FL) :us: | - | - |
-| [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) :us: | [@CruiseConEvents](http://twitter.com/CruiseConEvents) | - |
+| [CruiseCon](https://cruisecon.com) | TBD | TBD | - | - |
 | [CYBERWARCON](https://www.cyberwarcon.com/) | TBD | Arlington (VA) :us: | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | - |
 | [CyCon](http://www.cycon.org) | TBD | Tallinn :estonia: | [@ccdcoe](https://x.com/ccdcoe) | - |
 | [CypherCon](https://cyphercon.com/) | TBD | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | - |
