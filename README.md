@@ -127,6 +127,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Power of Community](https://powerofcommunity.net/) | Nov 12-13, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | N |
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Objective by the Sea](https://objectivebythesea.org) | Nov 15-20, 2026 | Hawaii (HI) 🇺🇸 | [@objective_see](https://twitter.com/objective_see) | N
+| [BSidesOttawa](https://bsidesottawa.ca/) | Nov 19-20, 2026 | Ottawa (ON) 🇨🇦 | [@bsidesottawa](http://twitter.com/bsidesottawa) | N |
 | [Black Hat MEA](https://blackhatmea.com) | Dec 1-3, 2026 | Riyadh 🇸🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | Dec 7-10, 2026 | London 🇬🇧 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [PasswordsCon](https://passwordscon.org/) | Dec 7-10, 2026 | Cork 🇮🇪 | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y |
