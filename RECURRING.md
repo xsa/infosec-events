@@ -79,7 +79,6 @@ Use this as a yearly checklist to ensure no recurring event is missed.
 | [BSidesRegina](https://www.bsidesregina.ca) | TBD | Regina (SK) 🇨🇦 | - | - |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | TBD | Reykjavik :iceland: | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | - |
 | [BSidesROC](https://bsidesroc.com) | TBD | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | - |
-| [BSidesSanFrancisco](https://bsidessf.org/) | TBD | San Francisco (CA) :us: | [@BSidesSF@infosec.exchange](https://infosec.exchange/@bsidessf) | - |
 | [BSidesSATX](https://www.bsidessatx.com/) | TBD | San Antonio (TX) :us: | [@BSidesSATX](https://twitter.com/BSidesSATX) | - |
 | [BSidesSD](https://www.bsidessd.org/) | TBD | San Diego (CA) :us: | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | - |
 | [BSidesSeattle](https://www.bsidesseattle.com/) | TBD | Seattle (WA) :us: | [@BSidesSeattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | - |
