@@ -90,6 +90,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 27, 2026 | Athens 🇬🇷 | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille 🇫🇷 | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken 🇩🇪 | [@acm_wisec](https://twitter.com/acm_wisec) | N
+| [SummerCon](https://www.summercon.org/) | Jul 10-11, 2026 | Brooklyn (NY) 🇺🇸 | [@SummerC0n@infosec.exchange](https://infosec.exchange/@SummerC0n) | N |
 | [Black Hat USA](https://www.blackhat.com/us-26/) | Aug 1-6, 2026 | Las Vegas (NV) 🇺🇸 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 3-5, 2026 | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON 34](https://defcon.org/) | Aug 6-9, 2026 | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
