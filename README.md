@@ -38,6 +38,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [CypherCon](https://cyphercon.com/) | Apr 1-2, 2026 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
+| [BSidesOK](https://bsidesok.com/) | Apr 8-10, 2026 | Glenpool (OK) 🇺🇸 | [BSidesOK](https://twitter.com/BSidesOK) | N |
 | [ATLSECCON](https://www.atlseccon.com) | Apr 9-10, 2026 | Halifax (NS) 🇨🇦 | [@AtlSecCon@infosec.exchange](https://infosec.exchange/@atlseccon) | N |
 | [Kernelcon](https://kernelcon.org/) | Apr 9-10, 2026 | Omaha (NE) 🇺🇸 | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | N
 | [BSidesSLC](https://www.bsidesslc.org/) | Apr 9-10, 2026 | Salt Lake City (UT) 🇺🇸 | [@BSidesSLC](http://www.twitter.com/bsidesslc) | N
