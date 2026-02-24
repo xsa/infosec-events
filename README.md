@@ -139,6 +139,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OSCo](https://opensecurityconference.org/) | Nov 5-8, 2026 | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | N
 | [Power of Community](https://powerofcommunity.net/) | Nov 12-13, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | N |
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
+| [Queen City Conference](https://queencitycon.org/) | Nov 13-15, 2026 | Cincinnati (OH) 🇺🇸 | [@QC_con](https://twitter.com/QC_con) | N |
 | [Objective by the Sea](https://objectivebythesea.org) | Nov 15-20, 2026 | Hawaii (HI) 🇺🇸 | [@objective_see](https://twitter.com/objective_see) | N
 | [SuriCon](https://www.suricon.net) | Nov 18-20, 2026 | Lisbon 🇵🇹 | [@suricata@infosec.exchange](https://infosec.exchange/@suricata) | N |
 | [BSidesOttawa](https://bsidesottawa.ca/) | Nov 19-20, 2026 | Ottawa (ON) 🇨🇦 | [@bsidesottawa](http://twitter.com/bsidesottawa) | N |
