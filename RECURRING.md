@@ -139,7 +139,6 @@ Use this as a yearly checklist to ensure no recurring event is missed.
 | [Hackvens](https://hackvens.fr) | TBD | Lille :fr: | - | - |
 | [Hague TIX](https://www.thehagueprogram.nl/the-hague-tix/hague-tix-2025) | TBD | The Hague :netherlands: | [@haguetix@infosec.exchange](https://infosec.exchange/@haguetix) | - |
 | [Hardwear.io](https://hardwear.io/) | TBD | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | - |
-| [Hardwear.io Netherlands](https://hardwear.io/netherlands-2025/) | TBD | Amsterdam :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | - |
 | [Hexacon](https://www.hexacon.fr/) | TBD | Paris :fr: | [@hexacon_fr](https://twitter.com/hexacon_fr) | - |
 | [HITBSecConf](https://conference.hitb.org/hitbsecconf2024bkk/) | TBD | Bangkok :thailand: | [@HITBSecConf](https://twitter.com/hitbsecconf) | - |
 | [Hitch'Hack](https://hack2g2.fr) | TBD | Vannes :fr: | [@hack2g2@mamot.fr](https://mamot.fr/@hack2g2) | - |
