@@ -209,7 +209,6 @@ Use this as a yearly checklist to ensure no recurring event is missed.
 | [THCon](https://thcon.party) | TBD | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | - |
 | [THOTCON](https://www.thotcon.org/) | TBD | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | - |
 | [ThreatModCon](https://www.threatmodcon.com/san-francisco) | TBD | San Francisco (CA) :us: | [@TMConnectHQ](https://twitter.com/TMConnectHQ) | - |
-| [Toulouse Hacking Convention](https://thcon.party/) | TBD | Toulouse :fr: | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | - |
 | [TROOPERS](https://troopers.de/) | TBD | Heidelberg :de: | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | - |
 | [TumpiCon](https://tumpicon.org) | TBD | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | - |
 | [TyphoonCon](https://typhooncon.com/) | TBD | Seoul :kr: | [@typhooncon](https://twitter.com/typhooncon) | - |
