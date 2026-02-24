@@ -11,8 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesGalway](https://bsidesgalway.com) | Feb 21, 2026 | Galway 🇮🇪 | [@bsidesgalway](https://x.com/bsidesgalway) | N
-| [BSidesICS/OT](https://www.bsidesics.org) | Feb 23, 2026 | Miami (FL) 🇺🇸 | - | N
 | [BSidesSeattle](https://www.bsidesseattle.com) | Feb 27-28, 2026 | Seattle (WA) 🇺🇸 | [@bsidesseattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N
 | [Nullcon Goa](https://nullcon.net/goa-2026) | Feb 28 - Mar 1, 2026 | Goa 🇮🇳 | [@nullcon](https://twitter.com/nullcon) | N
 | [SECCON](https://www.seccon.jp/14/seccon/opencon.html) | Feb 28 - Mar 1, 2026 | Tokyo 🇯🇵 | [@secconctf](https://twitter.com/secconctf) | N
