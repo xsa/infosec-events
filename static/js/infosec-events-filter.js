@@ -345,6 +345,32 @@
       #ef-search-wrapper .ef-search-input::placeholder {
         color: var(--comment, #75715e);
       }
+      #ef-search-wrapper .ef-search-wrap {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        max-width: 24rem;
+        width: 100%;
+      }
+      #ef-search-wrapper .ef-search-wrap .ef-search-input {
+        max-width: unset;
+        flex: 1;
+      }
+      #ef-search-wrapper .ef-search-clear {
+        background: none;
+        border: none;
+        color: var(--comment, #75715e);
+        font-family: monospace;
+        font-size: 0.85rem;
+        cursor: pointer;
+        padding: 0 0.15rem;
+        line-height: 1;
+        transition: color 0.15s;
+        flex-shrink: 0;
+      }
+      #ef-search-wrapper .ef-search-clear:hover {
+        color: var(--accent, #f4bf75);
+      }
 
       /* ── Newsletter banner ── */
       #ef-newsletter-banner {
@@ -549,7 +575,10 @@
       <div class="ef-row ef-search-row">
         <div class="ef-label">search</div>
         <div class="ef-options ef-few">
-          <input type="text" id="ef-search" class="ef-search-input" placeholder="event name, city...">
+          <div class="ef-search-wrap">
+            <input type="text" id="ef-search" class="ef-search-input" placeholder="event name, city...">
+            <button type="button" id="ef-search-clear" class="ef-search-clear" aria-label="Clear search" style="display:none">✕</button>
+          </div>
         </div>
       </div>
     `;
@@ -662,17 +691,32 @@
     );
 
     // Search
-    document.getElementById("ef-search").addEventListener("input", e => {
+    const searchInput = document.getElementById("ef-search");
+    const searchClear = document.getElementById("ef-search-clear");
+
+    function updateSearchClear() {
+      searchClear.style.display = searchInput.value.length > 0 ? "" : "none";
+    }
+
+    searchInput.addEventListener("input", e => {
       searchTerm = e.target.value.trim().toLowerCase();
+      updateSearchClear();
       refresh();
       if (searchTerm.length >= 3) ui.removeAttribute("open");
     });
-    document.getElementById("ef-search").addEventListener("keydown", e => {
+    searchInput.addEventListener("keydown", e => {
       if (e.key === "Enter") {
         searchTerm = e.target.value.trim().toLowerCase();
         refresh();
         if (searchTerm) ui.removeAttribute("open");
       }
+    });
+    searchClear.addEventListener("click", () => {
+      searchInput.value = "";
+      searchTerm = "";
+      searchClear.style.display = "none";
+      searchInput.focus();
+      refresh();
     });
 
     // Free only
@@ -685,6 +729,7 @@
     document.getElementById("ef-reset").addEventListener("click", () => {
       ui.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
       document.getElementById("ef-search").value = "";
+      document.getElementById("ef-search-clear").style.display = "none";
       selConts.clear();
       freeOnly     = false;
       searchTerm   = "";
