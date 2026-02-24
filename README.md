@@ -20,6 +20,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesZagreb](https://www.bsideszagreb.com) | Mar 6, 2026 | Zagreb 🇭🇷 | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Mar 10-11, 2026 | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
+| [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | Mar 11-13, 2026 | Oxon Hill (MD) 🇺🇸 | [@WiCySorg](https://twitter.com/WiCySorg) | N |
 | [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana)| N
 | [BSidesLimburg](https://www.bsides-limburg.be) | Mar 13, 2026 | Hasselt 🇧🇪 | - | N
 | [Ph0wn](https://ph0wn.org) | Mar 13-14, 2026 | Sophia Antipolis 🇫🇷 | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | Y |
