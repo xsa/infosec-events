@@ -123,7 +123,12 @@ def load_all_events():
                 seen[key] = ev
                 last_seen[key] = file_year
 
-    events = sorted(seen.values(), key=lambda e: e["name"].lower())
+    # Exclude events already in INACTIVE.md from the active list
+    inactive_keys = load_inactive_keys()
+    events = sorted(
+        [ev for ev in seen.values() if normalize_name(ev["name"]) not in inactive_keys],
+        key=lambda e: e["name"].lower()
+    )
     return events, last_seen
 
 # ---------------------------------------------------------------------------
