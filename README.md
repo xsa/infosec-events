@@ -67,7 +67,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSides312](https://bsides312.org/) | May 16, 2026 | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N
 | [BSidesTokyo](https://bsides.tokyo/en/) | May 16, 2026 | Tokyo 🇯🇵  | [@TokyoBSides](https://twitter.com/TokyoBSides) | N
 | [Ekoparty Miami](https://ekoparty.org/miami/) | May 21-22, 2026 | Miami (FL) 🇺🇸 | [@ekoparty](https://twitter.com/ekoparty) | N
-| [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | May 21-22, 2026 | Mineapolis (MN) 🇺🇸 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N |
+| [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | May 21-22, 2026 | Minneapolis (MN) 🇺🇸 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N |
 | [BSidesPrishtina](https://www.bsidesprishtina.org/) | May 22-23, 2026 | Prishtina 🇽🇰 | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
 | [BSidesGoldCoast](https://bsidesgoldie.com/) | May 23, 2026 | Southport (QLD) 🇦🇺 | [@BSidesGC](https://twitter.com/bsidesgc) | Y
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 23, 2026 | Dublin 🇮🇪 | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
