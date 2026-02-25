@@ -85,13 +85,30 @@ Options:
 
 ### `scripts/generate-recurring.py` — Regenerate the canonical list
 
-Scans all `YYYY.md` files and `README.md`, deduplicates events by name, and regenerates `RECURRING.md` sorted alphabetically with `TBD` dates. Run this after a year-end archive to keep the list up to date:
+Scans all `YYYY.md` files and `README.md`, deduplicates events by name, and regenerates `RECURRING.md` sorted alphabetically with `TBD` dates. Also detects events not seen in recent years and flags them as candidates for `INACTIVE.md`.
+
+Run this after a year-end archive to keep the list up to date:
 
 ```bash
 python3 scripts/generate-recurring.py
 ```
 
-Review the output for any duplicate entries caused by events that changed their name over the years, and clean those up manually before committing.
+Options:
+* `--inactive-threshold N` — flag events not seen in N+ years as inactive candidates (default: 2)
+
+The script will:
+1. Regenerate `RECURRING.md`
+2. Print a report of inactivity candidates
+3. Automatically scaffold new candidates into `INACTIVE.md` (appending only — never overwrites existing entries)
+
+Review the output before committing:
+* Check for duplicate entries caused by events that changed name over the years
+* Add **Notes** to any newly scaffolded rows in `INACTIVE.md` (e.g. "website down", "merged with X")
+* An event skipping one year is not the same as being dead — check the official website before moving it
+
+### `INACTIVE.md` — Dormant events
+
+A record of events that have not been active in recent years. Kept for historical reference and in case events resume. Before re-adding any event to `RECURRING.md`, remove it from `INACTIVE.md` first to avoid duplicates.
 
 ## Community Expectations
 
