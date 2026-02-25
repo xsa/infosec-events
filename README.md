@@ -162,5 +162,5 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD, 2026 | Nairobi 🇰🇪 | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
 | [BSidesZurich](https://bsideszh.ch/) | TBD, 2026 | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | N
 | [HOPE](https://www.hope.net) | TBD, 2026 | New York (NY) 🇺🇸 | [@hopeconf@mastodon.online](https://mastodon.online/@hopeconf) | N |
-| [HackCon](https://www.hackcon.org/) | Feb 10-11 | Oslo 🇳🇴 | [@hackcon](https://twitter.com/hackcon) | N |
+| [HackCon](https://www.hackcon.org/) | Feb 10-11, 2027 | Oslo 🇳🇴 | [@hackcon](https://twitter.com/hackcon) | N |
 | [Swiss Cyber Security Days](https://www.scsd.ch) | Feb. 23-24, 2027 | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N |
