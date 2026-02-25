@@ -196,7 +196,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [SINCON](https://www.infosec-city.com/sin-25) | TBD | Singapore :singapore: | [@Infosec_City](https://twitter.com/infosec_city) | - |
 | [SO-CON](https://specterops.io/so-con/) | TBD | Arlington (VA) 🇺🇸 | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | - |
 | [SSTIC](https://www.sstic.org/) | TBD | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | - |
-| [Sthack](https://sthack.fr/) | TBD | Bordeaux :fr: | [@sth4ck](https://twitter.com/sth4ck) | - |
+| [Sthack](https://sthack.fr/) | TBD | Bordeaux 🇫🇷 | [@sth4ck](https://twitter.com/sth4ck) | - |
 | [SummerCon](https://www.summercon.org/) | TBD | Brooklyn (NY) 🇺🇸 | [@SummerC0n@infosec.exchange](https://infosec.exchange/@SummerC0n) | - |
 | [SuriCon](https://www.suricon.net) | TBD | Lisbon 🇵🇹 | [@suricata@infosec.exchange](https://infosec.exchange/@suricata) | - |
 | [Swiss Cyber Security Days](https://www.scsd.ch) | TBD | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | - |
