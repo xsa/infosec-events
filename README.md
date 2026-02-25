@@ -122,6 +122,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Blue Team Con](https://blueteamcon.com/) | Sep 10-13, 2026 | Chicago (IL) 🇺🇸 | [@BlueTeamCon@infosec.exchange](https://infosec.exchange/@BlueTeamCon) | N |
 | [LABScon](https://www.labscon.io/) | Sep 16-19, 2026 | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
 | [44CON](https://44con.com/) | Sep 17-18, 2026 | London 🇬🇧 | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N |
+| [Balkan Computer Congress](https://www.balccon.org) | Sep 18-20, 2026 | Novi Sad 🇷🇸 | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N |
 | [ROOTCON](https://rootcon.org) | Sep 23-25, 2026 | Clark 🇵🇭 | [@rootcon.bsky.social](https://bsky.app/profile/rootcon.bsky.social) | N |
 | [OWASP AppSec Days France](https://www.owaspappsecdays.fr/2026/) | Sep 24, 2026 | Paris 🇫🇷 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N |
 | [BSides Tallinn](https://tallinn.bsides.ee/) | Sep 24, 2026 | Tallinn 🇪🇪 | [BSides Tallinn](https://www.facebook.com/groups/2546584348821321/)| N
