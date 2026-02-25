@@ -34,6 +34,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [m0leCon](https://m0lecon.it/) | Mar 21, 2026 | Turin 🇮🇹 | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
 | [BSidesSF](https://bsidessf.org/) | Mar 21-22, 2026 | San Francisco (CA) 🇺🇸 | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | N |
 | [RSA Conference](https://www.rsaconference.com/) | Mar 23-26, 2026 | San Francisco (CA) 🇺🇸 | [@RSAConference](https://twitter.com/rsaconference) | N
+| [DFRWS EU](https://dfrws.org/conferences/dfrws-eu-2026/) | May 24-27, 2026 | Linköping 🇸🇪 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [CypherCon](https://cyphercon.com/) | Apr 1-2, 2026 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
@@ -107,6 +108,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken 🇩🇪 | [@acm_wisec](https://twitter.com/acm_wisec) | N
 | [SummerCon](https://www.summercon.org/) | Jul 10-11, 2026 | Brooklyn (NY) 🇺🇸 | [@SummerC0n@infosec.exchange](https://infosec.exchange/@SummerC0n) | N |
 | [CruiseCon Europe](https://cruisecon.com) | Jul 19-24, 2026 | Southampton 🇬🇧 | - | N |
+| [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2026/) | Jul 27-30, 2026 | Arlington (VA) 🇺🇸 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [Black Hat USA](https://www.blackhat.com/us-26/) | Aug 1-6, 2026 | Las Vegas (NV) 🇺🇸 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 3-5, 2026 | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON 34](https://defcon.org/) | Aug 6-9, 2026 | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
@@ -144,6 +146,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OWASP Global AppSec USA](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) | Nov 2-6, 2026 | San Francisco (CA) 🇺🇸 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [Black Alps Conference](https://www.blackalps.ch) | Nov 5-6, 2026 | Yverdon-les-Bains 🇨🇭 | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [OSCo](https://opensecurityconference.org/) | Nov 5-8, 2026 | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | N
+| [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2026/) | Nov 10-12, 2026 | Seoul 🇰🇷 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [Power of Community](https://powerofcommunity.net/) | Nov 12-13, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | N |
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [Queen City Conference](https://queencitycon.org/) | Nov 13-15, 2026 | Cincinnati (OH) 🇺🇸 | [@QC_con](https://twitter.com/QC_con) | N |
