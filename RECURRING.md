@@ -146,7 +146,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | TBD | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | - |
 | [Kernelcon](https://kernelcon.org/) | TBD | Omaha (NE) 🇺🇸 | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | - |
 | [LABScon](https://www.labscon.io/) | TBD | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://twitter.com/labscon_io) | - |
-| [Layer 8 Conference](https://layer8conference.com/layer-8-conference-2025/) | TBD | Boston (MA) :us: | [@layer8con](https://twitter.com/layer8con) | - |
+| [Layer 8 Conference](https://layer8conference.com/) | TBD | Boston (MA) 🇺🇸 | [@layer8con](https://twitter.com/layer8con) | - |
 | [leHACK](https://lehack.org/) | TBD | Paris 🇫🇷 | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | - |
 | [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | TBD | Prague 🇨🇿 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | - |
 | [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | TBD | Minneapolis (MN) 🇺🇸 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | - |
