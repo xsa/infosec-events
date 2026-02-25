@@ -18,7 +18,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | TBD | Shkodër 🇦🇱 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | - |
 | [Barbhack](https://www.barbhack.fr/) | TBD | Toulon :fr: | [@\_barbhack\_](https://twitter.com/_barbhack_) | - |
 | [Black Alps Conference](https://www.blackalps.ch) | TBD | Yverdon-les-Bains 🇨🇭 | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | - |
-| [Black Alps Cyber Security Conference](https://www.blackalps.ch) | TBD | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | - |
 | [Black Hat Asia](https://www.blackhat.com/asia-26/) | TBD | Singapore 🇸🇬 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | - |
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | TBD | London 🇬🇧 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | - |
 | [Black Hat MEA](https://blackhatmea.com) | TBD | Riyadh 🇸🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | - |
