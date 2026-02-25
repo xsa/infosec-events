@@ -130,6 +130,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 24-26, 2026 | Canberra (ACT) 🇦🇺 | [@bsidescbr@infosec.exchange](https://infosec.exchange/@bsidescbr) | N |
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
 | [RomHack](https://romhack.io) | Oct 2-4, 2026 | Rome 🇮🇹 | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N |
+| [Offensive AI Con](https://www.offensiveaicon.com) | Oct 4-7, 2026 | San Diego (CA) 🇺🇸 | [@offensiveaicon](https://twitter.com/offensiveaicon) | N |
 | [SecTor](https://www.blackhat.com/sector/2026/) | Oct 6-8, 2026 | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Wild West Hackin’ Fest Deadwood](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2026/) | Oct 6-9, 2026 | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | Oct 7-9, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
