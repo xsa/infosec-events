@@ -170,6 +170,7 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [SecretCon](https://www.secretcon.com/) | TBD | St Paul (MN) :us: | - | - |
 | [Security for Space Systems (3S)](https://atpi.eventsair.com/24a06---3s2024/) | TBD | Noordwijk :netherlands: | - | - |
 | [Security Onion Conference](https://blog.securityonion.net/2023/05/security-onion-conference-2023-save.html) | TBD | Augusta (GA) :us: | [@securityonion](https://twitter.com/securityonion) | - |
+| [ShmooCon](https://shmoocon.org/) | TBD | Washington (DC) :us: | [@ShmooCon@infosec.exchange](https://infosec.exchange/@ShmooCon) | - |
 | [Simply Cyber Con](https://www.simplycybercon.org/) | TBD | Virtual :computer: | [@geral_auger](https://twitter.com/gerald_auger) | - |
 | [SLEUTHCON](https://www.sleuthcon.com) | TBD | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://twitter.com/sleuthcon) | - |
 | [SOC Analyst Appreciation Day](https://www.socanalystday.com/) | TBD | Online :computer: | - | - |

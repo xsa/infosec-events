@@ -191,7 +191,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [SecTor](https://www.blackhat.com/sector/2026/) | TBD | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | - |
 | [Security Analyst Summit](https://thesascon.com/) | TBD | Khao Lak :thailand: | [TheSAScon](https://twitter.com/TheSAScon) | - |
 | [Security Fest](https://securityfest.com/) | TBD | Gothenburg 🇸🇪 | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | - |
-| [ShmooCon](https://shmoocon.org/) | TBD | Washington (DC) :us: | [@ShmooCon@infosec.exchange](https://infosec.exchange/@ShmooCon) | - |
 | [ShowMeCon](https://showmecon.com) | TBD | St-Louis (MO) :us: | [@showmeconstl](https://x.com/showmeconstl) | - |
 | [SINCON](https://www.infosec-city.com/sin-25) | TBD | Singapore :singapore: | [@Infosec_City](https://twitter.com/infosec_city) | - |
 | [SO-CON](https://specterops.io/so-con/) | TBD | Arlington (VA) 🇺🇸 | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | - |
