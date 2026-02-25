@@ -139,6 +139,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | Oct 8, 2026 | Prague 🇨🇿 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | Y |
 | [Hacker Halted](https://www.hackerhalted.com) | Oct 8-9, 2026 | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://twitter.com/hackerhalted) | N
 | [No Hat](https://www.nohat.it/) | Oct 10, 2026 | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
+| [BSidesPerth](https://bsidesperth.com.au/) | Oct 10-11, 2026 | Perth (WA) 🇦🇺 | [@bsidesperth@infosec.exchange](https://infosec.exchange/@bsidesperth) | N |
 | [Australian Cyber Conference](https://cyberconference.com.au) | Oct 14-16, 2026 | Melbourne (VIC) 🇦🇺 | [@AISA_National](https://twitter.com/AISA_National) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [HOU.SEC.CON](http://houstonseccon.org) | Oct 15-16, 2026 | Houston (TX) 🇺🇸 | [@HouSecCon](https://twitter.com/HouSecCon) | N
