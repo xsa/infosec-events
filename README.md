@@ -84,6 +84,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Sthack](https://sthack.fr/) | May 29, 2026 | Bordeaux 🇫🇷  | [@sth4ck](https://twitter.com/sth4ck) | N
 | [AUVERGN'HACK](https://www.auvergnhack.fr/) | May 29-30, 2026 | Clermont-Ferrand 🇫🇷 | - | N
 | [WarCon](https://warcon.pl) | May 29-30, 2026 | Warsaw 🇵🇱 | [@WarConPL](https://twitter.com/WarConPL) | - |
+| [ESIEA Secure Edition](https://ese.esiea.fr/) | May 30, 2026 | Paris 🇫🇷 | [@EsieaSecEdit](https://twitter.com/EsieaSecEdit) | N |
 | [BSidesVancouver](https://www.bsidesvancouver.com) | May 30 - Jun 1, 2026 | Vancouver (BC) 🇨🇦 | [@BSidesVancouver](https://twitter.com/BSidesVancouver) | N |
 | [Infosecurity Europe](https://www.infosecurityeurope.com) | Jun 2-4, 2026 | London 🇬🇧 | [@Infosecurity](https://www.twitter.com/Infosecurity) | N |
 | [BSidesVilnius](https://bsidesvilnius.lt/) | Jun 3-4, 2026 | Vilnius :lithuania: | [@bsidesvilnius](https://twitter.com/bsidesvilnius) | Y
