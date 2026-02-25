@@ -133,7 +133,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [HackCon](https://www.hackcon.org) | TBD | Oslo :norway: | - | - |
 | [Hacktivity](https://www.hacktivity.com/) | TBD | Budapest 🇭🇺 | [@HacktivityConf](https://twitter.com/hacktivityconf) | - |
 | [Hague TIX](https://www.thehagueprogram.nl/the-hague-tix/hague-tix-2025) | TBD | The Hague :netherlands: | [@haguetix@infosec.exchange](https://infosec.exchange/@haguetix) | - |
-| [Hardwear.io](https://hardwear.io/) | TBD | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | - |
+| [Hardwear.io USA](https://hardwear.io/) | TBD | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | - |
 | [Hardwear.io Netherlands](https://hardwear.io/netherlands-2025/) | TBD | Amsterdam :netherlands: | [@hardwear_io](https://twitter.com/hardwear_io) | - |
 | [Hardwear.io USA](https://hardwear.io/usa-2026/) | TBD | Santa Clara (CA) 🇺🇸 | [@hardwear_io](https://twitter.com/hardwear_io) | - |
 | [Hexacon](https://www.hexacon.fr/) | TBD | Paris 🇫🇷 | [@hexacon_fr](https://twitter.com/hexacon_fr) | - |
