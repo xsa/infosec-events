@@ -167,6 +167,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [OffensiveCon](https://www.offensivecon.org/) | TBD | Berlin 🇩🇪 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | - |
 | [OrangeCon](https://orangecon.nl/) | TBD | Amsterdam 🇳🇱 | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | - |
 | [OSCo](https://opensecurityconference.org/) | TBD | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | - |
+| [OT.SEC.CON](https://www.otseccon.com) | TBD | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.comCybrSecCon) | - |
 | [Out Of The Box](https://ootb.net/) | TBD | Jakarta 🇮🇩 | - | - |
 | [OWASP AppSec Days France](https://www.owaspappsecdays.fr/2026/) | TBD | Paris 🇫🇷 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | - |
 | [OWASP Global AppSec](https://barcelona.globalappsec.org) | TBD | Barcelona :es: | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | - |
