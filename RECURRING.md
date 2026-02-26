@@ -167,7 +167,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [OffensiveCon](https://www.offensivecon.org/) | TBD | Berlin 🇩🇪 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | - |
 | [OrangeCon](https://orangecon.nl/) | TBD | Amsterdam 🇳🇱 | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | - |
 | [OSCo](https://opensecurityconference.org/) | TBD | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | - |
-| [OT.SEC.CON](https://www.otseccon.com) | TBD | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.comCybrSecCon) | - |
+| [OT.SEC.CON](https://www.otseccon.com) | TBD | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.com/CybrSecCon) | - |
 | [Out Of The Box](https://ootb.net/) | TBD | Jakarta 🇮🇩 | - | - |
 | [OWASP AppSec Days France](https://www.owaspappsecdays.fr/2026/) | TBD | Paris 🇫🇷 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | - |
 | [OWASP Global AppSec](https://barcelona.globalappsec.org) | TBD | Barcelona :es: | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | - |
@@ -202,6 +202,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [SSTIC](https://www.sstic.org/) | TBD | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | - |
 | [Sthack](https://sthack.fr/) | TBD | Bordeaux 🇫🇷 | [@sth4ck](https://twitter.com/sth4ck) | - |
 | [SummerCon](https://www.summercon.org/) | TBD | Brooklyn (NY) 🇺🇸 | [@SummerC0n@infosec.exchange](https://infosec.exchange/@SummerC0n) | - |
+| [SunSecCon](https://www.sunseccon.org) | TBD | Pasadena (CA) 🇺🇸 | [@SunSecCon](https://twitter.com/SunSecCon) | - |
 | [SuriCon](https://www.suricon.net) | TBD | Lisbon 🇵🇹 | [@suricata@infosec.exchange](https://infosec.exchange/@suricata) | - |
 | [Swiss Cyber Security Days](https://www.scsd.ch) | TBD | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | - |
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | TBD | Bern 🇨🇭 | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | - |
