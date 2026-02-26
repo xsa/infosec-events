@@ -61,11 +61,13 @@ jobs:
       - name: Extract newly added event rows
         id: diff
         run: |
-          # git show handles both regular and merge commits correctly
-          ADDED=$(git show -m --format="" ${{ github.sha }} -- README.md | python3 -c "
+          # Diff README.md only between this commit and its parent.
+          # Scoping to README.md means commits that also touch RECURRING.md,
+          # INACTIVE.md, or any other file are handled correctly — only new
+          # rows added to README.md trigger a notification.
+          ADDED=$(git diff ${{ github.sha }}^1 ${{ github.sha }} -- README.md | python3 -c "
           import sys, json, re
 
-          LINK_RE = re.compile(r'\[([^\]]*)\]\(([^)]+)\)')
           rows = []
           for line in sys.stdin.buffer.read().decode('utf-8').splitlines():
               if not line.startswith('+|'):
@@ -83,7 +85,6 @@ jobs:
           ")
           echo "DEBUG: $ADDED" >&2
           echo "added=$ADDED" >> $GITHUB_OUTPUT
-
       - name: Post new event notification
         if: steps.diff.outputs.added != '[]'
         env:
