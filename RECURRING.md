@@ -83,6 +83,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesSeattle](https://www.bsidesseattle.com) | TBD | Seattle (WA) 🇺🇸 | [@bsidesseattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | - |
 | [BSidesSF](https://bsidessf.org/) | TBD | San Francisco (CA) 🇺🇸 | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | - |
 | [BSidesSLC](https://www.bsidesslc.org/) | TBD | Salt Lake City (UT) 🇺🇸 | [@BSidesSLC](http://www.twitter.com/bsidesslc) | - |
+| [BSidesTampa](https://events.bsidestampa.net/BSidesTampa2026) | TBD | Tampa (FL) 🇺🇸 | [@bsidestampa](https://twitter.com/bsidestampa) | - |
 | [BSidesTirana](https://bsidestirana.al) | TBD | Tirana :albania: | [@BSidesTirana](https://twitter.com/BSidesTirana) | - |
 | [BSidesTLV](https://bsidestlv.com/) | TBD | Tel Aviv 🇮🇱 | [@BsidesTLV](https://twitter.com/bsidestlv) | - |
 | [BSidesTokyo](https://bsides.tokyo/en/) | TBD | Tokyo 🇯🇵 | [@TokyoBSides](https://twitter.com/TokyoBSides) | - |
