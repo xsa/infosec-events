@@ -102,6 +102,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [CruiseCon](https://cruisecon.com) | TBD | Port Canaveral (FL) :us: | - | - |
 | [CruiseCon Europe](https://cruisecon.com) | TBD | Southampton 🇬🇧 | - | - |
 | [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) :us: | [@CruiseConEvents](http://twitter.com/CruiseConEvents) | - |
+| [CyberBay](https://cyberbay.org) | TBD | Tampa (FL) 🇺🇸 | - | - |
 | [CYBERWARCON](https://www.cyberwarcon.com/) | TBD | Arlington (VA) :us: | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | - |
 | [CyCon](http://www.cycon.org) | TBD | Tallinn 🇪🇪 | [@ccdcoe](https://x.com/ccdcoe) | - |
 | [CypherCon](https://cyphercon.com/) | TBD | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | - |
