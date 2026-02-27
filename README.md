@@ -35,6 +35,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 17-18, 2026 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N
 | [BSidesRegina](https://www.bsidesregina.ca) | Mar 17, 2026 | Regina (SK) 🇨🇦 | - | N
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 17-19, 2026 | Shkodër 🇦🇱 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N |
+| [BSidesDenHaag](https://bsidesthehague.nl) | Mar 19, 2026 | Den Haag 🇳🇱 | - | N |
 | [BSidesMálaga](https://www.bsidesmalaga.com) | Mar 20, 2026 | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | N
 | [BSidesROC](https://bsidesroc.com) | Mar 21, 2026 | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
 | [m0leCon](https://m0lecon.it/) | Mar 21, 2026 | Turin 🇮🇹 | [@pwnthem0le](https://twitter.com/pwnthem0le) | N

@@ -43,6 +43,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesCharm](https://bsidescharm.org/) | TBD | Towson (MD) 🇺🇸 | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@bsidescharm) | - |
 | [BSidesColombia](https://bsidesco.org) | TBD | Pereira 🇨🇴 | [@BSides_CO](https://x.com/BSides_CO) | - |
 | [BSidesDayton](https://bsidesdayton.com/) | TBD | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | - |
+| [BSidesDenHaag](https://bsidesthehague.nl) | TBD | Den Haag 🇳🇱 | - | - |
 | [BSidesDresden](https://bsidesdresden.com/) | TBD | Dresden :de: | [@bsidesdresden](https://twitter.com/bsidesdresden) | - |
 | [BSidesDublin](https://www.bsidesdub.ie/) | TBD | Dublin 🇮🇪 | [@BSidesDublin](https://twitter.com/BSidesDublin) | - |
 | [BSidesEdmonton](https://www.bsidesedmonton.org/) | TBD | Edmonton (AB) 🇨🇦 | [@bsidesedmonton@infosec.exchange](https://infosec.exchange/@bsidesedmonton) | - |
