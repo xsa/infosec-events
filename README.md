@@ -31,6 +31,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Ph0wn](https://ph0wn.org) | Mar 13-14, 2026 | Sophia Antipolis 🇫🇷 | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | Y |
 | [HackGDL](https://www.hackgdl.net) | Mar 13-14, 2026 | Guadalajara 🇲🇽 | [@HackGDL](https://twitter.com/HackGDL) | N |
 | [Insomni’Hack](https://insomnihack.ch/) | Mar 16-20, 2026 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
+| [Prague Cyber Security Conference](https://www.praguecyber.com) | Mar 17-18, 2026 | Prague 🇨🇿 | [@NUKIB_CZ](https://twitter.com/NUKIB_CZ) | N |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 17-18, 2026 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N
 | [BSidesRegina](https://www.bsidesregina.ca) | Mar 17, 2026 | Regina (SK) 🇨🇦 | - | N
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 17-19, 2026 | Shkodër 🇦🇱 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N |

@@ -180,6 +180,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Ph0wn](https://ph0wn.org) | TBD | Sophia Antipolis 🇫🇷 | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | - |
 | [PIVOTcon](https://pivotcon.org/) | TBD | Malaga 🇪🇸 | [@pivot_con](https://twitter.com/pivot_con) | - |
 | [Power of Community](https://powerofcommunity.net/) | TBD | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | - |
+| [Prague Cyber Security Conference](https://www.praguecyber.com) | TBD | Prague 🇨🇿 | [@NUKIB_CZ](https://twitter.com/NUKIB_CZ) | - |
 | [PraSec](https://www.prasec.cz) | TBD | Prague 🇨🇿 | [@PraSec_conf](https://twitter.com/PraSec_conf) | - |
 | [Queen City Conference](https://queencitycon.org/) | TBD | Cincinnati (OH) 🇺🇸 | [@QC_con](https://twitter.com/QC_con) | - |
 | [RE//verse](https://re-verse.io/) | TBD | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | - |
