@@ -42,6 +42,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [m0leCon](https://m0lecon.it/) | Mar 21, 2026 | Turin 🇮🇹 | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
 | [BSidesSofia](https://securitybsides.bg) | Mar 21-22, 2026 | Sofia 🇧🇬 | - | N |
 | [BSidesSF](https://bsidessf.org/) | Mar 21-22, 2026 | San Francisco (CA) 🇺🇸 | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | N |
+| [HackTheBay](https://www.hackthebay.org) | Mar 23, 2026 | San Francisco (CA) 🇺🇸 | [@HackTheBayCon](https://twitter.com/HackTheBayCon) | N |
 | [RSA Conference](https://www.rsaconference.com/) | Mar 23-26, 2026 | San Francisco (CA) 🇺🇸 | [@RSAConference](https://twitter.com/rsaconference) | N
 | [DFRWS EU](https://dfrws.org/conferences/dfrws-eu-2026/) | May 24-27, 2026 | Linköping 🇸🇪 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [CypherCon](https://cyphercon.com/) | Apr 1-2, 2026 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N

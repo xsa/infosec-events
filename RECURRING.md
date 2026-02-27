@@ -138,6 +138,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [HackGDL](https://www.hackgdl.net) | TBD | Guadalajara 🇲🇽 | [@HackGDL](https://twitter.com/HackGDL) | - |
 | [HackMiami](https://www.hackmiami.com/) | TBD | Sunny Isles Beach (FL) 🇺🇸 | [@hackmiami](https://twitter.com/hackmiami) | - |
 | [HackOn](https://www.hackcon.org) | TBD | Oslo :norway: | - | - |
+| [HackTheBay](https://www.hackthebay.org) | TBD | San Francisco (CA) 🇺🇸 | [@HackTheBayCon](https://twitter.com/HackTheBayCon) | - |
 | [Hacktivity](https://www.hacktivity.com/) | TBD | Budapest 🇭🇺 | [@HacktivityConf](https://twitter.com/hacktivityconf) | - |
 | [Hague TIX](https://www.thehagueprogram.nl/the-hague-tix/hague-tix-2025) | TBD | The Hague :netherlands: | [@haguetix@infosec.exchange](https://infosec.exchange/@haguetix) | - |
 | [Hardwear.io](https://hardwear.io/) | TBD | Santa Clara (CA) :us: | [@hardwear_io](https://twitter.com/hardwear_io) | - |
