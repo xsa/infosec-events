@@ -11,7 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [FutureCon](https://futureconevents.com/events/st-louis-mo-2026/) | Feb 26, 2026 | St. Louis (MO) 🇺🇸 | [@FutureConHQ](https://twitter.com/FutureConHQ) | N |
 | [BSidesSeattle](https://www.bsidesseattle.com) | Feb 27-28, 2026 | Seattle (WA) 🇺🇸 | [@bsidesseattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N
 | [BSidesBallarat](https://bsidesballarat.com.au) | Feb 28 - Mar 1, 2026 | Central Ballarat (VIC) 🇦🇺 | - | N |
 | [Nullcon Goa](https://nullcon.net/goa-2026) | Feb 28 - Mar 1, 2026 | Goa 🇮🇳 | [@nullcon](https://twitter.com/nullcon) | N
