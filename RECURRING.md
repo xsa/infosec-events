@@ -166,6 +166,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [m0leCon](https://m0lecon.it/) | TBD | Turin 🇮🇹 | [@pwnthem0le](https://twitter.com/pwnthem0le) | - |
 | [No Hat](https://www.nohat.it/) | TBD | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
 | [NorthSec](https://nsec.io/) | TBD | Montreal 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | - |
+| [Nullcon Berlin](https://nullcon.net/berlin-2025) | TBD | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | - |
 | [Nullcon Goa](https://nullcon.net/goa-2026) | TBD | Goa 🇮🇳 | [@nullcon](https://twitter.com/nullcon) | - |
 | [Objective by the Sea](https://objectivebythesea.org) | TBD | Hawaii (HI) 🇺🇸 | [@objective_see](https://twitter.com/objective_see) | - |
 | [Off-by-One Conference](https://offbyone.sg/) | TBD | Singapore :singapore: | [@offbyoneconf](https://x.com/offbyoneconf) | - |
@@ -220,7 +221,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [TROOPERS](https://troopers.de/) | TBD | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | - |
 | [TumpiCon](https://tumpicon.org) | TBD | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | - |
 | [TyphoonCon](https://typhooncon.com/) | TBD | Seoul 🇰🇷 | [@typhooncon](https://twitter.com/typhooncon) | - |
-| [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | TBD | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS) | - |
+| [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | TBD | Brest 🇫🇷 | [@UYBHYS](https://twitter.com/UYBHYS) | - |
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | TBD | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | - |
 | [WarCon](https://warcon.pl) | TBD | Warsaw 🇵🇱 | [@WarConPL](https://twitter.com/WarConPL) | - |
 | [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | TBD | Oxon Hill (MD) 🇺🇸 | [@WiCySorg](https://twitter.com/WiCySorg) | - |
