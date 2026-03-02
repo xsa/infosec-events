@@ -166,6 +166,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OWASP Global AppSec USA](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) | Nov 2-6, 2026 | San Francisco (CA) 🇺🇸 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [Black Alps Conference](https://www.blackalps.ch) | Nov 5-6, 2026 | Yverdon-les-Bains 🇨🇭 | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [OSCo](https://opensecurityconference.org/) | Nov 5-8, 2026 | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | N
+| [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | Nov 6-7, 2026 | Brest 🇫🇷  | [@UYBHYS](https://twitter.com/UYBHYS) | N
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | Nov 7, 2026 | Bournemouth 🇬🇧 | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | N |
 | [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2026/) | Nov 10-12, 2026 | Seoul 🇰🇷 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [Power of Community](https://powerofcommunity.net/) | Nov 12-13, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | N |
