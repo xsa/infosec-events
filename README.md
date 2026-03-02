@@ -11,41 +11,41 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | Mar 3-4, 2026 | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | N |
+| [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | Mar 3-4, 2026 | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | N |
 | [\[un\]prompted](https://unpromptedcon.org/) | Mar 3-4, 2026 | San Francisco (CA) 🇺🇸 | - | N
 | [Security Leaders](https://securityleaders.com.br/eventos/security-leaders-brasilia-2026/) | Mar 4, 2026 | Brasília 🇧🇷 | - | N |
-| [SunSecCon](https://www.sunseccon.org) | Mar 5-6, 2026 | Pasadena (CA) 🇺🇸 | [@SunSecCon](https://twitter.com/SunSecCon) | N |
+| [SunSecCon](https://www.sunseccon.org) | Mar 5-6, 2026 | Pasadena (CA) 🇺🇸 | [@SunSecCon](https://twitter.com/SunSecCon) | N |
 | [RootedCON](https://www.rootedcon.com/) | Mar 5-7, 2026 | Madrid 🇪🇸 | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | N
 | [RE//verse](https://re-verse.io/) | Mar 5-7, 2026 | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
 | [BSidesZagreb](https://www.bsideszagreb.com) | Mar 6, 2026 | Zagreb 🇭🇷 | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Mar 10-11, 2026 | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
-| [CyberBay](https://cyberbay.org) | Mar 11-13, 2026 | Tampa (FL) 🇺🇸 | - | N |
+| [CyberBay](https://cyberbay.org) | Mar 11-13, 2026 | Tampa (FL) 🇺🇸 | - | N |
 | [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | Mar 11-13, 2026 | Oxon Hill (MD) 🇺🇸 | [@WiCySorg](https://twitter.com/WiCySorg) | N |
 | [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana)| N
 | [BSidesLimburg](https://www.bsides-limburg.be) | Mar 13, 2026 | Hasselt 🇧🇪 | - | N
 | [Ph0wn](https://ph0wn.org) | Mar 13-14, 2026 | Sophia Antipolis 🇫🇷 | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | Y |
 | [HackGDL](https://www.hackgdl.net) | Mar 13-14, 2026 | Guadalajara 🇲🇽 | [@HackGDL](https://twitter.com/HackGDL) | N |
 | [Insomni’Hack](https://insomnihack.ch/) | Mar 16-20, 2026 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
-| [Prague Cyber Security Conference](https://www.praguecyber.com) | Mar 17-18, 2026 | Prague 🇨🇿 | [@NUKIB_CZ](https://twitter.com/NUKIB_CZ) | N |
+| [Prague Cyber Security Conference](https://www.praguecyber.com) | Mar 17-18, 2026 | Prague 🇨🇿 | [@NUKIB_CZ](https://twitter.com/NUKIB_CZ) | N |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 17-18, 2026 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N
 | [BSidesRegina](https://www.bsidesregina.ca) | Mar 17, 2026 | Regina (SK) 🇨🇦 | - | N
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 17-19, 2026 | Shkodër 🇦🇱 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N |
 | [BSidesDenHaag](https://bsidesthehague.nl) | Mar 19, 2026 | Den Haag 🇳🇱 | - | N |
 | [BSidesMálaga](https://www.bsidesmalaga.com) | Mar 20, 2026 | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | N
-| [CrickeyCon](https://crikeycon.com) | Mar 21, 2026 | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | N |
+| [CrickeyCon](https://crikeycon.com) | Mar 21, 2026 | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | N |
 | [BSidesROC](https://bsidesroc.com) | Mar 21, 2026 | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
 | [m0leCon](https://m0lecon.it/) | Mar 21, 2026 | Turin 🇮🇹 | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
-| [BSidesSofia](https://securitybsides.bg) | Mar 21-22, 2026 | Sofia 🇧🇬 | - | N |
+| [BSidesSofia](https://securitybsides.bg) | Mar 21-22, 2026 | Sofia 🇧🇬 | - | N |
 | [BSidesSF](https://bsidessf.org/) | Mar 21-22, 2026 | San Francisco (CA) 🇺🇸 | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | N |
-| [HackTheBay](https://www.hackthebay.org) | Mar 23, 2026 | San Francisco (CA) 🇺🇸 | [@HackTheBayCon](https://twitter.com/HackTheBayCon) | N |
+| [HackTheBay](https://www.hackthebay.org) | Mar 23, 2026 | San Francisco (CA) 🇺🇸 | [@HackTheBayCon](https://twitter.com/HackTheBayCon) | N |
 | [RSA Conference](https://www.rsaconference.com/) | Mar 23-26, 2026 | San Francisco (CA) 🇺🇸 | [@RSAConference](https://twitter.com/rsaconference) | N
 | [DFRWS EU](https://dfrws.org/conferences/dfrws-eu-2026/) | Mar 24-27, 2026 | Linköping 🇸🇪 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [BSidesLancashire](https://www.bsideslancashire.org) | Mar 26, 2026 | Lancashire 🇬🇧 | [@bsideslanc](https://twitter.com/bsideslanc) | N |
 | [BSidesKolkata](https://www.bsideskolkata.in) | Mar 28-29, 2026 | Kolkata 🇮🇳 | [@BsidesKolkata](https://twitter.com/BsidesKolkata) | N |
-| [BSidesBelgrade](https://www.bsidesbeg.org) | Mar 28, 2026 | Belgrade 🇷🇸 | [@BSidesBelgrade](https://twitter.com/BSidesBelgrade) | N |
+| [BSidesBelgrade](https://www.bsidesbeg.org) | Mar 28, 2026 | Belgrade 🇷🇸 | [@BSidesBelgrade](https://twitter.com/BSidesBelgrade) | N |
 | [BSidesRioDeJaneiro](https://bsidesrj.com.br) | Mar 28, 2026 | Rio De Janeiro 🇧🇷 | [@BSidesRJ](https://twitter.com/BSidesRJ) | N |
-| [BSidesCharlotte](https://bsidesclt.org) | Mar 28, 2026 | Charlotte (NC) 🇺🇸 | [@BSidesCLT@infosec.exchange](https://infosec.exchange/@BSidesCLT) | N |
+| [BSidesCharlotte](https://bsidesclt.org) | Mar 28, 2026 | Charlotte (NC) 🇺🇸 | [@BSidesCLT@infosec.exchange](https://infosec.exchange/@BSidesCLT) | N |
 | [CypherCon](https://cyphercon.com/) | Apr 1-2, 2026 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [OT.SEC.CON](https://www.otseccon.com) | Apr 1-2, 2026 | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.com/CybrSecCon) | N |
 | [BSidesRéunion](https://bsides-reunion.re) | Apr 2, 2026 | Saint-Pierre, Réunion 🇫🇷| - | Y |
