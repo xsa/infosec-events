@@ -35,7 +35,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesBallarat](https://bsidesballarat.com.au) | TBD | Central Ballarat (VIC) 🇦🇺 | - | - |
 | [BSidesBerlin](https://bsides.berlin) | TBD | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | - |
 | [BSidesBoulder](https://bsidesboulder.org) | TBD | Boulder (CO) 🇺🇸 | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | - |
-| [BSidesBournemouth](https://bsides-bournemouth.org/) | TBD | Bournemouth :uk: | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | - |
+| [BSidesBournemouth](https://bsides-bournemouth.org/) | TBD | Bournemouth 🇬🇧 | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | - |
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | TBD | Buffalo (NY) 🇺🇸 | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | - |
 | [BSidesCalgary](https://www.bsidescalgary.org) | TBD | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | - |
 | [BsidesCambridgeMA](https://bsidescambridgema.org/) | TBD | Somerville (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | - |
@@ -78,6 +78,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesRDU](https://bsidesrdu.org) | TBD | Raleigh (NC) :us: | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | - |
 | [BSidesRegina](https://www.bsidesregina.ca) | TBD | Regina (SK) 🇨🇦 | - | - |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | TBD | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | - |
+| [BSidesRioDeJaneiro](https://bsidesrj.com.br) | TBD | Rio De Janeiro 🇧🇷 | [@BSidesRJ](https://twitter.com/BSidesRJ) | - |
 | [BSidesROC](https://bsidesroc.com) | TBD | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | - |
 | [BSidesSATX](https://www.bsidessatx.com/) | TBD | San Antonio (TX) 🇺🇸 | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | - |
 | [BSidesSD](https://www.bsidessd.org/) | TBD | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | - |
