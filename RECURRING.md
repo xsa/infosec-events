@@ -33,6 +33,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesAugusta](https://bsidesaugusta.org) | TBD | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | - |
 | [BSidesBA](https://bsidesba.sk) | TBD | Bratislava 🇸🇰 | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | - |
 | [BSidesBallarat](https://bsidesballarat.com.au) | TBD | Central Ballarat (VIC) 🇦🇺 | - | - |
+| [BSidesBelgrade](https://www.bsidesbeg.org) | TBD | Belgrade 🇷🇸 | [@BSidesBelgrade](https://twitter.com/BSidesBelgrade) | - |
 | [BSidesBerlin](https://bsides.berlin) | TBD | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | - |
 | [BSidesBoulder](https://bsidesboulder.org) | TBD | Boulder (CO) 🇺🇸 | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | - |
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | TBD | Bournemouth 🇬🇧 | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | - |
