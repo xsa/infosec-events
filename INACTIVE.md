@@ -131,6 +131,7 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [Hackers 2 Hackers Conference (H2HC)](https://www.h2hc.com.br/en/) | TBD | Sao Paulo :brazil: | [@h2hconference](https://twitter.com/h2hconference) | - |
 | [Hackers Teaching Hackers](https://www.hthackers.com/) | TBD | Columbus (OH) :us: | [@hthackers](https://twitter.com/hthackers) | - |
 | [Hackfest](https://hackfest.ca) | TBD | Lévis (QC) :canada: | [@hackfest@infosec.exchange](https://infosec.exchange/@hackfest) | - |
+| [HackOn](https://hackon.es) | TBD | Móstoles :es: | [@hackonurjc](https://twitter.com/hackonurjc) | - |
 | [HackSecuReims](https://hacksecureims.eu) | TBD | Reims :fr: | [@hacksecureims_](https://twitter.com/hacksecureims_) | - |
 | [Hacktivity NOW+NEXT](https://hacktivity.com) | TBD | Budapest :hungary: | [@hacktivityconf](https://twitter.com/hacktivityconf) | - |
 | [Hackvens](https://hackvens.fr) | TBD | Lille :fr: | - | - |
