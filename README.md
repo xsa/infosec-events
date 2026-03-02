@@ -125,7 +125,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2026/) | Jul 27-30, 2026 | Arlington (VA) 🇺🇸 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [Black Hat USA](https://www.blackhat.com/us-26/) | Aug 1-6, 2026 | Las Vegas (NV) 🇺🇸 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesLV](https://bsideslv.org/) | Aug 3-5, 2026 | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
-| [DEF CON 34](https://defcon.org/) | Aug 6-9, 2026 | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
+| [DEF CON](https://defcon.org/) | Aug 6-9, 2026 | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [Hack Glasgow](https://hackglasgow.live/) | Aug 15, 2026 | Glasgow 🇬🇧 | [@hackglasgow.bsky.social](https://bsky.app/profile/hackglasgow.bsky.social) | N
 | [BSidesFrankfurt](https://bsidesfrankfurt.org/) | Sep 10-11, 2026 | Frankfurt 🇩🇪 | [@BSidesFRA@infosec.exchange](https://infosec.exchange/@bsidesfra) | N
 | [SEC-T](https://sec-t.org/) | Sep 10-11, 2026 | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
