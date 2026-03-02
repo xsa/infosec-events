@@ -48,6 +48,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesCharlotte](https://bsidesclt.org) | Mar 28, 2026 | Charlotte (NC) 🇺🇸 | [@BSidesCLT@infosec.exchange](https://infosec.exchange/@BSidesCLT) | N |
 | [CypherCon](https://cyphercon.com/) | Apr 1-2, 2026 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [OT.SEC.CON](https://www.otseccon.com) | Apr 1-2, 2026 | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.com/CybrSecCon) | N |
+| [BSidesRéunion](https://bsides-reunion.re) | Apr 2, 2026 | Saint-Pierre, Réunion 🇫🇷| - | Y |
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://twitter.com/bsidesmke) | N
 | [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
 | [GÉANT Security Days](https://security.geant.org/geant-security-days-2026/) | Apr 7-9, 2026 | Utrecht 🇳🇱 | [@geant@mstdn.social](https://mstdn.social/@geant) | N |

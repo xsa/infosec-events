@@ -83,6 +83,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesReykjavik](https://bsidesreykjavik.com) | TBD | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | - |
 | [BSidesRioDeJaneiro](https://bsidesrj.com.br) | TBD | Rio De Janeiro 🇧🇷 | [@BSidesRJ](https://twitter.com/BSidesRJ) | - |
 | [BSidesROC](https://bsidesroc.com) | TBD | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | - |
+| [BSidesRéunion](https://bsides-reunion.re) | TBD | Saint-Pierre, Réunion 🇫🇷 | - | - |
 | [BSidesSATX](https://www.bsidessatx.com/) | TBD | San Antonio (TX) 🇺🇸 | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | - |
 | [BSidesSD](https://www.bsidessd.org/) | TBD | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | - |
 | [BSidesSeattle](https://www.bsidesseattle.com) | TBD | Seattle (WA) 🇺🇸 | [@bsidesseattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | - |
