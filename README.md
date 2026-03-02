@@ -50,14 +50,14 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OT.SEC.CON](https://www.otseccon.com) | Apr 1-2, 2026 | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.com/CybrSecCon) | N |
 | [BSidesRéunion](https://bsides-reunion.re) | Apr 2, 2026 | Saint-Pierre, Réunion 🇫🇷| - | Y |
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://twitter.com/bsidesmke) | N
-| [BSidesMussoorie](https://bsidesmussoorie.in) | Apr 4-7, 2026 | Mussoorie 🇮🇳 | [@bsidesmussoorie](https://x.com/bsidesmussoorie) | N |
+| [BSidesMussoorie](https://bsidesmussoorie.in) | Apr 4-7, 2026 | Mussoorie 🇮🇳 | [@bsidesmussoorie](https://x.com/bsidesmussoorie) | N |
 | [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
 | [GÉANT Security Days](https://security.geant.org/geant-security-days-2026/) | Apr 7-9, 2026 | Utrecht 🇳🇱 | [@geant@mstdn.social](https://mstdn.social/@geant) | N |
 | [BSidesOK](https://bsidesok.com/) | Apr 8-10, 2026 | Glenpool (OK) 🇺🇸 | [BSidesOK](https://twitter.com/BSidesOK) | N |
 | [ATLSECCON](https://www.atlseccon.com) | Apr 9-10, 2026 | Halifax (NS) 🇨🇦 | [@AtlSecCon@infosec.exchange](https://infosec.exchange/@atlseccon) | N |
 | [Kernelcon](https://kernelcon.org/) | Apr 9-10, 2026 | Omaha (NE) 🇺🇸 | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | N
 | [BSidesSLC](https://www.bsidesslc.org/) | Apr 9-10, 2026 | Salt Lake City (UT) 🇺🇸 | [@BSidesSLC](http://www.twitter.com/bsidesslc) | N
-| [BSidesOTUK](https://bsidesot.uk) | Apor 10, 2026 | Bristol 🇬🇧 | - | N |
+| [BSidesOTUK](https://bsidesot.uk) | Apr 10, 2026 | Bristol 🇬🇧 | - | N |
 | [SO-CON](https://specterops.io/so-con/) | Apr 13-14, 2026 | Arlington (VA) 🇺🇸 | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | N
 | [Internet2 Community Exchange](https://events.internet2.edu/website/88260/) | Apr 13-16, 2026 | Chicago (IL) 🇺🇸 | - | N |
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
