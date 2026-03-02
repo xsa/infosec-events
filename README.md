@@ -43,6 +43,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [DFRWS EU](https://dfrws.org/conferences/dfrws-eu-2026/) | Mar 24-27, 2026 | Linköping 🇸🇪 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [BSidesLancashire](https://www.bsideslancashire.org) | Mar 26, 2026 | Lancashire 🇬🇧 | [@bsideslanc](https://twitter.com/bsideslanc) | N |
 | [BSidesRioDeJaneiro](https://bsidesrj.com.br) | Mar 28, 2026 | Rio De Janeiro 🇧🇷 | [@BSidesRJ](https://twitter.com/BSidesRJ) | N |
+| [BSidesCharlotte](https://bsidesclt.org) | Mar 28, 2026 | Charlotte (NC) 🇺🇸 | [@BSidesCLT@infosec.exchange](https://infosec.exchange/@BSidesCLT) | N |
 | [CypherCon](https://cyphercon.com/) | Apr 1-2, 2026 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [OT.SEC.CON](https://www.otseccon.com) | Apr 1-2, 2026 | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.com/CybrSecCon) | N |
 | [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://twitter.com/bsidesmke) | N

@@ -40,6 +40,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesCalgary](https://www.bsidescalgary.org) | TBD | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | - |
 | [BsidesCambridgeMA](https://bsidescambridgema.org/) | TBD | Somerville (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | - |
 | [BSidesCanberra](https://www.bsidesau.com.au/) | TBD | Canberra (ACT) 🇦🇺 | [@bsidescbr@infosec.exchange](https://infosec.exchange/@bsidescbr) | - |
+| [BSidesCharlotte](https://bsidesclt.org) | TBD | Charlotte (NC) 🇺🇸 | [@BSidesCLT@infosec.exchange](https://infosec.exchange/@BSidesCLT) | - |
 | [BSidesCharm](https://bsidescharm.org/) | TBD | Towson (MD) 🇺🇸 | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@bsidescharm) | - |
 | [BSidesColombia](https://bsidesco.org) | TBD | Pereira 🇨🇴 | [@BSides_CO](https://x.com/BSides_CO) | - |
 | [BSidesDayton](https://bsidesdayton.com/) | TBD | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | - |
