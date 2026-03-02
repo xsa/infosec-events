@@ -101,7 +101,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | TBD | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | - |
 | [CornCon](https://corncon.net) | TBD | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | - |
 | [CrickeyCon](https://crikeycon.com) | TBD | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | - |
-| [CruiseCon](https://cruisecon.com) | TBD | Port Canaveral (FL) :us: | - | - |
 | [CruiseCon Europe](https://cruisecon.com) | TBD | Southampton 🇬🇧 | - | - |
 | [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) :us: | [@CruiseConEvents](http://twitter.com/CruiseConEvents) | - |
 | [CyberBay](https://cyberbay.org) | TBD | Tampa (FL) 🇺🇸 | - | - |
@@ -137,7 +136,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [Hacker Halted](https://www.hackerhalted.com) | TBD | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://twitter.com/hackerhalted) | - |
 | [HackGDL](https://www.hackgdl.net) | TBD | Guadalajara 🇲🇽 | [@HackGDL](https://twitter.com/HackGDL) | - |
 | [HackMiami](https://www.hackmiami.com/) | TBD | Sunny Isles Beach (FL) 🇺🇸 | [@hackmiami](https://twitter.com/hackmiami) | - |
-| [HackOn](https://www.hackcon.org) | TBD | Oslo :norway: | - | - |
 | [HackTheBay](https://www.hackthebay.org) | TBD | San Francisco (CA) 🇺🇸 | [@HackTheBayCon](https://twitter.com/HackTheBayCon) | - |
 | [Hacktivity](https://www.hacktivity.com/) | TBD | Budapest 🇭🇺 | [@HacktivityConf](https://twitter.com/hacktivityconf) | - |
 | [Hague TIX](https://www.thehagueprogram.nl/the-hague-tix/hague-tix-2025) | TBD | The Hague :netherlands: | [@haguetix@infosec.exchange](https://infosec.exchange/@haguetix) | - |
@@ -161,8 +159,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [m0leCon](https://m0lecon.it/) | TBD | Turin 🇮🇹 | [@pwnthem0le](https://twitter.com/pwnthem0le) | - |
 | [No Hat](https://www.nohat.it/) | TBD | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
 | [NorthSec](https://nsec.io/) | TBD | Montreal 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | - |
-| [nullcon](https://nullcon.net/) | TBD | Goa :india: | [@nullcon](https://twitter.com/nullcon) | - |
-| [Nullcon Berlin](https://nullcon.net/berlin-2025) | TBD | Berlin :de: | [@nullcon](https://twitter.com/nullcon) | - |
 | [Nullcon Goa](https://nullcon.net/goa-2026) | TBD | Goa 🇮🇳 | [@nullcon](https://twitter.com/nullcon) | - |
 | [Objective by the Sea](https://objectivebythesea.org) | TBD | Hawaii (HI) 🇺🇸 | [@objective_see](https://twitter.com/objective_see) | - |
 | [Off-by-One Conference](https://offbyone.sg/) | TBD | Singapore :singapore: | [@offbyoneconf](https://x.com/offbyoneconf) | - |
