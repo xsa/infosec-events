@@ -11,10 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [BSidesSeattle](https://www.bsidesseattle.com) | Feb 27-28, 2026 | Seattle (WA) 🇺🇸 | [@bsidesseattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N
-| [BSidesBallarat](https://bsidesballarat.com.au) | Feb 28 - Mar 1, 2026 | Central Ballarat (VIC) 🇦🇺 | - | N |
-| [Nullcon Goa](https://nullcon.net/goa-2026) | Feb 28 - Mar 1, 2026 | Goa 🇮🇳 | [@nullcon](https://twitter.com/nullcon) | N
-| [SECCON](https://www.seccon.jp/14/seccon/opencon.html) | Feb 28 - Mar 1, 2026 | Tokyo 🇯🇵 | [@secconctf](https://twitter.com/secconctf) | N
 | [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | Mar 3-4, 2026 | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | N |
 | [\[un\]prompted](https://unpromptedcon.org/) | Mar 3-4, 2026 | San Francisco (CA) 🇺🇸 | - | N
 | [Security Leaders](https://securityleaders.com.br/eventos/security-leaders-brasilia-2026/) | Mar 4, 2026 | Brasília 🇧🇷 | - | N |
