@@ -53,6 +53,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesFrankfurt](https://bsidesfrankfurt.org/) | TBD | Frankfurt 🇩🇪 | [@BSidesFRA@infosec.exchange](https://infosec.exchange/@bsidesfra) | - |
 | [BSidesGalway](https://bsidesgalway.com) | TBD | Galway 🇮🇪 | [@bsidesgalway](https://x.com/bsidesgalway) | - |
 | [BSidesGoldCoast](https://bsidesgoldie.com/) | TBD | Southport (QLD) 🇦🇺 | [@BSidesGC](https://twitter.com/bsidesgc) | - |
+| [BSidesGroningen](https://bsidesgrunn.org) | TBD | Groningen 🇳🇱 | [@bsidesgrunn@infosec.exchange](https://infosec.exchange/@bsidesgrunn) | - |
 | [BSidesHBG](https://www.bsideshbg.com/) | TBD | Harrisburg (PA) 🇺🇸 | [@BsidesHbg](https://x.com/BsidesHbg) | - |
 | [BSidesICS/OT](https://www.bsidesics.org) | TBD | Miami (FL) 🇺🇸 | - | - |
 | [BSidesJoburg](https://bsidesjoburg.co.za) | TBD | Johannesburg 🇿🇦 | [@bsidesjoburg@infosec.exchange](https://infosec.exchange/@bsidesjoburg) | - |
@@ -66,6 +67,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesMelbourne](https://www.bsidesmelbourne.com) | TBD | Melbourne (VIC) 🇦🇺 | [@BSidesMelbourne@infosec.exchange](https://infosec.exchange/@bsidesmelbourne) | - |
 | [BSidesMKE](https://www.bsidesmke.org/) | TBD | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://twitter.com/bsidesmke) | - |
 | [BSidesMunich](https://2025.bsidesmunich.org) | TBD | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | - |
+| [BSidesMussoorie](https://bsidesmussoorie.in) | TBD | Mussoorie 🇮🇳 | [@bsidesmussoorie](https://x.com/bsidesmussoorie) | - |
 | [BSidesMálaga](https://www.bsidesmalaga.com) | TBD | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | - |
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD | Nairobi 🇰🇪 | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | - |
 | [BSidesNEPA](https://bsidesnepa.org) | TBD | Scranton (PA) :us: | - | - |
@@ -74,6 +76,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesOrlando](https://bsidesorlando.org/) | TBD | Orlando (FL) :us: | [@bsidesorlando@infosec.exchange](https://infosec.exchange/@bsidesorlando) | - |
 | [BSidesOslo](https://bsidesoslo.no) | TBD | Oslo 🇳🇴 | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | - |
 | [BSidesOttawa](https://bsidesottawa.ca/) | TBD | Ottawa (ON) 🇨🇦 | [@bsidesottawa](http://twitter.com/bsidesottawa) | - |
+| [BSidesOTUK](https://bsidesot.uk) | TBD | Bristol 🇬🇧 | - | - |
 | [BSidesPDX](https://bsidespdx.org) | TBD | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | - |
 | [BSidesPerth](https://bsidesperth.com.au/) | TBD | Perth (WA) 🇦🇺 | [@bsidesperth@infosec.exchange](https://infosec.exchange/@bsidesperth) | - |
 | [BSidesPrague](https://bsidesprg.cz/) | TBD | Prague 🇨🇿 | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | - |
