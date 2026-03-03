@@ -37,6 +37,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesBerlin](https://bsides.berlin) | TBD | Berlin :de: | [@SidesBer](https://twitter.com/SidesBer) | - |
 | [BSidesBoulder](https://bsidesboulder.org) | TBD | Boulder (CO) 🇺🇸 | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | - |
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | TBD | Bournemouth 🇬🇧 | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | - |
+| [BSidesBUD](https://bsidesbud.com) | TBD | Budapest 🇭🇺 | [@bsidesbud](https://twitter.com/bsidesbud) | - |
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | TBD | Buffalo (NY) 🇺🇸 | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | - |
 | [BSidesCalgary](https://www.bsidescalgary.org) | TBD | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | - |
 | [BsidesCambridgeMA](https://bsidescambridgema.org/) | TBD | Somerville (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | - |

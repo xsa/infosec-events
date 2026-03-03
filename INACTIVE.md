@@ -34,7 +34,6 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [BSidesBloom](https://bsidesbloomington.org) | TBD | Bloomington (IN) :us: | [@bsidesbloom](https://www.twitter.com/bsidesbloom) | - |
 | [BSidesBrisbane](https://bsidesbrisbane.com) | TBD | Brisbane :australia: | - | - |
 | [BSidesBristol](https://www.bsidesbristol.org.uk/) | TBD | Bristol :uk: | [@bsidesbristol](https://x.com/BSIDESBRISTOL) | - |
-| [BSidesBUD](https://bsidesbud.com) | TBD | Budapest :hungary: | [@bsidesbud](https://twitter.com/bsidesbud) | - |
 | [BSidesCairo](https://www.bsidescairo.com/) | TBD | Cairo :egypt: | [@BSidesCairo](https://twitter.com/BSidesCairo) | - |
 | [BSidesCapeTown](https://bsidescapetown.co.za/) | TBD | Cape Town :south_africa: | [@BSidesCapeTown](https://twitter.com/BSidesCapeTown) | - |
 | [BSidesCaymanIslands](https://bsides.ky) | TBD | Grand Cayman :cayman_islands: | [@BSidesKY](https://twitter.com/bsidesKY) | - |
