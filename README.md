@@ -58,6 +58,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Kernelcon](https://kernelcon.org/) | Apr 9-10, 2026 | Omaha (NE) 🇺🇸 | [@\_kernelcon\_](http://twitter.com/_kernelcon_) | N
 | [BSidesSLC](https://www.bsidesslc.org/) | Apr 9-10, 2026 | Salt Lake City (UT) 🇺🇸 | [@BSidesSLC](http://www.twitter.com/bsidesslc) | N
 | [BSidesOTUK](https://bsidesot.uk) | Apr 10, 2026 | Bristol 🇬🇧 | - | N |
+| [Hack'In](https://hackin.fr/) | Apr 10-11, 2026 | Aix-en-Provence 🇫🇷 | [@_hackiin](https://twitter.com/_hackiin) | N
 | [SO-CON](https://specterops.io/so-con/) | Apr 13-14, 2026 | Arlington (VA) 🇺🇸 | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | N
 | [Internet2 Community Exchange](https://events.internet2.edu/website/88260/) | Apr 13-16, 2026 | Chicago (IL) 🇺🇸 | - | N |
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
