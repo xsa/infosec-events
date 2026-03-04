@@ -59,6 +59,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesICS/OT](https://www.bsidesics.org) | TBD | Miami (FL) 🇺🇸 | - | - |
 | [BSidesJoburg](https://bsidesjoburg.co.za) | TBD | Johannesburg 🇿🇦 | [@bsidesjoburg@infosec.exchange](https://infosec.exchange/@bsidesjoburg) | - |
 | [BSidesKC](https://bsideskc.org) | TBD | Kansas City (MO) 🇺🇸 | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | - |
+| [BsidesKerala](https://bsideskerala.in) | TBD | Kerala 🇮🇳 | - | - |
 | [BSidesKolkata](https://www.bsideskolkata.in) | TBD | Kolkata 🇮🇳 | [@BsidesKolkata](https://twitter.com/BsidesKolkata) | - |
 | [BSidesLimburg](https://www.bsides-limburg.be) | TBD | Hasselt 🇧🇪 | - | - |
 | [BSidesLjubljana](https://bsidesljubljana.si/) | TBD | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | - |
