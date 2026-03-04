@@ -123,6 +123,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Elbsides](https://www.elbsides.eu) | Jun 5, 2026 | Hamburg 🇩🇪 | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
 | [BSidesKristiansand](https://bsideskrs.no) | Jun 5, 2026 | Kristiansand 🇳🇴 | - | N |
 | [Layer 8 Conference](https://layer8conference.com/) | Jun 5-6, 2026 | Boston (MA) 🇺🇸 | [@layer8con](https://twitter.com/layer8con) | N |
+| [BSidesRecife](https://www.bsidesrecife.com.br) | Jun 6, 2026 | Recife 🇧🇷 | - | N |
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 6, 2026 | Buffalo (NY) 🇺🇸 | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [RVAsec](https://rvasec.com/) | Jun 9-10, 2026 | Richmond (VA) 🇺🇸 | [@RVAsec](https://twitter.com/rvasec) | N
 | [x33fcon](https://www.x33fcon.com/) | Jun 11-12, 2026 | Gdynia 🇵🇱 | [@x33fcon](https://www.twitter.com/x33fcon) | N |

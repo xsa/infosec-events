@@ -93,6 +93,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesPrague](https://bsidesprg.cz/) | TBD | Prague 🇨🇿 | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | - |
 | [BSidesPrishtina](https://www.bsidesprishtina.org/) | TBD | Prishtina 🇽🇰 | [@bsidesprishtina](https://www.x.com/bsidesprishtina) | - |
 | [BSidesRDU](https://bsidesrdu.org) | TBD | Raleigh (NC) :us: | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | - |
+| [BSidesRecife](https://www.bsidesrecife.com.br) | TBD | Recife 🇧🇷 | - | - |
 | [BSidesRegina](https://www.bsidesregina.ca) | TBD | Regina (SK) 🇨🇦 | - | - |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | TBD | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | - |
 | [BSidesRioDeJaneiro](https://bsidesrj.com.br) | TBD | Rio De Janeiro 🇧🇷 | [@BSidesRJ](https://x.com/BSidesRJ) | - |
