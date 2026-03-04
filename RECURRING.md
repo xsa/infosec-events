@@ -34,6 +34,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesBA](https://bsidesba.sk) | TBD | Bratislava 🇸🇰 | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | - |
 | [BSidesBallarat](https://bsidesballarat.com.au) | TBD | Central Ballarat (VIC) 🇦🇺 | - | - |
 | [BSidesBelgrade](https://www.bsidesbeg.org) | TBD | Belgrade 🇷🇸 | [@BSidesBelgrade](https://x.com/BSidesBelgrade) | - |
+| [BSidesBergen](https://bsidesbergen.no) | TBD | Bergen 🇳🇴 | [@BSidesBergen@infosec.exchange](https://infosec.exchange/@BSidesBergen) | - |
 | [BSidesBerlin](https://bsides.berlin) | TBD | Berlin :de: | [@SidesBer](https://x.com/SidesBer) | - |
 | [BSidesBoulder](https://bsidesboulder.org) | TBD | Boulder (CO) 🇺🇸 | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | - |
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | TBD | Bournemouth 🇬🇧 | [@BSidesBournemth](https://x.com/BSidesBournemth) | - |
