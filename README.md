@@ -121,6 +121,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SSTIC](https://www.sstic.org/) | Jun 3-5, 2026 | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N
 | [OrangeCon](https://orangecon.nl/) | Jun 4, 2026 | Amsterdam 🇳🇱 | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | N
 | [Elbsides](https://www.elbsides.eu) | Jun 5, 2026 | Hamburg 🇩🇪 | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | N
+| [BSidesKristiansand](https://bsideskrs.no) | Jun 5, 2026 | Kristiansand 🇳🇴 | - | N |
 | [Layer 8 Conference](https://layer8conference.com/) | Jun 5-6, 2026 | Boston (MA) 🇺🇸 | [@layer8con](https://twitter.com/layer8con) | N |
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | Jun 6, 2026 | Buffalo (NY) 🇺🇸 | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | N
 | [RVAsec](https://rvasec.com/) | Jun 9-10, 2026 | Richmond (VA) 🇺🇸 | [@RVAsec](https://twitter.com/rvasec) | N
