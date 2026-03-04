@@ -100,6 +100,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesPrishtina](https://www.bsidesprishtina.org/) | May 22-23, 2026 | Prishtina 🇽🇰 | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
 | [BSidesGoldCoast](https://bsidesgoldie.com/) | May 23, 2026 | Southport (QLD) 🇦🇺 | [@BSidesGC](https://twitter.com/bsidesgc) | Y
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 23, 2026 | Dublin 🇮🇪 | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
+| [BSidesLondonCanada](https://www.bsideslondon.ca) | May 23, 2026 | London (ON) 🇨🇦 | - | N |
 | [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
 | [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków 🇵🇱 | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
 | [BSidesCalgary](https://www.bsidescalgary.org) | May 25-26, 2026 | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N |
