@@ -81,6 +81,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [PIVOTcon](https://pivotcon.org/) | May 6-8, 2026 | Malaga 🇪🇸 | [@pivot_con](https://twitter.com/pivot_con) | Invite only
 | [BSidesLuxembourg](https://2026.bsides.lu/) | May 6-8, 2026 | Belval 🇱🇺 | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
 | [BsidesKerala](https://bsideskerala.in) | May 7-9, 2026 | Kerala 🇮🇳 | - | N |
+| [BSidesKent](https://bsideskent.org) | May 8, 2026 | Canterbury 🇬🇧 | - | N |
 | [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
 | [OffensiveCon](https://www.offensivecon.org/) | May 15-16, 2026 | Berlin 🇩🇪 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N
 | [BSidesTampa](https://events.bsidestampa.net/BSidesTampa2026) | May 15-16, 2026 | Tampa (FL) 🇺🇸 | [@bsidestampa](https://twitter.com/bsidestampa) | N |
