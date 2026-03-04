@@ -214,13 +214,24 @@
       maxZoom: 19,
     }).addTo(map);
 
-    // Group events by city to stack multiple events at same location
+    // Group events by city to stack multiple events at same location.
+    // Key lookup tries full key first (e.g. "London (ON)"), then falls back
+    // to bare city name without parens (e.g. "London") for existing entries
+    // that predate the state-code-aware key format.
+    function lookupLocation(city) {
+      if (locations[city]) return { key: city, loc: locations[city] };
+      const bare = city.replace(/\s*\(.*?\)\s*/g, "").trim();
+      if (bare !== city && locations[bare]) return { key: bare, loc: locations[bare] };
+      return null;
+    }
+
     const byCity = new Map();
     events.forEach(ev => {
-      const loc = locations[ev.city];
-      if (!loc) return; // unknown city — skip silently
-      if (!byCity.has(ev.city)) byCity.set(ev.city, { loc, events: [] });
-      byCity.get(ev.city).events.push(ev);
+      const found = lookupLocation(ev.city);
+      if (!found) return; // unknown city — skip silently
+      const { key, loc } = found;
+      if (!byCity.has(key)) byCity.set(key, { loc, events: [] });
+      byCity.get(key).events.push(ev);
     });
 
     // Proportional dot marker — bigger dot = more events at that location
