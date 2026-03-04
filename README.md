@@ -84,7 +84,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesKent](https://bsideskent.org) | May 8, 2026 | Canterbury 🇬🇧 | - | N |
 | [BSidesBergen](https://bsidesbergen.no) | May 12, 2026 | Bergen 🇳🇴 | [@BSidesBergen@infosec.exchange](https://infosec.exchange/@BSidesBergen) | N |
 | [BSidesNOLA](https://nolabsides.com) | May 12, 2026 | New Orleans (LA) 🇺🇸 | - | N |
-| [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
+| [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal (QC) 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
 | [BSidesNash](https://bsidesnash.org) | May 15, 2026 | Nashville (TN) 🇺🇸 | [@bsidesnash](https://x.com/bsidesnash) | N |
 | [OffensiveCon](https://www.offensivecon.org/) | May 15-16, 2026 | Berlin 🇩🇪 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N
 | [BSidesTampa](https://events.bsidestampa.net/BSidesTampa2026) | May 15-16, 2026 | Tampa (FL) 🇺🇸 | [@bsidestampa](https://twitter.com/bsidestampa) | N |
@@ -129,7 +129,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesUme](https://indico.neic.no/event/287/) | Jun 16-17, 2026 | Umeå 🇸🇪 | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
 | [Area41](https://a41con.ch/) | Jun 18-19, 2026 | Zurich 🇨🇭  | [@a41con](https://twitter.com/a41con) | N
-| [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
+| [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal (QC) 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [OWASP Global AppSec EU](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/) | Jun 22-26, 2026 | Vienna 🇦🇹 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [BSidesTLV](https://bsidestlv.com/) | Jun 25, 2026 | Tel Aviv 🇮🇱 | [@BsidesTLV](https://twitter.com/bsidestlv) | N |

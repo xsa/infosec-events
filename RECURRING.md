@@ -176,7 +176,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | TBD | Minneapolis (MN) 🇺🇸 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | - |
 | [m0leCon](https://m0lecon.it/) | TBD | Turin 🇮🇹 | [@pwnthem0le](https://x.com/pwnthem0le) | - |
 | [No Hat](https://www.nohat.it/) | TBD | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
-| [NorthSec](https://nsec.io/) | TBD | Montreal 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | - |
+| [NorthSec](https://nsec.io/) | TBD | Montreal (QC) 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | - |
 | [Nullcon Berlin](https://nullcon.net/berlin-2025) | TBD | Berlin :de: | [@nullcon](https://x.com/nullcon) | - |
 | [Nullcon Goa](https://nullcon.net/goa-2026) | TBD | Goa 🇮🇳 | [@nullcon](https://x.com/nullcon) | - |
 | [Objective by the Sea](https://objectivebythesea.org) | TBD | Hawaii (HI) 🇺🇸 | [@objective_see](https://x.com/objective_see) | - |
@@ -202,7 +202,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [PraSec](https://www.prasec.cz) | TBD | Prague 🇨🇿 | [@PraSec_conf](https://x.com/PraSec_conf) | - |
 | [Queen City Conference](https://queencitycon.org/) | TBD | Cincinnati (OH) 🇺🇸 | [@QC_con](https://x.com/QC_con) | - |
 | [RE//verse](https://re-verse.io/) | TBD | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | - |
-| [REcon](https://recon.cx/) | TBD | Montreal 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | - |
+| [REcon](https://recon.cx/) | TBD | Montreal (QC) 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | - |
 | [RomHack](https://romhack.io) | TBD | Rome 🇮🇹 | [@cybersaiyanIT](https://x.com/cybersaiyanIT) | - |
 | [ROOTCON](https://rootcon.org) | TBD | Clark 🇵🇭 | [@rootcon.bsky.social](https://bsky.app/profile/rootcon.bsky.social) | - |
 | [RootedCON](https://www.rootedcon.com/) | TBD | Madrid 🇪🇸 | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | - |
