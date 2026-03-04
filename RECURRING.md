@@ -75,6 +75,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesMálaga](https://www.bsidesmalaga.com) | TBD | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | - |
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD | Nairobi 🇰🇪 | [@BSidesNairobi](https://x.com/BSidesNairobi) | - |
 | [BSidesNEPA](https://bsidesnepa.org) | TBD | Scranton (PA) :us: | - | - |
+| [BSidesNOLA](https://nolabsides.com) | TBD | New Orleans (LA) 🇺🇸 | - | - |
 | [BSidesNYC](https://bsidesnyc.org/) | TBD | New-York (NY) :us: | [@bsidesnyc.org](https://bsky.app/profile/bsidesnyc.org) | - |
 | [BSidesOK](https://bsidesok.com/) | TBD | Glenpool (OK) 🇺🇸 | [BSidesOK](https://x.com/BSidesOK) | - |
 | [BSidesOrlando](https://bsidesorlando.org/) | TBD | Orlando (FL) :us: | [@bsidesorlando@infosec.exchange](https://infosec.exchange/@bsidesorlando) | - |
