@@ -85,6 +85,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesBergen](https://bsidesbergen.no) | May 12, 2026 | Bergen 🇳🇴 | [@BSidesBergen@infosec.exchange](https://infosec.exchange/@BSidesBergen) | N |
 | [BSidesNOLA](https://nolabsides.com) | May 12, 2026 | New Orleans (LA) 🇺🇸 | - | N |
 | [NorthSec](https://nsec.io/) | May 14-15, 2026 | Montreal 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N
+| [BSidesNash](https://bsidesnash.org) | May 15, 2026 | Nashville (TN) 🇺🇸 | [@bsidesnash](https://x.com/bsidesnash) | N |
 | [OffensiveCon](https://www.offensivecon.org/) | May 15-16, 2026 | Berlin 🇩🇪 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N
 | [BSidesTampa](https://events.bsidestampa.net/BSidesTampa2026) | May 15-16, 2026 | Tampa (FL) 🇺🇸 | [@bsidestampa](https://twitter.com/bsidestampa) | N |
 | [BSidesMelbourne](https://www.bsidesmelbourne.com) | May 15-17, 2026 | Melbourne (VIC) 🇦🇺 | [@BSidesMelbourne@infosec.exchange](https://infosec.exchange/@bsidesmelbourne) | N

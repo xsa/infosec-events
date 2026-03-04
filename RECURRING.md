@@ -74,6 +74,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesMussoorie](https://bsidesmussoorie.in) | TBD | Mussoorie 🇮🇳 | [@bsidesmussoorie](https://x.com/bsidesmussoorie) | - |
 | [BSidesMálaga](https://www.bsidesmalaga.com) | TBD | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | - |
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD | Nairobi 🇰🇪 | [@BSidesNairobi](https://x.com/BSidesNairobi) | - |
+| [BSidesNash](https://bsidesnash.org) | TBD | Nashville (TN) 🇺🇸 | [@bsidesnash](https://x.com/bsidesnash) | - |
 | [BSidesNEPA](https://bsidesnepa.org) | TBD | Scranton (PA) :us: | - | - |
 | [BSidesNOLA](https://nolabsides.com) | TBD | New Orleans (LA) 🇺🇸 | - | - |
 | [BSidesNYC](https://bsidesnyc.org/) | TBD | New-York (NY) :us: | [@bsidesnyc.org](https://bsky.app/profile/bsidesnyc.org) | - |
