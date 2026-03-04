@@ -62,6 +62,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesKC](https://bsideskc.org) | TBD | Kansas City (MO) 🇺🇸 | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | - |
 | [BSidesKent](https://bsideskent.org) | TBD | Canterbury 🇬🇧 | - | N |
 | [BsidesKerala](https://bsideskerala.in) | TBD | Kerala 🇮🇳 | - | - |
+| [BSidesKnoxville](https://www.10-sec.org/bsides-knoxville) | TBD | Knoxville (TN) 🇺🇸 | [@bsidesknoxville@infosec.exchange](https://infosec.exchange/@bsidesknoxville) | - |
 | [BSidesKolkata](https://www.bsideskolkata.in) | TBD | Kolkata 🇮🇳 | [@BsidesKolkata](https://x.com/BsidesKolkata) | - |
 | [BSidesLimburg](https://www.bsides-limburg.be) | TBD | Hasselt 🇧🇪 | - | - |
 | [BSidesLjubljana](https://bsidesljubljana.si/) | TBD | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | - |
