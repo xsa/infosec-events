@@ -98,6 +98,22 @@ def flag_to_hashtag(location: str) -> str:
     return f"#{country}" if country else ""
 
 
+def name_to_hashtag(name: str) -> str:
+    """
+    Convert an event name to a hashtag for events without a Mastodon handle.
+    e.g. "BSides Kerala" -> "#BSidesKerala"
+         "DEF CON 34"    -> "#DEFCON"  (strips trailing year number)
+         "hack.lu"       -> "#hacklu"  (strips punctuation)
+    """
+    # Strip trailing year number: "DEF CON 34" -> "DEF CON"
+    name = re.sub(r"\s+\d{2,4}$", "", name.strip())
+    # Remove anything that's not alphanumeric or a space
+    name = re.sub(r"[^a-zA-Z0-9 ]", "", name)
+    # CamelCase each word and join
+    hashtag = "".join(word.capitalize() for word in name.split())
+    return f"#{hashtag}" if hashtag else ""
+
+
 def parse_dates(date_str):
     m = DATE_RE.search(date_str)
     if not m:
@@ -272,12 +288,17 @@ CHAR_LIMIT = 500
 
 
 def format_event_line(ev):
-    """Format a single event as a bullet line, tagging Mastodon handle if known."""
-    handle = f" {ev['mastodon']}" if ev["mastodon"] else ""
+    """Format a single event as a bullet line, tagging Mastodon handle if known,
+    or a name hashtag as fallback for events without a Mastodon presence."""
+    if ev["mastodon"]:
+        handle_or_tag = f" {ev['mastodon']}"
+    else:
+        ht = name_to_hashtag(ev["name"])
+        handle_or_tag = f" {ht}" if ht else ""
     location = country_shortcode_to_flag(ev["location"])
     country_tag = flag_to_hashtag(location)
     tag_str = f" {country_tag}" if country_tag else ""
-    return f"• {ev['name']}{handle} — {ev['date_raw']}, {location}{tag_str}"
+    return f"• {ev['name']}{handle_or_tag} — {ev['date_raw']}, {location}{tag_str}"
 
 
 def build_digest_posts(events):
@@ -331,19 +352,27 @@ def build_new_event_post(events):
 
     if len(events) == 1:
         ev = events[0]
-        handle = f" {ev['mastodon']}" if ev["mastodon"] else ""
         location = country_shortcode_to_flag(ev["location"])
         country_tag = flag_to_hashtag(location)
         tag_str = f" {country_tag}" if country_tag else ""
+        if ev["mastodon"]:
+            # Known Mastodon handle — mention in header line
+            header_tag = f" {ev['mastodon']}"
+            name_tag = ""
+        else:
+            # No Mastodon handle — use name hashtag in footer tags
+            header_tag = ""
+            ht = name_to_hashtag(ev["name"])
+            name_tag = f" {ht}" if ht else ""
         text = (
-            f"🆕 New event added:{handle}\n\n"
+            f"🆕 New event added:{header_tag}\n\n"
             f"📌 {ev['name']}\n"
             f"📅 {ev['date_raw']}\n"
             f"📍 {location}\n"
         )
         if ev["url"]:
             text += f"🔗 {ev['url']}\n"
-        text += f"\n#infosec #cybersecurity #conference{tag_str}"
+        text += f"\n#infosec #cybersecurity #conference{name_tag}{tag_str}"
     else:
         lines = [format_event_line(ev) for ev in events]
         text = f"🆕 {len(events)} new events added:\n\n" + \
