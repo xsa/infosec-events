@@ -29,10 +29,12 @@
       const date = dateCell.textContent.trim();
       const locationFull = locationCell.textContent.trim();
 
-      // Extract city: strip flag emoji and state/country abbreviation in parens
+      // Extract location key: strip flag emoji and shortcodes but KEEP
+      // state/province in parens so "London (ON) 🇨🇦" -> "London (ON)"
+      // rather than "London", matching the key format in locations.json.
       const city = locationFull
         .replace(/[\u{1F1E0}-\u{1F1FF}]{2}/gu, "")
-        .replace(/\(.*?\)/g, "")
+        .replace(/:[a-z_]+:/g, "")
         .trim();
 
       if (city) events.push({ name, url, date, city, locationFull });

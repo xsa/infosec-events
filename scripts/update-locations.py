@@ -37,9 +37,14 @@ PAREN_RE = re.compile(r"\(.*?\)")
 SHORTCODE_RE = re.compile(r":[a-z_]+:")
 
 def extract_city(location_raw):
+    """
+    Build the location key used in locations.json.
+    Strips flag emoji and shortcodes but KEEPS state/province in parens
+    so that e.g. "London (ON) 🇨🇦" -> "London (ON)" rather than "London",
+    avoiding collisions with same-named cities in different countries.
+    """
     city = FLAG_RE.sub("", location_raw)
     city = SHORTCODE_RE.sub("", city)
-    city = PAREN_RE.sub("", city)
     return city.strip()
 
 def parse_cities_from_readme():
@@ -82,9 +87,18 @@ def geocode(city, raw_location):
         # Convert regional indicator pair to ISO 3166-1 alpha-2
         country_code = "".join(chr(ord(c) - 0x1F1E6 + ord("A")) for c in flag)
 
-    queries = [city]
-    if country_code:
-        queries.insert(0, f"{city}, {country_code}")
+    # Include state/province in query if present e.g. "London (ON)" -> "London, ON, CA"
+    paren_m = PAREN_RE.search(city)
+    state = paren_m.group(0).strip("()").strip() if paren_m else None
+    city_bare = PAREN_RE.sub("", city).strip()
+
+    queries = [city_bare]
+    if state and country_code:
+        queries.insert(0, f"{city_bare}, {state}, {country_code}")
+    elif state:
+        queries.insert(0, f"{city_bare}, {state}")
+    elif country_code:
+        queries.insert(0, f"{city_bare}, {country_code}")
 
     for query in queries:
         result = _nominatim_search(query)
