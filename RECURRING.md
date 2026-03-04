@@ -48,6 +48,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesColombia](https://bsidesco.org) | TBD | Pereira 🇨🇴 | [@BSides_CO](https://x.com/BSides_CO) | - |
 | [BSidesDayton](https://bsidesdayton.com/) | TBD | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | - |
 | [BSidesDenHaag](https://bsidesthehague.nl) | TBD | Den Haag 🇳🇱 | - | - |
+| [BSidesDetroit](https://www.bsidesdetroit.org) | TBD | Detroit (MI) 🇺🇸 | [@bsidesdetroit](https://x.com/bsidesdetroit) | - |
 | [BSidesDresden](https://bsidesdresden.com/) | TBD | Dresden :de: | [@bsidesdresden](https://x.com/bsidesdresden) | - |
 | [BSidesDublin](https://www.bsidesdub.ie/) | TBD | Dublin 🇮🇪 | [@BSidesDublin](https://x.com/BSidesDublin) | - |
 | [BSidesEdmonton](https://www.bsidesedmonton.org/) | TBD | Edmonton (AB) 🇨🇦 | [@bsidesedmonton@infosec.exchange](https://infosec.exchange/@bsidesedmonton) | - |
