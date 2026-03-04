@@ -71,6 +71,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesLondonCanada](https://www.bsideslondon.ca) | TBD | London (ON) 🇨🇦 | - | N |
 | [BSidesLuxembourg](https://2026.bsides.lu/) | TBD | Belval 🇱🇺 | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | - |
 | [BSidesLV](https://bsideslv.org/) | TBD | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | - |
+| [BSidesMaine](https://www.bsidesmaine.org) | TBD | Portland (ME) 🇺🇸 | - | N |
 | [BSidesMelbourne](https://www.bsidesmelbourne.com) | TBD | Melbourne (VIC) 🇦🇺 | [@BSidesMelbourne@infosec.exchange](https://infosec.exchange/@bsidesmelbourne) | - |
 | [BSidesMKE](https://www.bsidesmke.org/) | TBD | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://x.com/bsidesmke) | - |
 | [BSidesMunich](https://2025.bsidesmunich.org) | TBD | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | - |
