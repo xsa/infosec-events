@@ -11,9 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | Mar 3-4, 2026 | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | N |
-| [\[un\]prompted](https://unpromptedcon.org/) | Mar 3-4, 2026 | San Francisco (CA) 🇺🇸 | - | N
-| [Security Leaders](https://securityleaders.com.br/eventos/security-leaders-brasilia-2026/) | Mar 4, 2026 | Brasília 🇧🇷 | - | N |
 | [SunSecCon](https://www.sunseccon.org) | Mar 5-6, 2026 | Pasadena (CA) 🇺🇸 | [@SunSecCon](https://twitter.com/SunSecCon) | N |
 | [RootedCON](https://www.rootedcon.com/) | Mar 5-7, 2026 | Madrid 🇪🇸 | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | N
 | [RE//verse](https://re-verse.io/) | Mar 5-7, 2026 | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
