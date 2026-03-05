@@ -26,9 +26,9 @@ Use this as a reference to ensure no recurring event is missed.
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | TBD | Tel Aviv 🇮🇱 | [@BlueHatIL](https://x.com/BlueHatIL) | - |
 | [Botconf](https://www.botconf.eu/) | TBD | Reims 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | - |
 | [BruCON](https://www.brucon.org/) | TBD | Mechelen 🇧🇪 | [@brucon](https://x.com/brucon) | - |
-| [BSides Tallinn](https://tallinn.bsides.ee/) | TBD | Tallinn 🇪🇪 | [BSides Tallinn](https://www.facebook.com/groups/2546584348821321/) | - |
 | [BSides312](https://bsides312.org/) | TBD | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | - |
 | [BSidesAhmedabad](https://bsidesahmedabad.in/) | TBD | Ahmedabad :india: | [@bsidesahmedabad](https://x.com/bsidesahmedabad) | - |
+| [BSidesAlbuquerque](https://bsidesabq.org) | TBD | Albuquerque (NM) 🇺🇸 | - | - |
 | [BSidesAthens](https://www.bsidesath.gr/) | TBD | Athens 🇬🇷 | [@BSidesAth](https://x.com/BSidesAth) | - |
 | [BSidesAugusta](https://bsidesaugusta.org) | TBD | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | - |
 | [BSidesBA](https://bsidesba.sk) | TBD | Bratislava 🇸🇰 | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | - |
@@ -108,6 +108,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesSF](https://bsidessf.org/) | TBD | San Francisco (CA) 🇺🇸 | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | - |
 | [BSidesSLC](https://www.bsidesslc.org/) | TBD | Salt Lake City (UT) 🇺🇸 | [@BSidesSLC](http://www.x.com/bsidesslc) | - |
 | [BSidesSouthJersey](https://bsidessouthjersey.org) | TBD | Glassboro (NJ) 🇺🇸 | [@BSidesSJ](https://x.com/BSidesSJ) | - |
+| [BSidesTallinn](https://tallinn.bsides.ee/) | TBD | Tallinn 🇪🇪 | [BSides Tallinn](https://www.facebook.com/groups/2546584348821321/) | - |
 | [BSidesTampa](https://events.bsidestampa.net/BSidesTampa2026) | TBD | Tampa (FL) 🇺🇸 | [@bsidestampa](https://x.com/bsidestampa) | - |
 | [BSidesTirana](https://bsidestirana.al) | TBD | Tirana :albania: | [@BSidesTirana](https://x.com/BSidesTirana) | - |
 | [BSidesTLV](https://bsidestlv.com/) | TBD | Tel Aviv 🇮🇱 | [@BsidesTLV](https://x.com/bsidestlv) | - |
