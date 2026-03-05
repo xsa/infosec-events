@@ -117,6 +117,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesUme](https://indico.neic.no/event/287/) | TBD | Umeå 🇸🇪 | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | - |
 | [BSidesVancouver](https://www.bsidesvancouver.com) | TBD | Vancouver (BC) 🇨🇦 | [@BSidesVancouver](https://x.com/BSidesVancouver) | - |
 | [BSidesVilnius](https://bsidesvilnius.lt/) | TBD | Vilnius :lithuania: | [@bsidesvilnius](https://x.com/bsidesvilnius) | - |
+| [BSidesZadar](https://bsideszadar.org) | TBD | Zadar 🇭🇷 | [@BSidesZadar](https://x.com/BSidesZadar) | - |
 | [BSidesZagreb](https://www.bsideszagreb.com) | TBD | Zagreb 🇭🇷 | [@bsideszagreb](https://x.com/bsideszagreb) | - |
 | [BSidesZurich](https://bsideszh.ch/) | TBD | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | - |
 | [Burning River Cyber Con](https://burningrivercybercon.com) | TBD | Cleveland (OH) :us: | [@BurningRiverCon](https://x.com/BurningRiverCon) | - |
