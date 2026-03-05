@@ -137,6 +137,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
 | [BSidesTLV](https://bsidestlv.com/) | Jun 25, 2026 | Tel Aviv 🇮🇱 | [@BsidesTLV](https://twitter.com/bsidestlv) | N |
 | [leHACK](https://lehack.org/) | Jun 26-27, 2026 | Paris 🇫🇷 | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
+| [BSidesPorto](https://bsidesporto.org) | Jun 26-27, 2026 | Porto 🇵🇹 | [@bsidesporto](https://x.com/bsidesporto) | N |
 | [BSidesAthens](https://www.bsidesath.gr/) | Jun 27, 2026 | Athens 🇬🇷 | [@BSidesAth](https://twitter.com/BSidesAth) | Y
 | [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille 🇫🇷 | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
 | [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken 🇩🇪 | [@acm_wisec](https://twitter.com/acm_wisec) | N
