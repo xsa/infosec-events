@@ -27,6 +27,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Botconf](https://www.botconf.eu/) | TBD | Reims 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | - |
 | [BruCON](https://www.brucon.org/) | TBD | Mechelen 🇧🇪 | [@brucon](https://x.com/brucon) | - |
 | [BSides312](https://bsides312.org/) | TBD | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | - |
+| [BSidesAberystwyth](https://bsidesaberystwyth.org) | TBD | Aberystwyth 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | - | - |
 | [BSidesAhmedabad](https://bsidesahmedabad.in/) | TBD | Ahmedabad :india: | [@bsidesahmedabad](https://x.com/bsidesahmedabad) | - |
 | [BSidesAlbuquerque](https://bsidesabq.org) | TBD | Albuquerque (NM) 🇺🇸 | - | - |
 | [BSidesAthens](https://www.bsidesath.gr/) | TBD | Athens 🇬🇷 | [@BSidesAth](https://x.com/BSidesAth) | - |
