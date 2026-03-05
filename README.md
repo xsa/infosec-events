@@ -151,6 +151,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SEC-T](https://sec-t.org/) | Sep 10-11, 2026 | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
 | [PraSec](https://www.prasec.cz) | Sep 10-11, 2026 | Prague 🇨🇿 | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
 | [Blue Team Con](https://blueteamcon.com/) | Sep 10-13, 2026 | Chicago (IL) 🇺🇸 | [@BlueTeamCon@infosec.exchange](https://infosec.exchange/@BlueTeamCon) | N |
+| [BSidesBelfast](https://bsidesbelfast.org) | Sep 11, 2026 | Belfast 🇬🇧 | [@bsidesbelfast](https://x.com/bsidesbelfast) | N |
 | [LABScon](https://www.labscon.io/) | Sep 16-19, 2026 | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
 | [44CON](https://44con.com/) | Sep 17-18, 2026 | London 🇬🇧 | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N |
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 18-20, 2026 | Novi Sad 🇷🇸 | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N |
