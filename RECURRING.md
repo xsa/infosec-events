@@ -106,6 +106,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesRoanoke](https://bsidesroa.org) | TBD | Roanoke (VA) 🇺🇸 | - | - |
 | [BSidesROC](https://bsidesroc.com) | TBD | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | - |
 | [BSidesRéunion](https://bsides-reunion.re) | TBD | Saint-Pierre, Réunion 🇫🇷 | - | - |
+| [BSidesSãoPaulo](https://securitybsides.com.br) | TBD | São Paulo 🇧🇷 | [@bsidessp](https://x.com/bsidessp) | - |
 | [BSidesSATX](https://www.bsidessatx.com/) | TBD | San Antonio (TX) 🇺🇸 | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | - |
 | [BSidesSD](https://www.bsidessd.org/) | TBD | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | - |
 | [BSidesSeattle](https://www.bsidesseattle.com) | TBD | Seattle (WA) 🇺🇸 | [@bsidesseattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | - |

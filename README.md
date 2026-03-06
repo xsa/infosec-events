@@ -95,6 +95,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesBA](https://bsidesba.sk) | May 16, 2026 | Bratislava 🇸🇰 | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | N
 | [BSides312](https://bsides312.org/) | May 16, 2026 | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N
 | [BSidesTokyo](https://bsides.tokyo/en/) | May 16, 2026 | Tokyo 🇯🇵  | [@TokyoBSides](https://twitter.com/TokyoBSides) | N
+| [BSidesSãoPaulo](https://securitybsides.com.br) | May 16-17, 2026 | São Paulo 🇧🇷 | [@bsidessp](https://x.com/bsidessp) | N |
 | [Ekoparty Miami](https://ekoparty.org/miami/) | May 21-22, 2026 | Miami (FL) 🇺🇸 | [@ekoparty](https://twitter.com/ekoparty) | N
 | [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | May 21-22, 2026 | Minneapolis (MN) 🇺🇸 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N |
 | [BSidesKnoxville](https://www.10-sec.org/bsides-knoxville) | May 22, 2026 | Knoxville (TN) 🇺🇸 | [@bsidesknoxville@infosec.exchange](https://infosec.exchange/@bsidesknoxville) | N |
