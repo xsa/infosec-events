@@ -228,6 +228,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [SecTor](https://www.blackhat.com/sector/2026/) | TBD | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://x.com/BlackHatEvents) | - |
 | [Security Analyst Summit](https://thesascon.com/) | TBD | Khao Lak :thailand: | [TheSAScon](https://x.com/TheSAScon) | - |
 | [Security Fest](https://securityfest.com/) | TBD | Gothenburg 🇸🇪 | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | - |
+| [Security First](https://info.integrity360.com/security-first-2026-johannesburg) | TBD | Johannesburg 🇿🇦 | [@integrity360](https://x.com/integrity360/) | - |
 | [Security Leaders](https://securityleaders.com.br/eventos/security-leaders-brasilia-2026/) | TBD | Brasília 🇧🇷 | - | - |
 | [ShowMeCon](https://showmecon.com) | TBD | St-Louis (MO) :us: | [@showmeconstl](https://x.com/showmeconstl) | - |
 | [SINCON](https://www.infosec-city.com/sin-25) | TBD | Singapore :singapore: | [@Infosec_City](https://x.com/infosec_city) | - |

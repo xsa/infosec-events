@@ -60,6 +60,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SO-CON](https://specterops.io/so-con/) | Apr 13-14, 2026 | Arlington (VA) 🇺🇸 | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | N
 | [Internet2 Community Exchange](https://events.internet2.edu/website/88260/) | Apr 13-16, 2026 | Chicago (IL) 🇺🇸 | - | N |
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | Apr 13-16, 2026 | Scottsdale (AZ) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
+| [Security First](https://info.integrity360.com/security-first-2026-johannesburg) | Apr 14, 2026 | Johannesburg 🇿🇦 | [@integrity360](https://x.com/integrity360/) | N |
 | [Botconf](https://www.botconf.eu/) | Apr 15-17, 2026 | Reims 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
 | [BSidesGroningen](https://bsidesgrunn.org) | Apr 17, 2026 | Groningen 🇳🇱 | [@bsidesgrunn@infosec.exchange](https://infosec.exchange/@bsidesgrunn) | N |
 | [BSidesSouthJersey](https://bsidessouthjersey.org) | Apr 18, 2026 | Glassboro (NJ) 🇺🇸 | [@BSidesSJ](https://x.com/BSidesSJ) | N |
