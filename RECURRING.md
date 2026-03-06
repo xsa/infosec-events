@@ -12,6 +12,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [ACM WiSec](https://wisec26.events.cispa.de/) | TBD | Saarbrücken 🇩🇪 | [@acm_wisec](https://x.com/acm_wisec) | - |
 | [Area41](https://a41con.ch/) | TBD | Zurich 🇨🇭 | [@a41con](https://x.com/a41con) | - |
 | [ATLSECCON](https://www.atlseccon.com) | TBD | Halifax (NS) 🇨🇦 | [@AtlSecCon@infosec.exchange](https://infosec.exchange/@atlseccon) | - |
+| [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026/) | TBD | Brussels 🇧🇪 | - | - |
 | [Australian Cyber Conference](https://cyberconference.com.au) | TBD | Melbourne (VIC) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
 | [AUVERGN'HACK](https://www.auvergnhack.fr/) | TBD | Clermont-Ferrand 🇫🇷 | - | - |
 | [Balkan Computer Congress](https://www.balccon.org) | TBD | Novi Sad 🇷🇸 | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | - |
