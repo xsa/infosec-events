@@ -69,10 +69,11 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesKnoxville](https://www.10-sec.org/bsides-knoxville) | TBD | Knoxville (TN) 🇺🇸 | [@bsidesknoxville@infosec.exchange](https://infosec.exchange/@bsidesknoxville) | - |
 | [BSidesKolkata](https://www.bsideskolkata.in) | TBD | Kolkata 🇮🇳 | [@BsidesKolkata](https://x.com/BsidesKolkata) | - |
 | [BSidesKraków](https://bsideskrakow.pl) | TBD | Kraków 🇵🇱 | [@bsideskrakow](https://x.com/bsideskrakow) | - |
-| [BSidesKristiansand](https://bsideskrs.no) | TBD | Kristiansand 🇳🇴 | - | N |
+| [BSidesKristiansand](https://bsideskrs.no) | TBD | Kristiansand 🇳🇴 | - | - |
+| [BSidesLeeds](https://bsidesleeds.com) | TBD | Leeds 🇬🇧 | [@bsidesleeds@infosec.exchange](https://infosec.exchange/@bsidesleeds) | - |
 | [BSidesLimburg](https://www.bsides-limburg.be) | TBD | Hasselt 🇧🇪 | - | - |
 | [BSidesLjubljana](https://bsidesljubljana.si/) | TBD | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | - |
-| [BSidesLondon](https://bsides.london) | TBD | London :uk: | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social) | - |
+| [BSidesLondon](https://bsides.london) | TBD | London 🇬🇧 | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social) | - |
 | [BSidesLondonCanada](https://www.bsideslondon.ca) | TBD | London (ON) 🇨🇦 | - | N |
 | [BSidesLuxembourg](https://2026.bsides.lu/) | TBD | Belval 🇱🇺 | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | - |
 | [BSidesLV](https://bsideslv.org/) | TBD | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | - |

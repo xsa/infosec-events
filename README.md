@@ -131,6 +131,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesFortWayne](https://www.bsidesfortwayne.org) | Jun 6, 2026 | Fort Wayne (IN) 🇺🇸 | [@bsidesfortwayne](https://x.com/bsidesfortwayne) | N |
 | [RVAsec](https://rvasec.com/) | Jun 9-10, 2026 | Richmond (VA) 🇺🇸 | [@RVAsec](https://twitter.com/rvasec) | N
 | [x33fcon](https://www.x33fcon.com/) | Jun 11-12, 2026 | Gdynia 🇵🇱 | [@x33fcon](https://www.twitter.com/x33fcon) | N |
+| [BSidesLeeds](https://bsidesleeds.com) | Jun 13, 2026 | Leeds 🇬🇧 | [@bsidesleeds@infosec.exchange](https://infosec.exchange/@bsidesleeds) | N |
 | [BSidesBoulder](https://bsidesboulder.org) | Jun 13, 2026 | Boulder (CO) 🇺🇸 | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
 | [BSidesSATX](https://www.bsidessatx.com/) | Jun 13, 2026 | San Antonio (TX) 🇺🇸 | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | N |
 | [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
