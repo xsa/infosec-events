@@ -101,6 +101,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesRecife](https://www.bsidesrecife.com.br) | TBD | Recife 🇧🇷 | - | - |
 | [BSidesRegina](https://www.bsidesregina.ca) | TBD | Regina (SK) 🇨🇦 | - | - |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | TBD | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | - |
+| [BSidesRiga](https://riga.bsides.lv) | TBD | Riga 🇱🇻 | - | - |
 | [BSidesRioDeJaneiro](https://bsidesrj.com.br) | TBD | Rio De Janeiro 🇧🇷 | [@BSidesRJ](https://x.com/BSidesRJ) | - |
 | [BSidesRoanoke](https://bsidesroa.org) | TBD | Roanoke (VA) 🇺🇸 | - | - |
 | [BSidesROC](https://bsidesroc.com) | TBD | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | - |
