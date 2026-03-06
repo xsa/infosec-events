@@ -186,6 +186,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | TBD | Prague 🇨🇿 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | - |
 | [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | TBD | Minneapolis (MN) 🇺🇸 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | - |
 | [m0leCon](https://m0lecon.it/) | TBD | Turin 🇮🇹 | [@pwnthem0le](https://x.com/pwnthem0le) | - |
+| [Namibia International Cybersecurity Conference](https://www.dstech.com.na/cyber-conference/) | TBD | Windhoek 🇳🇦 | - | - |
 | [No Hat](https://www.nohat.it/) | TBD | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
 | [NorthSec](https://nsec.io/) | TBD | Montreal (QC) 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | - |
 | [Nullcon Berlin](https://nullcon.net/berlin-2025) | TBD | Berlin :de: | [@nullcon](https://x.com/nullcon) | - |
