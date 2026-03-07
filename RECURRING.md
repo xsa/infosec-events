@@ -87,6 +87,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesMaine](https://www.bsidesmaine.org) | TBD | Portland (ME) 🇺🇸 | - | N |
 | [BSidesMelbourne](https://www.bsidesmelbourne.com) | TBD | Melbourne (VIC) 🇦🇺 | [@BSidesMelbourne@infosec.exchange](https://infosec.exchange/@bsidesmelbourne) | - |
 | [BSidesMKE](https://www.bsidesmke.org/) | TBD | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://x.com/bsidesmke) | - |
+| [BSidesMontreal](https://bsidesmtl.ca) | TBD | Montreal (QC) 🇨🇦 | [@BSidesMontreal](https://x.com/BSidesMontreal) | - |
 | [BSidesMunich](https://2025.bsidesmunich.org) | TBD | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | - |
 | [BSidesMussoorie](https://bsidesmussoorie.in) | TBD | Mussoorie 🇮🇳 | [@bsidesmussoorie](https://x.com/bsidesmussoorie) | - |
 | [BSidesMálaga](https://www.bsidesmalaga.com) | TBD | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | - |
