@@ -30,6 +30,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSides312](https://bsides312.org/) | TBD | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | - |
 | [BSidesAarhus](https://bsidesaarhus.dk) | TBD | Aarhus 🇩🇰 | - | - |
 | [BSidesAberystwyth](https://bsidesaberystwyth.org) | TBD | Aberystwyth 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | - | - |
+| [BSidesAdelaide](https://www.bsidesadelaide.com.au) | TBD | Adelaide (SA) 🇦🇺 | [@BSidesAdelaide](https://x.com/BSidesAdelaide) | - |
 | [BSidesAhmedabad](https://bsidesahmedabad.in/) | TBD | Ahmedabad :india: | [@bsidesahmedabad](https://x.com/bsidesahmedabad) | - |
 | [BSidesAlbuquerque](https://bsidesabq.org) | TBD | Albuquerque (NM) 🇺🇸 | - | - |
 | [BSidesAthens](https://www.bsidesath.gr/) | TBD | Athens 🇬🇷 | [@BSidesAth](https://x.com/BSidesAth) | - |
