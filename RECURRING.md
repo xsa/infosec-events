@@ -40,6 +40,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesBelgrade](https://www.bsidesbeg.org) | TBD | Belgrade 🇷🇸 | [@BSidesBelgrade](https://x.com/BSidesBelgrade) | - |
 | [BSidesBergen](https://bsidesbergen.no) | TBD | Bergen 🇳🇴 | [@BSidesBergen@infosec.exchange](https://infosec.exchange/@BSidesBergen) | - |
 | [BSidesBerlin](https://bsides.berlin) | TBD | Berlin :de: | [@SidesBer](https://x.com/SidesBer) | - |
+| [BSidesBolivia](https://www.facebook.com/BsidesBolivia) | TBD | Cochabamba 🇧🇴 | [@BSidesBo](https://x.com/BSidesBo) | - |
 | [BSidesBoulder](https://bsidesboulder.org) | TBD | Boulder (CO) 🇺🇸 | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | - |
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | TBD | Bournemouth 🇬🇧 | [@BSidesBournemth](https://x.com/BSidesBournemth) | - |
 | [BSidesBUD](https://bsidesbud.com) | TBD | Budapest 🇭🇺 | [@bsidesbud](https://x.com/bsidesbud) | - |
