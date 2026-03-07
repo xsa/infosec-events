@@ -93,6 +93,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [cackalackycon](https://www.cackalackycon.org/) | May 15-17, 2026 | Durham (NC) 🇺🇸 | [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | Y
 | [HackMiami](https://www.hackmiami.com/) | May 16, 2026 | Sunny Isles Beach (FL) 🇺🇸 | [@hackmiami](https://twitter.com/hackmiami) | N
 | [BSidesBA](https://bsidesba.sk) | May 16, 2026 | Bratislava 🇸🇰 | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | N
+| [BSidesBirmingham](https://www.bsidesbrum.com) | May 16, 2026 | Birmingham 🇬🇧 | [@BrumBsides](https://x.com/BrumBsides) | N |
 | [BSides312](https://bsides312.org/) | May 16, 2026 | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N
 | [BSidesTokyo](https://bsides.tokyo/en/) | May 16, 2026 | Tokyo 🇯🇵  | [@TokyoBSides](https://twitter.com/TokyoBSides) | N
 | [BSidesSãoPaulo](https://securitybsides.com.br) | May 16-17, 2026 | São Paulo 🇧🇷 | [@bsidessp](https://x.com/bsidessp) | N |
