@@ -80,7 +80,8 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesLimburg](https://www.bsides-limburg.be) | TBD | Hasselt 🇧🇪 | - | - |
 | [BSidesLjubljana](https://bsidesljubljana.si/) | TBD | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | - |
 | [BSidesLondon](https://bsides.london) | TBD | London 🇬🇧 | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social) | - |
-| [BSidesLondonCanada](https://www.bsideslondon.ca) | TBD | London (ON) 🇨🇦 | - | N |
+| [BSidesLondonCanada](https://www.bsideslondon.ca) | TBD | London (ON) 🇨🇦 | - | - |
+| [BSidesLuanda](http://www.bsidesluanda.org) | TBD | Luanda 🇦🇴 | - | - |
 | [BSidesLuxembourg](https://2026.bsides.lu/) | TBD | Belval 🇱🇺 | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | - |
 | [BSidesLV](https://bsideslv.org/) | TBD | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | - |
 | [BSidesMaine](https://www.bsidesmaine.org) | TBD | Portland (ME) 🇺🇸 | - | N |
