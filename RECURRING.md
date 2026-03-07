@@ -39,6 +39,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesBallarat](https://bsidesballarat.com.au) | TBD | Central Ballarat (VIC) 🇦🇺 | - | - |
 | [BSidesBelfast](https://bsidesbelfast.org) | TBD | Belfast 🇬🇧 | [@bsidesbelfast](https://x.com/bsidesbelfast) | - |
 | [BSidesBelgrade](https://www.bsidesbeg.org) | TBD | Belgrade 🇷🇸 | [@BSidesBelgrade](https://x.com/BSidesBelgrade) | - |
+| [BSidesBangalore](https://bsidesbangalore.in) | TBD | Bangalore 🇮🇳 | [@bsidesbangalore](https://x.com/bsidesbangalore) | - |
 | [BSidesBergen](https://bsidesbergen.no) | TBD | Bergen 🇳🇴 | [@BSidesBergen@infosec.exchange](https://infosec.exchange/@BSidesBergen) | - |
 | [BSidesBerlin](https://bsides.berlin) | TBD | Berlin :de: | [@SidesBer](https://x.com/SidesBer) | - |
 | [BSidesBolivia](https://www.facebook.com/BsidesBolivia) | TBD | Cochabamba 🇧🇴 | [@BSidesBo](https://x.com/BSidesBo) | - |
