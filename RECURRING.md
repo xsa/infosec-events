@@ -126,6 +126,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesSF](https://bsidessf.org/) | TBD | San Francisco (CA) 🇺🇸 | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | - |
 | [BSidesSLC](https://www.bsidesslc.org/) | TBD | Salt Lake City (UT) 🇺🇸 | [@BSidesSLC](http://www.x.com/bsidesslc) | - |
 | [BSidesSouthJersey](https://bsidessouthjersey.org) | TBD | Glassboro (NJ) 🇺🇸 | [@BSidesSJ](https://x.com/BSidesSJ) | - |
+| [BSidesSydney](https://www.bsides.sydney) | TBD | Sydney (NSW) 🇦🇺 | [@bsidessydney@infosec.exchange](https://infosec.exchange/@bsidessydney) | - |
 | [BSidesTallinn](https://tallinn.bsides.ee/) | TBD | Tallinn 🇪🇪 | [BSides Tallinn](https://www.facebook.com/groups/2546584348821321/) | - |
 | [BSidesTampa](https://events.bsidestampa.net/BSidesTampa2026) | TBD | Tampa (FL) 🇺🇸 | [@bsidestampa](https://x.com/bsidestampa) | - |
 | [BSidesTirana](https://bsidestirana.al) | TBD | Tirana :albania: | [@BSidesTirana](https://x.com/BSidesTirana) | - |
