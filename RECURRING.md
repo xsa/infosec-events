@@ -268,6 +268,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | TBD | Oxon Hill (MD) 🇺🇸 | [@WiCySorg](https://x.com/WiCySorg) | - |
 | [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | TBD | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
 | [Wild West Hackin’ Fest Deadwood](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2026/) | TBD | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
+| [Women in Cyber Security Summit](https://womenincybersummit.com) | TBD | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
 | [x33fcon](https://www.x33fcon.com/) | TBD | Gdynia 🇵🇱 | [@x33fcon](https://www.x.com/x33fcon) | - |
 | [Zer0Con](https://zer0con.org/) | TBD | Seoul :kr: | [@POC_Crew](https://x.com/@POC_Crew) | - |
 | [Zero-Day Conference](https://zero-day.ch) | TBD | Geneva 🇨🇭 | [@ZeroDayConf](https://x.com/ZeroDayConf) | - |
