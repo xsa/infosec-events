@@ -214,6 +214,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesOttawa](https://bsidesottawa.ca/) | Nov 19-20, 2026 | Ottawa (ON) 🇨🇦 | [@bsidesottawa](http://twitter.com/bsidesottawa) | N |
 | [BSidesAberystwyth](https://bsidesaberystwyth.org) | Nov 21, 2026 | Aberystwyth 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | - | N |
 | [Black Hat MEA](https://blackhatmea.com) | Dec 1-3, 2026 | Riyadh 🇸🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [BSidesDresden](https://bsidesdresden.com/) | Dec 5, 2026 | Dresden 🇩🇪 | [@bsidesdresden](https://x.com/bsidesdresden) | N |
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | Dec 7-10, 2026 | London 🇬🇧 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [PasswordsCon](https://passwordscon.org/) | Dec 7-10, 2026 | Cork 🇮🇪 | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y |
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | TBD | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N |
