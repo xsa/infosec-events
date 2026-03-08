@@ -71,6 +71,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesCharm](https://bsidescharm.org/) | Apr 25-26, 2026 | Towson (MD) 🇺🇸 | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@bsidescharm) | N
 | [DEF CON Singapore](https://defcon.org/html/defcon-singapore/dc-singapore-index.html) | Apr 26-30, 2026 | Singapore 🇸🇬 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [EDUCAUSE Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2026) | Apr 28-30, 2026 | Anaheim (CA) 🇺🇸 | - | N
+| [BrisSEC](https://aisasecuritydays.com.au/brissec) | Apr 29, 2026 | Brisbane (QLD) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | N |
 | [BSidesBUD](https://bsidesbud.com) | Apr 29, 2026 | Budapest 🇭🇺 | [@bsidesbud](https://x.com/bsidesbud) | N |
 | [Out Of The Box](https://ootb.net/) | Apr 29-30, 2026 | Jakarta 🇮🇩 | - | N
 | [THCon](https://thcon.party/) | May 5-6, 2026 | Toulouse 🇫🇷 | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N

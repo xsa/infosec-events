@@ -27,6 +27,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Blue Team Con](https://blueteamcon.com/) | TBD | Chicago (IL) 🇺🇸 | [@BlueTeamCon@infosec.exchange](https://infosec.exchange/@BlueTeamCon) | - |
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | TBD | Tel Aviv 🇮🇱 | [@BlueHatIL](https://x.com/BlueHatIL) | - |
 | [Botconf](https://www.botconf.eu/) | TBD | Reims 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | - |
+| [BrisSEC](https://aisasecuritydays.com.au/brissec) | TBD | Brisbane (QLD) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
 | [BruCON](https://www.brucon.org/) | TBD | Mechelen 🇧🇪 | [@brucon](https://x.com/brucon) | - |
 | [BSides312](https://bsides312.org/) | TBD | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | - |
 | [BSidesAarhus](https://bsidesaarhus.dk) | TBD | Aarhus 🇩🇰 | - | - |
