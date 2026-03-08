@@ -11,10 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [SunSecCon](https://www.sunseccon.org) | Mar 5-6, 2026 | Pasadena (CA) 🇺🇸 | [@SunSecCon](https://twitter.com/SunSecCon) | N |
-| [RootedCON](https://www.rootedcon.com/) | Mar 5-7, 2026 | Madrid 🇪🇸 | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | N
-| [RE//verse](https://re-verse.io/) | Mar 5-7, 2026 | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N
-| [BSidesZagreb](https://www.bsideszagreb.com) | Mar 6, 2026 | Zagreb 🇭🇷 | [@bsideszagreb](https://twitter.com/bsideszagreb) | Y
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Mar 10-11, 2026 | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
 | [CyberBay](https://cyberbay.org) | Mar 11-13, 2026 | Tampa (FL) 🇺🇸 | - | N |
