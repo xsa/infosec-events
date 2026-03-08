@@ -150,6 +150,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [CruiseCon Europe](https://cruisecon.com) | TBD | Southampton 🇬🇧 | - | - |
 | [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) :us: | [@CruiseConEvents](http://x.com/CruiseConEvents) | - |
 | [CyberBay](https://cyberbay.org) | TBD | Tampa (FL) 🇺🇸 | - | - |
+| [CyberConnect](https://www.cyberconnect.org.au) | TBD | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
 | [CYBERWARCON](https://www.cyberwarcon.com/) | TBD | Arlington (VA) :us: | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | - |
 | [CyCon](http://www.cycon.org) | TBD | Tallinn 🇪🇪 | [@ccdcoe](https://x.com/ccdcoe) | - |
 | [CypherCon](https://cyphercon.com/) | TBD | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | - |
