@@ -59,6 +59,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Botconf](https://www.botconf.eu/) | Apr 15-17, 2026 | Reims 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N
 | [BSidesGroningen](https://bsidesgrunn.org) | Apr 17, 2026 | Groningen 🇳🇱 | [@bsidesgrunn@infosec.exchange](https://infosec.exchange/@bsidesgrunn) | N |
 | [BSidesSouthJersey](https://bsidessouthjersey.org) | Apr 18, 2026 | Glassboro (NJ) 🇺🇸 | [@BSidesSJ](https://x.com/BSidesSJ) | N |
+| [Western Canada Information Security Conference](https://wcisc.ca) | Apr 21, 2026 | Winnipeg (MB) 🇨🇦 | - | N |
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti26/) | Apr 21-23, 2026 | Munich 🇩🇪 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [Zero-Day Conference](https://zero-day.ch) | Apr 22-23, 2026 | Geneva 🇨🇭 | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N |
 | [Namibia International Cybersecurity Conference](https://www.dstech.com.na/cyber-conference/) | Apr 22-24, 2026 | Windhoek 🇳🇦 | - | N |
