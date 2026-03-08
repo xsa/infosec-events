@@ -33,8 +33,16 @@ LOCATIONS = ROOT / "static" / "locations.json"
 # ---------------------------------------------------------------------------
 
 FLAG_RE = re.compile(r"[\U0001F1E0-\U0001F1FF]{2}", re.UNICODE)
+SUBDIVISION_FLAG_RE = re.compile(r"\U0001F3F4[\U000E0000-\U000E007F]+", re.UNICODE)
 PAREN_RE = re.compile(r"\(.*?\)")
 SHORTCODE_RE = re.compile(r":[a-z_]+:")
+
+# Map subdivision flags to ISO country codes for Nominatim queries
+SUBDIVISION_FLAG_TO_CC = {
+    "\U0001F3F4\U000E0067\U000E0062\U000E0077\U000E006C\U000E0073\U000E007F": "GB",  # Wales
+    "\U0001F3F4\U000E0067\U000E0062\U000E0065\U000E006E\U000E0067\U000E007F": "GB",  # England
+    "\U0001F3F4\U000E0067\U000E0062\U000E0073\U000E0063\U000E0074\U000E007F": "GB",  # Scotland
+}
 
 def extract_city(location_raw):
     """
@@ -42,8 +50,10 @@ def extract_city(location_raw):
     Strips flag emoji and shortcodes but KEEPS state/province in parens
     so that e.g. "London (ON) 🇨🇦" -> "London (ON)" rather than "London",
     avoiding collisions with same-named cities in different countries.
+    Also strips subdivision flags (Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿, England, Scotland).
     """
-    city = FLAG_RE.sub("", location_raw)
+    city = SUBDIVISION_FLAG_RE.sub("", location_raw)
+    city = FLAG_RE.sub("", city)
     city = SHORTCODE_RE.sub("", city)
     return city.strip()
 
@@ -79,13 +89,18 @@ def geocode(city, raw_location):
     Falls back to progressively broader queries if the first fails.
     Returns (lat, lng) or None.
     """
-    # Extract country hint from flag emoji using Unicode regional indicators
-    flags = FLAG_RE.findall(raw_location)
+    # Extract country hint — check subdivision flags first (Wales/England/Scotland)
+    # then fall back to standard regional indicator flags
     country_code = None
-    if flags:
-        flag = flags[0]
-        # Convert regional indicator pair to ISO 3166-1 alpha-2
-        country_code = "".join(chr(ord(c) - 0x1F1E6 + ord("A")) for c in flag)
+    sub_m = SUBDIVISION_FLAG_RE.search(raw_location)
+    if sub_m:
+        country_code = SUBDIVISION_FLAG_TO_CC.get(sub_m.group(0))
+    if not country_code:
+        flags = FLAG_RE.findall(raw_location)
+        if flags:
+            flag = flags[0]
+            # Convert regional indicator pair to ISO 3166-1 alpha-2
+            country_code = "".join(chr(ord(c) - 0x1F1E6 + ord("A")) for c in flag)
 
     # Include state/province in query if present e.g. "London (ON)" -> "London, ON, CA"
     paren_m = PAREN_RE.search(city)

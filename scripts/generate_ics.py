@@ -80,11 +80,12 @@ def parse_dates(date_str: str):
 LINK_RE = re.compile(r'\[(\[?[^\]]*\]?[^\]]*)\]\(([^)]+)\)')
 # Strip flag emojis and clean up location strings
 FLAG_RE = re.compile(r'[\U0001F1E0-\U0001F1FF]{2}')
+SUBDIVISION_FLAG_RE = re.compile(r'\U0001F3F4[\U000E0000-\U000E007F]+')
 
 
 def parse_table_row(line: str):
     """Parse a markdown table row and return a dict or None."""
-    cells = [c.strip() for c in line.strip().strip("|").split("|")]
+    cells = [re.sub(r'\s+', ' ', c.strip()) for c in line.strip().strip("|").split("|")]
     if len(cells) < 2:
         return None
 
@@ -102,6 +103,7 @@ def parse_table_row(line: str):
 
     # Cell 2: Location
     location = cells[2] if len(cells) > 2 else ""
+    location = SUBDIVISION_FLAG_RE.sub("", location)
     location = FLAG_RE.sub("", location).strip()
     # Remove markdown links from location
     location = LINK_RE.sub(r'\1', location)

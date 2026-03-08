@@ -86,11 +86,29 @@ FLAG_TO_COUNTRY = {
     "🇪🇸": "Spain", "🇸🇪": "Sweden", "🇨🇭": "Switzerland", "🇹🇼": "Taiwan",
     "🇹🇭": "Thailand", "🇹🇳": "Tunisia", "🇹🇷": "Turkey", "🇦🇪": "UAE",
     "🇺🇦": "Ukraine", "🇬🇧": "UK", "🇺🇸": "USA", "🇺🇿": "Uzbekistan",
-    "🇻🇪": "Venezuela", "🇻🇳": "Vietnam",
+    "🇻🇪": "Venezuela", "🇻🇳": "Vietnam", "🇳🇦": "Namibia",
 }
 
+# Subdivision flags for Wales, England, Scotland (not matched by FLAG_RE)
+SUBDIVISION_FLAG_TO_COUNTRY = {
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": "Wales",
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": "England",
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": "Scotland",
+}
+SUBDIVISION_FLAG_RE = re.compile(
+    r"🏴[󠀀-󠁿]+"
+)
+
 def flag_to_hashtag(location: str) -> str:
-    """Extract flag from location and return a country hashtag."""
+    """Extract flag from location and return a country hashtag.
+    Handles both standard regional indicator flags and subdivision flags
+    (Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿)."""
+    # Check subdivision flags first (Wales, England, Scotland)
+    m = SUBDIVISION_FLAG_RE.search(location)
+    if m:
+        country = SUBDIVISION_FLAG_TO_COUNTRY.get(m.group(0), "")
+        return f"#{country}" if country else ""
+    # Standard regional indicator flags
     m = FLAG_RE.search(location)
     if not m:
         return ""

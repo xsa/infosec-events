@@ -32,7 +32,9 @@
       // Extract location key: strip flag emoji and shortcodes but KEEP
       // state/province in parens so "London (ON) 🇨🇦" -> "London (ON)"
       // rather than "London", matching the key format in locations.json.
+      // Also strips subdivision flags (Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿, England, Scotland).
       const city = locationFull
+        .replace(/\u{1F3F4}[\u{E0000}-\u{E007F}]+/gu, "")
         .replace(/[\u{1F1E0}-\u{1F1FF}]{2}/gu, "")
         .replace(/:[a-z_]+:/g, "")
         .trim();
