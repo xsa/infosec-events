@@ -12,7 +12,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
-| [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Mar 10-11, 2026 | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N
 | [CyberBay](https://cyberbay.org) | Mar 11-13, 2026 | Tampa (FL) 🇺🇸 | - | N |
 | [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | Mar 11-13, 2026 | Oxon Hill (MD) 🇺🇸 | [@WiCySorg](https://twitter.com/WiCySorg) | N |
 | [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana)| N
@@ -212,6 +211,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Black Hat MEA](https://blackhatmea.com) | Dec 1-3, 2026 | Riyadh 🇸🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | Dec 7-10, 2026 | London 🇬🇧 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [PasswordsCon](https://passwordscon.org/) | Dec 7-10, 2026 | Cork 🇮🇪 | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y |
+| [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | TBD | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N |
 | [BSidesJoburg](https://bsidesjoburg.co.za) | TBD, 2026 | Johannesburg 🇿🇦 | [@bsidesjoburg@infosec.exchange](https://infosec.exchange/@bsidesjoburg) | N
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD, 2026 | Nairobi 🇰🇪 | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
 | [BSidesZurich](https://bsideszh.ch/) | TBD, 2026 | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | N
