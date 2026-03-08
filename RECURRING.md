@@ -131,6 +131,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesTokyo](https://bsides.tokyo/en/) | TBD | Tokyo 🇯🇵 | [@TokyoBSides](https://x.com/TokyoBSides) | - |
 | [BSidesUme](https://indico.neic.no/event/287/) | TBD | Umeå 🇸🇪 | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | - |
 | [BSidesVancouver](https://www.bsidesvancouver.com) | TBD | Vancouver (BC) 🇨🇦 | [@BSidesVancouver](https://x.com/BSidesVancouver) | - |
+| [BSidesVancouverIsland](https://www.bsidesvi.com) | TBD | Victoria (BC) 🇨🇦 | [@BSidesVI@infosec.exchange](https://infosec.exchange/@BSidesVI) | - |
 | [BSidesVilnius](https://bsidesvilnius.lt/) | TBD | Vilnius :lithuania: | [@bsidesvilnius](https://x.com/bsidesvilnius) | - |
 | [BSidesVitória](https://bsides.vix.br) | TBD | Vitória 🇧🇷 | [@bsidesvitoria](https://x.com/bsidesvitoria) | - |
 | [BSidesZadar](https://bsideszadar.org) | TBD | Zadar 🇭🇷 | [@BSidesZadar](https://x.com/BSidesZadar) | - |
