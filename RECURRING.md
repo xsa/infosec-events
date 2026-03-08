@@ -144,7 +144,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [CONFidence](https://confidence-conference.org/) | TBD | Kraków 🇵🇱 | [@CONFidenceConf](https://x.com/confidenceconf) | - |
 | [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | TBD | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | - |
 | [CornCon](https://corncon.net) | TBD | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | - |
-| [CrickeyCon](https://crikeycon.com) | TBD | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | - |
+| [CrikeyCon](https://crikeycon.com) | TBD | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | - |
 | [CruiseCon Europe](https://cruisecon.com) | TBD | Southampton 🇬🇧 | - | - |
 | [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) :us: | [@CruiseConEvents](http://x.com/CruiseConEvents) | - |
 | [CyberBay](https://cyberbay.org) | TBD | Tampa (FL) 🇺🇸 | - | - |
