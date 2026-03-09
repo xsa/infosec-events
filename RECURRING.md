@@ -11,6 +11,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [44CON](https://44con.com/) | TBD | London 🇬🇧 | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | - |
 | [ACM WiSec](https://wisec26.events.cispa.de/) | TBD | Saarbrücken 🇩🇪 | [@acm_wisec](https://x.com/acm_wisec) | - |
 | [AdelaideSEC](https://aisasecuritydays.com.au/adelaidesec) | TBD | Adelaide (SA) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
+| [AiSecCon](https://siberx.org/event/aiseccon-2026/) | TBD | Toronto (ON) 🇨🇦 | [@siberxorg](https://x.com/siberxorg) | - |
 | [Area41](https://a41con.ch/) | TBD | Zurich 🇨🇭 | [@a41con](https://x.com/a41con) | - |
 | [ATLSECCON](https://www.atlseccon.com) | TBD | Halifax (NS) 🇨🇦 | [@AtlSecCon@infosec.exchange](https://infosec.exchange/@atlseccon) | - |
 | [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026/) | TBD | Brussels 🇧🇪 | - | - |
