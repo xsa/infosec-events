@@ -275,4 +275,5 @@ Use this as a reference to ensure no recurring event is missed.
 | [Women in Cyber Security Summit](https://womenincybersummit.com) | TBD | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
 | [x33fcon](https://www.x33fcon.com/) | TBD | Gdynia 🇵🇱 | [@x33fcon](https://www.x.com/x33fcon) | - |
 | [Zer0Con](https://zer0con.org/) | TBD | Seoul :kr: | [@POC_Crew](https://x.com/@POC_Crew) | - |
+| [Zero Day Con](https://www.zerodaycon.com) | TBD | Dublin 🇮🇪 | [@zerodaycon](https://x.com/zerodaycon) | - |
 | [Zero-Day Conference](https://zero-day.ch) | TBD | Geneva 🇨🇭 | [@ZeroDayConf](https://x.com/ZeroDayConf) | - |
