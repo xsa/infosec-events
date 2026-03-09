@@ -65,6 +65,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesDublin](https://www.bsidesdub.ie/) | TBD | Dublin 🇮🇪 | [@BSidesDublin](https://x.com/BSidesDublin) | - |
 | [BSidesEdmonton](https://www.bsidesedmonton.org/) | TBD | Edmonton (AB) 🇨🇦 | [@bsidesedmonton@infosec.exchange](https://infosec.exchange/@bsidesedmonton) | - |
 | [BSidesExeter](https://bsidesexeter.co.uk) | TBD | Exeter 🇬🇧 | [@bsidesexeter@mastodon.social](https://mastodon.social/@bsidesexeter) | - |
+| [BSidesFloripa](https://www.bsidesfloripa.org) | TBD | Florianópolis 🇧🇷 | - | - |
 | [BSidesFortWayne](https://www.bsidesfortwayne.org) | TBD | Fort Wayne (IN) 🇺🇸 | [@bsidesfortwayne](https://x.com/bsidesfortwayne) | - |
 | [BSidesFrankfurt](https://bsidesfrankfurt.org/) | TBD | Frankfurt 🇩🇪 | [@BSidesFRA@infosec.exchange](https://infosec.exchange/@bsidesfra) | - |
 | [BSidesGalway](https://bsidesgalway.com) | TBD | Galway 🇮🇪 | [@bsidesgalway](https://x.com/bsidesgalway) | - |
