@@ -52,7 +52,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesBUD](https://bsidesbud.com) | TBD | Budapest 🇭🇺 | [@bsidesbud](https://x.com/bsidesbud) | - |
 | [BSidesBuffalo](https://www.bsidesbuffalo.org/) | TBD | Buffalo (NY) 🇺🇸 | [@BSidesBuffalo@infosec.exchange](https://infosec.exchange/@BSidesBuffalo) | - |
 | [BSidesCalgary](https://www.bsidescalgary.org) | TBD | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://x.com/bsides_calgary) | - |
-| [BsidesCambridgeMA](https://bsidescambridgema.org/) | TBD | Somerville (MA) :us: | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | - |
+| [BsidesCambridgeMA](https://bsidescambridgema.org/) | TBD | Somerville (MA) 🇺🇸 | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | - |
 | [BSidesCanberra](https://www.bsidesau.com.au/) | TBD | Canberra (ACT) 🇦🇺 | [@bsidescbr@infosec.exchange](https://infosec.exchange/@bsidescbr) | - |
 | [BSidesCharlotte](https://bsidesclt.org) | TBD | Charlotte (NC) 🇺🇸 | [@BSidesCLT@infosec.exchange](https://infosec.exchange/@BSidesCLT) | - |
 | [BSidesCharm](https://bsidescharm.org/) | TBD | Towson (MD) 🇺🇸 | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@bsidescharm) | - |
@@ -96,11 +96,11 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesMálaga](https://www.bsidesmalaga.com) | TBD | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | - |
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD | Nairobi 🇰🇪 | [@BSidesNairobi](https://x.com/BSidesNairobi) | - |
 | [BSidesNash](https://bsidesnash.org) | TBD | Nashville (TN) 🇺🇸 | [@bsidesnash](https://x.com/bsidesnash) | - |
-| [BSidesNEPA](https://bsidesnepa.org) | TBD | Scranton (PA) :us: | - | - |
+| [BSidesNEPA](https://bsidesnepa.org) | TBD | Scranton (PA) 🇺🇸 | - | - |
 | [BSidesNOLA](https://nolabsides.com) | TBD | New Orleans (LA) 🇺🇸 | - | - |
-| [BSidesNYC](https://bsidesnyc.org/) | TBD | New-York (NY) :us: | [@bsidesnyc.org](https://bsky.app/profile/bsidesnyc.org) | - |
+| [BSidesNYC](https://bsidesnyc.org/) | TBD | New-York (NY) 🇺🇸 | [@bsidesnyc.org](https://bsky.app/profile/bsidesnyc.org) | - |
 | [BSidesOK](https://bsidesok.com/) | TBD | Glenpool (OK) 🇺🇸 | [BSidesOK](https://x.com/BSidesOK) | - |
-| [BSidesOrlando](https://bsidesorlando.org/) | TBD | Orlando (FL) :us: | [@bsidesorlando@infosec.exchange](https://infosec.exchange/@bsidesorlando) | - |
+| [BSidesOrlando](https://bsidesorlando.org/) | TBD | Orlando (FL) 🇺🇸 | [@bsidesorlando@infosec.exchange](https://infosec.exchange/@bsidesorlando) | - |
 | [BSidesOslo](https://bsidesoslo.no) | TBD | Oslo 🇳🇴 | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | - |
 | [BSidesOttawa](https://bsidesottawa.ca/) | TBD | Ottawa (ON) 🇨🇦 | [@bsidesottawa](http://x.com/bsidesottawa) | - |
 | [BSidesOTUK](https://bsidesot.uk) | TBD | Bristol 🇬🇧 | - | - |
@@ -109,7 +109,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesPorto](https://bsidesporto.org) | TBD | Porto 🇵🇹 | [@bsidesporto](https://x.com/bsidesporto) | - |
 | [BSidesPrague](https://bsidesprg.cz/) | TBD | Prague 🇨🇿 | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | - |
 | [BSidesPrishtina](https://www.bsidesprishtina.org/) | TBD | Prishtina 🇽🇰 | [@bsidesprishtina](https://www.x.com/bsidesprishtina) | - |
-| [BSidesRDU](https://bsidesrdu.org) | TBD | Raleigh (NC) :us: | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | - |
+| [BSidesRDU](https://bsidesrdu.org) | TBD | Raleigh (NC) 🇺🇸 | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | - |
 | [BSidesRecife](https://www.bsidesrecife.com.br) | TBD | Recife 🇧🇷 | - | - |
 | [BSidesRegina](https://www.bsidesregina.ca) | TBD | Regina (SK) 🇨🇦 | - | - |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | TBD | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | - |
@@ -140,28 +140,28 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesZadar](https://bsideszadar.org) | TBD | Zadar 🇭🇷 | [@BSidesZadar](https://x.com/BSidesZadar) | - |
 | [BSidesZagreb](https://www.bsideszagreb.com) | TBD | Zagreb 🇭🇷 | [@bsideszagreb](https://x.com/bsideszagreb) | - |
 | [BSidesZurich](https://bsideszh.ch/) | TBD | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | - |
-| [Burning River Cyber Con](https://burningrivercybercon.com) | TBD | Cleveland (OH) :us: | [@BurningRiverCon](https://x.com/BurningRiverCon) | - |
+| [Burning River Cyber Con](https://burningrivercybercon.com) | TBD | Cleveland (OH) 🇺🇸 | [@BurningRiverCon](https://x.com/BurningRiverCon) | - |
 | [cackalackycon](https://www.cackalackycon.org/) | TBD | Durham (NC) 🇺🇸 | [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | - |
-| [CactusCon](https://www.cactuscon.com/) | TBD | Mesa (AZ) :us: | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | - |
+| [CactusCon](https://www.cactuscon.com/) | TBD | Mesa (AZ) 🇺🇸 | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | - |
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/never-gonna-breach-you-up/announcement) | TBD | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | - |
 | [CONFidence](https://confidence-conference.org/) | TBD | Kraków 🇵🇱 | [@CONFidenceConf](https://x.com/confidenceconf) | - |
 | [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | TBD | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | - |
 | [CornCon](https://corncon.net) | TBD | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | - |
 | [CrikeyCon](https://crikeycon.com) | TBD | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | - |
 | [CruiseCon Europe](https://cruisecon.com) | TBD | Southampton 🇬🇧 | - | - |
-| [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) :us: | [@CruiseConEvents](http://x.com/CruiseConEvents) | - |
+| [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | - |
 | [CyberBay](https://cyberbay.org) | TBD | Tampa (FL) 🇺🇸 | - | - |
 | [CyberConnect](https://www.cyberconnect.org.au) | TBD | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
-| [CYBERWARCON](https://www.cyberwarcon.com/) | TBD | Arlington (VA) :us: | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | - |
+| [CYBERWARCON](https://www.cyberwarcon.com/) | TBD | Arlington (VA) 🇺🇸 | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | - |
 | [CyCon](http://www.cycon.org) | TBD | Tallinn 🇪🇪 | [@ccdcoe](https://x.com/ccdcoe) | - |
-| [CypherCon](https://cyphercon.com/) | TBD | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | - |
+| [CypherCon](https://cyphercon.com/) | TBD | Milwaukee (WI) 🇺🇸 | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | - |
 | [DEATHCon](https://deathcon.io) | TBD | Multiple Locations | [@DEATHCon@infosec.exchange](https://infosec.exchange/@DEATHCon) | - |
 | [DEF CON](https://defcon.org/) | TBD | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | - |
 | [DEF CON Singapore](https://defcon.org/html/defcon-singapore/dc-singapore-index.html) | TBD | Singapore 🇸🇬 | [@defcon@defcon.social](https://defcon.social/@defcon) | - |
 | [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2026/) | TBD | Seoul 🇰🇷 | [@DFRWS](https://x.com/DFRWS) | - |
 | [DFRWS EU](https://dfrws.org/conferences/dfrws-eu-2026/) | TBD | Linköping 🇸🇪 | [@DFRWS](https://x.com/DFRWS) | - |
 | [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2026/) | TBD | Arlington (VA) 🇺🇸 | [@DFRWS](https://x.com/DFRWS) | - |
-| [DistrictCon](https://www.districtcon.org/) | TBD | Washington (DC) :us: | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | - |
+| [DistrictCon](https://www.districtcon.org/) | TBD | Washington (DC) 🇺🇸 | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | - |
 | [EDUCAUSE Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2026) | TBD | Anaheim (CA) 🇺🇸 | - | - |
 | [Ekoparty](https://ekoparty.org/) | TBD | Buenos Aires :argentina: | [@ekoparty](https://x.com/ekoparty) | - |
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | TBD | Buenos Aires 🇦🇷 | [@ekoparty](https://x.com/ekoparty) | - |
@@ -171,11 +171,11 @@ Use this as a reference to ensure no recurring event is missed.
 | [FIRST Conference](http://www.first.org/conference/2026) | TBD | Denver (CO) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | - |
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti26/) | TBD | Munich 🇩🇪 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | - |
 | [FIRST VulnCon](https://www.first.org/conference/vulncon26/) | TBD | Scottsdale (AZ) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | - |
-| [From The Source](https://volatilityfoundation.org/from-the-source-2025/) | TBD | Arlington (VA) :us: | [@volatility@infosec.exchange](https://infosec.exchange/@volatility) | - |
+| [From The Source](https://volatilityfoundation.org/from-the-source-2025/) | TBD | Arlington (VA) 🇺🇸 | [@volatility@infosec.exchange](https://infosec.exchange/@volatility) | - |
 | [FutureCon](https://futureconevents.com/events/st-louis-mo-2026/) | TBD | St. Louis (MO) 🇺🇸 | [@FutureConHQ](https://x.com/FutureConHQ) | - |
 | [GreHack](https://grehack.fr/) | TBD | Grenoble 🇫🇷 | [@GrehackConf](https://x.com/GrehackConf) | - |
 | [GrrCON](https://grrcon.com/) | TBD | Grand Rapids (MI) 🇺🇸 | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | - |
-| [Guild Con](https://guildcon.hackersguildpgh.com/) | TBD | Pittsburgh (PA) :us: | [@HackersGuildPGH](https://x.com/hackersguildpgh) | - |
+| [Guild Con](https://guildcon.hackersguildpgh.com/) | TBD | Pittsburgh (PA) 🇺🇸 | [@HackersGuildPGH](https://x.com/hackersguildpgh) | - |
 | [GÉANT Security Days](https://security.geant.org/geant-security-days-2026/) | TBD | Utrecht 🇳🇱 | [@geant@mstdn.social](https://mstdn.social/@geant) | - |
 | [Hack Glasgow](https://hackglasgow.live/) | TBD | Glasgow 🇬🇧 | [@hackglasgow.bsky.social](https://bsky.app/profile/hackglasgow.bsky.social) | - |
 | [Hack'In](https://hackin.fr/) | TBD | Aix-en-Provence 🇫🇷 | [@_hackiin](https://twitter.com/_hackiin) | - |
@@ -239,7 +239,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [RSA Conference](https://www.rsaconference.com/) | TBD | San Francisco (CA) 🇺🇸 | [@RSAConference](https://x.com/rsaconference) | - |
 | [RuhrSec](https://www.ruhrsec.de/2025/) | TBD | Bochum :de: | [@ruhrsec](https://x.com/ruhrsec) | - |
 | [RVAsec](https://rvasec.com/) | TBD | Richmond (VA) 🇺🇸 | [@RVAsec](https://x.com/rvasec) | - |
-| [SAINTCON](https://www.saintcon.org/) | TBD | Provo (UT) :us: | [@SAINTCON](https://x.com/SAINTCON) | - |
+| [SAINTCON](https://www.saintcon.org/) | TBD | Provo (UT) 🇺🇸 | [@SAINTCON](https://x.com/SAINTCON) | - |
 | [SEC-T](https://sec-t.org/) | TBD | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | - |
 | [SECCON](https://www.seccon.jp/14/seccon/opencon.html) | TBD | Tokyo 🇯🇵 | [@secconctf](https://x.com/secconctf) | - |
 | [SecSea](https://secsea.org) | TBD | La Ciotat :fr: | [@secseaconf](https://x.com/secseaconf) | - |
@@ -248,7 +248,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Security Fest](https://securityfest.com/) | TBD | Gothenburg 🇸🇪 | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | - |
 | [Security First](https://info.integrity360.com/security-first-2026-johannesburg) | TBD | Johannesburg 🇿🇦 | [@integrity360](https://x.com/integrity360/) | - |
 | [Security Leaders](https://securityleaders.com.br/eventos/security-leaders-brasilia-2026/) | TBD | Brasília 🇧🇷 | - | - |
-| [ShowMeCon](https://showmecon.com) | TBD | St-Louis (MO) :us: | [@showmeconstl](https://x.com/showmeconstl) | - |
+| [ShowMeCon](https://showmecon.com) | TBD | St-Louis (MO) 🇺🇸 | [@showmeconstl](https://x.com/showmeconstl) | - |
 | [SINCON](https://www.infosec-city.com/sin-25) | TBD | Singapore :singapore: | [@Infosec_City](https://x.com/infosec_city) | - |
 | [SO-CON](https://specterops.io/so-con/) | TBD | Arlington (VA) 🇺🇸 | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | - |
 | [SSTIC](https://www.sstic.org/) | TBD | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | - |
@@ -259,7 +259,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Swiss Cyber Security Days](https://www.scsd.ch) | TBD | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | - |
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | TBD | Bern 🇨🇭 | [@swisscyberstorm](https://x.com/swisscyberstorm) | - |
 | [THCon](https://thcon.party/) | TBD | Toulouse 🇫🇷 | [@ToulouseHacking](https://x.com/ToulouseHacking) | - |
-| [THOTCON](https://www.thotcon.org/) | TBD | Chicago (IL) :us: | [@THOTCON](https://x.com/THOTCON) | - |
+| [THOTCON](https://www.thotcon.org/) | TBD | Chicago (IL) 🇺🇸 | [@THOTCON](https://x.com/THOTCON) | - |
 | [TROOPERS](https://troopers.de/) | TBD | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | - |
 | [TumpiCon](https://tumpicon.org) | TBD | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | - |
 | [TyphoonCon](https://typhooncon.com/) | TBD | Seoul 🇰🇷 | [@typhooncon](https://x.com/typhooncon) | - |
@@ -268,7 +268,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [WarCon](https://warcon.pl) | TBD | Warsaw 🇵🇱 | [@WarConPL](https://x.com/WarConPL) | - |
 | [Western Canada Information Security Conference](https://wcisc.ca) | TBD | Winnipeg (MB) 🇨🇦 | - | - |
 | [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | TBD | Oxon Hill (MD) 🇺🇸 | [@WiCySorg](https://x.com/WiCySorg) | - |
-| [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | TBD | Deadwood (SD) :us: | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
+| [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | TBD | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
 | [Wild West Hackin’ Fest Deadwood](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2026/) | TBD | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
 | [Women in Cyber Security Summit](https://womenincybersummit.com) | TBD | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
 | [x33fcon](https://www.x33fcon.com/) | TBD | Gdynia 🇵🇱 | [@x33fcon](https://www.x.com/x33fcon) | - |
