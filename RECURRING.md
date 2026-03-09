@@ -44,7 +44,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesBangalore](https://bsidesbangalore.in) | TBD | Bangalore 🇮🇳 | [@bsidesbangalore](https://x.com/bsidesbangalore) | - |
 | [BSidesBasingstoke](https://www.bsidesbasingstoke.com) | TBD | Basingstoke 🇬🇧 | - | - |
 | [BSidesBergen](https://bsidesbergen.no) | TBD | Bergen 🇳🇴 | [@BSidesBergen@infosec.exchange](https://infosec.exchange/@BSidesBergen) | - |
-| [BSidesBerlin](https://bsides.berlin) | TBD | Berlin :de: | [@SidesBer](https://x.com/SidesBer) | - |
+| [BSidesBerlin](https://bsides.berlin) | TBD | Berlin 🇩🇪 | [@SidesBer](https://x.com/SidesBer) | - |
 | [BSidesBirmingham](https://www.bsidesbrum.com) | TBD | Birmingham 🇬🇧 | [@BrumBsides](https://x.com/BrumBsides) | N |
 | [BSidesBolivia](https://www.facebook.com/BsidesBolivia) | TBD | Cochabamba 🇧🇴 | [@BSidesBo](https://x.com/BSidesBo) | - |
 | [BSidesBoulder](https://bsidesboulder.org) | TBD | Boulder (CO) 🇺🇸 | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | - |
@@ -60,7 +60,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesDayton](https://bsidesdayton.com/) | TBD | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | - |
 | [BSidesDenHaag](https://bsidesthehague.nl) | TBD | Den Haag 🇳🇱 | - | - |
 | [BSidesDetroit](https://www.bsidesdetroit.org) | TBD | Detroit (MI) 🇺🇸 | [@bsidesdetroit](https://x.com/bsidesdetroit) | - |
-| [BSidesDresden](https://bsidesdresden.com/) | TBD | Dresden :de: | [@bsidesdresden](https://x.com/bsidesdresden) | - |
+| [BSidesDresden](https://bsidesdresden.com/) | TBD | Dresden 🇩🇪 | [@bsidesdresden](https://x.com/bsidesdresden) | - |
 | [BSidesDublin](https://www.bsidesdub.ie/) | TBD | Dublin 🇮🇪 | [@BSidesDublin](https://x.com/BSidesDublin) | - |
 | [BSidesEdmonton](https://www.bsidesedmonton.org/) | TBD | Edmonton (AB) 🇨🇦 | [@bsidesedmonton@infosec.exchange](https://infosec.exchange/@bsidesedmonton) | - |
 | [BSidesExeter](https://bsidesexeter.co.uk) | TBD | Exeter 🇬🇧 | [@bsidesexeter@mastodon.social](https://mastodon.social/@bsidesexeter) | - |
@@ -91,7 +91,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesMelbourne](https://www.bsidesmelbourne.com) | TBD | Melbourne (VIC) 🇦🇺 | [@BSidesMelbourne@infosec.exchange](https://infosec.exchange/@bsidesmelbourne) | - |
 | [BSidesMKE](https://www.bsidesmke.org/) | TBD | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://x.com/bsidesmke) | - |
 | [BSidesMontreal](https://bsidesmtl.ca) | TBD | Montreal (QC) 🇨🇦 | [@BSidesMontreal](https://x.com/BSidesMontreal) | - |
-| [BSidesMunich](https://2025.bsidesmunich.org) | TBD | Munich :de: | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | - |
+| [BSidesMunich](https://2025.bsidesmunich.org) | TBD | Munich 🇩🇪 | [@BSidesMunich@infosec.exchange](https://infosec.exchange/@BSidesMunich) | - |
 | [BSidesMussoorie](https://bsidesmussoorie.in) | TBD | Mussoorie 🇮🇳 | [@bsidesmussoorie](https://x.com/bsidesmussoorie) | - |
 | [BSidesMálaga](https://www.bsidesmalaga.com) | TBD | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | - |
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD | Nairobi 🇰🇪 | [@BSidesNairobi](https://x.com/BSidesNairobi) | - |
@@ -207,12 +207,12 @@ Use this as a reference to ensure no recurring event is missed.
 | [Namibia International Cybersecurity Conference](https://www.dstech.com.na/cyber-conference/) | TBD | Windhoek 🇳🇦 | - | - |
 | [No Hat](https://www.nohat.it/) | TBD | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
 | [NorthSec](https://nsec.io/) | TBD | Montreal (QC) 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | - |
-| [Nullcon Berlin](https://nullcon.net/berlin-2025) | TBD | Berlin :de: | [@nullcon](https://x.com/nullcon) | - |
+| [Nullcon Berlin](https://nullcon.net/berlin-2025) | TBD | Berlin 🇩🇪 | [@nullcon](https://x.com/nullcon) | - |
 | [Nullcon Goa](https://nullcon.net/goa-2026) | TBD | Goa 🇮🇳 | [@nullcon](https://x.com/nullcon) | - |
 | [Objective by the Sea](https://objectivebythesea.org) | TBD | Hawaii (HI) 🇺🇸 | [@objective_see](https://x.com/objective_see) | - |
 | [Off-by-One Conference](https://offbyone.sg/) | TBD | Singapore :singapore: | [@offbyoneconf](https://x.com/offbyoneconf) | - |
 | [Offensive AI Con](https://www.offensiveaicon.com) | TBD | San Diego (CA) 🇺🇸 | [@offensiveaicon](https://x.com/offensiveaicon) | - |
-| [Offensive Security Conference](https://www.offensivecon.org/) | TBD | Berlin :de: | [@offensive_con](https://x.com/offensive_con) | - |
+| [Offensive Security Conference](https://www.offensivecon.org/) | TBD | Berlin 🇩🇪 | [@offensive_con](https://x.com/offensive_con) | - |
 | [Offensive X](https://offensivex.org) | TBD | Athens :greece: | [@TheOffensiveX](https://x.com/TheOffensiveX) | - |
 | [OffensiveCon](https://www.offensivecon.org/) | TBD | Berlin 🇩🇪 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | - |
 | [OrangeCon](https://orangecon.nl/) | TBD | Amsterdam 🇳🇱 | [@orangecon@infosec.exchange](https://infosec.exchange/@orangecon) | - |
@@ -237,7 +237,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [ROOTCON](https://rootcon.org) | TBD | Clark 🇵🇭 | [@rootcon.bsky.social](https://bsky.app/profile/rootcon.bsky.social) | - |
 | [RootedCON](https://www.rootedcon.com/) | TBD | Madrid 🇪🇸 | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | - |
 | [RSA Conference](https://www.rsaconference.com/) | TBD | San Francisco (CA) 🇺🇸 | [@RSAConference](https://x.com/rsaconference) | - |
-| [RuhrSec](https://www.ruhrsec.de/2025/) | TBD | Bochum :de: | [@ruhrsec](https://x.com/ruhrsec) | - |
+| [RuhrSec](https://www.ruhrsec.de/2025/) | TBD | Bochum 🇩🇪 | [@ruhrsec](https://x.com/ruhrsec) | - |
 | [RVAsec](https://rvasec.com/) | TBD | Richmond (VA) 🇺🇸 | [@RVAsec](https://x.com/rvasec) | - |
 | [SAINTCON](https://www.saintcon.org/) | TBD | Provo (UT) 🇺🇸 | [@SAINTCON](https://x.com/SAINTCON) | - |
 | [SEC-T](https://sec-t.org/) | TBD | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | - |
