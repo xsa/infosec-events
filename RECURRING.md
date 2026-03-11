@@ -180,7 +180,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Guild Con](https://guildcon.hackersguildpgh.com/) | TBD | Pittsburgh (PA) 🇺🇸 | [@HackersGuildPGH](https://x.com/hackersguildpgh) | - |
 | [GÉANT Security Days](https://security.geant.org/geant-security-days-2026/) | TBD | Utrecht 🇳🇱 | [@geant@mstdn.social](https://mstdn.social/@geant) | - |
 | [Hack Glasgow](https://hackglasgow.live/) | TBD | Glasgow 🇬🇧 | [@hackglasgow.bsky.social](https://bsky.app/profile/hackglasgow.bsky.social) | - |
-| [Hack'In](https://hackin.fr/) | TBD | Aix-en-Provence 🇫🇷 | [@_hackiin](https://twitter.com/_hackiin) | - |
+| [Hack'In](https://hackin.fr/) | TBD | Aix-en-Provence 🇫🇷 | [@_hackiin](https://x.com/_hackiin) | - |
 | [hack.lu](https://hack.lu/) | TBD | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | - |
 | [HackCon](https://www.hackcon.org/) | TBD | Oslo 🇳🇴 | [@hackcon](https://x.com/hackcon) | - |
 | [Hacker Halted](https://www.hackerhalted.com) | TBD | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://x.com/hackerhalted) | - |
