@@ -111,6 +111,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków 🇵🇱 | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
 | [BSidesCalgary](https://www.bsidescalgary.org) | May 25-26, 2026 | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N |
 | [TyphoonCon](https://typhooncon.com/) | May 25-29, 2026 | Seoul 🇰🇷 | [@typhooncon](https://twitter.com/typhooncon) | N |
+| [Canadian Women in Cybersecurity](https://siberx.org/event/canadian-women-in-cybersecurity-2026/) | May 26, 2026 | Toronto (ON) 🇨🇦 | [@siberxorg](https://x.com/siberxorg) | N |
 | [CyCon](http://www.cycon.org) | May 26-29, 2026 | Tallinn 🇪🇪 | [@ccdcoe](https://x.com/ccdcoe) | N |
 | [Hardwear.io USA](https://hardwear.io/usa-2026/) | May 26-30, 2026 | Santa Clara (CA) 🇺🇸 | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [CyberConnect](https://www.cyberconnect.org.au) | May 27-28, 2026 | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | N |
