@@ -162,6 +162,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesLV](https://bsideslv.org/) | Aug 3-5, 2026 | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON](https://defcon.org/) | Aug 6-9, 2026 | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [Hack Glasgow](https://hackglasgow.live/) | Aug 15, 2026 | Glasgow 🇬🇧 | [@hackglasgow.bsky.social](https://bsky.app/profile/hackglasgow.bsky.social) | N
+| [Day Zero](https://www.crowdstrike.com/en-us/events/day-zero-2026/) | Aug 30 – Sep 1, 2026 | Las Vegas (NV) 🇺🇸  | [@CrowdStrike](https://x.com/CrowdStrike) | Invite-Only |
 | [BSidesFrankfurt](https://bsidesfrankfurt.org/) | Sep 10-11, 2026 | Frankfurt 🇩🇪 | [@BSidesFRA@infosec.exchange](https://infosec.exchange/@bsidesfra) | N
 | [SEC-T](https://sec-t.org/) | Sep 10-11, 2026 | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
 | [PraSec](https://www.prasec.cz) | Sep 10-11, 2026 | Prague 🇨🇿 | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
