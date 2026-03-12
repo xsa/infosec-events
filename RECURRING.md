@@ -184,6 +184,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Hack'In](https://hackin.fr/) | TBD | Aix-en-Provence 🇫🇷 | [@_hackiin](https://x.com/_hackiin) | - |
 | [hack.lu](https://hack.lu/) | TBD | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | - |
 | [HackCon](https://www.hackcon.org/) | TBD | Oslo 🇳🇴 | [@hackcon](https://x.com/hackcon) | - |
+| [HackConRD](https://hackconrd.org) | TBD | Santo Domingo 🇩🇴 | [@HackConRD](https://x.com/HackCon_RD) | - |
 | [Hacker Halted](https://www.hackerhalted.com) | TBD | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://x.com/hackerhalted) | - |
 | [HackGDL](https://www.hackgdl.net) | TBD | Guadalajara 🇲🇽 | [@HackGDL](https://x.com/HackGDL) | - |
 | [HackMiami](https://www.hackmiami.com/) | TBD | Sunny Isles Beach (FL) 🇺🇸 | [@hackmiami](https://x.com/hackmiami) | - |
