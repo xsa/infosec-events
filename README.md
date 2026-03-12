@@ -35,6 +35,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [RSA Conference](https://www.rsaconference.com/) | Mar 23-26, 2026 | San Francisco (CA) 🇺🇸 | [@RSAConference](https://twitter.com/rsaconference) | N
 | [DFRWS EU](https://dfrws.org/conferences/dfrws-eu-2026/) | Mar 24-27, 2026 | Linköping 🇸🇪 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [BSidesLancashire](https://www.bsideslancashire.org) | Mar 26, 2026 | Lancashire 🇬🇧 | [@bsideslanc](https://twitter.com/bsideslanc) | N |
+| [HackConRD](https://hackconrd.org) | Mar 27-28, 2026 | Santo Domingo 🇩🇴  | [@HackConRD](https://x.com/HackCon_RD) | N |
 | [BSidesKolkata](https://www.bsideskolkata.in) | Mar 28-29, 2026 | Kolkata 🇮🇳 | [@BsidesKolkata](https://twitter.com/BsidesKolkata) | N |
 | [BSidesBelgrade](https://www.bsidesbeg.org) | Mar 28, 2026 | Belgrade 🇷🇸 | [@BSidesBelgrade](https://twitter.com/BSidesBelgrade) | N |
 | [BSidesRioDeJaneiro](https://bsidesrj.com.br) | Mar 28, 2026 | Rio De Janeiro 🇧🇷 | [@BSidesRJ](https://twitter.com/BSidesRJ) | N |
