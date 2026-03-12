@@ -157,6 +157,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [CYBERWARCON](https://www.cyberwarcon.com/) | TBD | Arlington (VA) 🇺🇸 | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | - |
 | [CyCon](http://www.cycon.org) | TBD | Tallinn 🇪🇪 | [@ccdcoe](https://x.com/ccdcoe) | - |
 | [CypherCon](https://cyphercon.com/) | TBD | Milwaukee (WI) 🇺🇸 | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | - |
+| [Day Zero](https://www.crowdstrike.com/en-us/events/day-zero-2026/) | TBD | Las Vegas (NV) 🇺🇸  | [@CrowdStrike](https://x.com/CrowdStrike) | Invite-Only |
 | [DEATHCon](https://deathcon.io) | TBD | Multiple Locations | [@DEATHCon@infosec.exchange](https://infosec.exchange/@DEATHCon) | - |
 | [DEF CON](https://defcon.org/) | TBD | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | - |
 | [DEF CON Singapore](https://defcon.org/html/defcon-singapore/dc-singapore-index.html) | TBD | Singapore 🇸🇬 | [@defcon@defcon.social](https://defcon.social/@defcon) | - |
