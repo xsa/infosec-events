@@ -30,6 +30,10 @@
     "🇺🇦": "Europe", "🇧🇾": "Europe", "🇷🇺": "Europe", "🇲🇰": "Europe",
     "🇽🇰": "Europe", "🇦🇩": "Europe", "🇱🇮": "Europe", "🇲🇨": "Europe",
     "🇸🇲": "Europe", "🇻🇦": "Europe",
+    // Subdivision flags (Wales, England, Scotland)
+    "\u{1F3F4}\u{E0067}\u{E0062}\u{E0077}\u{E006C}\u{E0073}\u{E007F}": "Europe", // Wales
+    "\u{1F3F4}\u{E0067}\u{E0062}\u{E0065}\u{E006E}\u{E0067}\u{E007F}": "Europe", // England
+    "\u{1F3F4}\u{E0067}\u{E0062}\u{E0073}\u{E0063}\u{E0074}\u{E007F}": "Europe", // Scotland
     "🇯🇵": "Asia", "🇨🇳": "Asia", "🇰🇷": "Asia", "🇮🇳": "Asia",
     "🇸🇬": "Asia", "🇭🇰": "Asia", "🇹🇼": "Asia", "🇮🇱": "Asia",
     "🇦🇪": "Asia", "🇸🇦": "Asia", "🇶🇦": "Asia", "🇰🇼": "Asia",
@@ -44,6 +48,7 @@
     "🇬🇭": "Africa", "🇹🇳": "Africa", "🇲🇦": "Africa", "🇩🇿": "Africa",
     "🇪🇹": "Africa", "🇺🇬": "Africa", "🇷🇼": "Africa", "🇸🇳": "Africa",
     "🇿🇲": "Africa", "🇿🇼": "Africa", "🇲🇿": "Africa", "🇹🇿": "Africa",
+    "🇳🇦": "Africa", "🇲🇺": "Africa",
   };
 
   const CONTINENT_ORDER = ["Americas", "Europe", "Asia", "Oceania", "Africa"];
@@ -101,6 +106,10 @@
   // Existing helpers (unchanged)
   // ---------------------------------------------------------------------------
   function extractFlag(text) {
+    // Check for subdivision flag first (Wales, England, Scotland)
+    const subM = text.match(/\u{1F3F4}[\u{E0000}-\u{E007F}]+/u);
+    if (subM) return subM[0];
+    // Fall back to standard regional indicator flag pair
     const m = text.match(/[\u{1F1E0}-\u{1F1FF}]{2}/u);
     return m ? m[0] : null;
   }
