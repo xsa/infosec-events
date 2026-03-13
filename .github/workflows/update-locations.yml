@@ -13,7 +13,7 @@ jobs:
     if: github.actor != 'github-actions[bot]'
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 2
@@ -21,7 +21,6 @@ jobs:
       - name: Check for new event rows in README
         id: check
         run: |
-          # Look for added lines that look like markdown table rows with content
           NEW_ROWS=$(git diff HEAD~1 HEAD -- README.md | grep '^+|' | grep -v '^+++' | grep -v '^\+|---' | grep -v '^\+| Event' || true)
           if [ -z "$NEW_ROWS" ]; then
             echo "No new event rows detected, skipping geocoding."
@@ -34,7 +33,7 @@ jobs:
 
       - name: Set up Python
         if: steps.check.outputs.skip == 'false'
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -52,6 +51,9 @@ jobs:
             echo "No changes to locations.json"
           else
             git commit -m "chore: auto-geocode new event locations"
-            git pull --rebase
-            git push
+            for i in 1 2 3; do
+              git pull --rebase && git push && break
+              echo "Retry $i..."
+              sleep 5
+            done
           fi
