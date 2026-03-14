@@ -11,12 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [JSSI](https://www.ossir.org/conference/jssi-2026/) | Mar 10, 2026 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N
-| [CyberBay](https://cyberbay.org) | Mar 11-13, 2026 | Tampa (FL) 🇺🇸 | - | N |
-| [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | Mar 11-13, 2026 | Oxon Hill (MD) 🇺🇸 | [@WiCySorg](https://twitter.com/WiCySorg) | N |
-| [Women in Cyber Security Summit](https://womenincybersummit.com) | Mar 12, 2026 | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | N |
-| [BSidesLjubljana](https://bsidesljubljana.si/) | Mar 13, 2026 | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana)| N
-| [BSidesLimburg](https://www.bsides-limburg.be) | Mar 13, 2026 | Hasselt 🇧🇪 | - | N
 | [Ph0wn](https://ph0wn.org) | Mar 13-14, 2026 | Sophia Antipolis 🇫🇷 | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | Y |
 | [HackGDL](https://www.hackgdl.net) | Mar 13-14, 2026 | Guadalajara 🇲🇽 | [@HackGDL](https://twitter.com/HackGDL) | N |
 | [Insomni’Hack](https://insomnihack.ch/) | Mar 16-20, 2026 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
