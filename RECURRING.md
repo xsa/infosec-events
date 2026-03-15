@@ -256,6 +256,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Security First Jamaica](https://info.integrity360.com/security-first-2026-jamaica) | TBD | Kingston 🇯🇲 | [@integrity360](https://x.com/integrity360/) | - |
 | [Security First Johannesburg](https://info.integrity360.com/security-first-2026-johannesburg) | TBD | Johannesburg 🇿🇦 | [@integrity360](https://x.com/integrity360/) | - |
 | [Security First Mauritius](https://info.integrity360.com/security-first-2026-mauritius) | TBD | Balaclava 🇲🇺 | [@integrity360](https://x.com/integrity360/) | - |
+| [Security First Trinidad](https://info.integrity360.com/security-first-2026-trinidad) | TBD | Port of Spain 🇹🇹 | [@integrity360](https://x.com/integrity360/) | - |
 | [Security Leaders](https://securityleaders.com.br/eventos/security-leaders-brasilia-2026/) | TBD | Brasília 🇧🇷 | - | - |
 | [ShowMeCon](https://showmecon.com) | TBD | St-Louis (MO) 🇺🇸 | [@showmeconstl](https://x.com/showmeconstl) | - |
 | [SINCON](https://www.infosec-city.com/sin-25) | TBD | Singapore :singapore: | [@Infosec_City](https://x.com/infosec_city) | - |

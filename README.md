@@ -74,6 +74,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesBUD](https://bsidesbud.com) | Apr 29, 2026 | Budapest 🇭🇺 | [@bsidesbud](https://x.com/bsidesbud) | N |
 | [Zero Day Con](https://www.zerodaycon.com) | Apr 29, 2026 | Dublin 🇮🇪 | [@zerodaycon](https://x.com/zerodaycon) | N |
 | [Out Of The Box](https://ootb.net/) | Apr 29-30, 2026 | Jakarta 🇮🇩 | - | N
+| [Security First Trinidad](https://info.integrity360.com/security-first-2026-trinidad) | Apr 30, 2026 | Port of Spain 🇹🇹 | [@integrity360](https://x.com/integrity360/) | N |
 | [THCon](https://thcon.party/) | May 5-6, 2026 | Toulouse 🇫🇷 | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [PIVOTcon](https://pivotcon.org/) | May 6-8, 2026 | Malaga 🇪🇸 | [@pivot_con](https://twitter.com/pivot_con) | Invite only
 | [BSidesLuxembourg](https://2026.bsides.lu/) | May 6-8, 2026 | Belval 🇱🇺 | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
