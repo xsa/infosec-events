@@ -205,6 +205,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Kernelcon](https://kernelcon.org/) | TBD | Omaha (NE) 🇺🇸 | [@\_kernelcon\_](http://x.com/_kernelcon_) | - |
 | [LABScon](https://www.labscon.io/) | TBD | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://x.com/labscon_io) | - |
 | [Layer 8 Conference](https://layer8conference.com/) | TBD | Boston (MA) 🇺🇸 | [@layer8con](https://x.com/layer8con) | - |
+| [LayerOne](https://www.layerone.org/) | TBD | Los Angeles (CA) 🇺🇸  | [@layeroneconference.bsky.social](https://bsky.app/profile/layeroneconference.bsky.social) | - |
 | [leHACK](https://lehack.org/) | TBD | Paris 🇫🇷 | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | - |
 | [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | TBD | Prague 🇨🇿 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | - |
 | [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | TBD | Minneapolis (MN) 🇺🇸 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | - |
