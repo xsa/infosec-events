@@ -104,6 +104,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesDublin](https://www.bsidesdub.ie/) | May 23, 2026 | Dublin 🇮🇪 | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
 | [BSidesLondonCanada](https://www.bsideslondon.ca) | May 23, 2026 | London (ON) 🇨🇦 | - | N |
 | [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
+| [LayerOne](https://www.layerone.org/) | May 23-24, 2026 | Los Angeles (CA) 🇺🇸  | [@layeroneconference.bsky.social](https://bsky.app/profile/layeroneconference.bsky.social) | Y
 | [AiSecCon](https://siberx.org/event/aiseccon-2026/) | May 25, 2026 | Toronto (ON) 🇨🇦 | [@siberxorg](https://x.com/siberxorg) | N |
 | [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków 🇵🇱 | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
 | [BSidesCalgary](https://www.bsidescalgary.org) | May 25-26, 2026 | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N |
