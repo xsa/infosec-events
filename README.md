@@ -116,6 +116,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Security Fest](https://securityfest.com/) | May 28-29, 2026 | Gothenburg 🇸🇪 | [@securityfest.bsky.social](https://bsky.app/profile/securityfest.bsky.social) | N
 | [BSidesHBG](https://www.bsideshbg.com/) | May 29, 2026 | Harrisburg (PA) 🇺🇸 | [@BsidesHbg](https://x.com/BsidesHbg) | N
 | [Sthack](https://sthack.fr/) | May 29, 2026 | Bordeaux 🇫🇷  | [@sth4ck](https://twitter.com/sth4ck) | N
+| [C1B3RTR4CKS](https://www.c1b3rtr4cks.es/) | May 29, 2026 | Madrid 🇪🇸 | [@c1b3rtr4cks](https://x.com/c1b3rtr4cks) | N
 | [AUVERGN'HACK](https://www.auvergnhack.fr/) | May 29-30, 2026 | Clermont-Ferrand 🇫🇷 | - | N
 | [WarCon](https://warcon.pl) | May 29-30, 2026 | Warsaw 🇵🇱 | [@WarConPL](https://twitter.com/WarConPL) | - |
 | [ESIEA Secure Edition](https://ese.esiea.fr/) | May 30, 2026 | Paris 🇫🇷 | [@EsieaSecEdit](https://twitter.com/EsieaSecEdit) | N |
