@@ -143,6 +143,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesZagreb](https://www.bsideszagreb.com) | TBD | Zagreb 🇭🇷 | [@bsideszagreb](https://x.com/bsideszagreb) | - |
 | [BSidesZurich](https://bsideszh.ch/) | TBD | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | - |
 | [Burning River Cyber Con](https://burningrivercybercon.com) | TBD | Cleveland (OH) 🇺🇸 | [@BurningRiverCon](https://x.com/BurningRiverCon) | - |
+| [C1B3RTR4CKS](https://www.c1b3rtr4cks.es/) | TBD | Madrid 🇪🇸 | [@c1b3rtr4cks](https://x.com/c1b3rtr4cks) | - |
 | [cackalackycon](https://www.cackalackycon.org/) | TBD | Durham (NC) 🇺🇸 | [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | - |
 | [CactusCon](https://www.cactuscon.com/) | TBD | Mesa (AZ) 🇺🇸 | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | - |
 | [Canadian Women in Cybersecurity](https://siberx.org/event/canadian-women-in-cybersecurity-2026/) | TBD | Toronto (ON) 🇨🇦 | [@siberxorg](https://x.com/siberxorg) | - |
