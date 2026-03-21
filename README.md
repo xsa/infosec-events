@@ -11,16 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Maritime Cyber Resilience Summit Europe](https://www.mtsisac.org/event-details/2026-maritime-cybersecurity-summit) | Mar 16-17, 2026 | Athens 🇬🇷 | - | N |
-| [Insomni’Hack](https://insomnihack.ch/) | Mar 16-20, 2026 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N
-| [NZ Cyber Security Summit](https://brightstar.co.nz/events/cybersecurity/) | Mar 17-18, 2026 | Tākina (WGN) 🇳🇿 | - | N |
-| [Prague Cyber Security Conference](https://www.praguecyber.com) | Mar 17-18, 2026 | Prague 🇨🇿 | [@NUKIB_CZ](https://twitter.com/NUKIB_CZ) | N |
-| [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 17-18, 2026 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N
-| [BSidesRegina](https://www.bsidesregina.ca) | Mar 17, 2026 | Regina (SK) 🇨🇦 | - | N
-| [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | Mar 17-19, 2026 | Shkodër 🇦🇱 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N |
-| [BSidesDenHaag](https://bsidesthehague.nl) | Mar 19, 2026 | Den Haag 🇳🇱 | - | N |
-| [BSidesMálaga](https://www.bsidesmalaga.com) | Mar 20, 2026 | Málaga 🇪🇸 | [@bsidesmalaga@infosec.exchange](https://infosec.exchange/@bsidesmalaga) | N
-| [tl;dr sec Community Kickoff @ BSidesSF & RSA 2026](https://luma.com/ljd8kxzr) | Mar 20, 2026 | San Francisco (CA) 🇺🇸 | [@clintgibler](https://x.com/clintgibler) | Y |
 | [CrikeyCon](https://crikeycon.com) | Mar 21, 2026 | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | N |
 | [BSidesROC](https://bsidesroc.com) | Mar 21, 2026 | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
 | [m0leCon](https://m0lecon.it/) | Mar 21, 2026 | Turin 🇮🇹 | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
