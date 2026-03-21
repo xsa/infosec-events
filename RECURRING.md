@@ -167,6 +167,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [DFRWS EU](https://dfrws.org/conferences/dfrws-eu-2026/) | TBD | Linköping 🇸🇪 | [@DFRWS](https://x.com/DFRWS) | - |
 | [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2026/) | TBD | Arlington (VA) 🇺🇸 | [@DFRWS](https://x.com/DFRWS) | - |
 | [DistrictCon](https://www.districtcon.org/) | TBD | Washington (DC) 🇺🇸 | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | - |
+| [DunaSec](https://dunasec.com.br) | TBD | Natal 🇧🇷 | - | N |
 | [EDUCAUSE Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2026) | TBD | Anaheim (CA) 🇺🇸 | - | - |
 | [Ekoparty](https://ekoparty.org/) | TBD | Buenos Aires :argentina: | [@ekoparty](https://x.com/ekoparty) | - |
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | TBD | Buenos Aires 🇦🇷 | [@ekoparty](https://x.com/ekoparty) | - |
