@@ -11,11 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [CrikeyCon](https://crikeycon.com) | Mar 21, 2026 | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | N |
-| [BSidesROC](https://bsidesroc.com) | Mar 21, 2026 | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N
-| [m0leCon](https://m0lecon.it/) | Mar 21, 2026 | Turin 🇮🇹 | [@pwnthem0le](https://twitter.com/pwnthem0le) | N
-| [BSidesSofia](https://securitybsides.bg) | Mar 21-22, 2026 | Sofia 🇧🇬 | - | N |
-| [BSidesSF](https://bsidessf.org/) | Mar 21-22, 2026 | San Francisco (CA) 🇺🇸 | [@bsidessf@infosec.exchange](https://infosec.exchange/@bsidessf) | N |
 | [HackTheBay](https://www.hackthebay.org) | Mar 23, 2026 | San Francisco (CA) 🇺🇸 | [@HackTheBayCon](https://twitter.com/HackTheBayCon) | N |
 | [RSA Conference](https://www.rsaconference.com/) | Mar 23-26, 2026 | San Francisco (CA) 🇺🇸 | [@RSAConference](https://twitter.com/rsaconference) | N
 | [DFRWS EU](https://dfrws.org/conferences/dfrws-eu-2026/) | Mar 24-27, 2026 | Linköping 🇸🇪 | [@DFRWS](https://twitter.com/DFRWS) | N |
