@@ -111,6 +111,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesPorto](https://bsidesporto.org) | TBD | Porto 🇵🇹 | [@bsidesporto](https://x.com/bsidesporto) | - |
 | [BSidesPrague](https://bsidesprg.cz/) | TBD | Prague 🇨🇿 | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | - |
 | [BSidesPrishtina](https://www.bsidesprishtina.org/) | TBD | Prishtina 🇽🇰 | [@bsidesprishtina](https://www.x.com/bsidesprishtina) | - |
+| [BSidesQuerétaro](https://bsidesqueretaro.org.mx/) | TBD | Santiago de Querétaro 🇲🇽  | [@BSidesQueretaro](https://twitter.com/bsidesqueretaro) | - |
 | [BSidesRDU](https://bsidesrdu.org) | TBD | Raleigh (NC) 🇺🇸 | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | - |
 | [BSidesRecife](https://www.bsidesrecife.com.br) | TBD | Recife 🇧🇷 | - | - |
 | [BSidesRegina](https://www.bsidesregina.ca) | TBD | Regina (SK) 🇨🇦 | - | - |
