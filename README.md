@@ -11,11 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [HackConRD](https://hackconrd.org) | Mar 27-28, 2026 | Santo Domingo 🇩🇴  | [@HackConRD](https://x.com/HackCon_RD) | N |
-| [BSidesKolkata](https://www.bsideskolkata.in) | Mar 28-29, 2026 | Kolkata 🇮🇳 | [@BsidesKolkata](https://twitter.com/BsidesKolkata) | N |
-| [BSidesBelgrade](https://www.bsidesbeg.org) | Mar 28, 2026 | Belgrade 🇷🇸 | [@BSidesBelgrade](https://twitter.com/BSidesBelgrade) | N |
-| [BSidesRioDeJaneiro](https://bsidesrj.com.br) | Mar 28, 2026 | Rio De Janeiro 🇧🇷 | [@BSidesRJ](https://twitter.com/BSidesRJ) | N |
-| [BSidesCharlotte](https://bsidesclt.org) | Mar 28, 2026 | Charlotte (NC) 🇺🇸 | [@BSidesCLT@infosec.exchange](https://infosec.exchange/@BSidesCLT) | N |
 | [CypherCon](https://cyphercon.com/) | Apr 1-2, 2026 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
 | [OT.SEC.CON](https://www.otseccon.com) | Apr 1-2, 2026 | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.com/CybrSecCon) | N |
 | [BSidesRéunion](https://bsides-reunion.re) | Apr 2, 2026 | Saint-Pierre, Réunion 🇫🇷| - | Y |
