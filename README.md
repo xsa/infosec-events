@@ -161,6 +161,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [GrrCON](https://grrcon.com/) | Sep 24-25, 2026 | Grand Rapids (MI) 🇺🇸 | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | N |
 | [BSidesEdmonton](https://www.bsidesedmonton.org/) | Sep 24-25, 2026 | Edmonton (AB) 🇨🇦 | [@bsidesedmonton@infosec.exchange](https://infosec.exchange/@bsidesedmonton) | N |
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 24-26, 2026 | Canberra (ACT) 🇦🇺 | [@bsidescbr@infosec.exchange](https://infosec.exchange/@bsidescbr) | N |
+| [BSidesAhmedabad](https://bsidesahmedabad.in/) | Sep 24-27, 2026 | Ahmedabad 🇮🇳 | [@bsidesahmedabad](https://x.com/bsidesahmedabad) | N |
 | [BSidesAlbuquerque](https://bsidesabq.org) | Sep 25-26, 2026 | Albuquerque (NM) 🇺🇸 | - | N |
 | [BSidesVancouverIsland](https://www.bsidesvi.com) | Sep 25, 2026 | Victoria (BC) 🇨🇦 | [@BSidesVI@infosec.exchange](https://infosec.exchange/@BSidesVI) | N |
 | [BSidesKraków](https://bsideskrakow.pl) | Sep 26, 2026 | Kraków 🇵🇱 | [@bsideskrakow](https://x.com/bsideskrakow) | N |
