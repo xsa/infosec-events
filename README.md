@@ -97,6 +97,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [WarCon](https://warcon.pl) | May 29-30, 2026 | Warsaw 🇵🇱 | [@WarConPL](https://twitter.com/WarConPL) | - |
 | [ESIEA Secure Edition](https://ese.esiea.fr/) | May 30, 2026 | Paris 🇫🇷 | [@EsieaSecEdit](https://twitter.com/EsieaSecEdit) | N |
 | [DunaSec](https://dunasec.com.br) | May 30, 2026 | Natal 🇧🇷 | - | N |
+| [The Diana Initiative](https://www.dianainitiative.org) | May 30, 2026 | Virtual | [@DianaInitiative@defcon.social](https://defcon.social/@DianaInitiative) | N |
 | [BSidesMaine](https://www.bsidesmaine.org) | May 30, 2026 | Portland (ME) 🇺🇸 | - | N |
 | [BSidesDetroit](https://www.bsidesdetroit.org) | May 30, 2026 | Detroit (MI) 🇺🇸 | [@bsidesdetroit](https://x.com/bsidesdetroit) | N |
 | [BSidesVancouver](https://www.bsidesvancouver.com) | May 30 - Jun 1, 2026 | Vancouver (BC) 🇨🇦 | [@BSidesVancouver](https://twitter.com/BSidesVancouver) | N |
