@@ -135,6 +135,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SummerCon](https://www.summercon.org/) | Jul 10-11, 2026 | Brooklyn (NY) 🇺🇸 | [@SummerC0n@infosec.exchange](https://infosec.exchange/@SummerC0n) | N |
 | [CruiseCon Europe](https://cruisecon.com) | Jul 19-24, 2026 | Southampton 🇬🇧 | - | N |
 | [PETS](https://www.petsymposium.org/2026/) | Jul 20-25, 2026 | Calgary (AB) 🇨🇦 | [@PET_Symposium@infosec.exchange](https://infosec.exchange/@PET_Symposium) | N |
+| [BSidesJoburg](https://bsidesjoburg.co.za) | Jul 25, 2026 | Johannesburg 🇿🇦 | [@bsidesjoburg@infosec.exchange](https://infosec.exchange/@bsidesjoburg) | N |
 | [BSidesAdelaide](https://www.bsidesadelaide.com.au) | Jul 27-28, 2026 | Adelaide (SA) 🇦🇺 | [@BSidesAdelaide](https://x.com/BSidesAdelaide) | N |
 | [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2026/) | Jul 27-30, 2026 | Arlington (VA) 🇺🇸 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [Black Hat USA](https://www.blackhat.com/us-26/) | Aug 1-6, 2026 | Las Vegas (NV) 🇺🇸 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
@@ -205,7 +206,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | Dec 7-10, 2026 | London 🇬🇧 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [PasswordsCon](https://passwordscon.org/) | Dec 7-10, 2026 | Cork 🇮🇪 | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y |
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | TBD | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N |
-| [BSidesJoburg](https://bsidesjoburg.co.za) | TBD, 2026 | Johannesburg 🇿🇦 | [@bsidesjoburg@infosec.exchange](https://infosec.exchange/@bsidesjoburg) | N
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD, 2026 | Nairobi 🇰🇪 | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
 | [BSidesZurich](https://bsideszh.ch/) | TBD, 2026 | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | N
 | [HOPE](https://www.hope.net) | TBD, 2026 | New York (NY) 🇺🇸 | [@hopeconf@mastodon.online](https://mastodon.online/@hopeconf) | N |
