@@ -11,13 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [CypherCon](https://cyphercon.com/) | Apr 1-2, 2026 | Milwaukee (WI) :us: | [@CypherCon@infosec.exchange](https://infosec.exchange/@CypherCon) | N
-| [OT.SEC.CON](https://www.otseccon.com) | Apr 1-2, 2026 | Houston (TX) 🇺🇸 | [@CybrSecCon](https://twitter.com/CybrSecCon) | N |
-| [BSidesRéunion](https://bsides-reunion.re) | Apr 2, 2026 | Saint-Pierre, Réunion 🇫🇷| - | Y |
-| [Zer0Con](https://zer0con.org/) | Apr 2-3, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://x.com/@POC_Crew) | N |
-| [BSidesMKE](https://www.bsidesmke.org/) | Apr 3, 2026 | Milwaukee (WI) 🇺🇸 | [@bsidesmke](https://twitter.com/bsidesmke) | N
-| [BSidesMussoorie](https://bsidesmussoorie.in) | Apr 4-7, 2026 | Mussoorie 🇮🇳 | [@bsidesmussoorie](https://x.com/bsidesmussoorie) | N |
-| [BSidesSD](https://www.bsidessd.org/) | Apr 4, 2026 | San Diego (CA) 🇺🇸 | [@bsidessd.bsky.social](https://bsky.app/profile/bsidessd.bsky.social) | N
 | [GÉANT Security Days](https://security.geant.org/geant-security-days-2026/) | Apr 7-9, 2026 | Utrecht 🇳🇱 | [@geant@mstdn.social](https://mstdn.social/@geant) | N |
 | [BSidesOK](https://bsidesok.com/) | Apr 8-10, 2026 | Glenpool (OK) 🇺🇸 | [BSidesOK](https://twitter.com/BSidesOK) | N |
 | [ATLSECCON](https://www.atlseccon.com) | Apr 9-10, 2026 | Halifax (NS) 🇨🇦 | [@AtlSecCon@infosec.exchange](https://infosec.exchange/@atlseccon) | N |
