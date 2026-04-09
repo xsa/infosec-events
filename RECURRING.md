@@ -281,6 +281,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | TBD | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | - |
 | [WarCon](https://warcon.pl) | TBD | Warsaw 🇵🇱 | [@WarConPL](https://x.com/WarConPL) | - |
 | [Western Canada Information Security Conference](https://wcisc.ca) | TBD | Winnipeg (MB) 🇨🇦 | - | - |
+| [WICCON](https://wiccon.nl/) | TBD | Haarlem 🇳🇱 | [@womenofwicca.bsky.social](https://bsky.app/profile/womenofwicca.bsky.social) | - |
 | [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | TBD | Oxon Hill (MD) 🇺🇸 | [@WiCySorg](https://x.com/WiCySorg) | - |
 | [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | TBD | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
 | [Wild West Hackin’ Fest Deadwood](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2026/) | TBD | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | - |
