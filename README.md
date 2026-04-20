@@ -131,6 +131,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesZadar](https://bsideszadar.org) | Sep 11, 2026 | Zadar 🇭🇷 | [@BSidesZadar](https://x.com/BSidesZadar) | N |
 | [BSidesBelfast](https://bsidesbelfast.org) | Sep 11, 2026 | Belfast 🇬🇧 | [@bsidesbelfast](https://x.com/bsidesbelfast) | N |
 | [LABScon](https://www.labscon.io/) | Sep 16-19, 2026 | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
+| [NOPcon](https://nopcon.tr/) | Sep 17, 2026 | Istanbul 🇹🇷 | [@NOPcon](https://x.com/nopcon) | Y |
 | [44CON](https://44con.com/) | Sep 17-18, 2026 | London 🇬🇧 | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N |
 | [Balkan Computer Congress](https://www.balccon.org) | Sep 18-20, 2026 | Novi Sad 🇷🇸 | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N |
 | [BSidesMontreal](https://bsidesmtl.ca) | Sep 19, 2026 | Montreal (QC) 🇨🇦 | [@BSidesMontreal](https://x.com/BSidesMontreal) | N |
