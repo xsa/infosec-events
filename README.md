@@ -11,17 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Western Canada Information Security Conference](https://wcisc.ca) | Apr 21, 2026 | Winnipeg (MB) 🇨🇦 | - | N |
-| [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti26/) | Apr 21-23, 2026 | Munich 🇩🇪 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
-| [Zero-Day Conference](https://zero-day.ch) | Apr 22-23, 2026 | Geneva 🇨🇭 | [@ZeroDayConf](https://twitter.com/ZeroDayConf) | N |
-| [Namibia International Cybersecurity Conference](https://www.dstech.com.na/cyber-conference/) | Apr 22-24, 2026 | Windhoek 🇳🇦 | - | N |
-| [BSidesColombia](https://bsidesco.org) | Apr 22-25, 2026 | Pereira 🇨🇴 | [@BSides_CO](https://x.com/BSides_CO) | N
-| [Black Hat Asia](https://www.blackhat.com/asia-26/) | Apr 23-24, 2026 | Singapore 🇸🇬 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [BSidesPrague](https://bsidesprg.cz/) | Apr 23-24, 2026 | Prague 🇨🇿 | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | N
-| [BSidesExeter](https://bsidesexeter.co.uk) | Apr 24-25, 2026 | Exeter 🇬🇧 | [@bsidesexeter@mastodon.social](https://mastodon.social/@bsidesexeter) | N
-| [BSidesKC](https://bsideskc.org) | Apr 25, 2026 | Kansas City (MO) 🇺🇸 | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N |
-| [BSidesFloripa](https://www.bsidesfloripa.org) | Apr 25, 2026 | Florianópolis 🇧🇷 | - | N |
-| [BSidesCharm](https://bsidescharm.org/) | Apr 25-26, 2026 | Towson (MD) 🇺🇸 | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@bsidescharm) | N
 | [DEF CON Singapore](https://defcon.org/html/defcon-singapore/dc-singapore-index.html) | Apr 26-30, 2026 | Singapore 🇸🇬 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [Security First Jamaica](https://info.integrity360.com/security-first-2026-jamaica) | Apr 28, 2026 | Kingston 🇯🇲 | [@integrity360](https://x.com/integrity360/) | N |
 | [EDUCAUSE Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2026) | Apr 28-30, 2026 | Anaheim (CA) 🇺🇸 | - | N
