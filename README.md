@@ -11,14 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [DEF CON Singapore](https://defcon.org/html/defcon-singapore/dc-singapore-index.html) | Apr 26-30, 2026 | Singapore 🇸🇬 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
-| [Security First Jamaica](https://info.integrity360.com/security-first-2026-jamaica) | Apr 28, 2026 | Kingston 🇯🇲 | [@integrity360](https://x.com/integrity360/) | N |
-| [EDUCAUSE Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2026) | Apr 28-30, 2026 | Anaheim (CA) 🇺🇸 | - | N
-| [BrisSEC](https://aisasecuritydays.com.au/brissec) | Apr 29, 2026 | Brisbane (QLD) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | N |
-| [BSidesBUD](https://bsidesbud.com) | Apr 29, 2026 | Budapest 🇭🇺 | [@bsidesbud](https://x.com/bsidesbud) | N |
-| [Zero Day Con](https://www.zerodaycon.com) | Apr 29, 2026 | Dublin 🇮🇪 | [@zerodaycon](https://x.com/zerodaycon) | N |
-| [Out Of The Box](https://ootb.net/) | Apr 29-30, 2026 | Jakarta 🇮🇩 | - | N
-| [Security First Trinidad](https://info.integrity360.com/security-first-2026-trinidad) | Apr 30, 2026 | Port of Spain 🇹🇹 | [@integrity360](https://x.com/integrity360/) | N |
 | [THCon](https://thcon.party/) | May 5-6, 2026 | Toulouse 🇫🇷 | [@ToulouseHacking](https://twitter.com/ToulouseHacking) | N
 | [PIVOTcon](https://pivotcon.org/) | May 6-8, 2026 | Malaga 🇪🇸 | [@pivot_con](https://twitter.com/pivot_con) | Invite only
 | [BSidesLuxembourg](https://2026.bsides.lu/) | May 6-8, 2026 | Belval 🇱🇺 | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
