@@ -16,6 +16,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesLuxembourg](https://2026.bsides.lu/) | May 6-8, 2026 | Belval 🇱🇺 | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | N
 | [BsidesKerala](https://bsideskerala.in) | May 7-9, 2026 | Kerala 🇮🇳 | - | N |
 | [BSidesKent](https://bsideskent.org) | May 8, 2026 | Canterbury 🇬🇧 | - | N |
+| [HackBCN](https://hackbcn.org) | May 8-9, 2026 | Barcelona 🇪🇸 | [@hackbcn](https://x.com/hackbcn) | N |
 | [BSidesBergen](https://bsidesbergen.no) | May 12, 2026 | Bergen 🇳🇴 | [@BSidesBergen@infosec.exchange](https://infosec.exchange/@BSidesBergen) | N |
 | [BSidesNOLA](https://nolabsides.com) | May 12, 2026 | New Orleans (LA) 🇺🇸 | - | N |
 | [Security First Mauritius](https://info.integrity360.com/security-first-2026-mauritius) | May 13, 2026 | Balaclava 🇲🇺 | [@integrity360](https://x.com/integrity360/) | N |

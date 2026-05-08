@@ -187,6 +187,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Hack Glasgow](https://hackglasgow.live/) | TBD | Glasgow 🇬🇧 | [@hackglasgow.bsky.social](https://bsky.app/profile/hackglasgow.bsky.social) | - |
 | [Hack'In](https://hackin.fr/) | TBD | Aix-en-Provence 🇫🇷 | [@_hackiin](https://x.com/_hackiin) | - |
 | [hack.lu](https://hack.lu/) | TBD | Luxembourg :luxembourg: | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | - |
+| [HackBCN](https://hackbcn.org) | TBD | Barcelona 🇪🇸 | [@hackbcn](https://x.com/hackbcn) | N |
 | [HackCon](https://www.hackcon.org/) | TBD | Oslo 🇳🇴 | [@hackcon](https://x.com/hackcon) | - |
 | [HackConRD](https://hackconrd.org) | TBD | Santo Domingo 🇩🇴 | [@HackConRD](https://x.com/HackCon_RD) | - |
 | [Hacker Halted](https://www.hackerhalted.com) | TBD | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://x.com/hackerhalted) | - |
