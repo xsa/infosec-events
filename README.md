@@ -11,20 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Ekoparty Miami](https://ekoparty.org/miami/) | May 21-22, 2026 | Miami (FL) 🇺🇸 | [@ekoparty](https://twitter.com/ekoparty) | N
-| [Linux Security Summit North America](https://events.linuxfoundation.org/linux-security-summit-north-america/) | May 21-22, 2026 | Minneapolis (MN) 🇺🇸 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | N |
-| [BSidesKnoxville](https://www.10-sec.org/bsides-knoxville) | May 22, 2026 | Knoxville (TN) 🇺🇸 | [@bsidesknoxville@infosec.exchange](https://infosec.exchange/@bsidesknoxville) | N |
-| [BSidesPrishtina](https://www.bsidesprishtina.org/) | May 22-23, 2026 | Prishtina 🇽🇰 | [@bsidesprishtina](https://www.twitter.com/bsidesprishtina) | Y
-| [BSidesGoldCoast](https://bsidesgoldie.com/) | May 23, 2026 | Southport (QLD) 🇦🇺 | [@BSidesGC](https://twitter.com/bsidesgc) | Y
-| [BSidesDublin](https://www.bsidesdub.ie/) | May 23, 2026 | Dublin 🇮🇪 | [@BSidesDublin](https://twitter.com/BSidesDublin) | N
-| [BSidesLondonCanada](https://www.bsideslondon.ca) | May 23, 2026 | London (ON) 🇨🇦 | - | N |
-| [BSidesDayton](https://bsidesdayton.com/) | May 23, 2026 | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | N
-| [LayerOne](https://www.layerone.org/) | May 23-24, 2026 | Los Angeles (CA) 🇺🇸  | [@layeroneconference.bsky.social](https://bsky.app/profile/layeroneconference.bsky.social) | Y
-| [AiSecCon](https://siberx.org/event/aiseccon-2026/) | May 25, 2026 | Toronto (ON) 🇨🇦 | [@siberxorg](https://x.com/siberxorg) | N |
-| [CONFidence](https://confidence-conference.org/) | May 25-26, 2026 | Kraków 🇵🇱 | [@CONFidenceConf](https://twitter.com/confidenceconf) | N
-| [BSidesCalgary](https://www.bsidescalgary.org) | May 25-26, 2026 | Calgary (AB) 🇨🇦 | [@BSides_Calgary](https://twitter.com/bsides_calgary) | N |
-| [TyphoonCon](https://typhooncon.com/) | May 25-29, 2026 | Seoul 🇰🇷 | [@typhooncon](https://twitter.com/typhooncon) | N |
-| [Canadian Women in Cybersecurity](https://siberx.org/event/canadian-women-in-cybersecurity-2026/) | May 26, 2026 | Toronto (ON) 🇨🇦 | [@siberxorg](https://x.com/siberxorg) | N |
 | [CyCon](http://www.cycon.org) | May 26-29, 2026 | Tallinn 🇪🇪 | [@ccdcoe](https://x.com/ccdcoe) | N |
 | [Hardwear.io USA](https://hardwear.io/usa-2026/) | May 26-30, 2026 | Santa Clara (CA) 🇺🇸 | [@hardwear_io](https://twitter.com/hardwear_io) | N
 | [CyberConnect](https://www.cyberconnect.org.au) | May 27-28, 2026 | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | N |
