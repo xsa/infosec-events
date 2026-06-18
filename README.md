@@ -35,6 +35,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesLV](https://bsideslv.org/) | Aug 3-5, 2026 | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON](https://defcon.org/) | Aug 6-9, 2026 | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity26) | Aug 12-14, 2026 | Baltimore (MD) 🇺🇸 | [@USENIXSecurity](https://x.com/USENIXSecurity) | N
+| [HOPE](https://www.hope.net) | Aug 14-16, 2026 | New York (NY) 🇺🇸 | [@hopeconf@mastodon.online](https://mastodon.online/@hopeconf) | N |
 | [Hack Glasgow](https://hackglasgow.live/) | Aug 15, 2026 | Glasgow 🇬🇧 | [@hackglasgow.bsky.social](https://bsky.app/profile/hackglasgow.bsky.social) | N
 | [Barbhack](https://www.barbhack.fr/2026/) | Aug 29, 2026 | Toulon 🇫🇷  | [@\_barbhack\_ ](https://x.com/_barbhack_) | N |
 | [Day Zero](https://www.crowdstrike.com/en-us/events/day-zero-2026/) | Aug 30 – Sep 1, 2026 | Las Vegas (NV) 🇺🇸  | [@CrowdStrike](https://x.com/CrowdStrike) | Invite-Only |
@@ -113,7 +114,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [PasswordsCon](https://passwordscon.org/) | Dec 7-10, 2026 | Cork 🇮🇪 | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y |
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD, 2026 | Nairobi 🇰🇪 | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
 | [BSidesZurich](https://bsideszh.ch/) | TBD, 2026 | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | N
-| [HOPE](https://www.hope.net) | TBD, 2026 | New York (NY) 🇺🇸 | [@hopeconf@mastodon.online](https://mastodon.online/@hopeconf) | N |
 | [Insomni’Hack](https://insomnihack.ch/) | Feb 4-5, 2027 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N |
 | [HackCon](https://www.hackcon.org/) | Feb 10-11, 2027 | Oslo 🇳🇴 | [@hackcon](https://twitter.com/hackcon) | N |
 | [Swiss Cyber Security Days](https://www.scsd.ch) | Feb. 23-24, 2027 | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N |
