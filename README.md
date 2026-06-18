@@ -11,12 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [x33fcon](https://www.x33fcon.com/) | Jun 11-12, 2026 | Gdynia 🇵🇱 | [@x33fcon](https://www.twitter.com/x33fcon) | N |
-| [BSidesLeeds](https://bsidesleeds.com) | Jun 13, 2026 | Leeds 🇬🇧 | [@bsidesleeds@infosec.exchange](https://infosec.exchange/@bsidesleeds) | N |
-| [BSidesBoulder](https://bsidesboulder.org) | Jun 13, 2026 | Boulder (CO) 🇺🇸 | [@BSidesBoulder@infosec.exchange](https://infosec.exchange/@bsidesboulder) | N
-| [BSidesSATX](https://www.bsidessatx.com/) | Jun 13, 2026 | San Antonio (TX) 🇺🇸 | [@BSidesSATX@infosec.exchange](https://infosec.exchange/@BSidesSATX) | N |
-| [FIRST Conference](http://www.first.org/conference/2026) | Jun 14-19, 2026 | Denver (CO) 🇺🇸 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
-| [BSidesUme](https://indico.neic.no/event/287/) | Jun 16-17, 2026 | Umeå 🇸🇪 | [@BSidesUme@social.accum.se](https://social.accum.se/@BSidesUme) | N
 | [Area41](https://a41con.ch/) | Jun 18-19, 2026 | Zurich 🇨🇭  | [@a41con](https://twitter.com/a41con) | N
 | [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal (QC) 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
 | [BSidesAarhus](https://bsidesaarhus.dk) | Jun 20, 2026 | Aarhus 🇩🇰 | - | N |
