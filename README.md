@@ -11,11 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Area41](https://a41con.ch/) | Jun 18-19, 2026 | Zurich 🇨🇭  | [@a41con](https://twitter.com/a41con) | N
-| [REcon](https://recon.cx/) | Jun 19-21, 2026 | Montreal (QC) 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N
-| [BSidesAarhus](https://bsidesaarhus.dk) | Jun 20, 2026 | Aarhus 🇩🇰 | - | N |
-| [BSidesVitória](https://bsides.vix.br) | Jun 20, 2026 | Vitória 🇧🇷 | [@bsidesvitoria](https://x.com/bsidesvitoria) | N |
-| [BSidesBolivia](https://www.facebook.com/BsidesBolivia) | Jun 20, 2026 | Cochabamba 🇧🇴 | [@BSidesBo](https://x.com/BSidesBo) | N |
 | [OWASP Global AppSec EU](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/) | Jun 22-26, 2026 | Vienna 🇦🇹 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Jun 23-24, 2026 | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N |
 | [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
