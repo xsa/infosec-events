@@ -11,15 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [OWASP Global AppSec EU](https://owasp.glueup.com/event/owasp-global-appsec-eu-2026-vienna-austria-162243/) | Jun 22-26, 2026 | Vienna 🇦🇹 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
-| [BlueHat IL](https://www.microsoftrnd.co.il/bluehatil/home) | Jun 23-24, 2026 | Tel Aviv 🇮🇱 | [@BlueHatIL](https://twitter.com/BlueHatIL) | N |
-| [TROOPERS](https://troopers.de/) | Jun 24-26, 2026 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N
-| [BSidesTLV](https://bsidestlv.com/) | Jun 25, 2026 | Tel Aviv 🇮🇱 | [@BsidesTLV](https://twitter.com/bsidestlv) | N |
-| [leHACK](https://lehack.org/) | Jun 26-27, 2026 | Paris 🇫🇷 | [@leHACK@infosec.exchange](https://infosec.exchange/@leHACK) | N
-| [BSidesPorto](https://bsidesporto.org) | Jun 26-27, 2026 | Porto 🇵🇹 | [@bsidesporto](https://x.com/bsidesporto) | N |
-| [BSidesAthens](https://www.bsidesath.gr/) | Jun 27, 2026 | Athens 🇬🇷 | [@BSidesAth](https://twitter.com/BSidesAth) | Y
-| [Pass the SALT](https://2026.pass-the-salt.org/) | Jun 30 - Jul 2, 2026 | Lille 🇫🇷 | [@passthesaltcon@infosec.exchange](https://infosec.exchange/@passthesaltcon/) | N
-| [ACM WiSec](https://wisec26.events.cispa.de/) | Jun 30 - Jul 3, 2026 | Saarbrücken 🇩🇪 | [@acm_wisec](https://twitter.com/acm_wisec) | N
 | [SummerCon](https://www.summercon.org/) | Jul 10-11, 2026 | Brooklyn (NY) 🇺🇸 | [@SummerC0n@infosec.exchange](https://infosec.exchange/@SummerC0n) | N |
 | [CruiseCon Europe](https://cruisecon.com) | Jul 19-24, 2026 | Southampton 🇬🇧 | - | N |
 | [PETS](https://www.petsymposium.org/2026/) | Jul 20-25, 2026 | Calgary (AB) 🇨🇦 | [@PET_Symposium@infosec.exchange](https://infosec.exchange/@PET_Symposium) | N |
