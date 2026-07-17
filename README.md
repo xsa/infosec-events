@@ -72,6 +72,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Hacktivity](https://www.hacktivity.com/) | Oct 21, 2026 | Budapest 🇭🇺 | [@HacktivityConf](https://twitter.com/hacktivityconf) | N
 | [TRISS](https://www.threeriversinfosec.com/) | Oct 22, 2026 | Pittsburgh (PA) 🇺🇸  | [@ThreeRiversISec](https://x.com/ThreeRiversISec) | N |
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
+| [RSTCON](https://rstcon.org/) | Oct 23-25, 2026 | Charlotte (NC) 🇺🇸 | [@rst_con](https://x.com/rst_con) | N |
 | [BSidesAugusta](https://bsidesaugusta.org) | Oct 24, 2026 | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
 | [OffensiveCon Tokyo](https://www.offensivecon.jp/) | Oct 27-28, 2026 | Tokyo 🇯🇵 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N |
 | [MITRE ATT&CKcon](https://na.eventscloud.com/website/93925/) | Oct 27-28, 2026 | McLean (VA) 🇺🇸  | [@MITREcorp](https://x.com/MITREcorp) | N |
