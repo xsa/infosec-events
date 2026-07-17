@@ -94,6 +94,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Objective by the Sea](https://objectivebythesea.org) | Nov 15-20, 2026 | Hawaii (HI) 🇺🇸 | [@objective_see](https://twitter.com/objective_see) | N
 | [SuriCon](https://www.suricon.net) | Nov 18-20, 2026 | Lisbon 🇵🇹 | [@suricata@infosec.exchange](https://infosec.exchange/@suricata) | N |
 | [BSidesOttawa](https://bsidesottawa.ca/) | Nov 19-20, 2026 | Ottawa (ON) 🇨🇦 | [@bsidesottawa](http://twitter.com/bsidesottawa) | N |
+| [Guild Con](https://guildcon.hackersguildpgh.com/) | Nov 21, 2026 | Pittsburgh (PA) 🇺🇸 | [@HackersGuildPGH](https://x.com/hackersguildpgh) | N |
 | [BSidesAberystwyth](https://bsidesaberystwyth.org) | Nov 21, 2026 | Aberystwyth 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | - | N |
 | [Black Hat MEA](https://blackhatmea.com) | Dec 1-3, 2026 | Riyadh 🇸🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [BSidesDresden](https://bsidesdresden.com/) | Dec 5, 2026 | Dresden 🇩🇪 | [@bsidesdresden](https://x.com/bsidesdresden) | N |
