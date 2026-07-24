@@ -1,0 +1,71 @@
+baseURL = "https://xsa.github.io/infosec-events/"
+title = "Cyber, InfoSec Events"
+languageCode = "en-us"
+publishDir = "public"
+enableEmoji = true
+
+[params]
+  subtitle = "Community‑curated cybersecurity conferences, meetups, and CTFs"
+  fullWidthTheme = true
+  centerTheme = false
+  showLastUpdated = false
+  themeColor = "green"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Cyber, InfoSec Events"
+
+    [languages.en.params.logo]
+      logoText = "Cyber, InfoSec Events"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "archives"
+        name = "Archive"
+        url = "/archives/"
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 3
+
+[module]
+  # Mount content folder first (About, archives intro)
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+
+  # Mount year files
+  [[module.mounts]]
+    source = "."
+    target = "content/archives"
+    includeFiles = ["19??.md", "20??.md"]
+
+  # Mount README.md last → homepage
+  [[module.mounts]]
+    source = "README.md"
+    target = "content/_index.md"
+
+  # Terminal theme
+  [[module.imports]]
+    path = "github.com/panr/hugo-theme-terminal/v4"
+    disable = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  archives = "/archives/:slug/"
+
+[outputs]
+  home = ["HTML", "RSS"]

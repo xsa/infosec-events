@@ -1,0 +1,328 @@
+/**
+ * infosec-events-map.js
+ * Renders a collapsible Leaflet map of upcoming events.
+ * Reads event data directly from the existing table on the page.
+ * Requires locations.json to be served from the same base path.
+ * No build step. Drop into static/js/ and include in layout.
+ */
+
+(function () {
+  "use strict";
+
+  // ---------------------------------------------------------------------------
+  // Parse events from the table already on the page
+  // ---------------------------------------------------------------------------
+
+  function parseEvents() {
+    const events = [];
+    document.querySelectorAll("table tbody tr").forEach(row => {
+      const cells = row.querySelectorAll("td");
+      if (cells.length < 3) return;
+
+      const nameCell = cells[0];
+      const dateCell = cells[1];
+      const locationCell = cells[2];
+
+      const link = nameCell.querySelector("a");
+      const name = nameCell.textContent.trim();
+      const url = link ? link.href : null;
+      const date = dateCell.textContent.trim();
+      const locationFull = locationCell.textContent.trim();
+
+      // Extract location key: strip flag emoji and shortcodes but KEEP
+      // state/province in parens so "London (ON) 🇨🇦" -> "London (ON)"
+      // rather than "London", matching the key format in locations.json.
+      // Also strips subdivision flags (Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿, England, Scotland).
+      const city = locationFull
+        .replace(/\u{1F3F4}[\u{E0000}-\u{E007F}]+/gu, "")
+        .replace(/[\u{1F1E0}-\u{1F1FF}]{2}/gu, "")
+        .replace(/:[a-z_]+:/g, "")
+        .trim();
+
+      if (city) events.push({ name, url, date, city, locationFull });
+    });
+    return events;
+  }
+
+  // ---------------------------------------------------------------------------
+  // Inject styles
+  // ---------------------------------------------------------------------------
+
+  function injectStyles() {
+    const s = document.createElement("style");
+    s.textContent = `
+      #ef-map-details {
+        border: 1px solid var(--accent, #f4bf75);
+        margin-bottom: 1.5rem;
+        font-family: monospace;
+        font-size: 0.85rem;
+      }
+
+      #ef-map-details summary {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.55rem 1rem;
+        cursor: pointer;
+        user-select: none;
+        list-style: none;
+      }
+      #ef-map-details summary::-webkit-details-marker { display: none; }
+
+      #ef-map-details .ef-map-summary-left {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+      }
+
+      #ef-map-details .ef-map-title {
+        color: var(--accent, #f4bf75);
+        font-weight: bold;
+        letter-spacing: 0.04em;
+      }
+
+      #ef-map-details .ef-map-subtitle {
+        color: var(--comment, #75715e);
+        font-size: 0.78rem;
+      }
+
+      #ef-map-details .ef-map-arrow {
+        color: var(--comment, #75715e);
+        font-size: 0.7rem;
+        transition: transform 0.18s;
+      }
+      #ef-map-details[open] .ef-map-arrow { transform: rotate(180deg); }
+
+      #ef-map-container {
+        border-top: 1px solid var(--border, #383a3b);
+        height: 420px;
+        position: relative;
+      }
+
+      /* Leaflet popup styling to match terminal theme */
+      .ef-popup {
+        font-family: monospace;
+        font-size: 0.82rem;
+        line-height: 1.4;
+      }
+      .ef-popup strong {
+        color: #232627;
+      }
+      .ef-popup .ef-popup-date {
+        color: #555;
+        font-size: 0.76rem;
+      }
+      .ef-popup a {
+        color: #f4bf75;
+        text-decoration: none;
+      }
+      .ef-popup a:hover {
+        text-decoration: underline;
+      }
+
+      /* Override Leaflet default tile attribution to be less intrusive */
+      .leaflet-control-attribution {
+        font-size: 0.65rem !important;
+        opacity: 0.6;
+      }
+
+      /* Fix common global CSS conflicts that break Leaflet tile rendering */
+      #ef-map-container img {
+        max-width: none !important;
+        max-height: none !important;
+        width: auto !important;
+        height: auto !important;
+        display: inline !important;
+        border: none !important;
+        box-shadow: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+    `;
+    document.head.appendChild(s);
+  }
+
+  // ---------------------------------------------------------------------------
+  // Build the collapsible details element
+  // ---------------------------------------------------------------------------
+
+  function buildMapUI() {
+    const details = document.createElement("details");
+    details.id = "ef-map-details";
+
+    const summary = document.createElement("summary");
+    summary.innerHTML = `
+      <div class="ef-map-summary-left">
+        <span class="ef-map-title">[ map view ]</span>
+        <span class="ef-map-subtitle">upcoming events by location</span>
+      </div>
+      <span class="ef-map-arrow">▼</span>
+    `;
+    details.appendChild(summary);
+
+    const container = document.createElement("div");
+    container.id = "ef-map-container";
+    details.appendChild(container);
+
+    return details;
+  }
+
+  // ---------------------------------------------------------------------------
+  // Load Leaflet dynamically (only when map is opened)
+  // ---------------------------------------------------------------------------
+
+  function loadLeaflet() {
+    return new Promise((resolve, reject) => {
+      if (window.L) { resolve(); return; }
+
+      const css = document.createElement("link");
+      css.rel = "stylesheet";
+      css.href = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css";
+      document.head.appendChild(css);
+
+      const script = document.createElement("script");
+      script.src = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js";
+      script.onload = resolve;
+      script.onerror = reject;
+      document.head.appendChild(script);
+    });
+  }
+
+  // ---------------------------------------------------------------------------
+  // Load locations.json
+  // ---------------------------------------------------------------------------
+
+  function loadLocations(basePath) {
+    return fetch(basePath + "locations.json")
+      .then(r => r.json());
+  }
+
+  // ---------------------------------------------------------------------------
+  // Render map
+  // ---------------------------------------------------------------------------
+
+  function renderMap(events, locations) {
+    const container = document.getElementById("ef-map-container");
+
+    const map = L.map(container, {
+      center: [30, 10],
+      zoom: 2,
+      minZoom: 2,
+    });
+
+    // OpenStreetMap tiles
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      maxZoom: 19,
+    }).addTo(map);
+
+    // Group events by city to stack multiple events at same location.
+    // Key lookup tries full key first (e.g. "London (ON)"), then falls back
+    // to bare city name without parens (e.g. "London") for existing entries
+    // that predate the state-code-aware key format.
+    function lookupLocation(city) {
+      if (locations[city]) return { key: city, loc: locations[city] };
+      const bare = city.replace(/\s*\(.*?\)\s*/g, "").trim();
+      if (bare !== city && locations[bare]) return { key: bare, loc: locations[bare] };
+      return null;
+    }
+
+    const byCity = new Map();
+    events.forEach(ev => {
+      const found = lookupLocation(ev.city);
+      if (!found) return; // unknown city — skip silently
+      const { key, loc } = found;
+      if (!byCity.has(key)) byCity.set(key, { loc, events: [] });
+      byCity.get(key).events.push(ev);
+    });
+
+    // Proportional dot marker — bigger dot = more events at that location
+    function makePinIcon(count) {
+      const base = 7;
+      const size = base + Math.min(count - 1, 5) * 3; // 7px for 1 event, up to 22px for 6+
+      const total = size * 2;
+      return L.divIcon({
+        className: "",
+        html: `<svg width="${total}" height="${total}" viewBox="0 0 ${total} ${total}" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="${size}" cy="${size}" r="${size - 2}" fill="#f4bf75" stroke="#232627" stroke-width="1.5" opacity="0.9"/>
+        </svg>`,
+        iconSize: [total, total],
+        iconAnchor: [size, size],
+        popupAnchor: [0, -size],
+      });
+    }
+
+    byCity.forEach(({ loc, events: cityEvents }, city) => {
+      const popupLines = cityEvents.map(ev => {
+        const nameHtml = ev.url
+          ? `<a href="${ev.url}" target="_blank" rel="noopener">${ev.name}</a>`
+          : `<strong>${ev.name}</strong>`;
+        return `<div class="ef-popup">${nameHtml}<br><span class="ef-popup-date">${ev.date} · ${ev.locationFull}</span></div>`;
+      }).join("<hr style='margin:4px 0;border-color:#ddd'>");
+
+      L.marker([loc.lat, loc.lng], { icon: makePinIcon(cityEvents.length) })
+        .addTo(map)
+        .bindPopup(popupLines, { maxWidth: 260 });
+    });
+
+    // Fit map to markers if any exist
+    const coords = Array.from(byCity.values()).map(({ loc }) => [loc.lat, loc.lng]);
+    if (coords.length > 0) {
+      map.fitBounds(coords, { padding: [30, 30], maxZoom: 5 });
+    }
+  }
+
+  // ---------------------------------------------------------------------------
+  // Init
+  // ---------------------------------------------------------------------------
+
+  function init() {
+    // Only run on the homepage, not archive pages
+    if (window.location.pathname.includes("/archives")) return;
+
+    const tables = document.querySelectorAll("table");
+    if (!tables.length) return;
+
+    injectStyles();
+
+    const events = parseEvents();
+    if (!events.length) return;
+
+    const ui = buildMapUI();
+
+    // Insert after the filter box (#ef) to maintain order: search → banner → filter → map → table
+    const filterBox = document.getElementById("ef");
+    if (filterBox) {
+      filterBox.parentNode.insertBefore(ui, filterBox.nextSibling);
+    } else {
+      tables[0].parentNode.insertBefore(ui, tables[0]);
+    }
+
+    // Determine base path for locations.json
+    const basePath = document.querySelector('meta[name="base-url"]')
+      ? document.querySelector('meta[name="base-url"]').content.replace(/\/?$/, "/")
+      : "/infosec-events/";
+
+    let mapRendered = false;
+
+    ui.addEventListener("toggle", () => {
+      if (ui.open && !mapRendered) {
+        mapRendered = true;
+        Promise.all([loadLeaflet(), loadLocations(basePath)])
+          .then(([, locations]) => renderMap(events, locations))
+          .catch(err => {
+            document.getElementById("ef-map-container").innerHTML =
+              `<div style="padding:1rem;color:var(--comment,#75715e);font-family:monospace">failed to load map.</div>`;
+            console.error("Map load error:", err);
+          });
+      }
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+
+})();

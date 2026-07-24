@@ -1,0 +1,30 @@
+{{ define "main" }}
+<main class="container full">
+  <header>
+    <h1>Archive</h1>
+    {{ with .Content }}<p>{{ . }}</p>{{ end }}
+  </header>
+
+  {{/* Collect all year pages */}}
+  {{ $items := slice }}
+  {{ range .Pages }}
+    {{ $fname := .File.BaseFileName }}
+    {{ if findRE `^(19|20)[0-9]{2}$` $fname }}
+      {{ $items = $items | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Sort descending by file name (newest year first) */}}
+  {{ $items = sort $items ".File.BaseFileName" "desc" }}
+
+  {{/* Render content inline */}}
+  {{ range $items }}
+    <section id="{{ .File.BaseFileName }}">
+      <div class="year-content">
+        {{ .Content }}
+      </div>
+    </section>
+    <hr>
+  {{ end }}
+</main>
+{{ end }}
