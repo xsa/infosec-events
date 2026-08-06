@@ -31,6 +31,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Blue Team Con](https://blueteamcon.com/) | Sep 10-13, 2026 | Chicago (IL) 🇺🇸 | [@BlueTeamCon@infosec.exchange](https://infosec.exchange/@BlueTeamCon) | N |
 | [BSidesZadar](https://bsideszadar.org) | Sep 11, 2026 | Zadar 🇭🇷 | [@BSidesZadar](https://x.com/BSidesZadar) | N |
 | [BSidesBelfast](https://bsidesbelfast.org) | Sep 11, 2026 | Belfast 🇬🇧 | [@bsidesbelfast](https://x.com/bsidesbelfast) | N |
+| [BSidesNEPA](https://bsidesnepa.org/) | Sep 12, 2026 | Wilkes-Barre (PA) 🇺🇸 | [@BSidesNEPA](https://x.com/BSidesNEPA) | N |
 | [LABScon](https://www.labscon.io/) | Sep 16-19, 2026 | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
 | [NOPcon](https://nopcon.tr/) | Sep 17, 2026 | Istanbul 🇹🇷 | [@NOPcon](https://x.com/nopcon) | Y |
 | [44CON](https://44con.com/) | Sep 17-18, 2026 | London 🇬🇧 | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N |
