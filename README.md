@@ -54,6 +54,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [RomHack](https://romhack.io) | Oct 2-4, 2026 | Rome 🇮🇹 | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N |
 | [CruiseCon West](https://cruisecon.com/) | Oct 3-8 | Galveston (TX) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | N |
 | [Offensive AI Con](https://www.offensiveaicon.com) | Oct 4-7, 2026 | San Diego (CA) 🇺🇸 | [@offensiveaicon](https://twitter.com/offensiveaicon) | N |
+| [THREATCON1](https://www.threatcon1.org/) | Oct 5-7, 2026 | Reston (VA) 🇺🇸 | [@VulnCheckAI](https://x.com/VulnCheckAI) | N |
 | [SecTor](https://www.blackhat.com/sector/2026/) | Oct 6-8, 2026 | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Wild West Hackin’ Fest Deadwood](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2026/) | Oct 6-9, 2026 | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | Oct 7-9, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
