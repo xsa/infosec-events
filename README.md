@@ -11,14 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [SummerCon](https://www.summercon.org/) | Jul 10-11, 2026 | Brooklyn (NY) 🇺🇸 | [@SummerC0n@infosec.exchange](https://infosec.exchange/@SummerC0n) | N |
-| [CruiseCon Europe](https://cruisecon.com) | Jul 19-24, 2026 | Southampton 🇬🇧 | - | N |
-| [PETS](https://www.petsymposium.org/2026/) | Jul 20-25, 2026 | Calgary (AB) 🇨🇦 | [@PET_Symposium@infosec.exchange](https://infosec.exchange/@PET_Symposium) | N |
-| [BSidesJoburg](https://bsidesjoburg.co.za) | Jul 25, 2026 | Johannesburg 🇿🇦 | [@bsidesjoburg@infosec.exchange](https://infosec.exchange/@bsidesjoburg) | N |
-| [BSidesAdelaide](https://www.bsidesadelaide.com.au) | Jul 27-28, 2026 | Adelaide (SA) 🇦🇺 | [@BSidesAdelaide](https://x.com/BSidesAdelaide) | N |
-| [DFRWS USA](https://dfrws.org/conferences/dfrws-usa-2026/) | Jul 27-30, 2026 | Arlington (VA) 🇺🇸 | [@DFRWS](https://twitter.com/DFRWS) | N |
-| [Black Hat USA](https://www.blackhat.com/us-26/) | Aug 1-6, 2026 | Las Vegas (NV) 🇺🇸 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [BSidesLV](https://bsideslv.org/) | Aug 3-5, 2026 | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | N
 | [DEF CON](https://defcon.org/) | Aug 6-9, 2026 | Las Vegas (NV) 🇺🇸 | [@defcon@defcon.social](https://defcon.social/@defcon) | N
 | [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity26) | Aug 12-14, 2026 | Baltimore (MD) 🇺🇸 | [@USENIXSecurity](https://x.com/USENIXSecurity) | N
 | [HOPE](https://www.hope.net) | Aug 14-16, 2026 | New York (NY) 🇺🇸 | [@hopeconf@mastodon.online](https://mastodon.online/@hopeconf) | N |
