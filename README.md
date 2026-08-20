@@ -43,6 +43,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesVancouverIsland](https://www.bsidesvi.com) | Sep 25, 2026 | Victoria (BC) 🇨🇦 | [@BSidesVI@infosec.exchange](https://infosec.exchange/@BSidesVI) | N |
 | [BSidesKraków](https://bsideskrakow.pl) | Sep 26, 2026 | Kraków 🇵🇱 | [@bsideskrakow](https://x.com/bsideskrakow) | N |
 | [BSidesSaskatoon](https://bsidesyxe.ca) | Sep 26, 2026 | Saskatoon (SK) 🇨🇦 | [@bsidesyxe@infosec.exchange](https://infosec.exchange/@bsidesyxe) | N |
+| [CanSecWest](https://www.secwest.net/) | Sep 30 - Oct 1, 2026 | Vancouver (BC) 🇨🇦 | - | N |
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
 | [RomHack](https://romhack.io) | Oct 2-4, 2026 | Rome 🇮🇹 | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N |
 | [CruiseCon West](https://cruisecon.com/) | Oct 3-8 | Galveston (TX) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | N |
