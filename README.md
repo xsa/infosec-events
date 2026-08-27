@@ -79,6 +79,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | Nov 7, 2026 | Bournemouth 🇬🇧 | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | N |
 | [BSidesMunich](https://2026.bsidesmunich.org/) | Nov 9, 2026 | Munich 🇩🇪 | [@BSidesMunich](https://x.com/BSidesMunich) | Y |
 | [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2026/) | Nov 10-12, 2026 | Seoul 🇰🇷 | [@DFRWS](https://twitter.com/DFRWS) | N |
+| [BSidesTLV](https://www.bsidestlv.com/) | Nov 11, 2026 | Tel Aviv 🇮🇱  | [@BsidesTLV](https://x.com/bsidestlv) | N |
 | [Power of Community](https://powerofcommunity.net/) | Nov 12-13, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | N |
 | [BSidesBerlin](https://bsides.berlin) | Nov 13, 2026 | Berlin 🇩🇪 | [@SidesBer](https://x.com/SidesBer) | N |
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
