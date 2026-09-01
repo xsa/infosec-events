@@ -101,3 +101,4 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [JSSI](https://www.ossir.org/conference/jssi-2027/) | Mar 16, 2027 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N |
 | [Entrypoint](https://entrypoint.fr/) | Mar 19-20, 2027 | Paris 🇫🇷 | [@entrypoint-fr.bsky.social](https://bsky.app/profile/entrypoint-fr.bsky.social) | N |
 | [Botconf](https://www.botconf.eu/) | Apr 27-30, 2027 | Vannes 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N |
+| [SSTIC](https://www.sstic.org/) | Jun 2-4, 2027 | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N |
