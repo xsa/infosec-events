@@ -63,6 +63,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Hack.lu](https://2026.hack.lu/) | Oct 20-23, 2026 | Luxembourg 🇱🇺 | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
 | [Hacktivity](https://www.hacktivity.com/) | Oct 21, 2026 | Budapest 🇭🇺 | [@HacktivityConf](https://twitter.com/hacktivityconf) | N
 | [TRISS](https://www.threeriversinfosec.com/) | Oct 22, 2026 | Pittsburgh (PA) 🇺🇸  | [@ThreeRiversISec](https://x.com/ThreeRiversISec) | N |
+| [BSidesTirana](https://bsidestirana.al/) | Oct 23, 2026 | Tirana 🇦🇱 | [@BSidesTirana](https://x.com/BSidesTirana) | N |
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
 | [RSTCON](https://rstcon.org/) | Oct 23-25, 2026 | Charlotte (NC) 🇺🇸 | [@rst_con](https://x.com/rst_con) | N |
 | [BSidesAugusta](https://bsidesaugusta.org) | Oct 24, 2026 | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
