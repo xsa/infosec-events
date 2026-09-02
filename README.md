@@ -36,6 +36,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 24-26, 2026 | Canberra (ACT) 🇦🇺 | [@bsidescbr@infosec.exchange](https://infosec.exchange/@bsidescbr) | N |
 | [BSidesAhmedabad](https://bsidesahmedabad.in/) | Sep 24-27, 2026 | Ahmedabad 🇮🇳 | [@bsidesahmedabad](https://x.com/bsidesahmedabad) | N |
 | [BSidesAlbuquerque](https://bsidesabq.org) | Sep 25-26, 2026 | Albuquerque (NM) 🇺🇸 | - | N |
+| [BSidesOrlando](https://bsidesorlando.org/) | Sep 25-26, 2026 | Orlando (FL) 🇺🇸 | [@BsidesORL](https://x.com/bsidesORL) | N |
 | [BSidesVancouverIsland](https://www.bsidesvi.com) | Sep 25, 2026 | Victoria (BC) 🇨🇦 | [@BSidesVI@infosec.exchange](https://infosec.exchange/@BSidesVI) | N |
 | [BSidesKraków](https://bsideskrakow.pl) | Sep 26, 2026 | Kraków 🇵🇱 | [@bsideskrakow](https://x.com/bsideskrakow) | N |
 | [BSidesSaskatoon](https://bsidesyxe.ca) | Sep 26, 2026 | Saskatoon (SK) 🇨🇦 | [@bsidesyxe@infosec.exchange](https://infosec.exchange/@bsidesyxe) | N |
@@ -43,7 +44,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
 | [RomHack](https://romhack.io) | Oct 2-4, 2026 | Rome 🇮🇹 | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N |
 | [BSidesCheltenham](https://bsidescheltenham.org.uk/) | Oct 3, 2026 | Cheltenham 🇬🇧 | [@BSidesChelt](https://x.com/BSidesChelt/) | N |
-| [CruiseCon West](https://cruisecon.com/) | Oct 3-8 | Galveston (TX) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | N |
+| [CruiseCon West](https://cruisecon.com/) | Oct 3-8, 2026 | Galveston (TX) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | N |
 | [Offensive AI Con](https://www.offensiveaicon.com) | Oct 4-7, 2026 | San Diego (CA) 🇺🇸 | [@offensiveaicon](https://twitter.com/offensiveaicon) | N |
 | [THREATCON1](https://www.threatcon1.org/) | Oct 5-7, 2026 | Reston (VA) 🇺🇸 | [@VulnCheckAI](https://x.com/VulnCheckAI) | N |
 | [SecTor](https://www.blackhat.com/sector/2026/) | Oct 6-8, 2026 | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
