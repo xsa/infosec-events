@@ -44,6 +44,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
 | [RomHack](https://romhack.io) | Oct 2-4, 2026 | Rome 🇮🇹 | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N |
 | [BSidesCheltenham](https://bsidescheltenham.org.uk/) | Oct 3, 2026 | Cheltenham 🇬🇧 | [@BSidesChelt](https://x.com/BSidesChelt/) | N |
+| [BSidesMemphis](https://bsidesmemphis.org/) | Oct 3, 2026 | Memphis (TN) 🇺🇸  | [@bsidesmemphis@mastodon.social](https://mastodon.social/@bsidesmemphis) | N |
 | [CruiseCon West](https://cruisecon.com/) | Oct 3-8, 2026 | Galveston (TX) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | N |
 | [Offensive AI Con](https://www.offensiveaicon.com) | Oct 4-7, 2026 | San Diego (CA) 🇺🇸 | [@offensiveaicon](https://twitter.com/offensiveaicon) | N |
 | [THREATCON1](https://www.threatcon1.org/) | Oct 5-7, 2026 | Reston (VA) 🇺🇸 | [@VulnCheckAI](https://x.com/VulnCheckAI) | N |
