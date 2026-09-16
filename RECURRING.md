@@ -249,7 +249,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [ROOTCON](https://rootcon.org) | TBD | Clark 🇵🇭 | [@rootcon.bsky.social](https://bsky.app/profile/rootcon.bsky.social) | - |
 | [RootedCON](https://www.rootedcon.com/) | TBD | Madrid 🇪🇸 | [@rootedcon@mastodon.social](https://mastodon.social/@rootedcon) | - |
 | [RSA Conference](https://www.rsaconference.com/) | TBD | San Francisco (CA) 🇺🇸 | [@RSAConference](https://x.com/rsaconference) | - |
-| [RuhrSec](https://www.ruhrsec.de/2025/) | TBD | Bochum 🇩🇪 | [@ruhrsec](https://x.com/ruhrsec) | - |
 | [RVAsec](https://rvasec.com/) | TBD | Richmond (VA) 🇺🇸 | [@RVAsec](https://x.com/rvasec) | - |
 | [SAINTCON](https://www.saintcon.org/) | TBD | Provo (UT) 🇺🇸 | [@SAINTCON](https://x.com/SAINTCON) | - |
 | [SEC-T](https://sec-t.org/) | TBD | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | - |
