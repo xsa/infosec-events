@@ -60,6 +60,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesPerth](https://bsidesperth.com.au/) | Oct 10-11, 2026 | Perth (WA) 🇦🇺 | [@bsidesperth@infosec.exchange](https://infosec.exchange/@bsidesperth) | N |
 | [Australian Cyber Conference](https://cyberconference.com.au) | Oct 14-16, 2026 | Melbourne (VIC) 🇦🇺 | [@AISA_National](https://twitter.com/AISA_National) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
+| [SINCON](https://www.infosec-city.com/sin-26) | Oct 15-16, 2025 | Singapore 🇸🇬 | [@Infosec_City](https://x.com/infosec_city) | N |
 | [HOU.SEC.CON](http://houstonseccon.org) | Oct 15-16, 2026 | Houston (TX) 🇺🇸 | [@HouSecCon](https://twitter.com/HouSecCon) | N
 | [Hexacon](https://www.hexacon.fr/) | Oct 16-17, 2026 | Paris 🇫🇷 | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
 | [SecSea](https://secsea.org/) | Oct 16-18, 2026 | La Ciotat 🇫🇷 | [@secseaconf](https://x.com/secseaconf) | N |
