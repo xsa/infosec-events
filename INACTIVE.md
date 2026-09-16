@@ -161,6 +161,7 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [Planet Cyber Sec (AppSec)](https://planetcybersec.com/061224-conference/) | TBD | Santa Monica (CA) :us: | [@Layer8Masters](https://x.com/Layer8Masters) | - |
 | [Planet Cyber Sec (CISO Forum)](https://planetcybersec.com/041724-conference/) | TBD | Mountain View (CA) :us: | [@Layer8Masters](https://x.com/Layer8Masters) | - |
 | [POC](https://powerofcommunity.net/) | TBD | Seoul :kr: | [@POC_crew](https://x.com/POC_crew) | - |
+| [RuhrSec](https://www.ruhrsec.de/) | TBD | Bochum 🇩🇪 | [@ruhrsec](https://x.com/ruhrsec) | - |
 | [s4x24](https://s4xevents.com/s4x24/) | TBD | Miami (FL) :us: | - | - |
 | [SANS HackFest Summit](https://www.sans.org/cyber-security-training-events/hackfest-summit-2023/) | TBD | Hollywood (CA) :us: | [@SANSOffensive](https://x.com/SANSOffensive) | - |
 | [SANS Neurodiversity in Cybersecurity Summit](https://www.sans.org/cyber-security-training-events/neurodiversity-in-cybersecurity-summit-2023/) | TBD | Virtual :computer: | [@sansinstitute](https://x.com/sansinstitute) | - |
@@ -189,4 +190,3 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [WICCON](https://wiccon.nl) | TBD | Haarlem :netherlands: | [@wicca_NL](https://x.com/wicca_NL) | - |
 | [WiCyS](https://www.wicys.org/) | TBD | Boulder (CO) :us: | [@WiCySorg](https://x.com/WiCySorg) | - |
 | [Wild West Hackin' Fest: Way West](https://wildwesthackinfest.com/way-west/) | TBD | San Diego (CA) :us: | [@WWHackinFest](https://x.com/WWHackinFest) | - |
-
