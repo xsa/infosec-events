@@ -74,6 +74,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
 | [RSTCON](https://rstcon.org/) | Oct 23-25, 2026 | Charlotte (NC) 🇺🇸 | [@rst_con](https://x.com/rst_con) | N |
 | [BSidesAugusta](https://bsidesaugusta.org) | Oct 24, 2026 | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
+| [BsidesCambridgeMA](https://bsidescambridgema.org/) | Oct 25, 2026 | Somerville (MA) 🇺🇸 | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | Y |
 | [OffensiveCon Tokyo](https://www.offensivecon.jp/) | Oct 27-28, 2026 | Tokyo 🇯🇵 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N |
 | [MITRE ATT&CKcon](https://na.eventscloud.com/website/93925/) | Oct 27-28, 2026 | McLean (VA) 🇺🇸  | [@MITREcorp](https://x.com/MITREcorp) | N |
 | [SAINTCON](https://saintcon.org/) | Oct 27-30, 2026 | Provo (UT) 🇺🇸  | [@SAINTCON](https://x.com/SAINTCON) | N |
