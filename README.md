@@ -106,6 +106,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | Dec 7-10, 2026 | London 🇬🇧 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [PasswordsCon](https://passwordscon.org/) | Dec 7-10, 2026 | Cork 🇮🇪 | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y |
 | [BSidesLondon](https://bsides.london) | Dec 12, 2026 | London 🇬🇧 | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social) | N |
+| [BSidesRDU](https://bsidesrdu.org) | Dec 18, 2026 | Raleigh (NC) 🇺🇸 | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | N |
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD, 2026 | Nairobi 🇰🇪 | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
 | [BSidesZurich](https://bsideszh.ch/) | TBD, 2026 | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | N
 | [Insomni’Hack](https://insomnihack.ch/) | Feb 4-5, 2027 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N |
