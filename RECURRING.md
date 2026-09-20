@@ -108,6 +108,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesOTUK](https://bsidesot.uk) | TBD | Bristol 🇬🇧 | - | - |
 | [BSidesPDX](https://bsidespdx.org) | TBD | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | - |
 | [BSidesPerth](https://bsidesperth.com.au/) | TBD | Perth (WA) 🇦🇺 | [@bsidesperth@infosec.exchange](https://infosec.exchange/@bsidesperth) | - |
+| [BSidesPhiladelphia](https://bsidesphilly.org/) | TBD | Philadelphia (PA) 🇺🇸 | [@BSidesPhilly](https://x.com/BSidesPhilly) | - |
 | [BSidesPorto](https://bsidesporto.org) | TBD | Porto 🇵🇹 | [@bsidesporto](https://x.com/bsidesporto) | - |
 | [BSidesPrague](https://bsidesprg.cz/) | TBD | Prague 🇨🇿 | [@bsidesprg@infosec.exchange](https://infosec.exchange/@bsidesprg) | - |
 | [BSidesPrishtina](https://www.bsidesprishtina.org/) | TBD | Prishtina 🇽🇰 | [@bsidesprishtina](https://www.x.com/bsidesprishtina) | - |
