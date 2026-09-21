@@ -87,6 +87,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [OSCo](https://opensecurityconference.org/) | Nov 5-8, 2026 | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | N
 | [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | Nov 6-7, 2026 | Brest 🇫🇷  | [@UYBHYS](https://twitter.com/UYBHYS) | N
 | [BSidesBournemouth](https://bsides-bournemouth.org/) | Nov 7, 2026 | Bournemouth 🇬🇧 | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | N |
+| [BSidesSydney](https://www.bsides.sydney) | Nov 7, 2026 | Sydney (NSW) 🇦🇺 | [@bsidessydney@infosec.exchange](https://infosec.exchange/@bsidessydney) | N |
 | [BSidesMunich](https://2026.bsidesmunich.org/) | Nov 9, 2026 | Munich 🇩🇪 | [@BSidesMunich](https://x.com/BSidesMunich) | Y |
 | [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2026/) | Nov 10-12, 2026 | Seoul 🇰🇷 | [@DFRWS](https://twitter.com/DFRWS) | N |
 | [BSidesTLV](https://www.bsidestlv.com/) | Nov 11, 2026 | Tel Aviv 🇮🇱  | [@BsidesTLV](https://x.com/bsidestlv) | N |
