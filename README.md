@@ -107,6 +107,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesDresden](https://bsidesdresden.com/) | Dec 5, 2026 | Dresden 🇩🇪 | [@bsidesdresden](https://x.com/bsidesdresden) | N |
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | Dec 7-10, 2026 | London 🇬🇧 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [PasswordsCon](https://passwordscon.org/) | Dec 7-10, 2026 | Cork 🇮🇪 | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y |
+| [BSidesPhiladelphia](https://bsidesphilly.org/) | Dec 11, 2026 | Philadelphia (PA) 🇺🇸 | [@BSidesPhilly](https://x.com/BSidesPhilly) | N |
 | [BSidesLondon](https://bsides.london) | Dec 12, 2026 | London 🇬🇧 | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social) | N |
 | [BSidesRDU](https://bsidesrdu.org) | Dec 18, 2026 | Raleigh (NC) 🇺🇸 | [@BSidesRDU@infosec.exchange](https://infosec.exchange/@BSidesRDU) | N |
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD, 2026 | Nairobi 🇰🇪 | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
