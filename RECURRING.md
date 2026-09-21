@@ -198,8 +198,8 @@ Use this as a reference to ensure no recurring event is missed.
 | [HackTheBay](https://www.hackthebay.org) | TBD | San Francisco (CA) 🇺🇸 | [@HackTheBayCon](https://x.com/HackTheBayCon) | - |
 | [Hacktivity](https://www.hacktivity.com/) | TBD | Budapest 🇭🇺 | [@HacktivityConf](https://x.com/hacktivityconf) | - |
 | [Hague TIX](https://www.thehagueprogram.nl/the-hague-tix/hague-tix-2025) | TBD | The Hague :netherlands: | [@haguetix@infosec.exchange](https://infosec.exchange/@haguetix) | - |
-| [Hardwear.io Netherlands](https://hardwear.io/netherlands-2025/) | TBD | Amsterdam :netherlands: | [@hardwear_io](https://x.com/hardwear_io) | - |
-| [Hardwear.io USA](https://hardwear.io/usa-2026/) | TBD | Santa Clara (CA) 🇺🇸 | [@hardwear_io](https://x.com/hardwear_io) | - |
+| [Hardwear.io Netherlands](https://hardwear.io/) | TDB | Amsterdam 🇳🇱 | [@hardwear_io](https://x.com/hardwear_io) | - |
+| [Hardwear.io USA](https://hardwear.io/) | TBD | Santa Clara (CA) 🇺🇸 | [@hardwear_io](https://x.com/hardwear_io) | - |
 | [Hexacon](https://www.hexacon.fr/) | TBD | Paris 🇫🇷 | [@hexacon_fr](https://x.com/hexacon_fr) | - |
 | [Honeynet Project Workshop](https://prague2025.honeynet.org/) | TBD | Prague :czech_republic: | [@ProjectHoneynet](https://x.com/projecthoneynet) | - |
 | [HOPE](https://www.hope.net) | TBD | New York (NY) 🇺🇸 | [@hopeconf@mastodon.online](https://mastodon.online/@hopeconf) | - |
