@@ -59,7 +59,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Hacker Halted](https://www.hackerhalted.com) | Oct 8-9, 2026 | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://twitter.com/hackerhalted) | N
 | [c0c0n](https://www.c0c0n.org/) | Oct 9-10, 2026 | Kochi 🇮🇳 | [@\_c0c0n_](https://x.com/_c0c0n_) | N |
 | [No Hat](https://www.nohat.it/) | Oct 10, 2026 | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
-| [BSidesPerth](https://bsidesperth.com.au/) | Oct 10-11, 2026 | Perth (WA) 🇦🇺 | [@bsidesperth@infosec.exchange](https://infosec.exchange/@bsidesperth) | N |
 | [Australian Cyber Conference](https://cyberconference.com.au) | Oct 14-16, 2026 | Melbourne (VIC) 🇦🇺 | [@AISA_National](https://twitter.com/AISA_National) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [SINCON](https://www.infosec-city.com/sin-26) | Oct 15-16, 2025 | Singapore 🇸🇬 | [@Infosec_City](https://x.com/infosec_city) | N |
@@ -96,6 +95,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Power of Community](https://powerofcommunity.net/) | Nov 12-13, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | N |
 | [BSidesBerlin](https://bsides.berlin) | Nov 13, 2026 | Berlin 🇩🇪 | [@SidesBer](https://x.com/SidesBer) | N |
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
+| [BSidesPerth](https://bsidesperth.com.au/) | Nov 13-14, 2026 | Perth (WA) 🇦🇺 | [@bsidesperth@infosec.exchange](https://infosec.exchange/@bsidesperth) | N |
 | [BSidesQuerétaro](https://bsidesqueretaro.org.mx/) | Nov 13-14, 2026 | Santiago de Querétaro 🇲🇽  | [@BSidesQueretaro](https://twitter.com/bsidesqueretaro) | N |
 | [Queen City Conference](https://queencitycon.org/) | Nov 13-15, 2026 | Cincinnati (OH) 🇺🇸 | [@QC_con](https://twitter.com/QC_con) | N |
 | [Burning River Cyber Con](https://burningrivercybercon.com) | Nov 14, 2026 | Cleveland (OH) 🇺🇸 | [@BurningRiverCon](https://x.com/BurningRiverCon) | N |
