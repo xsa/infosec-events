@@ -23,7 +23,6 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [BlackHoodie](https://blackhoodie.re/Blackhoodie-Virtual-2022/) | TBD | Virtual :computer: | [@Blackhoodie_RE](https://x.com/Blackhoodie_RE) | - |
 | [Borderless Cyber Meets Privacy](https://borderlesscyber2023.oasis-open.org/) | TBD | Egham Hill :uk: | [@OASISopen](https://x.com/OASISopen) | - |
 | [BreizhCTF](https://www.breizhctf.com/) | TBD | Rennes :fr: | [@BreizhCTF](https://x.com/BreizhCTF) | - |
-| [BSidesAtlanta](https://www.bsidesatl.info/) | TBD | Atlanta (GA) :us: | [@BSidesATL](https://x.com/BSidesATL) | - |
 | [BSidesAustin](https://bsidesaustin.com) | TBD | Austin (TX) :us: | [@bsidesaustin@infosec.exchange](https://infosec.exchange/@bsidesaustin) | - |
 | [BSidesBangalore](https://bsidesbangalore.in) | TBD | Bangalore :india: | [@bsidesbangalore](https://x.com/bsidesbangalore) | - |
 | [BSidesBarcelona](https://bsides.barcelona) | TBD | Barcelona :es: | [@barcelonabsides](https://x.com/@barcelonabsides) | - |

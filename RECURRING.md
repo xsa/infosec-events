@@ -37,6 +37,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesAhmedabad](https://bsidesahmedabad.in/) | TBD | Ahmedabad :india: | [@bsidesahmedabad](https://x.com/bsidesahmedabad) | - |
 | [BSidesAlbuquerque](https://bsidesabq.org) | TBD | Albuquerque (NM) 🇺🇸 | - | - |
 | [BSidesAthens](https://www.bsidesath.gr/) | TBD | Athens 🇬🇷 | [@BSidesAth](https://x.com/BSidesAth) | - |
+| [BSidesAtlanta](https://www.bsidesatl.info/) | TBD | Atlanta (GA) 🇺🇸  | [@bsidesatl@infosec.exchange](https://infosec.exchange/@bsidesatl) | - |
 | [BSidesAugusta](https://bsidesaugusta.org) | TBD | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | - |
 | [BSidesBA](https://bsidesba.sk) | TBD | Bratislava 🇸🇰 | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | - |
 | [BSidesBallarat](https://bsidesballarat.com.au) | TBD | Central Ballarat (VIC) 🇦🇺 | - | - |
