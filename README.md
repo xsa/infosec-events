@@ -45,6 +45,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesBloomington](https://bsidesbloomington.org/) | Oct 2-3, 2026 | Bloomington (IN) 🇺🇸 | [@bsidesbloom](https://x.com/bsidesbloom) | N |
 | [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
 | [RomHack](https://romhack.io) | Oct 2-4, 2026 | Rome 🇮🇹 | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N |
+| [BSidesAtlanta](https://www.bsidesatl.info/) | Oct 3, 2026 | Atlanta (GA) 🇺🇸  | [@bsidesatl@infosec.exchange](https://infosec.exchange/@bsidesatl) | N |
 | [BSidesCheltenham](https://bsidescheltenham.org.uk/) | Oct 3, 2026 | Cheltenham 🇬🇧 | [@BSidesChelt](https://x.com/BSidesChelt/) | N |
 | [BSidesMemphis](https://bsidesmemphis.org/) | Oct 3, 2026 | Memphis (TN) 🇺🇸  | [@bsidesmemphis@mastodon.social](https://mastodon.social/@bsidesmemphis) | N |
 | [BSidesMumbai](https://www.bsidesmumbai.in/) | Oct 3, 2026 | Mumbai 🇮🇳  | [@BSidesMumbai](https://x.com/BSidesMumbai) | N |
