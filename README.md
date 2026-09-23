@@ -73,6 +73,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [TRISS](https://www.threeriversinfosec.com/) | Oct 22, 2026 | Pittsburgh (PA) 🇺🇸  | [@ThreeRiversISec](https://x.com/ThreeRiversISec) | N |
 | [BSidesTC](https://bsidestc.org/) | Oct 23, 2026 | Minneapolis (MN) 🇺🇸  | [@bsidestc@infosec.exchange](https://infosec.exchange/@bsidestc) | N |
 | [BSidesTirana](https://bsidestirana.al/) | Oct 23, 2026 | Tirana 🇦🇱 | [@BSidesTirana](https://x.com/BSidesTirana) | N |
+| [BSidesGöteborg](https://bsidesgbg.com/) | Oct 23, 2026 | Göteborg 🇸🇪 | - | N |
 | [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
 | [RSTCON](https://rstcon.org/) | Oct 23-25, 2026 | Charlotte (NC) 🇺🇸 | [@rst_con](https://x.com/rst_con) | N |
 | [BSidesAugusta](https://bsidesaugusta.org) | Oct 24, 2026 | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
