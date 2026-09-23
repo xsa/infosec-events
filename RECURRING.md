@@ -135,6 +135,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesSydney](https://www.bsides.sydney) | TBD | Sydney (NSW) 🇦🇺 | [@bsidessydney@infosec.exchange](https://infosec.exchange/@bsidessydney) | - |
 | [BSidesTallinn](https://tallinn.bsides.ee/) | TBD | Tallinn 🇪🇪 | [BSides Tallinn](https://www.facebook.com/groups/2546584348821321/) | - |
 | [BSidesTampa](https://events.bsidestampa.net/BSidesTampa2026) | TBD | Tampa (FL) 🇺🇸 | [@bsidestampa](https://x.com/bsidestampa) | - |
+| [BSidesTC](https://bsidestc.org/) | TBD | Minneapolis (MN) 🇺🇸  | [@bsidestc@infosec.exchange](https://infosec.exchange/@bsidestc) | - |
 | [BSidesTirana](https://bsidestirana.al) | TBD | Tirana :albania: | [@BSidesTirana](https://x.com/BSidesTirana) | - |
 | [BSidesTLV](https://bsidestlv.com/) | TBD | Tel Aviv 🇮🇱 | [@BsidesTLV](https://x.com/bsidestlv) | - |
 | [BSidesTokyo](https://bsides.tokyo/en/) | TBD | Tokyo 🇯🇵 | [@TokyoBSides](https://x.com/TokyoBSides) | - |
