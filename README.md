@@ -99,6 +99,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Power of Community](https://powerofcommunity.net/) | Nov 12-13, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | N |
 | [BSidesBerlin](https://bsides.berlin) | Nov 13, 2026 | Berlin 🇩🇪 | [@SidesBer](https://x.com/SidesBer) | N |
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
+| [BSidesDelaware](https://www.bsidesdelaware.com/) | Nov 13-14, 2026 | Newark (DE) 🇺🇸 | - | N |
 | [BSidesPerth](https://bsidesperth.com.au/) | Nov 13-14, 2026 | Perth (WA) 🇦🇺 | [@bsidesperth@infosec.exchange](https://infosec.exchange/@bsidesperth) | N |
 | [BSidesQuerétaro](https://bsidesqueretaro.org.mx/) | Nov 13-14, 2026 | Santiago de Querétaro 🇲🇽  | [@BSidesQueretaro](https://twitter.com/bsidesqueretaro) | N |
 | [Queen City Conference](https://queencitycon.org/) | Nov 13-15, 2026 | Cincinnati (OH) 🇺🇸 | [@QC_con](https://twitter.com/QC_con) | N |
