@@ -55,6 +55,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SecTor](https://www.blackhat.com/sector/2026/) | Oct 6-8, 2026 | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [Wild West Hackin’ Fest Deadwood](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2026/) | Oct 6-9, 2026 | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | Oct 7-9, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
+| [Wild West Hackin’ Fest](https://wildwesthackinfest.com) | Oct 7-9, 2026 | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N |
 | [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | Oct 8, 2026 | Prague 🇨🇿 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | Y |
 | [Hacker Halted](https://www.hackerhalted.com) | Oct 8-9, 2026 | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://twitter.com/hackerhalted) | N
 | [c0c0n](https://www.c0c0n.org/) | Oct 9-10, 2026 | Kochi 🇮🇳 | [@\_c0c0n_](https://x.com/_c0c0n_) | N |
