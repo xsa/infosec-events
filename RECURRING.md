@@ -60,6 +60,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesCharm](https://bsidescharm.org/) | TBD | Towson (MD) 🇺🇸 | [@BSidesCharm@infosec.exchange](https://infosec.exchange/@bsidescharm) | - |
 | [BSidesColombia](https://bsidesco.org) | TBD | Pereira 🇨🇴 | [@BSides_CO](https://x.com/BSides_CO) | - |
 | [BSidesDayton](https://bsidesdayton.com/) | TBD | Fairborn (OH) 🇺🇸 | [@bsidesdayton.bsky.social](https://bsky.app/profile/bsidesdayton.bsky.social) | - |
+| [BSidesDelaware](https://www.bsidesdelaware.com/) | TDB | Newark (DE) 🇺🇸 | - | - |
 | [BSidesDenHaag](https://bsidesthehague.nl) | TBD | Den Haag 🇳🇱 | - | - |
 | [BSidesDetroit](https://www.bsidesdetroit.org) | TBD | Detroit (MI) 🇺🇸 | [@bsidesdetroit](https://x.com/bsidesdetroit) | - |
 | [BSidesDresden](https://bsidesdresden.com/) | TBD | Dresden 🇩🇪 | [@bsidesdresden](https://x.com/bsidesdresden) | - |
