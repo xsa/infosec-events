@@ -103,6 +103,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesDelaware](https://www.bsidesdelaware.com/) | Nov 13-14, 2026 | Newark (DE) 🇺🇸 | - | N |
 | [BSidesPerth](https://bsidesperth.com.au/) | Nov 13-14, 2026 | Perth (WA) 🇦🇺 | [@bsidesperth@infosec.exchange](https://infosec.exchange/@bsidesperth) | N |
 | [BSidesQuerétaro](https://bsidesqueretaro.org.mx/) | Nov 13-14, 2026 | Santiago de Querétaro 🇲🇽  | [@BSidesQueretaro](https://twitter.com/bsidesqueretaro) | N |
+| [DEATHCon](https://deathcon.io) | Nov 13-14, 2026 | Multiple Locations | [@DEATHCon@infosec.exchange](https://infosec.exchange/@DEATHCon) | N |
 | [Queen City Conference](https://queencitycon.org/) | Nov 13-15, 2026 | Cincinnati (OH) 🇺🇸 | [@QC_con](https://twitter.com/QC_con) | N |
 | [Burning River Cyber Con](https://burningrivercybercon.com) | Nov 14, 2026 | Cleveland (OH) 🇺🇸 | [@BurningRiverCon](https://x.com/BurningRiverCon) | N |
 | [Objective by the Sea](https://objectivebythesea.org) | Nov 15-20, 2026 | Hawaii (HI) 🇺🇸 | [@objective_see](https://twitter.com/objective_see) | N
