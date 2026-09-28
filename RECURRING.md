@@ -86,6 +86,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesKristiansand](https://bsideskrs.no) | TBD | Kristiansand 🇳🇴 | - | - |
 | [BSidesLeeds](https://bsidesleeds.com) | TBD | Leeds 🇬🇧 | [@bsidesleeds@infosec.exchange](https://infosec.exchange/@bsidesleeds) | - |
 | [BSidesLimburg](https://www.bsides-limburg.be) | TBD | Hasselt 🇧🇪 | - | - |
+| [BSidesLisbon](https://bsideslisbon.org/) | TBD | Lisbon 🇵🇹 | [@BSidesLisbon](https://x.com/BSidesLisbon) | - |
 | [BSidesLjubljana](https://bsidesljubljana.si/) | TBD | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | - |
 | [BSidesLondon](https://bsides.london) | TBD | London 🇬🇧 | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social) | - |
 | [BSidesLondonCanada](https://www.bsideslondon.ca) | TBD | London (ON) 🇨🇦 | - | - |
