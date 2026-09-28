@@ -124,6 +124,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesNairobi](https://bsidesnairobi.ke/) | TBD, 2026 | Nairobi 🇰🇪 | [@BSidesNairobi](https://twitter.com/BSidesNairobi) | N
 | [BSidesZurich](https://bsideszh.ch/) | TBD, 2026 | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | N
 | [Insomni’Hack](https://insomnihack.ch/) | Feb 4-5, 2027 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N |
+| [CactusCon](https://www.cactuscon.com/) | Feb 5-6, 2027 | Mesa (AZ) 🇺🇸 | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | N |
 | [HackCon](https://www.hackcon.org/) | Feb 10-11, 2027 | Oslo 🇳🇴 | [@hackcon](https://twitter.com/hackcon) | N |
 | [Swiss Cyber Security Days](https://www.scsd.ch) | Feb. 23-24, 2027 | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N |
 | [JSSI](https://www.ossir.org/conference/jssi-2027/) | Mar 16, 2027 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N |
