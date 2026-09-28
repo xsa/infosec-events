@@ -115,6 +115,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Guild Con](https://guildcon.hackersguildpgh.com/) | Nov 21, 2026 | Pittsburgh (PA) 🇺🇸 | [@HackersGuildPGH](https://x.com/hackersguildpgh) | N |
 | [BSidesAberystwyth](https://bsidesaberystwyth.org) | Nov 21, 2026 | Aberystwyth 🏴󠁧󠁢󠁷󠁬󠁳󠁿 | - | N |
 | [Black Hat MEA](https://blackhatmea.com) | Dec 1-3, 2026 | Riyadh 🇸🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
+| [BSidesCapeTown](https://bsidescapetown.co.za/) | Dec 5, 2026 | Cape Town 🇿🇦 | [@BSidesCapeTown](https://x.com/BSidesCapeTown) | N |
 | [BSidesDresden](https://bsidesdresden.com/) | Dec 5, 2026 | Dresden 🇩🇪 | [@bsidesdresden](https://x.com/bsidesdresden) | N |
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | Dec 7-10, 2026 | London 🇬🇧 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
 | [PasswordsCon](https://passwordscon.org/) | Dec 7-10, 2026 | Cork 🇮🇪 | [@passwordscon@infosec.exchange](https://infosec.exchange/@passwordscon) | Y |
