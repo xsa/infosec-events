@@ -55,7 +55,6 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | TBD | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | - |
 | [BSidesLancashire](https://www.bsideslancashire.org) | TBD | Lancaster :uk: | [@BSidesLanc](https://x.com/BSidesLanc) | - |
 | [BSidesLasVegas](https://bsideslv.org/) | TBD | Las Vegas (NV) :us: | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | - |
-| [BSidesLisbon](https://bsideslisbon.org/) | TBD | Lisbon :portugal: | [@BSidesLisbon](https://x.com/BSidesLisbon) | - |
 | [BSidesMilano](https://milano.securitybsides.it) | TBD | Milan :it: | [@BSidesMilano](https://x.com/@BSidesMilano) | - |
 | [BSidesMTL](https://bsidesmtl.ca/) | TBD | Montreal (QC) :canada: | [@BSidesMontreal](https://x.com/BSidesMontreal) | - |
 | [BSidesNashville](https://bsidesnash.org) | TBD | Nashville (TN) :us: | [@BSidesnash](https://x.com/BSidesnash) | - |
