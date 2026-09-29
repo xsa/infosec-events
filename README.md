@@ -69,6 +69,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 20, 2026 | Bern 🇨🇭 | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026/) | Oct 20-21, 2026 | Brussels 🇧🇪 | - | N
 | [Hack.lu](https://2026.hack.lu/) | Oct 20-23, 2026 | Luxembourg 🇱🇺 | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
+| [Security Analyst Summit](https://thesascon.com/) | Oct 20-23, 2026 | Bali 🇮🇩|  [TheSAScon](https://x.com/TheSAScon) | Invite only |
 | [Hacktivity](https://www.hacktivity.com/) | Oct 21, 2026 | Budapest 🇭🇺 | [@HacktivityConf](https://twitter.com/hacktivityconf) | N
 | [TRISS](https://www.threeriversinfosec.com/) | Oct 22, 2026 | Pittsburgh (PA) 🇺🇸  | [@ThreeRiversISec](https://x.com/ThreeRiversISec) | N |
 | [BSidesTC](https://bsidestc.org/) | Oct 23, 2026 | Minneapolis (MN) 🇺🇸  | [@bsidestc@infosec.exchange](https://infosec.exchange/@bsidestc) | N |
