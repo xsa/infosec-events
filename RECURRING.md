@@ -155,7 +155,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [cackalackycon](https://www.cackalackycon.org/) | TBD | Durham (NC) 🇺🇸 | [@CackalackyCon@infosec.exchange](https://infosec.exchange/@CackalackyCon) | - |
 | [CactusCon](https://www.cactuscon.com/) | TBD | Mesa (AZ) 🇺🇸 | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | - |
 | [Canadian Women in Cybersecurity](https://siberx.org/event/canadian-women-in-cybersecurity-2026/) | TBD | Toronto (ON) 🇨🇦 | [@siberxorg](https://x.com/siberxorg) | - |
-| [CERT-EU Annual Conference](https://cert.europa.eu/conference/never-gonna-breach-you-up/announcement) | TBD | Brussels :belgium: | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | - |
+| [CERT-EU Annual Conference](https://cert.europa.eu/conference/steam-n-steel-the-chronicles-of-the-cyberverse/announcement) | TBD | Brussels 🇧🇪 | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | Invite-Only |
 | [CONFidence](https://confidence-conference.org/) | TBD | Kraków 🇵🇱 | [@CONFidenceConf](https://x.com/confidenceconf) | - |
 | [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | TBD | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | - |
 | [CornCon](https://corncon.net) | TBD | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | - |
