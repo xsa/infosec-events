@@ -181,6 +181,7 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [The Diana Initiative](https://www.dianainitiative.org) | TBD | Las Vegas (NV) :us: | [@DianaInitiative@defcon.social](https://defcon.social/@DianaInitiative) | - |
 | [Threat Modeling Connect Meetup](https://lu.ma/tmc-london-meetup-nov2024) | TBD | London :uk: | [@TMConnectHQ](https://x.com/TMConnectHQ) | - |
 | [ThreatModCon](https://www.threatmodcon.com/san-francisco) | TBD | San Francisco (CA) :us: | [@TMConnectHQ](https://x.com/TMConnectHQ) | - |
+| [TumpiCon](https://tumpicon.org) | TBD | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | - |
 | [UK Cyber Week](https://www.ukcyberweek.co.uk) | TBD | London :uk: | [@UKCyberWeek](https://x.com/UKCyberWeek) | - |
 | [UniCon](https://scythe.io/unicon24) | TBD | Virtual :computer: | [@scythe_io](https://x.com/scythe_io) | - |
 | [VulnCon](https://www.first.org/conference/vulncon2024/) | TBD | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | - |

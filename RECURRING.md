@@ -282,7 +282,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [THCon](https://thcon.party/) | TBD | Toulouse 🇫🇷 | [@ToulouseHacking](https://x.com/ToulouseHacking) | - |
 | [THOTCON](https://www.thotcon.org/) | TBD | Chicago (IL) 🇺🇸 | [@THOTCON](https://x.com/THOTCON) | - |
 | [TROOPERS](https://troopers.de/) | TBD | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | - |
-| [TumpiCon](https://tumpicon.org) | TBD | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | - |
 | [TyphoonCon](https://typhooncon.com/) | TBD | Seoul 🇰🇷 | [@typhooncon](https://x.com/typhooncon) | - |
 | [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | TBD | Brest 🇫🇷 | [@UYBHYS](https://x.com/UYBHYS) | - |
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | TBD | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | - |
