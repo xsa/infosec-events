@@ -55,6 +55,7 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [BSidesKøbenhavn](https://bsideskbh.dk/) | TBD | Copenhagen :denmark: | [@BSidesKBH@infosec.exchange](https://infosec.exchange/@bsideskbh) | - |
 | [BSidesLancashire](https://www.bsideslancashire.org) | TBD | Lancaster :uk: | [@BSidesLanc](https://x.com/BSidesLanc) | - |
 | [BSidesLasVegas](https://bsideslv.org/) | TBD | Las Vegas (NV) :us: | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | - |
+| [BSidesLuanda](http://www.bsidesluanda.org) | TBD | Luanda 🇦🇴 | - | - |
 | [BSidesMilano](https://milano.securitybsides.it) | TBD | Milan :it: | [@BSidesMilano](https://x.com/@BSidesMilano) | - |
 | [BSidesMTL](https://bsidesmtl.ca/) | TBD | Montreal (QC) :canada: | [@BSidesMontreal](https://x.com/BSidesMontreal) | - |
 | [BSidesNashville](https://bsidesnash.org) | TBD | Nashville (TN) :us: | [@BSidesnash](https://x.com/BSidesnash) | - |
@@ -169,6 +170,7 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [Security for Space Systems (3S)](https://atpi.eventsair.com/24a06---3s2024/) | TBD | Noordwijk :netherlands: | - | - |
 | [Security Onion Conference](https://blog.securityonion.net/2023/05/security-onion-conference-2023-save.html) | TBD | Augusta (GA) :us: | [@securityonion](https://x.com/securityonion) | - |
 | [ShmooCon](https://shmoocon.org/) | TBD | Washington (DC) :us: | [@ShmooCon@infosec.exchange](https://infosec.exchange/@ShmooCon) | - |
+| [ShowMeCon](https://showmecon.com) | TBD | St-Louis (MO) 🇺🇸 | [@showmeconstl](https://x.com/showmeconstl) | - |
 | [Simply Cyber Con](https://www.simplycybercon.org/) | TBD | Virtual :computer: | [@geral_auger](https://x.com/gerald_auger) | - |
 | [SLEUTHCON](https://www.sleuthcon.com) | TBD | Arlington (PA) :us:<br/>:computer: | [@sleuthcon](http://x.com/sleuthcon) | - |
 | [SOC Analyst Appreciation Day](https://www.socanalystday.com/) | TBD | Online :computer: | - | - |
@@ -181,6 +183,7 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [The Diana Initiative](https://www.dianainitiative.org) | TBD | Las Vegas (NV) :us: | [@DianaInitiative@defcon.social](https://defcon.social/@DianaInitiative) | - |
 | [Threat Modeling Connect Meetup](https://lu.ma/tmc-london-meetup-nov2024) | TBD | London :uk: | [@TMConnectHQ](https://x.com/TMConnectHQ) | - |
 | [ThreatModCon](https://www.threatmodcon.com/san-francisco) | TBD | San Francisco (CA) :us: | [@TMConnectHQ](https://x.com/TMConnectHQ) | - |
+| [TumpiCon](https://tumpicon.org) | TBD | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | - |
 | [UK Cyber Week](https://www.ukcyberweek.co.uk) | TBD | London :uk: | [@UKCyberWeek](https://x.com/UKCyberWeek) | - |
 | [UniCon](https://scythe.io/unicon24) | TBD | Virtual :computer: | [@scythe_io](https://x.com/scythe_io) | - |
 | [VulnCon](https://www.first.org/conference/vulncon2024/) | TBD | Raleigh (NC) :us: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | - |

@@ -90,7 +90,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesLjubljana](https://bsidesljubljana.si/) | TBD | Ljubljana 🇸🇮 | [@bsidesljubljana@infosec.exchange](https://infosec.exchange/@bsidesljubljana) | - |
 | [BSidesLondon](https://bsides.london) | TBD | London 🇬🇧 | [@bsideslondon.bsky.social](https://bsky.app/profile/bsideslondon.bsky.social) | - |
 | [BSidesLondonCanada](https://www.bsideslondon.ca) | TBD | London (ON) 🇨🇦 | - | - |
-| [BSidesLuanda](http://www.bsidesluanda.org) | TBD | Luanda 🇦🇴 | - | - |
 | [BSidesLuxembourg](https://2026.bsides.lu/) | TBD | Belval 🇱🇺 | [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg) | - |
 | [BSidesLV](https://bsideslv.org/) | TBD | Las Vegas (NV) 🇺🇸 | [@BSidesLV@infosec.exchange](https://infosec.exchange/@BSidesLV) | - |
 | [BSidesMaine](https://www.bsidesmaine.org) | TBD | Portland (ME) 🇺🇸 | - | N |
@@ -269,7 +268,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [Security First Mauritius](https://info.integrity360.com/security-first-2026-mauritius) | TBD | Balaclava 🇲🇺 | [@integrity360](https://x.com/integrity360/) | - |
 | [Security First Trinidad](https://info.integrity360.com/security-first-2026-trinidad) | TBD | Port of Spain 🇹🇹 | [@integrity360](https://x.com/integrity360/) | - |
 | [Security Leaders](https://securityleaders.com.br/eventos/security-leaders-brasilia-2026/) | TBD | Brasília 🇧🇷 | - | - |
-| [ShowMeCon](https://showmecon.com) | TBD | St-Louis (MO) 🇺🇸 | [@showmeconstl](https://x.com/showmeconstl) | - |
 | [SINCON](https://www.infosec-city.com/sin-26) | TBD | Singapore 🇸🇬 | [@Infosec_City](https://x.com/infosec_city) | - |
 | [SO-CON](https://specterops.io/so-con/) | TBD | Arlington (VA) 🇺🇸 | [@SpecterOps@infosec.exchange](https://infosec.exchange/@SpecterOps) | - |
 | [SSTIC](https://www.sstic.org/) | TBD | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | - |
@@ -282,7 +280,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [THCon](https://thcon.party/) | TBD | Toulouse 🇫🇷 | [@ToulouseHacking](https://x.com/ToulouseHacking) | - |
 | [THOTCON](https://www.thotcon.org/) | TBD | Chicago (IL) 🇺🇸 | [@THOTCON](https://x.com/THOTCON) | - |
 | [TROOPERS](https://troopers.de/) | TBD | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | - |
-| [TumpiCon](https://tumpicon.org) | TBD | Pinerolo :it: | [@TumpiConIT@infosec.exchange](https://infosec.exchange/@TumpiConIT) | - |
 | [TyphoonCon](https://typhooncon.com/) | TBD | Seoul 🇰🇷 | [@typhooncon](https://x.com/typhooncon) | - |
 | [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | TBD | Brest 🇫🇷 | [@UYBHYS](https://x.com/UYBHYS) | - |
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | TBD | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | - |
