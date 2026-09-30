@@ -176,7 +176,6 @@ Use this as a reference to ensure no recurring event is missed.
 | [DistrictCon](https://www.districtcon.org/) | TBD | Washington (DC) 🇺🇸 | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | - |
 | [DunaSec](https://dunasec.com.br) | TBD | Natal 🇧🇷 | - | N |
 | [EDUCAUSE Cybersecurity and Privacy Professionals Conference](https://events.educause.edu/cybersecurity-and-privacy-professionals-conference/2026) | TBD | Anaheim (CA) 🇺🇸 | - | - |
-| [Ekoparty](https://ekoparty.org/) | TBD | Buenos Aires :argentina: | [@ekoparty](https://x.com/ekoparty) | - |
 | [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | TBD | Buenos Aires 🇦🇷 | [@ekoparty](https://x.com/ekoparty) | - |
 | [Ekoparty Miami](https://ekoparty.org/miami/) | TBD | Miami (FL) 🇺🇸 | [@ekoparty](https://x.com/ekoparty) | - |
 | [Elbsides](https://www.elbsides.eu) | TBD | Hamburg 🇩🇪 | [@elbsides@infosec.exchange](https://infosec.exchange/@elbsides) | - |
