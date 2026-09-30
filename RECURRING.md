@@ -258,7 +258,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [RVAsec](https://rvasec.com/) | TBD | Richmond (VA) 🇺🇸 | [@RVAsec](https://x.com/rvasec) | - |
 | [SAINTCON](https://www.saintcon.org/) | TBD | Provo (UT) 🇺🇸 | [@SAINTCON](https://x.com/SAINTCON) | - |
 | [SEC-T](https://sec-t.org/) | TBD | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | - |
-| [SECCON](https://www.seccon.jp/14/seccon/opencon.html) | TBD | Tokyo 🇯🇵 | [@secconctf](https://x.com/secconctf) | - |
+| [SECCON](https://www.seccon.jp/) | TBD | Tokyo 🇯🇵 | [@secconctf](https://x.com/secconctf) | - |
 | [SecSea](https://secsea.org) | TBD | La Ciotat :fr: | [@secseaconf](https://x.com/secseaconf) | - |
 | [SecTor](https://www.blackhat.com/sector/2026/) | TBD | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://x.com/BlackHatEvents) | - |
 | [Security Analyst Summit](https://thesascon.com/) | TBD | Khao Lak :thailand: | [TheSAScon](https://x.com/TheSAScon) | - |
