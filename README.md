@@ -133,6 +133,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Wild West Hackin’ Fest Mile High](https://wildwesthackinfest.com/wild-west-hackin-fest-mile-high-2027/) | Feb 16-19 | Denver (CO) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N |
 | [SECCON](https://www.seccon.jp/15/seccon_conference/open_conference_en.html) | Feb 20-21, 2027 | Tokyo 🇯🇵 | [@secconctf](https://x.com/secconctf) | N |
 | [Swiss Cyber Security Days](https://www.scsd.ch) | Feb. 23-24, 2027 | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N |
+| [Après-Cyber Slopes Summit](https://www.aprescyber.com/) | Feb 24-26, 2027 | Park City (UT) 🇺🇸 | [@ApresCyber](https://x.com/aprescyber) | N |
 | [BSidesTirol](https://www.bsides.tirol/) | Feb 25, 2027 | Innsbruck 🇦🇹 | [@bsides_tirol@infosec.exchange](https://infosec.exchange/@bsides_tirol) | N |
 | [JSSI](https://www.ossir.org/conference/jssi-2027/) | Mar 16, 2027 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 16-17, 2027 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N |
