@@ -224,7 +224,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [No Hat](https://www.nohat.it/) | TBD | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
 | [NorthSec](https://nsec.io/) | TBD | Montreal (QC) 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | - |
 | [Nullcon Berlin](https://nullcon.net/berlin-2025) | TBD | Berlin 🇩🇪 | [@nullcon](https://x.com/nullcon) | - |
-| [Nullcon Goa](https://nullcon.net/goa-2026) | TBD | Goa 🇮🇳 | [@nullcon](https://x.com/nullcon) | - |
+| [Nullcon Goa](https://nullcon.net/event/nullcon-goa-2027/) | TBD | Goa 🇮🇳 | [@nullcon](https://x.com/nullcon) | - |
 | [NZ Cyber Security Summit](https://brightstar.co.nz/events/cybersecurity/) | TBD | Tākina (WGN) 🇳🇿 | - | - |
 | [Objective by the Sea](https://objectivebythesea.org) | TBD | Hawaii (HI) 🇺🇸 | [@objective_see](https://x.com/objective_see) | - |
 | [Off-by-One Conference](https://offbyone.sg/) | TBD | Singapore :singapore: | [@offbyoneconf](https://x.com/offbyoneconf) | - |

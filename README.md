@@ -136,6 +136,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Swiss Cyber Security Days](https://www.scsd.ch) | Feb. 23-24, 2027 | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N |
 | [Après-Cyber Slopes Summit](https://www.aprescyber.com/) | Feb 24-26, 2027 | Park City (UT) 🇺🇸 | [@ApresCyber](https://x.com/aprescyber) | N |
 | [BSidesTirol](https://www.bsides.tirol/) | Feb 25, 2027 | Innsbruck 🇦🇹 | [@bsides_tirol@infosec.exchange](https://infosec.exchange/@bsides_tirol) | N |
+| [Nullcon Goa](https://nullcon.net/event/nullcon-goa-2027/) | Feb 27-28, 2027 | Goa 🇮🇳 | [@nullcon](https://x.com/nullcon) | N |
 | [JSSI](https://www.ossir.org/conference/jssi-2027/) | Mar 16, 2027 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 16-17, 2027 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N |
 | [Entrypoint](https://entrypoint.fr/) | Mar 19-20, 2027 | Paris 🇫🇷 | [@entrypoint-fr.bsky.social](https://bsky.app/profile/entrypoint-fr.bsky.social) | N |
