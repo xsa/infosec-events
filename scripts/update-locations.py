@@ -73,6 +73,9 @@ def parse_cities_from_readme():
                 continue
             if re.match(r"^-+$", location_raw):
                 continue
+            # Exception for "Multiple locations"
+            if location_raw.lower() == "multiple locations":
+                continue
             # Guard: skip if cell looks like a social handle, URL, or markdown link
             # (indicates a malformed/short row where columns have shifted)
             if re.match(r"^@|^https?://|^\[.*\]\(https?://", location_raw):
