@@ -131,6 +131,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [DistrictCon](https://www.districtcon.org/) | Feb 6-7, 2027 | Washington (DC) 🇺🇸 | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | N |
 | [HackCon](https://www.hackcon.org/) | Feb 10-11, 2027 | Oslo 🇳🇴 | [@hackcon](https://twitter.com/hackcon) | N |
 | [Wild West Hackin’ Fest Mile High](https://wildwesthackinfest.com/wild-west-hackin-fest-mile-high-2027/) | Feb 16-19 | Denver (CO) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N |
+| [BSidesGalway](https://bsidesgalway.com) | Feb 20, 2027 | Galway 🇮🇪 | [@bsidesgalway](https://x.com/bsidesgalway) | N |
 | [SECCON](https://www.seccon.jp/15/seccon_conference/open_conference_en.html) | Feb 20-21, 2027 | Tokyo 🇯🇵 | [@secconctf](https://x.com/secconctf) | N |
 | [Swiss Cyber Security Days](https://www.scsd.ch) | Feb. 23-24, 2027 | Bern 🇨🇭 | [@scsd](https://www.linkedin.com/company/swiss-cyber-security-days/) | N |
 | [BSidesTirol](https://www.bsides.tirol/) | Feb 25, 2027 | Innsbruck 🇦🇹 | [@bsides_tirol@infosec.exchange](https://infosec.exchange/@bsides_tirol) | N |
