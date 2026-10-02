@@ -161,7 +161,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [CrikeyCon](https://crikeycon.com) | TBD | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | - |
 | [CruiseCon Europe](https://cruisecon.com) | TBD | Southampton 🇬🇧 | - | - |
 | [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | - |
-| [CyberBay](https://cyberbay.org) | TBD | Tampa (FL) 🇺🇸 | - | - |
+| [CyberBay Summit](https://cyberbay.org/summit/) | TBD | Tampa (FL) 🇺🇸 | - | - |
 | [CyberConnect](https://www.cyberconnect.org.au) | TBD | Canberra (ACT) 🇦🇺 | [@AISA_National](https://x.com/AISA_National) | - |
 | [CYBERWARCON](https://www.cyberwarcon.com/) | TBD | Arlington (VA) 🇺🇸 | [@cyberwarcon.bsky.social](https://bsky.app/profile/cyberwarcon.bsky.social) | - |
 | [CyCon](http://www.cycon.org) | TBD | Tallinn 🇪🇪 | [@ccdcoe](https://x.com/ccdcoe) | - |
