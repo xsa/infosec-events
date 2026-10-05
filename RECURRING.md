@@ -20,6 +20,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Balkan Computer Congress](https://www.balccon.org) | TBD | Novi Sad 🇷🇸 | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | - |
 | [Balkan Cybersecurity Days](https://www.first.org/events/colloquia/bcd2025/) | TBD | Shkodër 🇦🇱 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | - |
 | [Barbhack](https://www.barbhack.fr/) | TBD | Toulon :fr: | [@\_barbhack\_](https://x.com/_barbhack_) | - |
+| [BitUP](https://bitupalicante.com) | TBD | Alicante 🇪🇸 | [@bitupalicante](https://www.x.com/bitupalicante) | - |
 | [Black Alps Conference](https://www.blackalps.ch) | TBD | Yverdon-les-Bains 🇨🇭 | [@BlackAlpsConf](https://x.com/BlackAlpsConf) | - |
 | [Black Hat Asia](https://www.blackhat.com/asia-26/) | TBD | Singapore 🇸🇬 | [@BlackHatEvents](https://x.com/BlackHatEvents) | - |
 | [Black Hat Europe](https://www.blackhat.com/eu-26/) | TBD | London 🇬🇧 | [@BlackHatEvents](https://x.com/BlackHatEvents) | - |

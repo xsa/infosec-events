@@ -18,7 +18,6 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [APIsecure](https://www.apisecure.co) | TBD | Santa Clara (CA) :us: | [@apisecure](https://x.com/@apisecure) | - |
 | [ATT&CKcon 4.0](https://na.eventscloud.com/website/58627/) | TBD | McLean (VA) :us: | [@MITREcorp](http://x.com/MITREcorp) | - |
 | [Attack Surface Management Summit](https://www.securitysummits.com/event/attack-surface-management-summit/) | TBD | Virtual :computer: | [@securityweek](https://www.x.com/securityweek) | - |
-| [BitUP](https://bitupalicante.com) | TBD | Alicante :es: | [@bitupalicante](https://www.x.com/bitupalicante) | - |
 | [Black Alps](https://blackalps.ch) | TBD | Yverdon-les-Bains :switzerland: | [@BlackAlpsConf](https://x.com/BlackAlpsConf) | - |
 | [BlackHoodie](https://blackhoodie.re/Blackhoodie-Virtual-2022/) | TBD | Virtual :computer: | [@Blackhoodie_RE](https://x.com/Blackhoodie_RE) | - |
 | [Borderless Cyber Meets Privacy](https://borderlesscyber2023.oasis-open.org/) | TBD | Egham Hill :uk: | [@OASISopen](https://x.com/OASISopen) | - |
