@@ -49,6 +49,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesOslo](https://bsidesoslo.no) | Oct 29, 2026 | Oslo 🇳🇴 | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | N |
 | [WICCON](https://wiccon.nl/) | Oct 29-30, 2026 | Haarlem 🇳🇱 | [@womenofwicca.bsky.social](https://bsky.app/profile/womenofwicca.bsky.social) | N |
 | [Hackfest](https://hackfest.ca/en/) | Oct 29-31, 2026 | Quebec City (QC) 🇨🇦  | [@hackfest@infosec.exchange](https://infosec.exchange/@hackfest) | Y |
+| [BitUP](https://bitupalicante.com) | Oct 30-31, 2026 | Alicante 🇪🇸 | [@bitupalicante](https://www.x.com/bitupalicante) | N |
 | [OWASP Global AppSec USA](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) | Nov 2-6, 2026 | San Francisco (CA) 🇺🇸 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [Black Alps Conference](https://www.blackalps.ch) | Nov 5-6, 2026 | Yverdon-les-Bains 🇨🇭 | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
 | [Nullcon Berlin](https://nullcon.net/event/nullcon-berlin-2026/) | Nov 5-6, 2026 | Berlin 🇩🇪  | [@nullcon](https://x.com/nullcon) | N |
