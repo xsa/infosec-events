@@ -11,44 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Barbhack](https://www.barbhack.fr/2026/) | Aug 29, 2026 | Toulon 🇫🇷  | [@\_barbhack\_ ](https://x.com/_barbhack_) | N |
-| [Day Zero](https://www.crowdstrike.com/en-us/events/day-zero-2026/) | Aug 30 – Sep 1, 2026 | Las Vegas (NV) 🇺🇸  | [@CrowdStrike](https://x.com/CrowdStrike) | Invite-Only |
-| [BSidesFrankfurt](https://bsidesfrankfurt.org/) | Sep 10-11, 2026 | Frankfurt 🇩🇪 | [@BSidesFRA@infosec.exchange](https://infosec.exchange/@bsidesfra) | N
-| [SEC-T](https://sec-t.org/) | Sep 10-11, 2026 | Stockholm 🇸🇪 | [@SEC_T@infosec.exchange](https://infosec.exchange/@SEC_T) | N
-| [PraSec](https://www.prasec.cz) | Sep 10-11, 2026 | Prague 🇨🇿 | [@PraSec_conf](https://twitter.com/PraSec_conf) | Invite-Only
-| [Blue Team Con](https://blueteamcon.com/) | Sep 10-13, 2026 | Chicago (IL) 🇺🇸 | [@BlueTeamCon@infosec.exchange](https://infosec.exchange/@BlueTeamCon) | N |
-| [BSidesZadar](https://bsideszadar.org) | Sep 11, 2026 | Zadar 🇭🇷 | [@BSidesZadar](https://x.com/BSidesZadar) | N |
-| [BSidesBelfast](https://bsidesbelfast.org) | Sep 11, 2026 | Belfast 🇬🇧 | [@bsidesbelfast](https://x.com/bsidesbelfast) | N |
-| [BSidesNEPA](https://bsidesnepa.org/) | Sep 12, 2026 | Wilkes-Barre (PA) 🇺🇸 | [@BSidesNEPA](https://x.com/BSidesNEPA) | N |
-| [LABScon](https://www.labscon.io/) | Sep 16-19, 2026 | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://twitter.com/labscon_io) | Invite-Only
-| [NOPcon](https://nopcon.tr/) | Sep 17, 2026 | Istanbul 🇹🇷 | [@NOPcon](https://x.com/nopcon) | Y |
-| [44CON](https://44con.com/) | Sep 17-18, 2026 | London 🇬🇧 | [@44CON@infosec.exchange](https://infosec.exchange/@44CON) | N |
-| [\[un\]prompted.au](https://www.unprompted.au/) | Sep 18-19, 2026 | Sydney 🇦🇺  | [@UnpromptedAU](https://x.com/UnpromptedAU) | N |
-| [Balkan Computer Congress](https://www.balccon.org) | Sep 18-20, 2026 | Novi Sad 🇷🇸 | [@BalCCon@chaos.social](https://chaos.social/@BalCC0n) | N |
-| [BSidesCache](https://www.bsidescache.org/) | Sep 18, 2026 | Logan (UT) 🇺🇸  | [@BsidesSLC](https://x.com/BsidesSLC) | N |
-| [BSidesMontreal](https://bsidesmtl.ca) | Sep 19, 2026 | Montreal (QC) 🇨🇦 | [@BSidesMontreal](https://x.com/BSidesMontreal) | N |
-| [ROOTCON](https://rootcon.org) | Sep 23-25, 2026 | Clark 🇵🇭 | [@rootcon.bsky.social](https://bsky.app/profile/rootcon.bsky.social) | N |
-| [OWASP AppSec Days France](https://www.owaspappsecdays.fr/2026/) | Sep 24, 2026 | Paris 🇫🇷 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N |
-| [BSides Tallinn](https://tallinn.bsides.ee/) | Sep 24, 2026 | Tallinn 🇪🇪 | [BSides Tallinn](https://www.facebook.com/groups/2546584348821321/)| N
-| [BruCON](https://www.brucon.org/) | Sep 24-25, 2026 | Mechelen 🇧🇪 | [@brucon](https://twitter.com/brucon) | N
-| [GrrCON](https://grrcon.com/) | Sep 24-25, 2026 | Grand Rapids (MI) 🇺🇸 | [@GrrCON@infosec.exchange](https://infosec.exchange/@GrrCON) | N |
-| [BSidesEdmonton](https://www.bsidesedmonton.org/) | Sep 24-25, 2026 | Edmonton (AB) 🇨🇦 | [@bsidesedmonton@infosec.exchange](https://infosec.exchange/@bsidesedmonton) | N |
-| [BSidesCanberra](https://www.bsidesau.com.au/) | Sep 24-26, 2026 | Canberra (ACT) 🇦🇺 | [@bsidescbr@infosec.exchange](https://infosec.exchange/@bsidescbr) | N |
-| [HoneyCon](https://honeysec.info/) | Sep 24-26, 2026 | Guadalajara 🇪🇸 | [@Honey_SEC](https://x.com/Honey_SEC) | N |
-| [BSidesAhmedabad](https://bsidesahmedabad.in/) | Sep 24-27, 2026 | Ahmedabad 🇮🇳 | [@bsidesahmedabad](https://x.com/bsidesahmedabad) | N |
-| [BSidesAlbuquerque](https://bsidesabq.org) | Sep 25-26, 2026 | Albuquerque (NM) 🇺🇸 | - | N |
-| [BSidesOrlando](https://bsidesorlando.org/) | Sep 25-26, 2026 | Orlando (FL) 🇺🇸 | [@BsidesORL](https://x.com/bsidesORL) | N |
-| [BSidesVancouverIsland](https://www.bsidesvi.com) | Sep 25, 2026 | Victoria (BC) 🇨🇦 | [@BSidesVI@infosec.exchange](https://infosec.exchange/@BSidesVI) | N |
-| [BSidesKraków](https://bsideskrakow.pl) | Sep 26, 2026 | Kraków 🇵🇱 | [@bsideskrakow](https://x.com/bsideskrakow) | N |
-| [BSidesSaskatoon](https://bsidesyxe.ca) | Sep 28, 2026 | Saskatoon (SK) 🇨🇦 | [@bsidesyxe@infosec.exchange](https://infosec.exchange/@bsidesyxe) | N |
-| [CanSecWest](https://www.secwest.net/) | Sep 30 - Oct 1, 2026 | Vancouver (BC) 🇨🇦 | - | N |
-| [BSidesBloomington](https://bsidesbloomington.org/) | Oct 2-3, 2026 | Bloomington (IN) 🇺🇸 | [@bsidesbloom](https://x.com/bsidesbloom) | N |
-| [CornCon](https://corncon.net) | Oct 2-3, 2026 | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | N
-| [RomHack](https://romhack.io) | Oct 2-4, 2026 | Rome 🇮🇹 | [@cybersaiyanIT](https://twitter.com/cybersaiyanIT) | N |
-| [BSidesAtlanta](https://www.bsidesatl.info/) | Oct 3, 2026 | Atlanta (GA) 🇺🇸  | [@bsidesatl@infosec.exchange](https://infosec.exchange/@bsidesatl) | N |
-| [BSidesCheltenham](https://bsidescheltenham.org.uk/) | Oct 3, 2026 | Cheltenham 🇬🇧 | [@BSidesChelt](https://x.com/BSidesChelt/) | N |
-| [BSidesMemphis](https://bsidesmemphis.org/) | Oct 3, 2026 | Memphis (TN) 🇺🇸  | [@bsidesmemphis@mastodon.social](https://mastodon.social/@bsidesmemphis) | N |
-| [BSidesMumbai](https://www.bsidesmumbai.in/) | Oct 3, 2026 | Mumbai 🇮🇳  | [@BSidesMumbai](https://x.com/BSidesMumbai) | N |
 | [CruiseCon West](https://cruisecon.com/) | Oct 3-8, 2026 | Galveston (TX) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | N |
 | [Offensive AI Con](https://www.offensiveaicon.com) | Oct 4-7, 2026 | San Diego (CA) 🇺🇸 | [@offensiveaicon](https://twitter.com/offensiveaicon) | N |
 | [THREATCON1](https://www.threatcon1.org/) | Oct 5-7, 2026 | Reston (VA) 🇺🇸 | [@VulnCheckAI](https://x.com/VulnCheckAI) | N |
