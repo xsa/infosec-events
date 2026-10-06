@@ -42,6 +42,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesAugusta](https://bsidesaugusta.org) | TBD | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | - |
 | [BSidesBA](https://bsidesba.sk) | TBD | Bratislava 🇸🇰 | [@bsidesba@infosec.exchange](https://infosec.exchange/@bsidesba) | - |
 | [BSidesBallarat](https://bsidesballarat.com.au) | TBD | Central Ballarat (VIC) 🇦🇺 | - | - |
+| [BSidesBarcelona](https://bsides.barcelona) | TBD | Barcelona 🇪🇸  | [@barcelonabsides](https://x.com/@barcelonabsides) | - |
 | [BSidesBelfast](https://bsidesbelfast.org) | TBD | Belfast 🇬🇧 | [@bsidesbelfast](https://x.com/bsidesbelfast) | - |
 | [BSidesBelgrade](https://www.bsidesbeg.org) | TBD | Belgrade 🇷🇸 | [@BSidesBelgrade](https://x.com/BSidesBelgrade) | - |
 | [BSidesBangalore](https://bsidesbangalore.in) | TBD | Bangalore 🇮🇳 | [@bsidesbangalore](https://x.com/bsidesbangalore) | - |
