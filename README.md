@@ -49,6 +49,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesOslo](https://bsidesoslo.no) | Oct 29, 2026 | Oslo 🇳🇴 | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | N |
 | [WICCON](https://wiccon.nl/) | Oct 29-30, 2026 | Haarlem 🇳🇱 | [@womenofwicca.bsky.social](https://bsky.app/profile/womenofwicca.bsky.social) | N |
 | [Hackfest](https://hackfest.ca/en/) | Oct 29-31, 2026 | Quebec City (QC) 🇨🇦  | [@hackfest@infosec.exchange](https://infosec.exchange/@hackfest) | Y |
+| [BSidesBarcelona](https://bsides.barcelona) | Oct 30, 2026 | Barcelona 🇪🇸  | [@barcelonabsides](https://x.com/@barcelonabsides) | N |
 | [BitUP](https://bitupalicante.com) | Oct 30-31, 2026 | Alicante 🇪🇸 | [@bitupalicante](https://www.x.com/bitupalicante) | N |
 | [OWASP Global AppSec USA](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) | Nov 2-6, 2026 | San Francisco (CA) 🇺🇸 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
 | [Black Alps Conference](https://www.blackalps.ch) | Nov 5-6, 2026 | Yverdon-les-Bains 🇨🇭 | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
@@ -102,6 +103,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Nullcon Goa](https://nullcon.net/event/nullcon-goa-2027/) | Feb 27-28, 2027 | Goa 🇮🇳 | [@nullcon](https://x.com/nullcon) | N |
 | [RE//verse](https://re-verse.io/) | Mar 11-13, 2027 | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N |
 | [BSidesLimburg](https://www.bsides-limburg.be) | Mar 12, 2027 | Hasselt 🇧🇪 | - | N |
+| [Ph0wn](https://ph0wn.org) | Mar 12-13, 2027 | Sophia Antipolis 🇫🇷 | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | N |
 | [JSSI](https://www.ossir.org/conference/jssi-2027/) | Mar 16, 2027 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 16-17, 2027 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N |
 | [Entrypoint](https://entrypoint.fr/) | Mar 19-20, 2027 | Paris 🇫🇷 | [@entrypoint-fr.bsky.social](https://bsky.app/profile/entrypoint-fr.bsky.social) | N |
