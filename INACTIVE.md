@@ -24,7 +24,6 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [BreizhCTF](https://www.breizhctf.com/) | TBD | Rennes :fr: | [@BreizhCTF](https://x.com/BreizhCTF) | - |
 | [BSidesAustin](https://bsidesaustin.com) | TBD | Austin (TX) :us: | [@bsidesaustin@infosec.exchange](https://infosec.exchange/@bsidesaustin) | - |
 | [BSidesBangalore](https://bsidesbangalore.in) | TBD | Bangalore :india: | [@bsidesbangalore](https://x.com/bsidesbangalore) | - |
-| [BSidesBarcelona](https://bsides.barcelona) | TBD | Barcelona :es: | [@barcelonabsides](https://x.com/@barcelonabsides) | - |
 | [BSidesBDX](https://www.bsidesbdx.org/) | TBD | Bordeaux :fr: | [@BSidesBDX](https://x.com/BSidesBDX) | - |
 | [BSidesBE](https://bern.bsides.ch) | TBD | Bern :switzerland: | [@BSides_Bern](https://x.com/BSides_Bern) | - |
 | [BSidesBHAM](https://bsidesbham.org/) | TBD | Birmingham (AL) :us: | [@BSidesBHAM](https://infosec.exchange/@BSidesBHAM) | - |
