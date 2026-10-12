@@ -106,6 +106,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Ph0wn](https://ph0wn.org) | Mar 12-13, 2027 | Sophia Antipolis 🇫🇷 | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | N |
 | [JSSI](https://www.ossir.org/conference/jssi-2027/) | Mar 16, 2027 | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | N |
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 16-17, 2027 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N |
+| [BSidesRegina](https://www.bsidesregina.ca) | Mar 18, 2027 | Regina (SK) 🇨🇦 | - | N |
 | [Entrypoint](https://entrypoint.fr/) | Mar 19-20, 2027 | Paris 🇫🇷 | [@entrypoint-fr.bsky.social](https://bsky.app/profile/entrypoint-fr.bsky.social) | N |
 | [CyberBay Summit](https://cyberbay.org/summit/) | Mar 22-24, 2027 | Tampa (FL) 🇺🇸 | - | N |
 | [SunSecCon](https://www.sunseccon.org) | Apr 1-2, 2027 | Pasadena (CA) 🇺🇸 | [@SunSecCon](https://x.com/SunSecCon) | N |
