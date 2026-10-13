@@ -11,17 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [CruiseCon West](https://cruisecon.com/) | Oct 3-8, 2026 | Galveston (TX) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | N |
-| [Offensive AI Con](https://www.offensiveaicon.com) | Oct 4-7, 2026 | San Diego (CA) 🇺🇸 | [@offensiveaicon](https://twitter.com/offensiveaicon) | N |
-| [THREATCON1](https://www.threatcon1.org/) | Oct 5-7, 2026 | Reston (VA) 🇺🇸 | [@VulnCheckAI](https://x.com/VulnCheckAI) | N |
-| [SecTor](https://www.blackhat.com/sector/2026/) | Oct 6-8, 2026 | Toronto (ON) 🇨🇦 | [@BlackHatEvents](https://twitter.com/BlackHatEvents) | N
-| [Wild West Hackin’ Fest Deadwood](https://wildwesthackinfest.com/wild-west-hackin-fest-deadwood-2026/) | Oct 6-9, 2026 | Deadwood (SD) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N
-| [Ekoparty Buenos Aires](https://ekoparty.org/ekoparty-buenos-aires-2026/) | Oct 7-9, 2026 | Buenos Aires 🇦🇷 | [@ekoparty](https://twitter.com/ekoparty) | N
-| [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | Oct 8, 2026 | Prague 🇨🇿 | [@linuxfoundation@social.lfx.dev](https://social.lfx.dev/@linuxfoundation) | Y |
-| [CERT-EU Annual Conference](https://cert.europa.eu/conference/steam-n-steel-the-chronicles-of-the-cyberverse/announcement) | 8-9 Oct, 2026 | Brussels 🇧🇪 | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | Invite-Only |
-| [Hacker Halted](https://www.hackerhalted.com) | Oct 8-9, 2026 | Atlanta (GA) 🇺🇸 | [@hackerhalted](https://twitter.com/hackerhalted) | N
-| [c0c0n](https://www.c0c0n.org/) | Oct 9-10, 2026 | Kochi 🇮🇳 | [@\_c0c0n_](https://x.com/_c0c0n_) | N |
-| [No Hat](https://www.nohat.it/) | Oct 10, 2026 | Bergamo 🇮🇹 | [@nohatcon@infosec.exchange](https://infosec.exchange/@nohatcon) | - |
 | [Australian Cyber Conference](https://cyberconference.com.au) | Oct 14-16, 2026 | Melbourne (VIC) 🇦🇺 | [@AISA_National](https://twitter.com/AISA_National) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [SINCON](https://www.infosec-city.com/sin-26) | Oct 15-16, 2025 | Singapore 🇸🇬 | [@Infosec_City](https://x.com/infosec_city) | N |
