@@ -213,6 +213,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Insomni’Hack](https://insomnihack.ch/) | TBD | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | - |
 | [Internet2 Community Exchange](https://events.internet2.edu/website/88260/) | TBD | Chicago (IL) 🇺🇸 | - | - |
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | TBD | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | - |
+| [KazHackStan](https://kazhackstan.com) | TBD | Astana 🇰🇿 | - | - |
 | [Kernelcon](https://kernelcon.org/) | TBD | Omaha (NE) 🇺🇸 | [@\_kernelcon\_](http://x.com/_kernelcon_) | - |
 | [LABScon](https://www.labscon.io/) | TBD | Scottsdale (AZ) 🇺🇸 | [@labscon_io](https://x.com/labscon_io) | - |
 | [Layer 8 Conference](https://layer8conference.com/) | TBD | Boston (MA) 🇺🇸 | [@layer8con](https://x.com/layer8con) | - |
