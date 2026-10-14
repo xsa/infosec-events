@@ -13,7 +13,7 @@ enableEmoji = true
 
 [languages]
   [languages.en]
-    languageName = "English"
+    label = "English"
     title = "Cyber, InfoSec Events"
 
     [languages.en.params.logo]
@@ -47,7 +47,7 @@ enableEmoji = true
   [[module.mounts]]
     source = "."
     target = "content/archives"
-    includeFiles = ["19??.md", "20??.md"]
+    files = ["19??.md", "20??.md"]
 
   # Mount README.md last → homepage
   [[module.mounts]]
