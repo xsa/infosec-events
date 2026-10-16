@@ -103,4 +103,5 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Botconf](https://www.botconf.eu/) | Apr 27-30, 2027 | Vannes 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N |
 | [SSTIC](https://www.sstic.org/) | Jun 2-4, 2027 | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N |
 | [THOTCON](https://www.thotcon.org/) | Jun 11-12, 2027 | Chicago (IL) 🇺🇸 | [@THOTCON](https://x.com/THOTCON) | N |
+| [REcon](https://recon.cx/) | Jun 18-20, 2027 | Montreal (QC) 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N |
 | [TROOPERS](https://troopers.de/) | Jun 23-25, 2027 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N |
