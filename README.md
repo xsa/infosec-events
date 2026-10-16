@@ -97,11 +97,14 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesReykjavik](https://bsidesreykjavik.com) | Mar 16-17, 2027 | Reykjavik 🇮🇸 | [@bsidesrvk@infosec.exchange](https://infosec.exchange/@bsidesrvk) | N |
 | [BSidesRegina](https://www.bsidesregina.ca) | Mar 18, 2027 | Regina (SK) 🇨🇦 | - | N |
 | [Entrypoint](https://entrypoint.fr/) | Mar 19-20, 2027 | Paris 🇫🇷 | [@entrypoint-fr.bsky.social](https://bsky.app/profile/entrypoint-fr.bsky.social) | N |
+| [BSidesROC](https://bsidesroc.com) | Mar 20, 2027 | Henrietta (NY) 🇺🇸 | [@bsidesroc@infosec.exchange](https://infosec.exchange/@bsidesroc) | N |
 | [CyberBay Summit](https://cyberbay.org/summit/) | Mar 22-24, 2027 | Tampa (FL) 🇺🇸 | - | N |
 | [SunSecCon](https://www.sunseccon.org) | Apr 1-2, 2027 | Pasadena (CA) 🇺🇸 | [@SunSecCon](https://x.com/SunSecCon) | N |
 | [ATLSECCON](https://www.atlseccon.com) | Apr 8-9, 2027 | Halifax (NS) 🇨🇦 | [@AtlSecCon@infosec.exchange](https://infosec.exchange/@atlseccon) | N |
+| [CrikeyCon](https://crikeycon.com) | Apr 17, 2027 | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | N |
 | [Botconf](https://www.botconf.eu/) | Apr 27-30, 2027 | Vannes 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N |
 | [SSTIC](https://www.sstic.org/) | Jun 2-4, 2027 | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N |
 | [THOTCON](https://www.thotcon.org/) | Jun 11-12, 2027 | Chicago (IL) 🇺🇸 | [@THOTCON](https://x.com/THOTCON) | N |
 | [BSides312](https://bsides312.org/) | Jun 13, 2027 | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N |
+| [REcon](https://recon.cx/) | Jun 18-20, 2027 | Montreal (QC) 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N |
 | [TROOPERS](https://troopers.de/) | Jun 23-25, 2027 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N |
