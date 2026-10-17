@@ -212,6 +212,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [Infosecurity Europe](https://www.infosecurityeurope.com) | TBD | London 🇬🇧 | [@Infosecurity](https://www.x.com/Infosecurity) | - |
 | [Insomni’Hack](https://insomnihack.ch/) | TBD | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | - |
 | [Internet2 Community Exchange](https://events.internet2.edu/website/88260/) | TBD | Chicago (IL) 🇺🇸 | - | - |
+| [JawnCon](https://jawncon.org) | TBD | Glenside (PA) 🇺🇸 | [@jawncon@infosec.exchange](https://infosec.exchange/@jawncon) | - |
 | [JSSI](https://www.ossir.org/conference/jssi-2026/) | TBD | Paris 🇫🇷 | [@ossir@infosec.exchange](https://infosec.exchange/@ossir) | - |
 | [KazHackStan](https://kazhackstan.com) | TBD | Astana 🇰🇿 | - | - |
 | [Kernelcon](https://kernelcon.org/) | TBD | Omaha (NE) 🇺🇸 | [@\_kernelcon\_](http://x.com/_kernelcon_) | - |
