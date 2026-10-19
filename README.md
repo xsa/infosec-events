@@ -11,14 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Australian Cyber Conference](https://cyberconference.com.au) | Oct 14-16, 2026 | Melbourne (VIC) 🇦🇺 | [@AISA_National](https://twitter.com/AISA_National) | N
-| [Virus Bulletin Conference](https://www.virusbulletin.com/conference/vb2026/) | Oct 14-16, 2025 | Seville 🇪🇸 | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
-| [SINCON](https://www.infosec-city.com/sin-26) | Oct 15-16, 2025 | Singapore 🇸🇬 | [@Infosec_City](https://x.com/infosec_city) | N |
-| [HOU.SEC.CON](http://houstonseccon.org) | Oct 15-16, 2026 | Houston (TX) 🇺🇸 | [@HouSecCon](https://twitter.com/HouSecCon) | N
-| [Hexacon](https://www.hexacon.fr/) | Oct 16-17, 2026 | Paris 🇫🇷 | [@hexacon_fr](https://twitter.com/hexacon_fr) | N
-| [SecSea](https://secsea.org/) | Oct 16-18, 2026 | La Ciotat 🇫🇷 | [@secseaconf](https://x.com/secseaconf) | N |
-| [JawnCon](https://jawncon.org) | Oct 16-18, 2026 | Glenside (PA) 🇺🇸 | [@jawncon@infosec.exchange](https://infosec.exchange/@jawncon) | N |
-| [BSidesNYC](https://bsidesnyc.org/) | Oct 17, 2026 | New-York (NY) 🇺🇸 | [@BSidesNYC@infosec.exchange](https://infosec.exchange/@BSidesNYC) | N |
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 20, 2026 | Bern 🇨🇭 | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
 | [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026/) | Oct 20-21, 2026 | Brussels 🇧🇪 | - | N
 | [Hack.lu](https://2026.hack.lu/) | Oct 20-23, 2026 | Luxembourg 🇱🇺 | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
