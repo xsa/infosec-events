@@ -85,6 +85,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesTirol](https://www.bsides.tirol/) | Feb 25, 2027 | Innsbruck 🇦🇹 | [@bsides_tirol@infosec.exchange](https://infosec.exchange/@bsides_tirol) | N |
 | [Nullcon Goa](https://nullcon.net/event/nullcon-goa-2027/) | Feb 27-28, 2027 | Goa 🇮🇳 | [@nullcon](https://x.com/nullcon) | N |
 | [BSidesSeattle](https://www.bsidesseattle.com) | Mar 5-6, 2027 | Seattle (WA) 🇺🇸 | [@bsidesseattle@infosec.exchange](https://infosec.exchange/@bsidesseattle) | N |
+| [BSidesZagreb](https://www.bsideszagreb.com) | Mar 5, 2027 | Zagreb 🇭🇷 | [@bsideszagreb](https://x.com/bsideszagreb) | N |
 | [RE//verse](https://re-verse.io/) | Mar 11-13, 2027 | Orlando (FL) 🇺🇸 | [@REverseConf@infosec.exchange](https://infosec.exchange/@REverseConf) | N |
 | [BSidesLimburg](https://www.bsides-limburg.be) | Mar 12, 2027 | Hasselt 🇧🇪 | - | N |
 | [Ph0wn](https://ph0wn.org) | Mar 12-13, 2027 | Sophia Antipolis 🇫🇷 | [@ph0wn@infosec.exchange](https://infosec.exchange/@ph0wn) | N |
