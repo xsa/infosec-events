@@ -106,6 +106,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [BSidesNash](https://bsidesnash.org) | TBD | Nashville (TN) 🇺🇸 | [@bsidesnash](https://x.com/bsidesnash) | - |
 | [BSidesNEPA](https://bsidesnepa.org) | TBD | Scranton (PA) 🇺🇸 | - | - |
 | [BSidesNOLA](https://nolabsides.com) | TBD | New Orleans (LA) 🇺🇸 | - | - |
+| [BSidesNoVA](https://www.bsidesnova.org/) | TBD | Arlington (VA) 🇺🇸  | [@BSides_NoVA](https://x.com/BSides_NoVA) | - |
 | [BSidesNYC](https://bsidesnyc.org/) | TBD | New-York (NY) 🇺🇸 | [@BSidesNYC@infosec.exchange](https://infosec.exchange/@BSidesNYC) | - |
 | [BSidesOK](https://bsidesok.com/) | TBD | Glenpool (OK) 🇺🇸 | [BSidesOK](https://x.com/BSidesOK) | - |
 | [BSidesOrlando](https://bsidesorlando.org/) | TBD | Orlando (FL) 🇺🇸 | [@bsidesorlando@infosec.exchange](https://infosec.exchange/@bsidesorlando) | - |
