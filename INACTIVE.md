@@ -57,7 +57,6 @@ Before re-adding an event to `RECURRING.md`, remove it from this file.
 | [BSidesMilano](https://milano.securitybsides.it) | TBD | Milan :it: | [@BSidesMilano](https://x.com/@BSidesMilano) | - |
 | [BSidesMTL](https://bsidesmtl.ca/) | TBD | Montreal (QC) :canada: | [@BSidesMontreal](https://x.com/BSidesMontreal) | - |
 | [BSidesNashville](https://bsidesnash.org) | TBD | Nashville (TN) :us: | [@BSidesnash](https://x.com/BSidesnash) | - |
-| [BSidesNoVA](https://www.bsidesnova.org/) | TBD | Arlington (VA) :us: | [@BSides_NoVA](https://x.com/BSides_NoVA) | - |
 | [BSidesParis](https://bsidesparis.fr/) | TBD | Paris :fr: | - | - |
 | [BSidesPerú](https://bsidesperu.org/) | TBD | Lima :peru: | [@BSidesPe](https://x.com/BSidesPe) | - |
 | [BSidesPGH](https://www.bsidespgh.com/) | TBD | Pittsburgh (PA) :us: | [@BSidesPGH](https://x.com/BSidesPGH) | - |
