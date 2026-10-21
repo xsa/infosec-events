@@ -161,7 +161,7 @@ Use this as a reference to ensure no recurring event is missed.
 | [CERT-EU Annual Conference](https://cert.europa.eu/conference/steam-n-steel-the-chronicles-of-the-cyberverse/announcement) | TBD | Brussels 🇧🇪 | [@cert_eu@infosec.exchange](https://infosec.exchange/@cert_eu) | Invite-Only |
 | [CONFidence](https://confidence-conference.org/) | TBD | Kraków 🇵🇱 | [@CONFidenceConf](https://x.com/confidenceconf) | - |
 | [Convene](https://www.staysafeonline.org/events/convene-florida-2026) | TBD | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | - |
-| [CornCon](https://corncon.net) | TBD | Davenport (IA) 🇺🇸 | [@QCCornCON](https://x.com/QCCornCON) | - |
+| [CornCon](https://corncon.net) | TBD | Davenport (IA) 🇺🇸 | [@cornconcyber](https://x.com/cornconcyber) | - |
 | [CrikeyCon](https://crikeycon.com) | TBD | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | - |
 | [CruiseCon Europe](https://cruisecon.com) | TBD | Southampton 🇬🇧 | - | - |
 | [CruiseCon West](https://cruisecon.com/) | TBD | San Pedro (CA) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | - |
