@@ -77,6 +77,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [Insomni’Hack](https://insomnihack.ch/) | Feb 4-5, 2027 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N |
 | [CactusCon](https://www.cactuscon.com/) | Feb 5-6, 2027 | Mesa (AZ) 🇺🇸 | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | N |
 | [DistrictCon](https://www.districtcon.org/) | Feb 6-7, 2027 | Washington (DC) 🇺🇸 | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | N |
+| [Convene](https://www.staysafeonline.org/events/convene-florida-2027) | Feb 9-10, 2027 | Clearwater Beach (FL) 🇺🇸 | [@staysafeonline](https://x.com/staysafeonline) | N |
 | [HackCon](https://www.hackcon.org/) | Feb 10-11, 2027 | Oslo 🇳🇴 | [@hackcon](https://twitter.com/hackcon) | N |
 | [Wild West Hackin’ Fest Mile High](https://wildwesthackinfest.com/wild-west-hackin-fest-mile-high-2027/) | Feb 16-19 | Denver (CO) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N |
 | [BSidesGalway](https://bsidesgalway.com) | Feb 20, 2027 | Galway 🇮🇪 | [@bsidesgalway](https://x.com/bsidesgalway) | N |
