@@ -76,6 +76,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [BSidesZurich](https://bsideszh.ch/) | TBD, 2026 | Zurich 🇨🇭 | [@BSidesZurich@infosec.exchange](https://infosec.exchange/@BSidesZurich) | N
 | [Insomni’Hack](https://insomnihack.ch/) | Feb 4-5, 2027 | Lausanne 🇨🇭 | [@1ns0mn1h4ck@infosec.exchange](https://infosec.exchange/@1ns0mn1h4ck) | N |
 | [CactusCon](https://www.cactuscon.com/) | Feb 5-6, 2027 | Mesa (AZ) 🇺🇸 | [@CactusCon@infosec.exchange](https://infosec.exchange/@cactuscon) | N |
+| [CruiseCon](https://cruisecon.com/events/cruisecon2027/) | Feb 5-10, 2027 | Port Canaveral (FL) 🇺🇸 | [@CruiseConEvents](http://x.com/CruiseConEvents) | N |
 | [DistrictCon](https://www.districtcon.org/) | Feb 6-7, 2027 | Washington (DC) 🇺🇸 | [@districtcon.bsky.social](https://bsky.app/profile/districtcon.bsky.social) | N |
 | [HackCon](https://www.hackcon.org/) | Feb 10-11, 2027 | Oslo 🇳🇴 | [@hackcon](https://twitter.com/hackcon) | N |
 | [Wild West Hackin’ Fest Mile High](https://wildwesthackinfest.com/wild-west-hackin-fest-mile-high-2027/) | Feb 16-19 | Denver (CO) 🇺🇸 | [@WWHackinFest@infosec.exchange](https://infosec.exchange/@WWHackinFest) | N |
