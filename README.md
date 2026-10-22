@@ -104,6 +104,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [ATLSECCON](https://www.atlseccon.com) | Apr 8-9, 2027 | Halifax (NS) 🇨🇦 | [@AtlSecCon@infosec.exchange](https://infosec.exchange/@atlseccon) | N |
 | [CrikeyCon](https://crikeycon.com) | Apr 17, 2027 | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | N |
 | [Botconf](https://www.botconf.eu/) | Apr 27-30, 2027 | Vannes 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N |
+| [NorthSec](https://nsec.io/) | May 13-14, 2027 | Montreal (QC) 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N |
 | [SSTIC](https://www.sstic.org/) | Jun 2-4, 2027 | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N |
 | [THOTCON](https://www.thotcon.org/) | Jun 11-12, 2027 | Chicago (IL) 🇺🇸 | [@THOTCON](https://x.com/THOTCON) | N |
 | [BSides312](https://bsides312.org/) | Jun 13, 2027 | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N |
