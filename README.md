@@ -11,19 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Oct 20, 2026 | Bern 🇨🇭 | [@swisscyberstorm](https://twitter.com/swisscyberstorm) | N
-| [AMTSO Cyber Research Conference](https://www.amtso.org/special-events/amtso-cyber-research-conference-2026/) | Oct 20-21, 2026 | Brussels 🇧🇪 | - | N
-| [Hack.lu](https://2026.hack.lu/) | Oct 20-23, 2026 | Luxembourg 🇱🇺 | [@hack_lu@infosec.exchange](https://infosec.exchange/@hack_lu) | N
-| [Security Analyst Summit](https://thesascon.com/) | Oct 20-23, 2026 | Bali 🇮🇩|  [TheSAScon](https://x.com/TheSAScon) | Invite only |
-| [Hacktivity](https://www.hacktivity.com/) | Oct 21, 2026 | Budapest 🇭🇺 | [@HacktivityConf](https://twitter.com/hacktivityconf) | N
-| [TRISS](https://www.threeriversinfosec.com/) | Oct 22, 2026 | Pittsburgh (PA) 🇺🇸  | [@ThreeRiversISec](https://x.com/ThreeRiversISec) | N |
-| [BSidesTC](https://bsidestc.org/) | Oct 23, 2026 | Minneapolis (MN) 🇺🇸  | [@bsidestc@infosec.exchange](https://infosec.exchange/@bsidestc) | N |
-| [BSidesTirana](https://bsidestirana.al/) | Oct 23, 2026 | Tirana 🇦🇱 | [@BSidesTirana](https://x.com/BSidesTirana) | N |
-| [BSidesGöteborg](https://bsidesgbg.com/) | Oct 23, 2026 | Göteborg 🇸🇪 | - | N |
-| [BSidesPDX](https://bsidespdx.org) | Oct 23-24, 2026 | Portland (OR) 🇺🇸 | [@BSidesPDX@ioc.exchange](https://ioc.exchange/@BSidesPDX) | N
-| [RSTCON](https://rstcon.org/) | Oct 23-25, 2026 | Charlotte (NC) 🇺🇸 | [@rst_con](https://x.com/rst_con) | N |
-| [BSidesAugusta](https://bsidesaugusta.org) | Oct 24, 2026 | Augusta (GA) 🇺🇸 | [@BSidesAugusta@infosec.exchange](https://infosec.exchange/@BSidesAugusta) | N
-| [BsidesCambridgeMA](https://bsidescambridgema.org/) | Oct 25, 2026 | Somerville (MA) 🇺🇸 | [@BSidesCambridgeMA@infosec.exchange](https://infosec.exchange/@bsidescambridgema) | Y |
 | [OffensiveCon Tokyo](https://www.offensivecon.jp/) | Oct 27-28, 2026 | Tokyo 🇯🇵 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N |
 | [MITRE ATT&CKcon](https://na.eventscloud.com/website/93925/) | Oct 27-28, 2026 | McLean (VA) 🇺🇸  | [@MITREcorp](https://x.com/MITREcorp) | N |
 | [SAINTCON](https://saintcon.org/) | Oct 27-30, 2026 | Provo (UT) 🇺🇸  | [@SAINTCON](https://x.com/SAINTCON) | N |
