@@ -97,6 +97,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [RVAsec](https://rvasec.com/) | Jun 9-10, 2027 | Richmond (VA) 🇺🇸 | [@RVAsec](https://x.com/rvasec) | N |
 | [THOTCON](https://www.thotcon.org/) | Jun 11-12, 2027 | Chicago (IL) 🇺🇸 | [@THOTCON](https://x.com/THOTCON) | N |
 | [BSides312](https://bsides312.org/) | Jun 13, 2027 | Chicago (IL) 🇺🇸 | [@bsides312@infosec.exchange](https://infosec.exchange/@bsides312) | N |
+| [FIRST Conference](https://www.first.org/conference/2027/) | Jun 13-18, 2027 | Bangkok 🇹🇭  | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N |
 | [REcon](https://recon.cx/) | Jun 18-20, 2027 | Montreal (QC) 🇨🇦 | [@recon@infosec.exchange](https://infosec.exchange/@recon) | N |
 | [TROOPERS](https://troopers.de/) | Jun 23-25, 2027 | Heidelberg 🇩🇪 | [@WEareTROOPERS@infosec.exchange](https://infosec.exchange/@WEareTROOPERS) | N |
 | [ROOTCON](https://rootcon.org) | Sep 29 - Oct 1, 2027 | Clark 🇵🇭 | [@rootcon.bsky.social](https://bsky.app/profile/rootcon.bsky.social) | N |
