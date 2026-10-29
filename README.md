@@ -91,6 +91,7 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 | [SunSecCon](https://www.sunseccon.org) | Apr 1-2, 2027 | Pasadena (CA) 🇺🇸 | [@SunSecCon](https://x.com/SunSecCon) | N |
 | [ATLSECCON](https://www.atlseccon.com) | Apr 8-9, 2027 | Halifax (NS) 🇨🇦 | [@AtlSecCon@infosec.exchange](https://infosec.exchange/@atlseccon) | N |
 | [CrikeyCon](https://crikeycon.com) | Apr 17, 2027 | Brisbane (QLD) 🇦🇺 | [@crikeycon@infosec.exchange](https://infosec.exchange/@crikeycon) | N |
+| [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti27/) | Apr 21-23, 2027 | Berlin 🇩🇪 | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N |
 | [Botconf](https://www.botconf.eu/) | Apr 27-30, 2027 | Vannes 🇫🇷 | [@botconf@infosec.exchange](https://infosec.exchange/@Botconf) | N |
 | [NorthSec](https://nsec.io/) | May 13-14, 2027 | Montreal (QC) 🇨🇦 | [@NorthSec@infosec.exchange](https://infosec.exchange/@NorthSec) | N |
 | [SSTIC](https://www.sstic.org/) | Jun 2-4, 2027 | Rennes 🇫🇷 | [@sstic@infosec.exchange](https://infosec.exchange/@sstic) | N |
