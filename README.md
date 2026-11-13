@@ -11,28 +11,6 @@ List of past and future {cyber,info}sec related events. Feel free to contribute 
 
 | Event Name | Date(s) | Location | Social | Free
 | ---------- | ------- | -------- | ------- | :--------:
-| [OffensiveCon Tokyo](https://www.offensivecon.jp/) | Oct 27-28, 2026 | Tokyo 🇯🇵 | [@offensivecon@mastodon.social](https://mastodon.social/@offensivecon) | N |
-| [MITRE ATT&CKcon](https://na.eventscloud.com/website/93925/) | Oct 27-28, 2026 | McLean (VA) 🇺🇸  | [@MITREcorp](https://x.com/MITREcorp) | N |
-| [SAINTCON](https://saintcon.org/) | Oct 27-30, 2026 | Provo (UT) 🇺🇸  | [@SAINTCON](https://x.com/SAINTCON) | N |
-| [BSidesLisbon](https://bsideslisbon.org/) | Oct 29-30, 2026 | Lisbon 🇵🇹 | [@BSidesLisbon](https://x.com/BSidesLisbon) | N |
-| [BSidesOslo](https://bsidesoslo.no) | Oct 29, 2026 | Oslo 🇳🇴 | [@bsidesoslo@infosec.exchange](https://infosec.exchange/@bsidesoslo) | N |
-| [WICCON](https://wiccon.nl/) | Oct 29-30, 2026 | Haarlem 🇳🇱 | [@womenofwicca.bsky.social](https://bsky.app/profile/womenofwicca.bsky.social) | N |
-| [Hackfest](https://hackfest.ca/en/) | Oct 29-31, 2026 | Quebec City (QC) 🇨🇦  | [@hackfest@infosec.exchange](https://infosec.exchange/@hackfest) | Y |
-| [BSidesBarcelona](https://bsides.barcelona) | Oct 30, 2026 | Barcelona 🇪🇸  | [@barcelonabsides](https://x.com/@barcelonabsides) | N |
-| [BitUP](https://bitupalicante.com) | Oct 30-31, 2026 | Alicante 🇪🇸 | [@bitupalicante](https://www.x.com/bitupalicante) | N |
-| [BSidesNoVA](https://www.bsidesnova.org/) | Oct 31, 2026 | Arlington (VA) 🇺🇸  | [@BSides_NoVA](https://x.com/BSides_NoVA) | N |
-| [OWASP Global AppSec USA](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) | Nov 2-6, 2026 | San Francisco (CA) 🇺🇸 | [@owasp@infosec.exchange](https://infosec.exchange/@owasp) | N
-| [Black Alps Conference](https://www.blackalps.ch) | Nov 5-6, 2026 | Yverdon-les-Bains 🇨🇭 | [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | N
-| [Nullcon Berlin](https://nullcon.net/event/nullcon-berlin-2026/) | Nov 5-6, 2026 | Berlin 🇩🇪  | [@nullcon](https://x.com/nullcon) | N |
-| [OSCo](https://opensecurityconference.org/) | Nov 5-8, 2026 | Rueckersbach 🇩🇪 | [@OSCo@infosec.exchange](https://infosec.exchange/@OSCo) | N
-| [Unlock your Brain, Harden your System](https://www.unlockyourbrain.bzh/) | Nov 6-7, 2026 | Brest 🇫🇷  | [@UYBHYS](https://twitter.com/UYBHYS) | N
-| [BSidesBournemouth](https://bsides-bournemouth.org/) | Nov 7, 2026 | Bournemouth 🇬🇧 | [@BSidesBournemth](https://twitter.com/BSidesBournemth) | N |
-| [BSidesCharleston](https://www.bsidescharleston.org/) | Nov 7, 2026 | Charleston (SC) 🇺🇸 | [@BSidesCHS](https://x.com/bsideschs) | N |
-| [BSidesSydney](https://www.bsides.sydney) | Nov 7, 2026 | Sydney (NSW) 🇦🇺 | [@bsidessydney@infosec.exchange](https://infosec.exchange/@bsidessydney) | N |
-| [BSidesMunich](https://2026.bsidesmunich.org/) | Nov 9, 2026 | Munich 🇩🇪 | [@BSidesMunich](https://x.com/BSidesMunich) | Y |
-| [DFRWS APAC](https://dfrws.org/conferences/dfrws-apac-2026/) | Nov 10-12, 2026 | Seoul 🇰🇷 | [@DFRWS](https://twitter.com/DFRWS) | N |
-| [BSidesTLV](https://www.bsidestlv.com/) | Nov 11, 2026 | Tel Aviv 🇮🇱  | [@BsidesTLV](https://x.com/bsidestlv) | N |
-| [BSidesFloodCity](https://www.bsidesfloodcity.com/) | Nov 12, 2026 | Johnstown (PA) 🇺🇸 | [@BSidesFC](https://x.com/BSidesFC) | N |
 | [Power of Community](https://powerofcommunity.net/) | Nov 12-13, 2026 | Seoul 🇰🇷 | [@POC_Crew](https://twitter.com/POC_Crew) | N |
 | [BSidesBerlin](https://bsides.berlin) | Nov 13, 2026 | Berlin 🇩🇪 | [@SidesBer](https://x.com/SidesBer) | N |
 | [GreHack](https://grehack.fr/) | Nov 13, 2026 | Grenoble 🇫🇷 | [@GrehackConf](https://twitter.com/GrehackConf) | N
